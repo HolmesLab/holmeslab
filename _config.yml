@@ -8,9 +8,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-<<<<<<< HEAD
-url: https://just-the-docs.github.io
-=======
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
@@ -25,7 +22,6 @@ aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://kaleyjoss.github.io/holmeslab
 
 repository: just-the-docs/just-the-docs # for github-metadata
->>>>>>> d740ba7 (config.yml update)
 
 permalink: pretty
 
