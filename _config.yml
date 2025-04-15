@@ -16,12 +16,8 @@
 title: Holmes Lab Documentation
 description: Documentation for the Holmes Lab at Rutgers University, Department of Psychiatry
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://kaleyjoss.github.io/holmeslab
+url: https://holmeslab.github.io/holmeslab
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://kaleyjoss.github.io/holmeslab
-
-repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
 
@@ -115,7 +111,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "This Repository on Github":
-    - "https://github.com/kaleyjoss/holmeslab"
+    - "https://github.com/HolmesLab/holmeslab"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -131,7 +127,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # External navigation links
 nav_external_links:
   - title: This Repository on Github
-    url: https://github.com/kaleyjoss/holmeslab
+    url: https://github.com/HolmesLab/holmeslab
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
@@ -156,7 +152,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/kaleyjoss/holmeslab" # the github URL for your repo
+gh_edit_repository: "https://github.com/HolmesLab/holmeslab" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
