@@ -19,7 +19,11 @@ url: https://just-the-docs.github.io
 title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://kaleyjoss.github.io/holmeslab
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://kaleyjoss.github.io/holmeslab
+
 repository: just-the-docs/just-the-docs # for github-metadata
 >>>>>>> d740ba7 (config.yml update)
 
