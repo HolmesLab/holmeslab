@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Minimal layout test
-nav_exclude: true
+nav_enabled: true
 ---
 
 # Minimal Layout Test Page
