@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Holmes Lab Documentation
 description: Documentation for the Holmes Lab at Rutgers University, Department of Psychiatry
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kaleyjoss.github.io/holmeslab
 
 aux_links: # remove if you don't want this link to appear on your pages
