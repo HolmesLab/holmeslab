@@ -29,9 +29,7 @@ Tutorial
         
     2. if needed to change  preferences, go to builder and click the grey ‘gear’ icon to alter settings. cannot alter settings of already-built scripts via this— this is just how you alter stuff for building scripts. 
     
-    JUSt KIDDING all of that is for nothing i have to redo it all in a virtual environemnt pythonenv
-    
-    AND THEN redo it in psychopy-env becuase i ended up needing to use python3.11 for some reason? we’ll see if this works
+If you're having issues, try building it in a virtual environment with pyhton 3.11:
     
     ```python
     brew install python@3.11
@@ -44,36 +42,4 @@ Tutorial
     
     ```
     
-    okay psychopy STILL won’t download because it needs the X Coder tools which are not available on this mac os.
     
-
-```python
-(psychopy-env) HolmesLab05sMBP:bin holmeslab05$ brew install qt
-==> Downloading https://formulae.brew.sh/api/formula.jws.json
-
-==> Downloading https://formulae.brew.sh/api/cask.jws.json
-########################################################################################################### 100.0%
-Warning: You are using macOS 10.13.
-We (and Apple) do not provide support for this old version.
-It is expected behaviour that some formulae will fail to build in this old version.
-It is expected behaviour that Homebrew will be buggy and slow.
-Do not create any issues about this on Homebrew's GitHub repositories.
-Do not create any issues even if you think this message is unrelated.
-Any opened issues will be immediately closed without response.
-Do not ask for help from Homebrew or its maintainers on social media.
-You may ask for help in Homebrew's discussions but are unlikely to receive a response.
-Try to figure out the problem yourself and submit a fix as a pull request.
-We will review it but may or may not accept it.
-
-qt: A full installation of Xcode.app is required to compile
-this software. Installing just the Command Line Tools is not sufficient.
-
-Xcode can be installed from the App Store.
-molten-vk: A full installation of Xcode.app 11.7 is required to compile
-this software. Installing just the Command Line Tools is not sufficient.
-
-Xcode 11.7 cannot be installed on macOS 10.13.
-You must upgrade your version of macOS.
-Error: qt: Unsatisfied requirements failed this build.
-
-```

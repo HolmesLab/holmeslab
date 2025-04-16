@@ -2,16 +2,9 @@
 title: Psychiatric Connectomes
 nav_enabled: true 
 ---
-# PCX Study Overview
-
-Parent item: PCX Data Collection (https://www.notion.so/PCX-Data-Collection-36c741fabaa64f60835a0ef561e4f887?pvs=21)
-Done: Done
-Doc Type: SOP/Doc
-Important Doc: Yes
 
 # Psychiatric Connectomics Project (PCX)
 
-[PCX IRB Protocol](https://rutgers.box.com/s/v4d5upisqvvagout86ynt8ikuu445eya) 
 
 <aside>
 👤
