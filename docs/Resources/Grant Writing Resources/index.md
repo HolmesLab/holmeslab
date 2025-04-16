@@ -1,8 +1,9 @@
 ---
 layout: minimal
-title: Lab Policies
+title: Grant Writing Resources
+parent: Resources
 nav_enabled: true
 ---
 
-# Lab Policies
+# Grant Writing Resources
 [Return to main website]({{site.baseurl}}/).

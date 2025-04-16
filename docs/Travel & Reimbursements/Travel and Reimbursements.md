@@ -1,5 +1,6 @@
 ---
-title: Travel & Reimbursements
+title: Travel Booking Tutorial
+parent: Travel & Reimbursement
 nav_enabled: true 
 ---
 # MAIN Travel Booking Tutorial

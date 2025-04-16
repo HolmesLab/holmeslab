@@ -1,9 +1,9 @@
 ---
 layout: minimal
-title: Resources
+title: Learning Resources
+parent: Resources
 nav_enabled: true
 ---
 
-# Holding Page
-
+# Learning Resources
 [Return to main website]({{site.baseurl}}/).

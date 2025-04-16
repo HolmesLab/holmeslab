@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: Lab Policies
-nav_enabled: true
+title: Open Source Data
+nav_enabled: true 
 ---
 
-# Lab Policies
+# Open Source Data
 [Return to main website]({{site.baseurl}}/).

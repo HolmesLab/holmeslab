@@ -1,9 +1,10 @@
 ---
-title: Purchasing
+title: Purchasing Tutorial
+parent: Purchasing
 nav_enabled: true 
 ---
 
-# Check Request/Goods Request/Quick Order Tutorial
+# Purchasing Tutorial
 
 Date: April 8, 2024 10:17 AM
 

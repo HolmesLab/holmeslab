@@ -1,5 +1,6 @@
 ---
-title: Open Source Data
+title: Data Resource Sites
+parent: Open Source Data
 nav_enabled: true 
 ---
 

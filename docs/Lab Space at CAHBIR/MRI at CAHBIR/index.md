@@ -1,8 +1,9 @@
 ---
 layout: minimal
-title: Lab Policies
+title: MRI at CAHBIR
+parent: Lab Space at CAHBIR
 nav_enabled: true
 ---
 
-# Lab Policies
+# MRI at CAHBIR
 [Return to main website]({{site.baseurl}}/).

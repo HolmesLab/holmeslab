@@ -1,11 +1,11 @@
 ---
-title: Learning Resources
-parent: Resources
+title: Neuroimaging Resource Sites
+parent: Learning Resources
 nav_enabled: true 
 nav_order: 1
 ---
 
-# Neuroimaging Collaborative/Resource Sites
+# Neuroimaging Resource Sites
 
 Date: April 8, 2024 10:17 AM
 

@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: Lab Policies
+title: Rutgers Admin
 nav_enabled: true
 ---
 
-# Lab Policies
+# Running Experiments
 [Return to main website]({{site.baseurl}}/).

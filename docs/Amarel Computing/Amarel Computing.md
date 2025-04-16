@@ -1,5 +1,6 @@
 ---
-title: Amarel Computing
+title: Amarel Compute Cluster - General
+parent: Amarel Computing
 nav_enabled: true 
 ---
 

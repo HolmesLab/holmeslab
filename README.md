@@ -1,18 +1,7 @@
-# just-the-docs-template
+# Holmes Lab Documentation
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a site to hold the documentation for the Holmes Lab at Rutgers University. It is built with a jekyll theme, just-the-docs. 
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+To see how to update this Wiki, vist [Updating This Wiki][https://holmeslab.github.io/holmeslab/docs/Using%20this%20Wiki/Using%20this%20Wiki/]
 
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 

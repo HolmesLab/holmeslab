@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: Lab Policies
+title: Resources
 nav_enabled: true
 ---
 
-# Lab Policies
+# Resources
 [Return to main website]({{site.baseurl}}/).

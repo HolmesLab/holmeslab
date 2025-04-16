@@ -1,7 +1,7 @@
 ---
 title: Accessing Eris (MGB Server)
 nav_enabled: true
-parent: Psychiatric Connectomes Project
+parent: Psychiatric Connectomics
 ---
 # How to get into Eris (MGB Server)
 

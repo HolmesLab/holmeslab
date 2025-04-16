@@ -1,5 +1,6 @@
 ---
-title: Lab Policies
+title: Lab Overview
+parent: Lab Policies
 nav_enabled: true 
 ---
 # Lab Overview

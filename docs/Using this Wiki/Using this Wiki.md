@@ -1,11 +1,12 @@
 ---
-title: Using this Wiki
+title: How to update this wiki
+parent: Using this Wiki
 nav_enabled: true 
 ---
 
-# How to update this wiki:
+# How to update this wiki
 
-Date: April 15, 2025 8:50 PM
+Date Updated: April 15, 2025 8:50 PM
 
 The lab wiki is hosted on the lab’s Github page. These steps will take you through how to update docs and the website:
 

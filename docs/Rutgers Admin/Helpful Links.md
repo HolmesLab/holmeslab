@@ -1,6 +1,7 @@
 ---
 layout: minimal
-title: Rutgers Admin
+parent: Rutgers Admin
+title: Helpful Links
 nav_enabled: true
 ---
 

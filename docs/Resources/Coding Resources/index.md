@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: Lab Policies
+title: Coding Resources
+parent: Resources
 nav_enabled: true
 ---
-
-# Lab Policies
+# Coding Resources
 [Return to main website]({{site.baseurl}}/).

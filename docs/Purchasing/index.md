@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: Lab Policies
+title: Purchasing
 nav_enabled: true
 ---
 
-# Lab Policies
+# Purchasing
 [Return to main website]({{site.baseurl}}/).

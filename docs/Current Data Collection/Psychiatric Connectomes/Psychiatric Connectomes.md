@@ -1,9 +1,11 @@
 ---
-title: Psychiatric Connectomes
+title: PCX Overview
+parent: Psychiatric Connectomics
 nav_enabled: true 
+layout: minimal
 ---
 
-# Psychiatric Connectomics Project (PCX)
+# Psychiatric Connectomics Project (PCX) Overview
 
 
 <aside>

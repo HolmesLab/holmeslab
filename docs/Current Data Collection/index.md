@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: Lab Policies
+title: Current Data Collections
 nav_enabled: true
 ---
 
-# Lab Policies
+# Current Data Collections
 [Return to main website]({{site.baseurl}}/).

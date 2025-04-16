@@ -1,9 +1,8 @@
 ---
 layout: minimal
-title: Running Experiments
+title: Amarel Computing
 nav_enabled: true
 ---
 
-# Holding Page
-
+# Amarel Computing
 [Return to main website]({{site.baseurl}}/).
