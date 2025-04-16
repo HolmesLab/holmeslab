@@ -18,6 +18,7 @@ description: Documentation for the Holmes Lab at Rutgers University, Department 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://holmeslab.github.io/holmeslab
 
+repository: HolmesLab/holmeslab
 
 permalink: pretty
 
@@ -57,7 +58,7 @@ exclude:
   - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo_department.png"
+logo: "/assets/images/logo_circle.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -113,8 +114,9 @@ aux_links:
   "This Repository on Github":
     - "https://github.com/HolmesLab/holmeslab"
 
+
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
@@ -126,8 +128,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: This Repository on Github
-    url: https://github.com/HolmesLab/holmeslab
+  - title: Holmes Lab Website
+    url: https://holmeslab.rutgers.edu/ 
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
