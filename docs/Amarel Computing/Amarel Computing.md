@@ -12,7 +12,7 @@ Date: February 6, 2024 11:31 AM
 
 1. Connect to VPN
     
-    ![Screenshot 2024-06-05 at 2.52.31 PM.png](Amarel%20Compute%20Cluster%20-%20General%20cc93caf11a49489a9866e7a365ee2aef/Screenshot_2024-06-05_at_2.52.31_PM.png)
+    ![](Amarel Compute Cluster - General cc93caf11a49489a9866e7a365ee2aef/Screenshot_2024-06-05_at_2.52.31_PM.png)
     
     1. fill in on Cisco anyconnect app:
         1. [vpn.rutgers.edu](http://vpn1.rutgers.edu) 
