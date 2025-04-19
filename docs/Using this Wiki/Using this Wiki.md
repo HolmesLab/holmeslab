@@ -2,6 +2,7 @@
 title: How to update this wiki
 parent: Using this Wiki
 nav_enabled: true 
+nav_order: 1
 ---
 
 # How to update this wiki
@@ -39,7 +40,7 @@ The lab wiki is hosted on the lab’s Github page. These steps will take you thr
     1. All files/folders are listed in the navigation bar on the left of the website
     2. The name that appears in the navigation bar which you want it to go under will be the name you’ll put in the “parent” field below
 9. Add this at the TOP of your markdown file
-
+(This is because the site is a Jekyll site. Read more about page layouts on the [Jekyll Documentation](https://jekyllrb.com/docs/pages/))
 ```bash
 ---
 title: <any title> 
