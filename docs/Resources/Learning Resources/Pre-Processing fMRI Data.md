@@ -62,14 +62,14 @@ Three surface spaces in HCP data:
 2. the high resolution Conte69 registered standard mesh (~164k vertices, appropriate for cross-subject analysis of high resolution data like myelin maps) 
 3. low resolution Conte69 registered standard mesh (~32k vertices, appropriate for cross-subject analysis of low resolution data like fMRI or diffusion).
 
-![Untitled](Pre-Processing%20fMRI%20Data%20cd24a0ec0f6140728bd5cb290934031d/Untitled.png)
+![Untitled](Pre-Processing fMRI Data cd24a0ec0f6140728bd5cb290934031d/Untitled.png)
 
 - The 91,282 standard grayordinates (CIFTI) space is made up of a 
 standard subcortical segmentation in 2mm MNI space (from the Conte69 subjects) and the 32k Conte69 mesh of both hemispheres/
 
 ### Software:
 
-![Untitled](Pre-Processing%20fMRI%20Data%20cd24a0ec0f6140728bd5cb290934031d/Untitled%201.png)
+![Untitled](Pre-Processing fMRI Data cd24a0ec0f6140728bd5cb290934031d/Untitled 1.png)
 
 **Structural Pipeline**
 
@@ -117,7 +117,7 @@ standard subcortical segmentation in 2mm MNI space (from the Conte69 subjects) a
 
 → MNINonLinear folder: MNI space images
 
-![Untitled](Pre-Processing%20fMRI%20Data%20cd24a0ec0f6140728bd5cb290934031d/Untitled%202.png)
+![Untitled](Pre-Processing fMRI Data cd24a0ec0f6140728bd5cb290934031d/Untitled 2.png)
 
 ### *FreeSurfer* Pipeline
 

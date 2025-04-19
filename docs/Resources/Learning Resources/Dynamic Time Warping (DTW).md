@@ -24,7 +24,7 @@ Date: February 24, 2025 3:57 PM
 
 - Almost always wins on extracting features vs. attempting to create feature vectors to characterize something
     
-    ![Screenshot 2024-08-15 at 9.46.18 AM.png](Dynamic%20Time%20Warping%20(DTW)%201a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_9.46.18_AM.png)
+    ![Screenshot 2024-08-15 at 9.46.18 AM.png](Dynamic Time Warping (DTW) 1a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_9.46.18_AM.png)
     
 
 ### Why efficiency?
@@ -42,11 +42,11 @@ endpoint constraint in certain datasets…
 
 1. For 2 1D timeseries, Q and c, length len(Q) and len(c), it creates a matrix size len(Q) by len(c) and fills the matrix with the euclidian (or some other distance measure) between every pair of points (not just those at the same time).
 
-![Screenshot 2024-08-15 at 9.49.18 AM.png](Dynamic%20Time%20Warping%20(DTW)%201a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_9.49.18_AM.png)
+![Screenshot 2024-08-15 at 9.49.18 AM.png](Dynamic Time Warping (DTW) 1a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_9.49.18_AM.png)
 
 1. Then, a path touching each timepoint of both timeseries is calculated, with the distance matrix, to sub to the least total distance. (k=1):
 
-![Screenshot 2024-08-15 at 9.57.31 AM.png](Dynamic%20Time%20Warping%20(DTW)%201a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_9.57.31_AM.png)
+![Screenshot 2024-08-15 at 9.57.31 AM.png](Dynamic Time Warping (DTW) 1a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_9.57.31_AM.png)
 
 $$
 DTW(Q,c) = min\lbrace\sqrt{\mathstrut a}\textstyle\sum_k^Kw_k / K
@@ -55,7 +55,7 @@ $$
 
 ***Visualization:***
 
-![Screenshot 2024-08-15 at 10.11.20 AM.png](Dynamic%20Time%20Warping%20(DTW)%201a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_10.11.20_AM.png)
+![Screenshot 2024-08-15 at 10.11.20 AM.png](Dynamic Time Warping (DTW) 1a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_10.11.20_AM.png)
 
  
 
@@ -128,7 +128,7 @@ Constraint that DTW must match the pairs of beginning and end points, even thoug
 
 </aside>
 
-![Screenshot 2024-08-15 at 10.36.26 AM.png](Dynamic%20Time%20Warping%20(DTW)%201a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_10.36.26_AM.png)
+![Screenshot 2024-08-15 at 10.36.26 AM.png](Dynamic Time Warping (DTW) 1a4cf00eb9368056bcd1ece535ed58f5/Screenshot_2024-08-15_at_10.36.26_AM.png)
 
 **Possible Fixes for Differently-Patterned Start/End**
 

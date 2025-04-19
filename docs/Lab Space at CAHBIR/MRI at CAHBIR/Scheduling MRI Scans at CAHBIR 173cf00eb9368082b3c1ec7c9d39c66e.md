@@ -28,7 +28,7 @@ NOTE: make sure your irb allows a verbal phone screening  before participants ar
     2. Log in with NetID
     3. In the ‘Home’ tab, click on the dropdown arrow for equipment search and scroll to/search for CENTER FOR ADVANCED HUMAN BRAIN IMAGING RESEARCH
         
-        ![Screen Shot 2025-01-06 at 9.17.55 AM.png](Scheduling%20MRI%20Scans%20at%20CAHBIR%20173cf00eb9368082b3c1ec7c9d39c66e/Screen_Shot_2025-01-06_at_9.17.55_AM.png)
+        ![Screen Shot 2025-01-06 at 9.17.55 AM.png](Scheduling MRI Scans at CAHBIR 173cf00eb9368082b3c1ec7c9d39c66e/Screen_Shot_2025-01-06_at_9.17.55_AM.png)
         
     4. Select the item you want to schedule (Siemens Prisma 3T MRI is the MRI scanner) 
 

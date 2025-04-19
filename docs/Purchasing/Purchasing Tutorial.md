@@ -135,7 +135,7 @@ The PO will be placed and confirmed.
     2. **Pay Status** will also list when it has been paid. 
     - **Example of a fully paid invoice:**
         
-        ![Screenshot 2025-03-31 at 9.40.37 AM.png](Check%20Request%20Goods%20Request%20Quick%20Order%20Tutorial%20e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
+        ![Screenshot 2025-03-31 at 9.40.37 AM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
         
 
 1. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
@@ -145,7 +145,7 @@ The PO will be placed and confirmed.
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
     - **Example of a Oracle payment page**
         
-        ![Inv-OL-206638_payment.png](Check%20Request%20Goods%20Request%20Quick%20Order%20Tutorial%20e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
+        ![Inv-OL-206638_payment.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
         
 
 ## If the supplier does not have a contract:
@@ -158,18 +158,18 @@ The PO will be placed and confirmed.
     2. After you [submit your invitation on PaymentWorks](https://www.paymentworks.com/app), you’ll be able to see the progress on there, as well as get emails
 3. This is the email you’ll get when your PaymentWorks invitation has been approved and sent to your supplier
     
-    ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Check%20Request%20Goods%20Request%20Quick%20Order%20Tutorial%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
+    ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
     
 4. This is the email they’ll get from PaymentWorks
     
-    ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Check%20Request%20Goods%20Request%20Quick%20Order%20Tutorial%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
+    ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
     
     5. This is the email you’ll get when they open/ start registration in PaymentWorks
     
-    ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Check%20Request%20Goods%20Request%20Quick%20Order%20Tutorial%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
+    ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
     
     6. Once the supplier finishes their PaymentWorks portal, this is what PaymentWorks will look like
     
-    ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Check%20Request%20Goods%20Request%20Quick%20Order%20Tutorial%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
+    ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
     
     1.  Look up which commodity code you’ll need in this form: [Commodity Codes - Which Forms Are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) (downloaded from Canvas link [List: Commodity Codes)](https://rutgers.instructure.com/courses/561/pages/list-commodity-codes-with-corresponding-forms?module_item_id=6208614) and make sure to use whichever form it says is allowable (ie Goods Request, Service Request or Quick Order)

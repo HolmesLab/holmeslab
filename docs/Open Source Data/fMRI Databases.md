@@ -38,7 +38,7 @@ Date: January 26, 2024 12:52 PM
     4. Email the signed file to **Gregory Werhner** [gw266@ored.rutgers.edu](mailto:gw266@research.rutgers.edu) 
     5. Once you receive it back signed, upload the DUC (signed by both of you) to the “Upload Supporting Documentation” under “active requests”
         
-        ![Screen Shot 2024-01-26 at 3.40.04 PM.png](fMRI%20Databases%20143ba69c58654779880017db71871c86/Screen_Shot_2024-01-26_at_3.40.04_PM.png)
+        ![Screen Shot 2024-01-26 at 3.40.04 PM.png](fMRI Databases 143ba69c58654779880017db71871c86/Screen_Shot_2024-01-26_at_3.40.04_PM.png)
         
     6. Wait to get granted access
 
@@ -66,4 +66,4 @@ ConnectomeWorkbench
 
 Libraries, packages and modules:
 
-[holmes-spec.txt](fMRI%20Databases%20143ba69c58654779880017db71871c86/holmes-spec.txt)
+[holmes-spec.txt](fMRI Databases 143ba69c58654779880017db71871c86/holmes-spec.txt)

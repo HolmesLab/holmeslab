@@ -95,7 +95,7 @@ recon-all \
 
 - use whatever name you want it to be, maybe subject ID
 
-![Screen Shot 2024-01-17 at 10.32.19 AM.png](FreeSurfer%20Overview%202c2d537eaade4ee6b1006d4be4abf57e/Screen_Shot_2024-01-17_at_10.32.19_AM.png)
+![Screen Shot 2024-01-17 at 10.32.19 AM.png](FreeSurfer Overview 2c2d537eaade4ee6b1006d4be4abf57e/Screen_Shot_2024-01-17_at_10.32.19_AM.png)
 
 **Upon completion…**
 
@@ -109,7 +109,7 @@ surf, label =surface analysis
 
 stats = txt files with stats for all the other files in other folders
 
-![Screen Shot 2024-01-17 at 10.42.15 AM.png](FreeSurfer%20Overview%202c2d537eaade4ee6b1006d4be4abf57e/Screen_Shot_2024-01-17_at_10.42.15_AM.png)
+![Screen Shot 2024-01-17 at 10.42.15 AM.png](FreeSurfer Overview 2c2d537eaade4ee6b1006d4be4abf57e/Screen_Shot_2024-01-17_at_10.42.15_AM.png)
 
 **To check for errors/ debug:**
 

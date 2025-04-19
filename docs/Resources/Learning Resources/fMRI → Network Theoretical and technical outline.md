@@ -41,10 +41,10 @@ Multivariable regression via a relevance vector machine (RVM)
 
 - learn on training set, apply to training and test set
 
-![Figure 1: Workflow from fMRI scan to network data, specifically as applied to lateralization metrics](fMRI%20%E2%86%92%20Network%20Theoretical%20and%20technical%20outline%20ff83697986504d2fb0109529a73ff1d7/Untitled.png)
+![Figure 1: Workflow from fMRI scan to network data, specifically as applied to lateralization metrics](fMRI %E2%86%92 Network Theoretical and technical outline ff83697986504d2fb0109529a73ff1d7/Untitled.png)
 
 Figure 1: Workflow from fMRI scan to network data, specifically as applied to lateralization metrics
 
-![Functional Networks parcellation, a common example of the currently accepted functional networks](fMRI%20%E2%86%92%20Network%20Theoretical%20and%20technical%20outline%20ff83697986504d2fb0109529a73ff1d7/Screen_Shot_2024-02-29_at_11.31.47_AM.png)
+![Functional Networks parcellation, a common example of the currently accepted functional networks](fMRI %E2%86%92 Network Theoretical and technical outline ff83697986504d2fb0109529a73ff1d7/Screen_Shot_2024-02-29_at_11.31.47_AM.png)
 
 Functional Networks parcellation, a common example of the currently accepted functional networks

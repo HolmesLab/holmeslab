@@ -22,7 +22,7 @@ Method for “Unstandardized Coefficients”
 4. (as seen below) transpose that matrix to get y1, y2 by x1, x2
 5. (as seen below) compute product of these 4 matrices
 
-![IMG_7732.PNG](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_7732.png)
+![IMG_7732.PNG](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_7732.png)
 
 1. Compute eigenvectors and eigenvalues of this ^^ matrix Rx
     1. the first eigenvector holds the weights for x1 and x2
@@ -30,7 +30,7 @@ Method for “Unstandardized Coefficients”
 2. the sqrt of the largest eigenvalue of this matrix Rx = the pearson correlation coefficient between the two sets of variables, 0.72
 3. (as seen below) Compute the product of a different order of matrices for matrix Ry
 
-![IMG_7733.PNG](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_7733.png)
+![IMG_7733.PNG](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_7733.png)
 
 1. eigenvectors and eigenvalues of this ^^ matrix Ry
     1. the first eigenvector holds the weights for y1 and y2
@@ -50,7 +50,7 @@ Method for “Unstandardized Coefficients”
 1. Interpret the coefficients
     1. for example the coefficient for x1 aka SBP is 0.042, which means that if the SBP raises by 1 (say 120 to 121), the total score for X (aka weighted x1+x2) would increase by 0.042 standard deviations, given that the x2 variable (aka DBP) remains constant
     
-    ![IMG_D62C6A383D2D-1.jpeg](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_D62C6A383D2D-1.jpeg)
+    ![IMG_D62C6A383D2D-1.jpeg](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_D62C6A383D2D-1.jpeg)
     
 
 Method for “Standardized Coefficients”
@@ -60,19 +60,19 @@ Method for “Standardized Coefficients”
 3. (as seen below) interpret the (different) coefficients
     1. If you increase the zx1 variable (aka SBP) by one standard deviation the standardized combined blood pressure will be increased by 0.477 standard deviations, given that the zx2 variable (aka DBP) is kept constant
     
-    ![IMG_D03B8D2015E6-1.jpeg](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_D03B8D2015E6-1.jpeg)
+    ![IMG_D03B8D2015E6-1.jpeg](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_D03B8D2015E6-1.jpeg)
     
 
 Loadings:
 
 - (as seen below) Table of standardized correlation coefficients for each of the 4 variables (x1x2 y1y2) to the two **sets/groups** of variables (X and Y)
     
-    ![IMG_293C4E462CF3-1.jpeg](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_293C4E462CF3-1.jpeg)
+    ![IMG_293C4E462CF3-1.jpeg](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_293C4E462CF3-1.jpeg)
     
     - Interpret the coefficients, aka Loadings:
         - if we would calculate the Pearson correlation coefficient between the x1 values (aka SBP) and standardized X-set (weighted x1 + x2) values (aka zBP), the correlation coefficient is -0.57
 
-![IMG_293C4E462CF3-1.jpeg](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_293C4E462CF3-1%201.jpeg)
+![IMG_293C4E462CF3-1.jpeg](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_293C4E462CF3-1 1.jpeg)
 
 - these values might be negative, even though they’d actually add to the group value positively
     - this happens when the correlation of X and Y is positive
@@ -81,7 +81,7 @@ Loadings:
 
 - this method is not the best for showing variable relationship
 
-![IMG_293C4E462CF3-1.jpeg](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_293C4E462CF3-1%202.jpeg)
+![IMG_293C4E462CF3-1.jpeg](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_293C4E462CF3-1 2.jpeg)
 
 - these values might be negative, even though they’d actually add to the group value positively
     - this happens when the correlation of X and Y is positive
@@ -96,6 +96,6 @@ Interpretations
 - These loadings can be interpreted similar to PCA analysis
 - Can create this kind of figure (see below), to show how the variables and groups correlate with each other
     
-    ![IMG_539F99556E72-1.jpeg](Canonical%20Correlation%20Analysis%209937f730064d451b8028be3a333ce17e/IMG_539F99556E72-1.jpeg)
+    ![IMG_539F99556E72-1.jpeg](Canonical Correlation Analysis 9937f730064d451b8028be3a333ce17e/IMG_539F99556E72-1.jpeg)
     
     - Mostly use the two groups correlation, 0.72

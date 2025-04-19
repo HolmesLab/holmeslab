@@ -19,7 +19,7 @@ Tutorial
     
     1. If on a mac, go to System Preferences → Security & Privacy → Privacy tab, then for ‘Accessibility’ and ‘Input Monitoring’, add Psychopy as an app who can access
     
-    ![Screen Shot 2025-01-07 at 5.09.33 PM.png](Using%20PsychoPy%20174cf00eb936801fa53bddd32723eba2/Screen_Shot_2025-01-07_at_5.09.33_PM.png)
+    ![Screen Shot 2025-01-07 at 5.09.33 PM.png](Using PsychoPy 174cf00eb936801fa53bddd32723eba2/Screen_Shot_2025-01-07_at_5.09.33_PM.png)
     
     1. Install `brew install portaudio`, `brew install libsndfile`, `brew install portmidi`, `brew install liblo` and then `brew install —cask psychopy` and then `brew install pipx`
         

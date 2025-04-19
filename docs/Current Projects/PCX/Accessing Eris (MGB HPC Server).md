@@ -1,17 +1,9 @@
 ---
 title: Accessing Eris (MGB Server)
+parent: PCX
 nav_enabled: true
-parent: Psychiatric Connectomics
 ---
 # How to get into Eris (MGB Server)
-
-Parent item: Get McLean ID (https://www.notion.so/Get-McLean-ID-149cf00eb93680bcaba7c1f5f85b8c6a?pvs=21)
-Done: Done
-Do/Due: April 22, 2025
-Task Type: Proj
-Doc Type: SOP/Doc
-Blocking: Have Justin add me to Eris folders (https://www.notion.so/Have-Justin-add-me-to-Eris-folders-1abcf00eb9368068ab1cd770e6f199f9?pvs=21)
-Important Doc: No
 
 Tutorial:
 

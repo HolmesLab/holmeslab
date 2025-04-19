@@ -40,9 +40,9 @@ Created by: Kaley Joss | Mon Apr 1, 2024
         2. Fill out [Third Party Risk Assessment Intake Form](https://forms.office.com/Pages/ResponsePage.aspx?id=IystuTVNcEST_2mspmMv_vNV1GTfz6VMtu11uPaiSw5UNjE5SERERlNaSFBMNkE2MjNWQlRKWlBJVSQlQCN0PWcu)
 3. Now follow these steps  for Service Request submission, adding in any required documents in the “**External Attachments**” box
     
-    ![Screen Shot 2024-04-01 at 5.02.56 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.02.56_PM.png)
+    ![Screen Shot 2024-04-01 at 5.02.56 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.02.56_PM.png)
     
-    ![Screen Shot 2024-04-01 at 5.07.42 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.07.42_PM.png)
+    ![Screen Shot 2024-04-01 at 5.07.42 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.07.42_PM.png)
     
 
 ### If the supplier does not have a contract:
@@ -78,23 +78,23 @@ Option 2: Add them as a supplier
     1. After you [submit your invitation on PaymentWorks](https://www.paymentworks.com/app), you’ll be able to see the progress on there, as well as get emails
 3. This is the email you’ll get when your PaymentWorks invitation has been approved and sent to your supplier
     
-    ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
+    ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
     
 4. This is the email they’ll get from PaymentWorks
     
-    ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
+    ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
     
     5. This is the email you’ll get when they open/ start registration in PaymentWorks
     
-    ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
+    ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
     
     6. Once the supplier finishes their PaymentWorks portal, this is what PaymentWorks will look like
     
-    ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
+    ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
     
     1.  Look up which commodity code you’ll need in this form: [Commodity Codes - Which Forms Are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) (downloaded from Canvas link [List: Commodity Codes)](https://rutgers.instructure.com/courses/561/pages/list-commodity-codes-with-corresponding-forms?module_item_id=6208614) and make sure to use whichever form it says is allowable (ie Goods Request, Service Request or Quick Order)
     2. Now follow these steps  for Service Request submission, adding in a Detailed Quote 
         
-        ![Screen Shot 2024-04-01 at 5.02.56 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.02.56_PM.png)
+        ![Screen Shot 2024-04-01 at 5.02.56 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.02.56_PM.png)
         
-        ![Screen Shot 2024-04-01 at 5.07.42 PM.png](Service%20Request%20Tutorial%207805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.07.42_PM.png)
+        ![Screen Shot 2024-04-01 at 5.07.42 PM.png](Service Request Tutorial 7805ffb8a38f45f9aa7c5c5b337833e0/Screen_Shot_2024-04-01_at_5.07.42_PM.png)

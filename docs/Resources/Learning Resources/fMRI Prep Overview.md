@@ -18,7 +18,7 @@ Documentation Webpage:
 ## General Overview
 
 ![*Diagram of fMRIPrep, 04-26-24*
-Dashes indicate optional data or processes. The “fit” derivatives include a collection of individual volumes and transform files. The “transform” section shows the process used to generate resampled BOLD series. The available inputs, such as fieldmaps and slice-timing metadata, and the target space, such as an MNI template, determine the final result.](fMRI%20Prep%20Overview%20450dc5846f794782abdeac1928b06e6e/image.png)
+Dashes indicate optional data or processes. The “fit” derivatives include a collection of individual volumes and transform files. The “transform” section shows the process used to generate resampled BOLD series. The available inputs, such as fieldmaps and slice-timing metadata, and the target space, such as an MNI template, determine the final result.](fMRI Prep Overview 450dc5846f794782abdeac1928b06e6e/image.png)
 
 *Diagram of fMRIPrep, 04-26-24*
 Dashes indicate optional data or processes. The “fit” derivatives include a collection of individual volumes and transform files. The “transform” section shows the process used to generate resampled BOLD series. The available inputs, such as fieldmaps and slice-timing metadata, and the target space, such as an MNI template, determine the final result.

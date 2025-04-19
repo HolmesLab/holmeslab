@@ -156,7 +156,7 @@ TIPS
 
 1. Make sure both .sh files are in the SAME folder in your home directory, or *somewhere in amarel*, not on your local computer
     
-    ![Screen Shot 2024-03-21 at 10.38.41 AM.png](Slurm%20Jobs%20Tutorial%20-%20Rutgers%20f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.38.41_AM.png)
+    ![Screen Shot 2024-03-21 at 10.38.41 AM.png](Slurm Jobs Tutorial - Rutgers f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.38.41_AM.png)
     
 2. open terminal
     1. run `cd /home/kj537/nda_downloads` ← replace with wherever your .sh files are saved
@@ -165,7 +165,7 @@ TIPS
 4. Once the job starts running, you can check it’s running and its progress by entering `sacct`
     1. Your job should be listed in this table like this
         
-        ![Screen Shot 2024-03-21 at 10.42.55 AM.png](Slurm%20Jobs%20Tutorial%20-%20Rutgers%20f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.42.55_AM.png)
+        ![Screen Shot 2024-03-21 at 10.42.55 AM.png](Slurm Jobs Tutorial - Rutgers f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.42.55_AM.png)
         
 
 Troubleshooting:

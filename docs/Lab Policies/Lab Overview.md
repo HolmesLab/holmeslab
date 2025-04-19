@@ -2,9 +2,13 @@
 title: Lab Overview
 parent: Lab Policies
 nav_enabled: true 
+order: 1
 ---
 # Lab Overview
-
+```bash
+1. TOC
+{:toc}
+```
 Date: April 2, 2025 7:57 PM
 
 **General Lab Work Expectations**

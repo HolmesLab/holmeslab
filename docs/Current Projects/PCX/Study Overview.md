@@ -1,22 +1,16 @@
 ---
-title: PCX Overview
-parent: Psychiatric Connectomics
+title: Study Overview
+parent: PCX
 nav_enabled: true 
 layout: minimal
+has_toc: true
+nav_order: 2
 ---
 
-# Psychiatric Connectomics Project (PCX) Overview
-
-
-<aside>
-👤
-
-Avram Holmes, PhD — PI, Rutgers University, RWJ Medical School Department of Psychiatry
-Thomas Yeo, PhD — PI, National University of Singapore
-
-Justin Baker, PhD — Co-PI, Harvard Medical School, McLean Hospital
-
-</aside>
+# Study Overview
+👤 Avram Holmes, PhD — PI, Rutgers University, RWJ Medical School Department of Psychiatry   
+Thomas Yeo, PhD — PI, National University of Singapore    
+Justin Baker, PhD — Co-PI, Harvard Medical School, McLean Hospital  
 
 **Sample**: N=270 at McLean and Rutgers (135 at each site), over 4 years 
 
@@ -58,31 +52,32 @@ Feb 12, 2025: Grant Awarded, Feb 3 grant “started”
 ** try to get back to track by Aug 1
 
 ### **Data collection Overview:**
+📎 Canva link: [PCR_Workflow](https://www.canva.com/design/DAGeKH_Wevg/JTB-Wk0lXUBZb6DeAJ6jpA/edit)
 
-<aside>
-📎
 
-Link to PDF visual diagram of workflow: [PCR_Workflow](https://rutgers.box.com/s/pnhz05nkt1sw6eeyjm8f4ulg6h5rt5ty) ([Alt-1](https://rutgers.box.com/s/rzv8ppbw74lwc8niowgw96s2zcs8b6r7))
-          Canva link: [PCR_Workflow](https://www.canva.com/design/DAGeKH_Wevg/JTB-Wk0lXUBZb6DeAJ6jpA/edit) ([Alt-1](https://www.canva.com/design/DAGYWhDLehU/oGm4li2v6vCCuPY_TjUGUg/edit))
 
-</aside>
+**Clinical Interview - Session 1** 
+* Clinical Interview (SCID) 
+* Clinician-Administered Scales  
+* Self-Report Scales   
+* MRI Screener 
 
-| **Clinical Interview - Session 1** | Clinical Interview (SCID)
-Clinician-Administered Scales
-Self-Report Scales 
-MRI Screener |
-| --- | --- |
-| *0-4 weeks later…* |  |
-| **MRI Scan - Session 2** | Self-Report Scales
-MRI Scan
-Post-scan surveys
-Setup smartphone tracking |
-| *Starting after scan…* |  |
-| Smartphone Tracking for 6 months | Passive Data
-Daily Surveys |
-| *Within 48 hours…* |  |
-| **Supplemental - Session 3** | Self-Report Scales
-TestMyBrain Tasks |
+*0-4 weeks later…* 
+ **MRI Scan - Session 2** 
+* Self-Report Scales  
+* MRI Scan  
+* Post-scan surveys  
+* Setup smartphone tracking 
+
+*Starting after scan…* 
+ **After scan** 
+ * Smartphone Tracking for 6 months  
+ * Passive Data Daily Surveys 
+
+ *Within 48 hours…*   
+**Supplemental - Session 3** 
+* Self-Report Scales  
+* TestMyBrain Tasks 
 
 ### MRI Scan Parameters & Elements
 

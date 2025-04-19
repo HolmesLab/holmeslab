@@ -32,7 +32,7 @@ This is unformatted text under the header.
 
 ### Styles
 
-![Screenshot 2025-04-15 at 8.13.01 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.13.01_PM.png)
+![Screenshot 2025-04-15 at 8.13.01 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.13.01_PM.png)
 
 ```bash
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -112,7 +112,8 @@ Or like this, if the site is used often:
 Insert this line of code into your page and it will generate a table of contents based on the headings which appear in that file, unless the heading has {: .no_toc .text-delta } beneath it.
 
 ```bash
-1. {:toc}
+1. TOC
+{:toc}
 ```
 
 To make a nice table of contents, this format is recommended
@@ -126,7 +127,7 @@ To make a nice table of contents, this format is recommended
 ---
 ```
 
-![Screenshot 2025-04-15 at 8.00.58 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.00.58_PM.png)
+![Screenshot 2025-04-15 at 8.00.58 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.00.58_PM.png)
 
 ---
 
@@ -263,7 +264,7 @@ red
 {: .label }
 ```
 
-![Screenshot 2025-04-15 at 7.55.22 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.55.22_PM.png)
+![Screenshot 2025-04-15 at 7.55.22 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.55.22_PM.png)
 
 ### Diagrams/Flow charts
 
@@ -279,7 +280,7 @@ graph TD;
 ```
 ```
 
-![Screenshot 2025-04-15 at 7.56.47 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.56.47_PM.png)
+![Screenshot 2025-04-15 at 7.56.47 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.56.47_PM.png)
 
 ### Buttons
 
@@ -288,7 +289,7 @@ graph TD;
 
 ```
 
-![Screenshot 2025-04-15 at 8.08.00 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.08.00_PM.png)
+![Screenshot 2025-04-15 at 8.08.00 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.08.00_PM.png)
 
 ---
 

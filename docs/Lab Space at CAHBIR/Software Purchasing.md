@@ -89,19 +89,19 @@ Two options:
         1. After you [submit your invitation on PaymentWorks](https://www.paymentworks.com/app), you’ll be able to see the progress on there, as well as get emails
     4. This is the email you’ll get when your invitation has been approved and sent to your supplier
         
-        ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
+        ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
         
     5. This is the email they’ll get from PaymentWorks
         
-        ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
+        ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
         
         f. This is the email you’ll get when they open/ start registration in PaymentWorks
         
-        ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
+        ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
         
         g. Once the supplier finishes their PaymentWorks portal, this is what PaymentWorks will look like
         
-        ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
+        ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
         
         h. Now you will be able to follow the instructions above, for submitting a service request to this supplier, as they are now in the Rutgers system
         
@@ -116,17 +116,17 @@ This is a general guide to purchasing software that can expand to other software
     1. Have him send a copy of the receipt to attach to the request form.
     - **Example Photo**
         
-        [Mail+-+Nicholas+Dennis+-+Outlook.pdf](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Mail-NicholasDennis-Outlook.pdf)
+        [Mail+-+Nicholas+Dennis+-+Outlook.pdf](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Mail-NicholasDennis-Outlook.pdf)
         
 2. Go to RU Marketplace and input “IPO: OIT CCS Site Licensed Software” into the search bar in the Shop tab
     - **Image Reference**
         
-        ![Screenshot 2023-09-14 at 1.33.17 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.33.17_PM.png)
+        ![Screenshot 2023-09-14 at 1.33.17 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.33.17_PM.png)
         
 3. Select “View Form” in the box that says “IPO: OIT CCS Site Licensed Software (#50).” It should be the only item on the page. Listed for $1.00
     - **Image Reference**
         
-        ![Screenshot 2023-09-14 at 1.37.50 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.37.50_PM.png)
+        ![Screenshot 2023-09-14 at 1.37.50 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.37.50_PM.png)
         
 4. In the form, fill out the “Product Description,” “Total Dollar Amount/Quantity,” “Commodity Code,” and the “Quote #.”
     
@@ -141,7 +141,7 @@ This is a general guide to purchasing software that can expand to other software
     
     - **Image Reference**
         
-        ![Screenshot 2023-09-14 at 1.41.12 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.41.12_PM.png)
+        ![Screenshot 2023-09-14 at 1.41.12 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.41.12_PM.png)
         
 5. Then click “Add And Go To Cart.” In the cart, notice in the Summary box on the right who is listed in the “For” category. Then, add a 1-2 word description at the end of the cart name for easier querying in the future!
     1. If this is your first requisition, the “For” category will show up with your name which you will need to change in the next step!!
@@ -149,7 +149,7 @@ This is a general guide to purchasing software that can expand to other software
     2. Cart names are automatically populated with the Date (YYYY-MM-DD) and your RU NetID. Feel free to keep that and just add the 1-2 word description at the end!
     - **Image Reference**
         
-        ![Screenshot 2023-09-14 at 1.54.46 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.54.46_PM.png)
+        ![Screenshot 2023-09-14 at 1.54.46 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_1.54.46_PM.png)
         
 6. Click “Proceed To Checkout” located in the top right corner to move to the requisition page.
     1. First, go to the “General” section and edit the Description as well as the Prepared For (if that was incorrect).
@@ -159,7 +159,7 @@ This is a general guide to purchasing software that can expand to other software
         4. **Click Save.**
         - **Image Reference**
             
-            ![Screenshot 2023-09-14 at 2.12.38 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_2.12.38_PM.png)
+            ![Screenshot 2023-09-14 at 2.12.38 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_2.12.38_PM.png)
             
     2. Next, fill out the Accounting Codes section.
         1. If purchasing for general lab purchases (that will be used across projects), use the Zald Lab Start-up Code
@@ -184,7 +184,7 @@ This is a general guide to purchasing software that can expand to other software
                 
                 - **Image Reference**
                     
-                    ![Screenshot 2023-09-14 at 2.21.42 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_2.21.42_PM.png)
+                    ![Screenshot 2023-09-14 at 2.21.42 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-14_at_2.21.42_PM.png)
                     
         2. If purchasing for a project related to a grant/subaward. Reach out to DZ for the project ID #.
             1. Presets will vary for each project but make sure to use 74103 for the Expenditure Type!!!
@@ -208,7 +208,7 @@ This is a general guide to purchasing software that can expand to other software
                 
                 - **Image Reference**
                     
-                    ![Screenshot 2023-09-20 at 1.21.10 PM.png](Software%20Purchasing%20-%20Sharable%20fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-20_at_1.21.10_PM.png)
+                    ![Screenshot 2023-09-20 at 1.21.10 PM.png](Software Purchasing - Sharable fc68c5ec5a5141989de8c3d0222903d2/Screenshot_2023-09-20_at_1.21.10_PM.png)
                     
     3. Attach a pdf of the order receipt that you obtained at the [**beginning](https://www.notion.so/Software-Purchasing-Sharable-fc68c5ec5a5141989de8c3d0222903d2?pvs=21)** to the **Internal** Notes and Attachments section.
 7. After the above steps are complete, click “Submit Requisition.”

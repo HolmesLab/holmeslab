@@ -32,11 +32,11 @@ Date: January 30, 2024 10:04 AM
 1. “Good Morning, This email is to confirm that the received quote has been processed in Marketplace and submitted under Requisition 183318839.”
 2. That requisition should be visible in your marketplace— you can see where it is being shipped to, and whether it’s been sent to supplier, and status: 
     
-    ![Screen Shot 2024-04-12 at 11.10.22 AM.png](Computer%20Purchasing%20-%20Sharable%2098fc20d792354460845c17fae51c867e/Screen_Shot_2024-04-12_at_11.10.22_AM.png)
+    ![Screen Shot 2024-04-12 at 11.10.22 AM.png](Computer Purchasing - Sharable 98fc20d792354460845c17fae51c867e/Screen_Shot_2024-04-12_at_11.10.22_AM.png)
     
 3.  A purchase order will also have been made by UBHC. You can view the invoices, items and PO number, and whether it’s been completed
     
-    ![Screen Shot 2024-04-12 at 11.11.00 AM.png](Computer%20Purchasing%20-%20Sharable%2098fc20d792354460845c17fae51c867e/Screen_Shot_2024-04-12_at_11.11.00_AM.png)
+    ![Screen Shot 2024-04-12 at 11.11.00 AM.png](Computer Purchasing - Sharable 98fc20d792354460845c17fae51c867e/Screen_Shot_2024-04-12_at_11.11.00_AM.png)
     
 4. Then you should get emails from Kite+Key and the supplier (or sciquest) about your order having been processed
 
@@ -44,8 +44,8 @@ Date: January 30, 2024 10:04 AM
 
 1. Coordinate a time with him to pickup your items (only a 2 min walk from CAHBIR)
 
-![Screen Shot 2024-04-12 at 11.12.25 AM.png](Computer%20Purchasing%20-%20Sharable%2098fc20d792354460845c17fae51c867e/Screen_Shot_2024-04-12_at_11.12.25_AM.png)
+![Screen Shot 2024-04-12 at 11.12.25 AM.png](Computer Purchasing - Sharable 98fc20d792354460845c17fae51c867e/Screen_Shot_2024-04-12_at_11.12.25_AM.png)
 
 Example of completed quote:
 
-[Lab Manager RA SOPs.pdf](Computer%20Purchasing%20-%20Sharable%2098fc20d792354460845c17fae51c867e/Lab_Manager_RA_SOPs.pdf)
+[Lab Manager RA SOPs.pdf](Computer Purchasing - Sharable 98fc20d792354460845c17fae51c867e/Lab_Manager_RA_SOPs.pdf)

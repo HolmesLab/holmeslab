@@ -48,12 +48,12 @@ Date: January 30, 2024 10:04 AM
     1. Go to the Rutgers DOTS website ([here](https://ipo.rutgers.edu/dots)) and click on the “DOTSHelp.rutgers.edu” hyperlink found under the “Contact Information” section on the left hand side of the page.
         - **Image Reference**
             
-            ![Screenshot 2023-09-26 at 3.03.12 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.03.12_PM.png)
+            ![Screenshot 2023-09-26 at 3.03.12 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.03.12_PM.png)
             
     2. Click on the “Request Forms” block. Once there, in the “Categories” section click on the “Permitting” tab and then select “One-Day Parking Permit.”
         - **Image Reference**
             
-            ![Screenshot 2023-09-26 at 3.06.22 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.06.22_PM.png)
+            ![Screenshot 2023-09-26 at 3.06.22 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.06.22_PM.png)
             
     3. Fill out the One Day Parking Permit Form as outlined below. Then click “Submit” found in the top right corner.
         - **Form Inputs**
@@ -98,12 +98,12 @@ Date: January 30, 2024 10:04 AM
     1. Go to Ru Marketplace and and in the search bar type “**IPO: RBHS One Day Parking Permit**.” Hit Return or Enter depending on computer type.
         - **Image Reference**
             
-            ![Screenshot 2023-09-25 at 2.31.36 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.31.36_PM.png)
+            ![Screenshot 2023-09-25 at 2.31.36 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.31.36_PM.png)
             
     2. Click on the “**View Form**” on the only option that shows up (it will be “I**PO: RBHS One Day Parking Permit (#3623**)”). The price on the form will list “1.00 USD.”
         - **Image Reference**
             
-            ![Screenshot 2023-09-25 at 2.34.11 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.34.11_PM.png)
+            ![Screenshot 2023-09-25 at 2.34.11 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.34.11_PM.png)
             
     3. In the form fill out the required fields and then click “**Add and Go To Cart**” found in the top right corner.
         - **Specified Fields**
@@ -125,13 +125,13 @@ Date: January 30, 2024 10:04 AM
                     2. e.g., **Total Dollar Amount/Quantity:** 100 —> **Quantity @5/permit:** 20
             - **Image Reference**
                 
-                ![Screenshot 2023-09-25 at 3.31.00 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.31.00_PM.png)
+                ![Screenshot 2023-09-25 at 3.31.00 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.31.00_PM.png)
                 
     4. In the cart, check the Summary section to see 1) who it is prepared for [make sure it is David Zald] and 2) add a brief description to the cart name. Then click “**Proceed to Checkout.**”
         1. Example cart name addition: “canl parking”
         - **Image Reference**
             
-            ![Screenshot 2023-09-25 at 3.37.57 PM 1.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.37.57_PM_1.png)
+            ![Screenshot 2023-09-25 at 3.37.57 PM 1.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.37.57_PM_1.png)
             
     5. In the Checkout section fill out the **General** tab as well as the **Accounting Codes**. Then select “**Submit Requisition**” found in the top right corner.
         - **General Tab**
@@ -144,7 +144,7 @@ Date: January 30, 2024 10:04 AM
             5. Click “**Save**” at the bottom of the screen!!
             - **Image Reference**
                 
-                ![Screenshot 2023-09-25 at 3.44.13 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.44.13_PM.png)
+                ![Screenshot 2023-09-25 at 3.44.13 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.44.13_PM.png)
                 
         - **Accounting Codes**
             
@@ -164,7 +164,7 @@ Date: January 30, 2024 10:04 AM
                 8. **RU Initiative:** 000000
                 - **Image Reference**
                     
-                    ![Screenshot 2023-09-14 at 2.21.42 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-14_at_2.21.42_PM.png)
+                    ![Screenshot 2023-09-14 at 2.21.42 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-14_at_2.21.42_PM.png)
                     
             2. Click “**Save**” in the bottom right corner.
     6. Once requisition is approved, get the purchase order number which can be found in the email sent to you when the requisition is approved. 
@@ -176,33 +176,33 @@ Date: January 30, 2024 10:04 AM
                 3. Go to the “Shopping, Carts & Requisitions” section and have the following settings:
                     - **Image of Settings**
                         
-                        ![Screenshot 2023-09-26 at 2.57.10 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.10_PM.png)
+                        ![Screenshot 2023-09-26 at 2.57.10 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.10_PM.png)
                         
                 4. Go to the “Purchase Orders” section and have the following settings:
                     - **Image of Settings**
                         
-                        ![Screenshot 2023-09-26 at 2.57.59 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.59_PM.png)
+                        ![Screenshot 2023-09-26 at 2.57.59 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.59_PM.png)
                         
             - You can then find the purchase order number by going to “Orders” > “My Purchase Orders” > deleting “PO Owner:” filter > typing your name into search bar.
                 - **Image References**
                     
                     
-                    ![Screenshot 2023-09-26 at 12.18.25 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.18.25_PM.png)
+                    ![Screenshot 2023-09-26 at 12.18.25 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.18.25_PM.png)
                     
-                    ![Screenshot 2023-09-26 at 12.21.03 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.21.03_PM.png)
+                    ![Screenshot 2023-09-26 at 12.21.03 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.21.03_PM.png)
                     
-                    ![Screenshot 2023-09-26 at 12.23.18 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.23.18_PM.png)
+                    ![Screenshot 2023-09-26 at 12.23.18 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.23.18_PM.png)
                     
         2. If you have set up email alerts, the purchase order # will be in the email you get when you get notified that the Purchase Order has been approved.
     7. Go to the Rutgers DOTS website ([here](https://ipo.rutgers.edu/dots)) and click on the “DOTSHelp.rutgers.edu” hyperlink found under the “Contact Information” section on the left hand side of the page.
         - **Image Reference**
             
-            ![Screenshot 2023-09-26 at 3.03.12 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.03.12_PM.png)
+            ![Screenshot 2023-09-26 at 3.03.12 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.03.12_PM.png)
             
     8. Click on the “Request Forms” block. Once there, in the “Categories” section click on the “Permitting” tab and then select “One-Day Parking Permit.”
         - **Image Reference**
             
-            ![Screenshot 2023-09-26 at 3.06.22 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.06.22_PM.png)
+            ![Screenshot 2023-09-26 at 3.06.22 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.06.22_PM.png)
             
     9. Fill out the One Day Parking Permit Form as outlined below. Then click “Submit” found in the top right corner.
         - **Form Inputs**
@@ -223,21 +223,21 @@ Date: January 30, 2024 10:04 AM
                         2. On the page, click the print icon found in the top right corner next to the text bubble with the question mark to create the pdf.
                             - **Image Reference**
                                 
-                                ![Screenshot 2023-09-26 at 3.24.27 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.24.27_PM.png)
+                                ![Screenshot 2023-09-26 at 3.24.27 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.24.27_PM.png)
                                 
                         3. Save PDF with the name given.
             - **Image Reference**
                 
-                ![Screenshot 2023-09-26 at 3.26.31 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.26.31_PM.png)
+                ![Screenshot 2023-09-26 at 3.26.31 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.26.31_PM.png)
                 
     10. Assuming all goes well, you will receive a confirmation email from DOTS saying that the new permits have been assigned to the department.
         1. You can verify by going to the parking portal ([here](https://rudots.nupark.com/v2/portal#/customer)) > clicking the “My Department” tab > Selecting the “Available Permits” tab.
             - **Image Reference**
                 
                 
-                ![Screenshot 2023-09-28 at 4.41.27 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-28_at_4.41.27_PM.png)
+                ![Screenshot 2023-09-28 at 4.41.27 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-28_at_4.41.27_PM.png)
                 
-                ![Screenshot 2023-09-28 at 4.43.41 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-28_at_4.43.41_PM.png)
+                ![Screenshot 2023-09-28 at 4.43.41 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-28_at_4.43.41_PM.png)
                 
 - **Issuing One Day Permits**
     
@@ -248,23 +248,23 @@ Date: January 30, 2024 10:04 AM
     
     - **Rutgers Instruction PDF**
         
-        [QUICK GUIDE Department Accounts Assign One Day ePermit Visitors New Parking.pdf](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/QUICK_GUIDE_Department_Accounts_Assign_One_Day_ePermit_Visitors_New_Parking.pdf)
+        [QUICK GUIDE Department Accounts Assign One Day ePermit Visitors New Parking.pdf](Parking Permits eb5f3e20f6054212a61f399a043afa6c/QUICK_GUIDE_Department_Accounts_Assign_One_Day_ePermit_Visitors_New_Parking.pdf)
         
     1. Go to the Rutgers DOTS Parking portal ([here](https://rudots.nupark.com/v2/portal#/customer)) and select the “My Department” tab.
         - **Image Reference**
             
-            ![Screenshot 2023-11-01 at 3.21.32 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.21.32_PM.png)
+            ![Screenshot 2023-11-01 at 3.21.32 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.21.32_PM.png)
             
     2. In the “My Department” tab, select the “Vehicles” tab and then click the “+ ADD” button found on the far right side to add the subject’s vehicle information.
         - **Image Reference**
             
-            ![Screenshot 2023-11-01 at 3.24.26 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.24.26_PM.png)
+            ![Screenshot 2023-11-01 at 3.24.26 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.24.26_PM.png)
             
         - If there is already a vehicle (for another subject/person) in the “Vehicle” tab, make sure to remove it **BEFORE** clicking the “+add” button.
             - This is done by selecting the “x” button found on the far left side next to the vehicle description.
                 - **Image Reference**
                     
-                    ![Screenshot 2023-11-01 at 3.30.19 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.30.19_PM.png)
+                    ![Screenshot 2023-11-01 at 3.30.19 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.30.19_PM.png)
                     
     3. Fill out the appropriate vehicle and owner information
         1. Will need the State, License Plate #, Subject’s name, and email.
@@ -272,17 +272,17 @@ Date: January 30, 2024 10:04 AM
     4. Once the vehicle has been added to the department, head to the “Available Permits” tab and select the “+” button next to an available permit.
         - **Image Reference**
             
-            ![Screenshot 2023-11-01 at 3.33.36 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.33.36_PM.png)
+            ![Screenshot 2023-11-01 at 3.33.36 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.33.36_PM.png)
             
     5. Once you’ve selected the “+” button next to the available permit, you need to select the vehicle by clicking on it, assign the appropriate date, and then click “Save”.
         - **Image Reference**
             
-            ![Screenshot 2023-11-01 at 3.37.10 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.37.10_PM.png)
+            ![Screenshot 2023-11-01 at 3.37.10 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.37.10_PM.png)
             
     6. After you have clicked “Save” you should be able to confirm that the permit has been assigned by going to the “Assigned Permits” tab.
         - **Image Reference**
             
-            ![Screenshot 2023-11-01 at 3.40.20 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.40.20_PM.png)
+            ![Screenshot 2023-11-01 at 3.40.20 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-11-01_at_3.40.20_PM.png)
             
 
 ---
@@ -295,12 +295,12 @@ Date: January 30, 2024 10:04 AM
     1. Go to Ru Marketplace and and in the search bar type “**IPO: RBHS One Day Parking Permit**.” Hit Return or Enter depending on computer type.
         - **Image Reference**
             
-            ![Screenshot 2023-09-25 at 2.31.36 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.31.36_PM.png)
+            ![Screenshot 2023-09-25 at 2.31.36 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.31.36_PM.png)
             
     2. Click on the “**View Form**” on the only option that shows up (it will be “I**PO: RBHS One Day Parking Permit (#3623**)”). The price on the form will list “1.00 USD.”
         - **Image Reference**
             
-            ![Screenshot 2023-09-25 at 2.34.11 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.34.11_PM.png)
+            ![Screenshot 2023-09-25 at 2.34.11 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_2.34.11_PM.png)
             
     3. In the form fill out the required fields and then click “**Add and Go To Cart**” found in the top right corner.
         - **Specified Fields**
@@ -325,13 +325,13 @@ Date: January 30, 2024 10:04 AM
                 2. This is optional but might be good if this is your first time doing this.
             - **Image Reference**
                 
-                ![Screenshot 2023-09-25 at 3.31.00 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.31.00_PM%201.png)
+                ![Screenshot 2023-09-25 at 3.31.00 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.31.00_PM 1.png)
                 
     4. In the cart, check the Summary section to see 1) who it is prepared for [make sure it is David Zald] and 2) add a brief description to the cart name. Then click “**Proceed to Checkout.**”
         1. Example cart name addition: “canl parking”
         - **Image Reference**
             
-            ![Screenshot 2023-09-25 at 3.37.57 PM 1.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.37.57_PM_1.png)
+            ![Screenshot 2023-09-25 at 3.37.57 PM 1.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.37.57_PM_1.png)
             
     5. In the Checkout section fill out the **General** tab as well as the **Accounting Codes**. Then select “**Submit Requisition**” found in the top right corner.
         - **General Tab**
@@ -344,7 +344,7 @@ Date: January 30, 2024 10:04 AM
             5. Click “**Save**” at the bottom of the screen!!
             - **Image Reference**
                 
-                ![Screenshot 2023-09-25 at 3.44.13 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.44.13_PM.png)
+                ![Screenshot 2023-09-25 at 3.44.13 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.44.13_PM.png)
                 
         - **Accounting Codes**
             
@@ -364,7 +364,7 @@ Date: January 30, 2024 10:04 AM
                 8. **RU Initiative:** 000000
                 - **Image Reference**
                     
-                    ![Screenshot 2023-09-14 at 2.21.42 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-14_at_2.21.42_PM%201.png)
+                    ![Screenshot 2023-09-14 at 2.21.42 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-14_at_2.21.42_PM 1.png)
                     
             2. Click “**Save**” in the bottom right corner.
     6. Once requisition is approved, get the purchase order number which can be found in the email sent to you when the requisition is approved. 
@@ -376,33 +376,33 @@ Date: January 30, 2024 10:04 AM
                 3. Go to the “Shopping, Carts & Requisitions” section and have the following settings:
                     - **Image of Settings**
                         
-                        ![Screenshot 2023-09-26 at 2.57.10 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.10_PM.png)
+                        ![Screenshot 2023-09-26 at 2.57.10 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.10_PM.png)
                         
                 4. Go to the “Purchase Orders” section and have the following settings:
                     - **Image of Settings**
                         
-                        ![Screenshot 2023-09-26 at 2.57.59 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.59_PM.png)
+                        ![Screenshot 2023-09-26 at 2.57.59 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_2.57.59_PM.png)
                         
             - You can then find the purchase order number by going to “Orders” > “My Purchase Orders” > deleting “PO Owner:” filter > typing your name into search bar.
                 - **Image References**
                     
                     
-                    ![Screenshot 2023-09-26 at 12.18.25 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.18.25_PM.png)
+                    ![Screenshot 2023-09-26 at 12.18.25 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.18.25_PM.png)
                     
-                    ![Screenshot 2023-09-26 at 12.21.03 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.21.03_PM.png)
+                    ![Screenshot 2023-09-26 at 12.21.03 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.21.03_PM.png)
                     
-                    ![Screenshot 2023-09-26 at 12.23.18 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.23.18_PM.png)
+                    ![Screenshot 2023-09-26 at 12.23.18 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_12.23.18_PM.png)
                     
         2. If you have set up email alerts, the purchase order # will be in the email you get when you get notified that the Purchase Order has been approved.
     7. Go to the Rutgers DOTS website ([here](https://ipo.rutgers.edu/dots)) and click on the “DOTSHelp.rutgers.edu” hyperlink found under the “Contact Information” section on the left hand side of the page.
         - **Image Reference**
             
-            ![Screenshot 2023-09-26 at 3.03.12 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.03.12_PM.png)
+            ![Screenshot 2023-09-26 at 3.03.12 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.03.12_PM.png)
             
     8. Click on the “Request Forms” block. Once there, in the “Categories” section click on the “Permitting” tab and then select “One-Day Parking Permit.”
         - **Image Reference**
             
-            ![Screenshot 2023-09-26 at 3.06.22 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.06.22_PM.png)
+            ![Screenshot 2023-09-26 at 3.06.22 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.06.22_PM.png)
             
     9. Fill out the One Day Parking Permit Form as outlined below. Then click “Submit” found in the top right corner.
         - **Form Inputs**
@@ -425,12 +425,12 @@ Date: January 30, 2024 10:04 AM
                         2. On the page, click the print icon found in the top right corner next to the text bubble with the question mark to create the pdf.
                             - **Image Reference**
                                 
-                                ![Screenshot 2023-09-26 at 3.24.27 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.24.27_PM.png)
+                                ![Screenshot 2023-09-26 at 3.24.27 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.24.27_PM.png)
                                 
                         3. Save PDF with the name given.
             - **Image Reference**
                 
-                ![Screenshot 2023-09-26 at 3.26.31 PM.png](Parking%20Permits%20eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.26.31_PM%201.png)
+                ![Screenshot 2023-09-26 at 3.26.31 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-26_at_3.26.31_PM 1.png)
                 
     10. Assuming all goes well, DOTS will reach out in **1-2 days** with a Nupark Account # which you will need to store in a safe space that you will remember!
         1. You will use the Nupark Account # when requesting new permits.

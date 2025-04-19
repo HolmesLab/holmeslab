@@ -17,7 +17,7 @@ Date: July 16, 2024 4:18 PM
 
 ## Pre-Travel Request:
 
-Tutorial: [Creating and Submitting a Request in Concur](https://rutgersconnect.sharepoint.com/:b:/r/sites/UPSCOE-JobAids2/Shared%20Documents/Job%20Aids/Expense%20MGMT%20Aids/Expense%20Training%20Material/Creating%20and%20Submitting%20a%20Request%20in%20Concur.pdf?csf=1&web=1&e=0s2Shv)
+Tutorial: [Creating and Submitting a Request in Concur](https://rutgersconnect.sharepoint.com/:b:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Creating and Submitting a Request in Concur.pdf?csf=1&web=1&e=0s2Shv)
 
 - do this ~1-2wks before you need your hotels and airfare to be booked
 
@@ -50,7 +50,7 @@ Quick notes:
 
 ### Video Tutorials:
 
-- [Creating a Travel Request](https://rutgersconnect.sharepoint.com/:v:/r/sites/UPSCOE-JobAids2/Shared%20Documents/Job%20Aids/Expense%20MGMT%20Aids/Expense%20Training%20Material/Training%20Videos/VIDEO%20-%20Creating%20a%20Travel%20Request%20(Pre-Trip%20Authorization).mp4?csf=1&web=1&e=nUiipC)
+- [Creating a Travel Request](https://rutgersconnect.sharepoint.com/:v:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Training Videos/VIDEO - Creating a Travel Request (Pre-Trip Authorization).mp4?csf=1&web=1&e=nUiipC)
 - [Creating a Travel Request (pre-recorded online training session)](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EaV_3plCVSxMs7FvSxDjc0cBJONj04WpI-42oLcR6pl0Fw?e=jxTPpC)
 - [Creating and Editing a Cash Advance](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EdioX04Eii1EnGxs7VVvyHQB93MKF8BtogMDQ4zVxES2rg?e=lHXQvW)
 - [Adding a Travel Allowance (or Per Diem) to a Pre-trip Request](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EfrmAfAhz1pJiSawm1XENjwBbH6QlQ2097S2ySUc1NbKvA?e=5nHiYt)
@@ -67,7 +67,7 @@ Quick notes:
 Rutgers-Specific
 
 - [Adding an Expense](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/ETCoLNLJgjZBvfxrwZk2IbYBNjzzqGlbvCpxM1pn7oBv_A?e=mcTyba)
-- [Adding a Travel Allowance (Per Diem) to an Expense Report](https://rutgersconnect.sharepoint.com/:v:/r/sites/UPSCOE-JobAids2/Shared%20Documents/Job%20Aids/Expense%20MGMT%20Aids/Expense%20Training%20Material/Training%20Videos/VIDEO%20-%20Adding%20a%20Travel%20Allowance%20(or%20Per%20Diem)%20to%20a%20Report.mp4?csf=1&web=1&e=Z4hH4V)
+- [Adding a Travel Allowance (Per Diem) to an Expense Report](https://rutgersconnect.sharepoint.com/:v:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Training Videos/VIDEO - Adding a Travel Allowance (or Per Diem) to a Report.mp4?csf=1&web=1&e=Z4hH4V)
 - [Creating and Editing a Cash Advance](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EdioX04Eii1EnGxs7VVvyHQB93MKF8BtogMDQ4zVxES2rg?e=lHXQvW)
 
 ### Online Webpage Tutorials: Travel & Expense Reports
@@ -92,7 +92,7 @@ Rutgers-Specific
 
 - [Concur Expense Management QuickStart Guide](https://dam.sap.com/mac/app/p/pdf/asset/preview/8kCRFEG?ltr=a)
 - [Concur Expense Management Mobil App QuickStart Guide (Mobile iPhone)](https://dam.sap.com/mac/app/p/pdf/asset/preview/e4HhDXv?ltr=a)
-- [Adding Banking Information to Oracle Expense](https://rutgersconnect.sharepoint.com/:b:/r/sites/UPSCOE-JobAids2/Shared%20Documents/Job%20Aids/Expense%20MGMT%20Aids/Expense%20Training%20Material/Adding%20Banking%20Information%20to%20Oracle%20Expense.pdf?csf=1&web=1&e=mH2hIz)
+- [Adding Banking Information to Oracle Expense](https://rutgersconnect.sharepoint.com/:b:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Adding Banking Information to Oracle Expense.pdf?csf=1&web=1&e=mH2hIz)
 
 ### **Video Tutorials:**
 

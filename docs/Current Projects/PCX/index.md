@@ -1,8 +1,11 @@
 ---
 layout: minimal
-title: Current Data Collections
+title: PCX
+parent: Current Projects
 nav_enabled: true
+has_children: true
+has_toc: true
 ---
 
-# Current Data Collections
+
 [Return to main website]({{site.baseurl}}/).

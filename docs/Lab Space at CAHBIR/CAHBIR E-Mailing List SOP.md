@@ -26,19 +26,19 @@ If you have any questions, or are having trouble subscribing, please email [cahb
 2. Sign in with your NetID (’Rutgers CAS Login’)
 3. Click on ‘See all lists’
     
-    ![Screenshot 2024-09-16 at 1.02.15 PM.png](CAHBIR%20E-Mailing%20List%20SOP%20103cf00eb9368009abb9d9dc925a9803/Screenshot_2024-09-16_at_1.02.15_PM.png)
+    ![Screenshot 2024-09-16 at 1.02.15 PM.png](CAHBIR E-Mailing List SOP 103cf00eb9368009abb9d9dc925a9803/Screenshot_2024-09-16_at_1.02.15_PM.png)
     
     1. Go to page 11 (if 10 results per page)
     2. Click on ‘Cahbir_news’
         
-        ![Screenshot 2024-09-16 at 1.03.49 PM.png](CAHBIR%20E-Mailing%20List%20SOP%20103cf00eb9368009abb9d9dc925a9803/Screenshot_2024-09-16_at_1.03.49_PM.png)
+        ![Screenshot 2024-09-16 at 1.03.49 PM.png](CAHBIR E-Mailing List SOP 103cf00eb9368009abb9d9dc925a9803/Screenshot_2024-09-16_at_1.03.49_PM.png)
         
     
     6. Click ‘Subscribe’
     
     Now you should get an email from [cahbir_news-confirm+XXXXXXXXX@email.rutgers.edu](mailto:cahbir_news-confirm+XXXXXXXXX@email.rutgers.edu) like this, which gives you a hexcode you have to send back to [cahbir_news-request@email.rutgers.edu](mailto:cahbir_news-request@email.rutgers.edu): 
     
-    ![Screenshot 2024-09-16 at 1.05.15 PM.png](CAHBIR%20E-Mailing%20List%20SOP%20103cf00eb9368009abb9d9dc925a9803/Screenshot_2024-09-16_at_1.05.15_PM.png)
+    ![Screenshot 2024-09-16 at 1.05.15 PM.png](CAHBIR E-Mailing List SOP 103cf00eb9368009abb9d9dc925a9803/Screenshot_2024-09-16_at_1.05.15_PM.png)
     
 
 Now you should be getting the CAHBIR emails!

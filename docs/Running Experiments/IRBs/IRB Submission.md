@@ -19,8 +19,8 @@ Single IRB review / multi site IRBs / Reviewing IRBs / Reliance IRBs: [https://s
 
 ## Resources
 
-- IRB Submission Help: [IRBOffice@research.rutgers.edu](mailto:IRBOffice@research.rutgers.edu?subject=IRB%20Submission%20Help)
-- Tech Support: [eIRB@research.rutgers.edu](mailto:eIRB@research.rutgers.edu?subject=eIRB%20Technical%20Support%20Question)
+- IRB Submission Help: [IRBOffice@research.rutgers.edu](mailto:IRBOffice@research.rutgers.edu?subject=IRB Submission Help)
+- Tech Support: [eIRB@research.rutgers.edu](mailto:eIRB@research.rutgers.edu?subject=eIRB Technical Support Question)
 - Guidance: [Human Subjects Protection Program (HSPP) Toolkit | Rutgers Research](https://research.rutgers.edu/researcher-support/research-compliance/human-subjects-protection-program-toolkit)
 - Templates, Forms & Procedures: [HRPP Research Protocol Templates](https://research.rutgers.edu/researcher-support/research-compliance/human-research-protection-program/toolkit)
 - [**(HRP-103) Investigator Manual: A Guide To Human Subjects’ Protection In Research](https://research.rutgers.edu/sites/default/files/2022-02/hrp-103_-_sop_-_investigator_manual_a_guide_to_hspp_1.21.22.pdf)**
@@ -36,7 +36,7 @@ Single IRB review / multi site IRBs / Reviewing IRBs / Reliance IRBs: [https://s
 
 [eIRB Quick Reference Guide for Investigators](https://research.rutgers.edu/sites/default/files/2021-04/eirb_quick_reference_guide_for_investigators_11.8.16_v2.pdf) (PDF)
 
-[eIRB User Manual For Research Staff](https://research.rutgers.edu/sites/default/files/2021-08/eIRB%20User%20Manual%20for%20Research%20Staff%20v2%2010.2016.pdf) (PDF)
+[eIRB User Manual For Research Staff](https://research.rutgers.edu/sites/default/files/2021-08/eIRB User Manual for Research Staff v2 10.2016.pdf) (PDF)
 
 **Reliance (External) IRB Manuals**
 
@@ -131,7 +131,7 @@ eCOI [Quick Start Guide](https://uec.rutgers.edu/wp-content/uploads/eCOI-Quick-
 
 ## After getting IRB Approval:
 
-![Screen Shot 2024-01-08 at 12.25.42 PM.png](IRB%20Submission%200da7e2c1a78e4d05a5ba1775182c3592/Screen_Shot_2024-01-08_at_12.25.42_PM.png)
+![Screen Shot 2024-01-08 at 12.25.42 PM.png](IRB Submission 0da7e2c1a78e4d05a5ba1775182c3592/Screen_Shot_2024-01-08_at_12.25.42_PM.png)
 
 **you must do these things, otherwise you’ll be put on probation
 

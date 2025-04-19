@@ -154,7 +154,7 @@ Slurm jobs (sending jobs to be run in the compute cluster) should be used for ev
 
 1. Make sure both .sh files are in the SAME folder in your home directory, or *somewhere in amarel*, not on your local computer
     
-    ![Screen Shot 2024-03-21 at 10.38.41 AM.png](Lab%20Wiki%20-%20Shareable%2044d5a7a0268f45af9b28447a0f314202/Slurm%20Jobs%20&%20Downloads%20eef0f4af183a432dafcf82ece18b7cd9/Screen_Shot_2024-03-21_at_10.38.41_AM.png)
+    ![Screen Shot 2024-03-21 at 10.38.41 AM.png](Lab Wiki - Shareable 44d5a7a0268f45af9b28447a0f314202/Slurm Jobs & Downloads eef0f4af183a432dafcf82ece18b7cd9/Screen_Shot_2024-03-21_at_10.38.41_AM.png)
     
 2. open terminal ($ indicates terminal entry)
     1. $ `cd /home/netID/folder...` ← replace with wherever your run_scriptname.sh files are saved
@@ -175,7 +175,7 @@ if anything weird comes up can do `scancel kj537`
 
 From Cluster User Guide: 
 
-![Screen Shot 2024-02-28 at 3.08.55 PM.png](Lab%20Wiki%20-%20Shareable%2044d5a7a0268f45af9b28447a0f314202/Slurm%20Jobs%20&%20Downloads%20eef0f4af183a432dafcf82ece18b7cd9/Screen_Shot_2024-02-28_at_3.08.55_PM.png)
+![Screen Shot 2024-02-28 at 3.08.55 PM.png](Lab Wiki - Shareable 44d5a7a0268f45af9b28447a0f314202/Slurm Jobs & Downloads eef0f4af183a432dafcf82ece18b7cd9/Screen_Shot_2024-02-28_at_3.08.55_PM.png)
 
 ## Common commands
 

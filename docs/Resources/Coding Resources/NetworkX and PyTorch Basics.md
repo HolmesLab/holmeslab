@@ -62,7 +62,7 @@ example using a network of nodes in networkX
 | creating weight matrix for your embedding layer | torch.rand(*num, dim*) |
 | assign that weight matrix to your embedding layer as the data | *embedding_layer*.weight.data = torch.rand(*num, dim*) |
 
-![Screen Shot 2023-12-14 at 7.17.57 PM.png](NetworkX%20and%20PyTorch%20Basics%207b621f3ed3394027bb007169db55c0c8/Screen_Shot_2023-12-14_at_7.17.57_PM.png)
+![Screen Shot 2023-12-14 at 7.17.57 PM.png](NetworkX and PyTorch Basics 7b621f3ed3394027bb007169db55c0c8/Screen_Shot_2023-12-14_at_7.17.57_PM.png)
 
 ### Functions:
 

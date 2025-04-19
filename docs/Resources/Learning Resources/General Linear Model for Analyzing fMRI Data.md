@@ -66,7 +66,7 @@ This is the X matrix
 
 GLM:
 
-![Screen Shot 2024-02-06 at 10.35.01 AM.png](General%20Linear%20Model%20for%20Analyzing%20fMRI%20Data%205da7aecc235a4eaabf5383d271a60435/Screen_Shot_2024-02-06_at_10.35.01_AM.png)
+![Screen Shot 2024-02-06 at 10.35.01 AM.png](General Linear Model for Analyzing fMRI Data 5da7aecc235a4eaabf5383d271a60435/Screen_Shot_2024-02-06_at_10.35.01_AM.png)
 
 Formula: 
 

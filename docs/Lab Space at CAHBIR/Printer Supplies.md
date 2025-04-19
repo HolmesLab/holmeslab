@@ -25,4 +25,4 @@ When any of the printer supplies are low (four toner colors for the printer, ink
 5. Save cart
 6. Make the following edits
     
-    ![Screenshot 2023-07-13 at 12.34.55 PM.png](Printer%20Supplies%203e1b247815ea4d0f8abbb01982c62e39/Screenshot_2023-07-13_at_12.34.55_PM.png)
+    ![Screenshot 2023-07-13 at 12.34.55 PM.png](Printer Supplies 3e1b247815ea4d0f8abbb01982c62e39/Screenshot_2023-07-13_at_12.34.55_PM.png)

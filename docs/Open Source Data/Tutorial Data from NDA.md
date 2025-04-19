@@ -61,14 +61,14 @@ If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you
 7. Download the DUC file (auto-created)
     1. E-sign it as the Lead Recipient
     
-    ![Screenshot 2024-09-25 at 10.07.13 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screenshot_2024-09-25_at_10.07.13_AM.png)
+    ![Screenshot 2024-09-25 at 10.07.13 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screenshot_2024-09-25_at_10.07.13_AM.png)
     
 8. Email the signed file to **Gregory Werhner** [cp847@ored.rutgers.edu](mailto:cp847@ored.rutgers.edu)
     1. Message: “Hi Chrissa, 
     I’m a researcher in the Holmes Lab and we’re applying for access to the NDA dataset [Enter dataset name] for the purposes of scientific investigation. The data will be stored on a secure server, in a password protected file on the Rutgers University Amarel computing cluster. The folder will only be accessible by those listed in this DUA. All raw data will be deleted after the conclusion of the project.”
 9. Once you receive it back signed, upload the DUC (signed by both of you) to the “Upload Supporting Documentation” under “active requests”
     
-    ![Screen Shot 2024-01-26 at 3.40.04 PM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-01-26_at_3.40.04_PM.png)
+    ![Screen Shot 2024-01-26 at 3.40.04 PM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-01-26_at_3.40.04_PM.png)
     
 10. Wait to get granted access
 
@@ -137,37 +137,37 @@ conda list
 3. search the dataset you want
     1. Get Data > Text Search > “dataset name”
         
-        ![Screen Shot 2024-03-07 at 11.34.56 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.34.56_AM.png)
+        ![Screen Shot 2024-03-07 at 11.34.56 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.34.56_AM.png)
         
 4. select it from the search results and press “Add to Workspace”
     
-    ![Screen Shot 2024-03-07 at 11.35.15 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.35.15_AM.png)
+    ![Screen Shot 2024-03-07 at 11.35.15 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.35.15_AM.png)
     
 5. see that the number of subjects in the “**Filter Cart**” in the upper right hand corner is the appropriate amount. If so, press ‘Create Data Package/Add Data to Study’
     
-    ![Screen Shot 2024-03-07 at 11.35.59 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.35.59_AM.png)
+    ![Screen Shot 2024-03-07 at 11.35.59 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.35.59_AM.png)
     
 6. Press “Go to Data Packaging Page” (if it doesn’t automatically) and select from the checkboxes all the data you want
     1. on the left “Collections By Permission Group” is the collections/datasets and all their iterations
     2. on the right “Data Structure by Category” is the types of data within it
         1. deselect if you don’t want it
         
-        ![Screen Shot 2024-03-07 at 11.37.50 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.37.50_AM.png)
+        ![Screen Shot 2024-03-07 at 11.37.50 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.37.50_AM.png)
         
 7. Press “Create Data Package” button
     1. Clear name so you can reference back
     2. Make SURE to check the box for “Include associated data files”
     3. press “Create Data Package” 
     
-    ![Screen Shot 2024-03-07 at 11.38.53 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.38.53_AM.png)
+    ![Screen Shot 2024-03-07 at 11.38.53 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.38.53_AM.png)
     
 8. You should get a popup like this. Go to dashboard via link or go to your User Profile ([https://nda.nih.gov/user/dashboard/profile.html](https://nda.nih.gov/user/dashboard/profile.html)) and click on Data Packages
     
-    ![Screen Shot 2024-03-07 at 11.40.43 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.40.43_AM.png)
+    ![Screen Shot 2024-03-07 at 11.40.43 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.40.43_AM.png)
     
 9. Your packages should look like this, including the one you just made. The just-made one will say Status: “Creating Package” for a couple minutes, but then will populate with Status: “Ready to Download” and the size
     
-    ![Screen Shot 2024-03-07 at 11.42.13 AM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.42.13_AM.png)
+    ![Screen Shot 2024-03-07 at 11.42.13 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-07_at_11.42.13_AM.png)
     
 10. When it says “ready to download” and the size seems right, copy the Package ID Number in the first column for the package you want to download
 11. Open text editor (BBEdit, Textedit, VSCode, etc.) and paste this code
@@ -207,7 +207,7 @@ conda list
     1. Your job should be listed in a table like this
     2. your job is the one that says ‘main’ at the top, in this example it’s ‘shell_dca+’ (which is the beginning of the [shellfile.sh](http://shellfile.sh) name). this is the one that should be ‘RUNNING’ and ‘COMPLETED’. if this one fails, the ‘batch’ or ‘extern’ files may say ‘COMPLETED’, but your job has still failed
         
-        ![Screen Shot 2024-03-28 at 6.33.23 PM.png](Tutorial%20Data%20from%20NDA%20fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-28_at_6.33.23_PM.png)
+        ![Screen Shot 2024-03-28 at 6.33.23 PM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-03-28_at_6.33.23_PM.png)
         
 
 If it says “FAILED”:
