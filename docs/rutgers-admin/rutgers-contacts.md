@@ -1,6 +1,7 @@
 ---
 layout: minimal
-title: Rutgers Admin
+title: Contacts at Rutgers
+parent: Rutgers Admin
 nav_enabled: true
 ---
 Contacts at Rutgers

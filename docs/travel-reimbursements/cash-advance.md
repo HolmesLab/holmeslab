@@ -1,6 +1,6 @@
 ---
 layout: minimal
-parent: Trave; & Reimbursements
+parent: Travel & Reimbursements
 title: Cash Advances
 nav_enabled: true
 ---
