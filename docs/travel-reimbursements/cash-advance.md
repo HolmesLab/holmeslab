@@ -8,6 +8,8 @@ nav_enabled: true
 # Cash Advances
 Cash advances are direct deposits into your linked bank account/reimbursement location in Concur. These are requested for a particular approved trip. It is often used to request the per-diem amount for the city you're travelling to. Then, you can get that money deposited into your account without having to pay out of pocket and wait for reimbursement. Any cash advance over $100/day needs special approval. 
 
+You should request the cash advance a few weeks before your trip, and it will be deposited 2 weeks before your trip. You can try to submit it within 2 weeks of leaving, it's just not guaranteed that it will be approved/deposited. 
+
 # Creating and editing a cash advance in Concur
 
 ## 1. Open SAP Concur
