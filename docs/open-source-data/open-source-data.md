@@ -1,7 +1,7 @@
 ---
-title: Data Resource Sites
+title: Data Repositories
 parent: Open Source Data
-nav_enabled: true 
+nav_enabled: true
 ---
 Date: March 28, 2024 1:21 PM
 
