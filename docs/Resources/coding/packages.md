@@ -5,8 +5,12 @@ nav_enabled: true
 ---
 
 # Packages for fMRI Analysis
-
 Date: December 8, 2023 11:50 AM
+---
+### Table of Contents
+1. TOC
+{:toc}
+---
 
 [Table of Tools for fMRI Analysis](https://sidchop.shinyapps.io/braincode_selector/) (by Sid Chopra, 2023)
 

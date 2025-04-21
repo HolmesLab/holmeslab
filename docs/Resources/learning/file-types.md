@@ -5,8 +5,12 @@ nav_enabled: true
 ---
 
 # File Types: Neuroimaging
-
 Date: February 26, 2024 4:27 PM
+---
+### Table of Contents
+1. TOC
+{:toc}
+---
 
 # Volume-based data
 

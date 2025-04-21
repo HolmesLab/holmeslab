@@ -5,8 +5,13 @@ nav_enabled: true
 ---
 
 # FreeSurfer Overview
-
 Date: January 16, 2024 1:15 PM
+
+---
+### Table of Contents
+1. TOC
+{:toc}
+---
 
 ***Freesurfer is a neuroimaging software package. More information at [https://surfer.nmr.mgh.harvard.edu/](https://surfer.nmr.mgh.harvard.edu/)* 
 

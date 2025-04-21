@@ -5,12 +5,14 @@ nav_enabled: true
 ---
 
 # Courses: Neuroimaging Online Courses / Workshops
-
 Date: March 28, 2024 1:31 PM
 
-**TABLE OF CONTENTS**
-
 ---
+### Table of Contents
+1. TOC
+{:toc}
+---
+
 
 ## Neuroscience Research Courses:
 

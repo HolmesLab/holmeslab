@@ -4,8 +4,12 @@ parent: Travel & Reimbursement
 nav_enabled: true 
 ---
 # MAIN Travel Booking Tutorial
-
 Date: February 25, 2025 4:20 PM
+---
+### Table of Contents
+1. TOC
+{:toc}
+---
 
 ## TIMELINE:
 

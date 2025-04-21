@@ -5,17 +5,18 @@ nav_enabled: true
 order: 1
 ---
 # Lab Overview
-```bash
+Date: April 2, 2025 7:57 PM
+---
+### Table of Contents
 1. TOC
 {:toc}
-```
-Date: April 2, 2025 7:57 PM
+---
 
-**General Lab Work Expectations**
+## General Lab Work Expectations
 
 Science is hard, but it’s also fun. In the Holmes Lab, we want to make sure that everyone experiences a positive, engaging, hostility-free, challenging, and rewarding lab environment. To maintain that environment, we all have to do a few things.
 
-**Expectation of Lab Members** – *Big Picture*
+### **Expectation of Lab Members** – *Big Picture*
 
 - Support and respect your fellow lab-mates. **Science is collaborative, not competitive.**
 - Help others, and you can expect others to help you when you need it.
@@ -28,7 +29,7 @@ Science is hard, but it’s also fun. In the Holmes Lab, we want to make sure th
 - Stay up to date on the latest research by using RSS feeds, following scientists on google scholar, and/or getting email updates from your favorite journals. Also consider following scientists on Bluesky.
 - **Have a life outside of the lab, take care of your mental and physical health, and don’t ever feel bad for taking time off work.**
 
-**Expectation of Lab Members** – *Small Picture*
+### **Expectation of Lab Members** – *Small Picture*
 
 There are a few day-to-day things to keep in mind to keep the lab running smoothly.
 
@@ -62,7 +63,7 @@ All of the above, and you will also be expected to…
 - Apply for jobs (academic or otherwise) when you’re ready, but no later than the beginning of your 4th year of post-doc. If you think you’d like to leave academia, that’s completely okay – but you should still treat your post-doc seriously, and talk to me about how to best train for a job outside academia
 - Challenge me when I’m wrong or when your opinion is different, and treat the rest of the lab to your scientific expertise and perspectives.
 
-**What you can expect from Avram**
+### **What you can expect from Avram**
 
 I am typically on campus every Monday and Wednesday during the academic year from roughly 9:00 AM through 4:00 PM. I keep an informal schedule and have an open-door policy for my advisees. That means that I am usually available for informal discussions or to take a quick look at data when I am not teaching or attending meetings. I enjoy looking at preliminary results and helping to puzzle though analyses code, and these informal meetings keep me in touch with what is happening in the lab.
 
@@ -74,7 +75,7 @@ As a rule, I don’t hold evening or weekend meetings. I can recall instances in
 
 I keep a more relaxed summer schedule and do not come to the lab every day. Nevertheless, I do hold lab and individual meetings during the summer. In addition to weekly meetings, and occasionally dropping by the lab, you can usually find me working in my office. My door is almost always open; if it is, feel free to ask for a chat. I will always say yes, though sometimes I can only spare a couple of minutes or might ask you to let me finish typing a sentence. If my door is closed, assume that I am either gone, in a meeting, or I do not want to be disturbed – so please send a message (Slack or e-mail) rather than knocking.
 
-**What I expect from you**
+### **What I expect from you**
 
 I expect my primary graduate student advisees and post-docs to be in the lab for some part of every weekday. Working remotely can be very productive, but I believe that the intellectual environment of the lab benefits from the kind of informal interactions that occur when people are working side-by-side in one place.
 
@@ -84,15 +85,15 @@ I similarly expect that my primary graduate student advisees consult with me bef
 
 I expect that my primary graduate advisees follow the departmental and university guidelines with respect to vacation time. That is, students can take two weeks of vacation at a time when classes are not in session. Advisees may also take off when the University is officially closed (e.g., the week between Christmas and New Year’s). However, note that the University is not closed during undergraduate recess periods - such as fall and spring breaks.
 
-**Hours**
+### **Hours**
 
 For graduate students, I understand having to be away for classes and TA-ing, but show up to the lab on a regular basis when you don’t have those obligations. To encourage lab interaction, try to be in most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 11am and 4pm. This is not a hard rule, you can work at home occasionally, and I understand other obligations. But keep it in mind.
 
 At times I may work nights and during the weekends. This means that I will sometimes send emails or Slack messages outside of normal working hours. For the most part, I try not to, but sometimes I do. I do not expect you to respond until you are back at work (ignore me!). I do not expect there to be cases when I suddenly and urgently need something from you over the weekend (e.g., for a grant deadline), but should I anticipate that happening, I will bring it up in advance so we can plan accordingly. All this said, I realize that being told you can ignore my messages might not take away the stress of *seeing* my messages if you check your work email or Slack in the evenings or on weekends. If my off-hours messages are unwelcome and cause distress, please talk to me, and I will be better at not bothering you during your time off. Although I sometimes work weekends, I try to only do that when absolutely necessary. Please respect that by making sure to give me enough heads-up about impending deadlines so that I can get things done for you (e.g., write letters of recommendation, give feedback on manuscripts, etc) while maintaining my work/life balance.
 
-**Research**
+## **Research**
 
-**Choosing a research topic**
+### **Choosing a research topic**
 
 Choosing good research topics is key to a successful graduate school career and beyond. There is no perfect formula for advising on research topics, which depends greatly upon the individual interests of the student. Presumably, a student has chosen to work in my lab because they have a general interest in our program of research. Consequently, in most instances, I have worked very closely with students on developing research topics that were very close to my core intellectual interests.
 
@@ -100,7 +101,7 @@ However, I have also worked closely with students whose research interests diver
 
 In general, research topics develop from conversations between my advisees and me about science that extend over many weeks and months. It is often the case that more direction from me is needed in a student’s initial years and less as the student’s research matures. Thus, re- search independence develops over time and at a different pace for different students. Funding issues in the lab play little or no role in the selection of research topics for graduate student advisees. This is not necessarily true for post-docs, whose research may be funded by grants to me on particular issues.
 
-**Publishing research**
+### **Publishing research**
 
 Like other labs, we will follow the APA guidelines with respect to authorship:
 
@@ -114,19 +115,17 @@ One problematic issue that arises frequently is the orphaned study. This is a st
 
 One last issue concerns the pace of research and publication. Science is a competitive enterprise with many labs often working on the same ideas, and publishing in a timely manner has important benefits. Yale is a high-level research university, and our graduate program is research-focused. Thus, my expectation is that conducting and publishing your research from the lab is your highest priority for your training. However, if a critical project (i.e., one central to the standing of the lab in the field or related to an important aim of the lab’s grant support) is languishing due to a perceived lack of effort, the leadership of that project may be changed.
 
-**Communication Guidelines**
+## **Communication Guidelines**
 
-**Electronic communication**
+### **Electronic communication**
 
 Science requires a lot of ‘head down’ time and the constant use of electronic communication (email, Slack, text) can drive us all to the point of distraction. I do expect that we will use email or Slack to communicate and organize meetings, but I will be always looking for ways to reduce the lab’s dependence on a constant buzz of messages.
 
-**Written communication**
-
-**Journal publications**
+### **Journal publications**
 
 Submitting a paper for publication does not come with a prescribed deadline, but journal articles are more important to your career than departmental milestone documents. I generally work with students on papers in stages. With early drafts, I provide high-level organizational feedback. I frequently meet with students to ‘story-board’ the paper at the level of major points and major figures. In later drafts, I do word-level editing. In the early stages of a paper, where my feedback is organizational, I can usually provide it within one week. However, in later drafts, where I am word-level editing, a two-week period is more typical.
 
-**Oral presentations**
+### **Oral presentations**
 
 In addition to writing papers, learning to give an oral presentation about your work and to defend the work to an audience is essential to a successful career. I encourage students to present their work at as many campus venues as possible (e.g., Current Works, internal lab meetings, lab meet ings of other groups) because practice in giving talks is important. Students will also be presenting their work regularly at my weekly lab meeting. Learning to structure, pace, and deliver a talk is important, and I will strive to help you develop these skills. A common approach used in many labs at Yale, including my lab, is to review a student’s oral presentation with them immediately afterwards, to give pointers and constructive feedback. Depending upon the importance of the talk, it is also common to have one or more practice talks beforehand, where the presentation is shaped and critiqued.
 
@@ -134,19 +133,19 @@ Learning how to answer questions from the audience is just as important as struc
 
 My point here is not that I encourage hostile questions at lab meetings. Quite the contrary. I do not tolerate rude comments during talks in my lab or *ad hominem* remarks disguised as tough questions. However, I do encourage the asking and answering of questions. Students learn to ask questions in a constructive way, and students need to learn to defend their work. We are all personally invested in our research, and we differ in our sensitivity to questions that challenge our results. If anyone in the lab feels that the feedback they are receiving is not constructive, then they should bring this immediately to my attention.
 
-**Resolving Conflicts**
+### **Resolving Conflicts**
 
 If you have a conflict with another student, another faculty member, or a staff member that can’t be resolved with a conversation, you should bring this matter to my attention as soon as possible. It is my responsibility to you as your primary adviser to attempt to resolve disputes. If you have a conflict with me, you can talk to me directly. I have had such conversations in the past, so you needn’t worry about being the first. However, if you feel unable to talk to me directly, you can talk to a trusted faculty member, the DGS, or the Department Chair, who will then speak to me. You can ask them to maintain your anonymity if you so desire. If you have observed unethical behavior in the lab (e.g., anyone not following IRB procedures, or manipulating data, etc.), it is your duty to report this to me immediately and not attempt to resolve it on your own. The scientific and ethical integrity of the lab is my responsibility. I will not reveal your identity in investigating lapses in lab ethics.
 
 If you feel that you have been the target of harassment of any kind and in any context, you can bring this to my attention. I am familiar with the resources available on campus and I will strive to get you the support you need. You can also report the harassment to a Dean's Designee, the Title IX office, the University-wide committee on sexual misconduct, or the Office of Institutional Equity and Access. If you choose to discuss matters with me, I can maintain confidentiality in most cases if you wish. However, like all faculty, I am bound by the law to be a mandatory reporter for Title IX complaints.
 
-**Expectations for Ethical Behavior**
+## **Expectations for Ethical Behavior**
 
-**Personal ethics**
+### **Personal ethics**
 
 I expect that everyone in my lab will treat everyone else honestly and with respect. I expect this of myself also.
 
-**Lab ethics**
+### **Lab ethics**
 
 All lab members must read the IRB approved research protocols that govern the research con- ducted in the lab and abide by those protocols. If informed consent is required by the protocol governing your research, then it must be obtained and documented appropriately prior to running subjects.
 
@@ -156,17 +155,17 @@ You also bear responsibility for your results. I am familiar with cases of suspe
 
 Students must keep dated drafts of major revisions to manuscripts, and that those drafts are preserved in a manner approved by me.
 
-**Ethical lapses**
+### **Ethical lapses**
 
 Making a programming or analysis error is not an ethical lapse. However, realizing that you made an error and then hiding that fact is an ethical lapse. We should always be on the lookout for mistakes. If we find one, even in a paper that was already accepted for publication, we must admit the error and investigate its effect upon our results. If this means a paper is retracted or withdrawn, that is a better outcome than publishing a result that we know is incorrect.
 
 Repeatedly analyzing data using different preprocessing approaches or covariates with the goal of achieving a significant p value, a process known as p-hacking, is not permissible in the lab. It is also not permissible to stop the acquisition of data before the agreed-upon number of subjects were acquired because you achieved a significant result in an intermediate analysis. All procedures for analysis and all subject groups tested must be reported in the published work.
 
-**Open Science**
+### **Open Science**
 
 In recent years, there has been a strong support for more transparent lab procedures and reporting to remedy what has been called the *replication crisis*. Moving forward, I am interested in implementing more of the tenets of the open science movement in my laboratory such as preregistering studies, making all code public, and contributing data to open data repositories.
 
-**Reproducible Research**
+### **Reproducible Research**
 
 If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can’t reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can’t be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab.
 
@@ -176,7 +175,7 @@ The lab’s GitHub should be used to share code, stimuli, and data with the worl
 
 Reproducibility is related to replicability, which refers to whether your results can be obtained again with a *different* data set. That is, if someone ran your study again (with a different group of participants), do they get the same results? If someone ran a conceptually similar study, do they get the same results? Science grows and builds on replicable results – one-off findings don’t mean anything. Our goal is to produce research that is both reproducible and replicable.
 
-**Diversity, Equity, Inclusion**
+## **Diversity, Equity, Inclusion**
 
 The RWJMS Psychiatry Department and the Holmes Lab is committed to Diversity, Equity and Inclusion. At the time of this writing, the Psychology Department and the University are each developing guidelines to ensure Rutgers provides an equitable and inclusive environment where all members feel safe, supported, and valued.
 
@@ -184,7 +183,7 @@ The lab is committed to ensuring a safe, friendly, and accepting environment for
 
 If you notice someone being harassed, or are harassed yourself, tell Avram immediately. If Avram is the cause of your concern, then reach out to the department chair or another trusted faculty member in the department.
 
-**Lab Resources**
+## **Lab Resources**
 
 Wiki
 

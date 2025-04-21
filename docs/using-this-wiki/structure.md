@@ -6,6 +6,11 @@ nav_order: 2
 ---
 
 # Structure of this Wiki
+---
+### Table of Contents
+1. TOC
+{:toc}
+---
 
 Date: April 15, 2025 8:51 PM
 
