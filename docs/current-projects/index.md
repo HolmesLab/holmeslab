@@ -8,10 +8,11 @@ nav_order: 2
 ---
 
 ### Current Data Collections
-```bash
+---
+### Table of Contents
 1. TOC
 {:toc}
-```
+---
 # [Psychiatric Connectomics](http://127.0.0.1:4000/docs/Current Projects/PCX)
 👤 Avram Holmes, PhD — PI, Rutgers University, RWJ Medical School Department of Psychiatry  
 Thomas Yeo, PhD — PI, National University of Singapore  

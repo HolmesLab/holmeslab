@@ -4,7 +4,11 @@ parent: PCX
 ---
 # Full PCX SOP
 Date Updated: Apr 21, 2025  
-
+---
+### Table of Contents
+1. TOC
+{:toc}
+---
 Legend: 
 📟 = add this event to the subject_logs tracker for that subject  
 
