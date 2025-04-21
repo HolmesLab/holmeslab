@@ -1,22 +1,40 @@
 ---
-title: Study Procedure
+title: Full PCX SOP
 parent: PCX
-has_toc: true
-nav_order: 1
 ---
-# Study Procedure
+# Full PCX SOP
+Date Updated: Apr 21, 2025  
 
-*If you’re looking for an overview of the study grant and aims, please go to  [PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)*
-
----
-### Table of Contents
-1. TOC
-{:toc}
----
-
-## Procedures
 Legend: 
 📟 = add this event to the subject_logs tracker for that subject  
+
+## Study Structure
+
+*If you’re looking for an overview of the study grant and aims, please go to* 
+
+[PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)
+
+### IRBs
+
+There are 3 IRBs at Rutgers which make up the Psychiatric Connectomics IRB structure. 
+
+**Mass-General Brigham (IRB of Record / sIRB / Parent site)**
+
+- Protocol Number: #2013P001798
+- Amendment naming: AMEXX
+
+**Rutgers (Child site)**
+
+- Protocol Number: #Pro2024000070
+- Amendment naming: Modification2025XXXXX
+
+**Holmes 01 CCNP Substudy:** 
+
+- Protocol Number: #Pro2025000031
+
+![Screenshot 2025-04-18 at 5.38.56 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
+
+## Procedures
 
 ### Recruit for Clinical Interview Session
 
@@ -24,7 +42,7 @@ Recruitment flyers and example posts are in [/PCX_Round2/Procedures/Recruitment 
 
 Participants get do SCID, refresher SCID or no SCID based on this flow chart:
 
-![Screenshot 2025-04-18 at 4.00.42 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
+![Screenshot 2025-04-18 at 4.00.42 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
 
 ### Phone script for interested participants
 
@@ -41,27 +59,20 @@ Here is a master script for the entire session:
 
 Here is a visual overview: 
 
-![Screenshot 2025-04-18 at 4.00.25 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.25_PM.png)
-
+![Screenshot 2025-04-18 at 4.00.25 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.25_PM.png)
 
 **QUICK LINKS**
 
-[Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
-
-[PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
-
-[Clinical Interview Questions (Optional)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
-
-[Clinician Ratings Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
-
-[Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
-
-[Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
-
+- [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
+- [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
+- [Clinical Interview Questions (Optional)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
+- [Clinician Ratings Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
+- [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
+- [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
 
 ### MRI Session Scheduling
 
-![Screenshot 2025-04-18 at 4.05.44 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
+![Screenshot 2025-04-18 at 4.05.44 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
 
 1. Check the file in [/Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) for any new participants
 2. Copy over new participants to  [/Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)
@@ -70,16 +81,20 @@ Here is a visual overview:
     
     Don’t know how? Read [Tutorial: Booking MRI in iLabs](https://www.notion.so/Scheduling-MRI-Scans-at-CAHBIR-173cf00eb9368082b3c1ec7c9d39c66e?pvs=21)
     
-5. 📟 Email the participant, filling in this template:  [MRI_Scheduling_Email](https://rutgers.box.com/s/nl34g17f6kjcor4c0jtfdn1k1re3bva7) 
+5. 📟 Email the participant, using this template:  [MRI_Scheduling_Email](https://rutgers.box.com/s/nl34g17f6kjcor4c0jtfdn1k1re3bva7) 
 6. 📟 Log responses + scheduled time
 7. 📟 If the participant needs an uber, check how much time it will take to get from the participant’s pickup/dropoff locations and reserve the pickup Lyft for the date/time which will allow the participant to get there in time
-8. Schedule the reminder emails for 2-days out (and 5-days out if the scan is far in advance)
+8. Send the participant a confirmation + info email
+    
+    [MRI Confirmation Email](https://rutgers.box.com/s/a5a3k8n5tdu0az3nerfzi3n4j3igtbf5)
+    
+9. Schedule the reminder emails for 2-days out (and 5-days out if the scan is far in advance)
     
     Appointment_Reminder_2days
     
     [Appointment_Reminder_5days](https://rutgers.box.com/s/a5a3k8n5tdu0az3nerfzi3n4j3igtbf5)
     
-9. Set a reminder for yourself to text the participant 36hrs before the scan time if they haven’t confirmed after the 2days-before email
+10. Set a reminder for yourself to text the participant 36hrs before the scan time if they haven’t confirmed after the 2days-before email
 
 1. **24hrs before MRI Session:** 
     
@@ -90,7 +105,7 @@ Here is a visual overview:
 
 ### MRI Session + Supplemental Battery
 
-![Screenshot 2025-04-18 at 4.06.51 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.06.51_PM.png)
+![Screenshot 2025-04-18 at 4.06.51 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.06.51_PM.png)
 
 **Session Day:**
 
@@ -120,26 +135,17 @@ Here is a visual overview:
     [Tutorial: BIDS in Flywheel to Amarel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21) 
     
 
-<aside>
+**QUICK LINKS**
 
-QUICK LINKS
-
-[Session Docs on Box](https://rutgers.box.com/s/n3jowubh3tbjb9kzyyp73o7sfpxeam8e)
-
-[PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
-
-[PCX_fMRIVisit_SelfReport](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU)
-
-MindLAMP Instructions
-
-</aside>
-
+- [Session Docs on Box](https://rutgers.box.com/s/n3jowubh3tbjb9kzyyp73o7sfpxeam8e)
+- [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
+- [PCX_fMRIVisit_SelfReport](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU)
+- [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)
+- [MindLAMP Instructions for User](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)
 - [PCX_ClinicalVisit_RatingsInterview](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
 - [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
 - On Qualtrics: [PCX_ClinicalVisit_SelfReport](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
 - CAHBIR screener on Qualtrics: [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
-- On Qualtrics:
-- On Qualtrics:
 
 ## Monthly Data Storage & Maintenance
 
@@ -173,23 +179,19 @@ MindLAMP Instructions
 
 [/PCX_Round2/Procedures/fMRI_tasks/create_bids_files.ipynb](https://rutgers.box.com/s/2ko0vive5aegeplaqabd8go4ug0e0g6h)
 
-### MindLAMP Payments
+## MindLAMP Payments
 
 - Each month at the end of the month, add up the number of surveys each subject did, and use this payment matrix to assign the amount they’re owed
-    
-    📟  Track this in the [PCR_Tracker.xlsx](https://rutgers.box.com/s/i5jaa225v6fz6czlj1bbakar79xtrvng) 
-    
+
+📟  Track this in the [PCR_Tracker.xlsx](https://rutgers.box.com/s/i5jaa225v6fz6czlj1bbakar79xtrvng) 
+
 - Send participants who are in MindLAMP an email based on this template:
     
     Monthly MindLAMP Email Template
     
-
-<aside>
 
 **QUICK LINKS**
 
 [MindLAMP Admin Page](https://dashboard.lamp.digital/#/)
 
 [MindLAMP Passwords](https://rutgers.box.com/s/bvcz1i8cmagilc9wfc2y20c0vyr264l2)
-
-</aside>
