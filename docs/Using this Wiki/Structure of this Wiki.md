@@ -62,16 +62,13 @@ grand_parent: Y
 Table of Contents
 
 X
-
-S
-
-T
-
+├──S
+│   └── T
 Y
+├──S
+│   └── T
 
-S
 
-T
 
 ### Config File
 
