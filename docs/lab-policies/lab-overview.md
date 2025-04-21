@@ -1,10 +1,10 @@
 ---
-title: Lab Overview
+title: Policies and Advising Manual
 parent: Lab Policies
 nav_enabled: true 
 order: 1
 ---
-# Lab Overview
+# Policies and Advising Manual
 Date: April 2, 2025 7:57 PM
 ---
 ### Table of Contents
