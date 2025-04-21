@@ -36,7 +36,7 @@ There are 3 IRBs at Rutgers which make up the Psychiatric Connectomics IRB struc
 
 - Protocol Number: #Pro2025000031
 
-![Screenshot 2025-04-18 at 5.38.56 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
+![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
 
 ## Procedures
 
@@ -46,7 +46,7 @@ Recruitment flyers and example posts are in [/PCX_Round2/Procedures/Recruitment 
 
 Participants get do SCID, refresher SCID or no SCID based on this flow chart:
 
-![Screenshot 2025-04-18 at 4.00.42 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
+![Screenshot 2025-04-18 at 4.00.42 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
 
 ### Phone script for interested participants
 
@@ -63,7 +63,7 @@ Here is a master script for the entire session:
 
 Here is a visual overview: 
 
-![Screenshot 2025-04-18 at 4.00.25 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.25_PM.png)
+![Screenshot 2025-04-18 at 4.00.25 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.25_PM.png)
 
 **QUICK LINKS**
 
@@ -76,7 +76,7 @@ Here is a visual overview:
 
 ### MRI Session Scheduling
 
-![Screenshot 2025-04-18 at 4.05.44 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
+![Screenshot 2025-04-18 at 4.05.44 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
 
 1. Check the file in [/Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) for any new participants
 2. Copy over new participants to  [/Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)
@@ -109,7 +109,7 @@ Here is a visual overview:
 
 ### MRI Session + Supplemental Battery
 
-![Screenshot 2025-04-18 at 4.06.51 PM.png](Full%20PCX%20SOP%201bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.06.51_PM.png)
+![Screenshot 2025-04-18 at 4.06.51 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.06.51_PM.png)
 
 **Session Day:**
 
