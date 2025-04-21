@@ -4,5 +4,5 @@ title: Travel & Reimbursements
 nav_enabled: true
 ---
 
-# Running Experiments
+# Travel & Reimbursements
 [Return to main website]({{site.baseurl}}/).
