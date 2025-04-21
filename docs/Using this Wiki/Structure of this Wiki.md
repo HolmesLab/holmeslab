@@ -134,12 +134,14 @@ holmeslab #Repo name + site name, so makes our link HolmesLab.github.io/holmesla
 ├── Gemfile.lock # This is versioning, automatically created by updating Gemfile
 ├── README.md # This will show up on the front page of the repo
 ├── _config.yml # This controls site-wide aspects of jekyll formatting
+```
+#### THIS is likely the only folder you'll change. The docs folder contains all the pages. 
 
-## THIS is likely the only folder you'll change. The docs folder contains all the pages. 
-
-# all navigation in the site (defined by each file's frontmatter) should be reflected in the folder structure, for readability and organization
-# all folders need an index.html which will be the 'homepage' for that section
-# the 'title' field of the index.html front matter will be what files within that section reference as 'parent'
+All navigation in the site (defined by each file's frontmatter) should be reflected in the folder structure, for readability and organization
+All folders need an index.html which will be the 'homepage' for that section
+The 'title' field of the index.html front matter will be what files within that section reference as 
+```bash
+'parent'
 │   ├── docs
 │   │   ├── Folder # folder titles/naming = for readability, isn't relevant to site filepaths or links
 │   │   │   ├── Subfolder
@@ -157,8 +159,11 @@ holmeslab #Repo name + site name, so makes our link HolmesLab.github.io/holmesla
 │   ├── index.html # This is the home page of the website
 │   ├── robots.txt
 │   └── sitemap.xml
+```
 
-# This folder is css for specific website items/parts, anything you see which is dynamic (aka not the website layout). Only change these if you're familiar with css coding or if you have a specific small change you need to do.
+
+This folder is css for specific website items/parts, anything you see which is dynamic (aka not the website layout). Only change these if you're familiar with css coding or if you have a specific small change you need to do.
+```bash
 ├── _includes
 │   ├── components
 │   │   ├── aux_nav.html 
@@ -208,11 +213,14 @@ holmeslab #Repo name + site name, so makes our link HolmesLab.github.io/holmesla
 │   ├── toc_heading_custom.html
 │   └── vendor
 │       └── anchor_headings.html
+```
 
-# This folder is html for website layout templates. You can create new templates and put them in here, and then assign pages to that template by putting `layout:template_name.html` into the front matter
-# Currently all pages default to minimal.html
-# You can alter the default page layout in the config file -- BUT this will change the layout of ALL pages which don't have a layout specified, so be careful!
 
+This folder is html for website layout templates. You can create new templates and put them in here, and then assign pages to that template by putting `layout:template_name.html` into the front matter
+Currently all pages default to minimal.html
+You can alter the default page layout in the config file -- BUT this will change the layout of ALL pages which don't have a layout specified, so be careful!
+
+```bash
 ├── _layouts
 │   ├── about.html
 │   ├── default.html
@@ -223,9 +231,9 @@ holmeslab #Repo name + site name, so makes our link HolmesLab.github.io/holmesla
 │   ├── table_wrappers.html
 │   └── vendor
 │       └── compress.html
-
-# This is is the scss code for all teh things on the page which can be input by the user in the markdown files. For example, buttons, table of contents, typography, color scheme, etc.
-# 
+```
+This is is the scss code for all teh things on the page which can be input by the user in the markdown files. For example, buttons, table of contents, typography, color scheme, etc.
+```bash
 ├── _sass
 │   ├── base.scss
 │   ├── buttons.scss # Can change button formatting or add new buttons
@@ -272,8 +280,10 @@ holmeslab #Repo name + site name, so makes our link HolmesLab.github.io/holmesla
 │       └── normalize.scss
 │           ├── README.md
 │           └── normalize.scss
+```
 
-# This is the place where media for the site is stored, including images, javascript and css themes. 
+This is the place where media for the site is stored, including images, javascript and css themes. 
+```bash
 ├── _site
 │   ├── 404.html
 │   ├── LICENSE
