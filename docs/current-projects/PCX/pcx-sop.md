@@ -71,8 +71,7 @@ Here is a visual overview:
 - [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
 - [CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc)
-- [Clinical Interview Questions (Optional)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
-- [Clinician Ratings Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
+- [Clinician Ratings Surveys - link to respond](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
 - [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
 
