@@ -1,6 +1,7 @@
 ---
 title: Full PCX SOP
-parent: PCX
+parent: Psychiatric Connectomics
+nav_order: 1
 ---
 # Full PCX SOP
 Date Updated: Apr 21, 2025  
@@ -65,10 +66,11 @@ Here is a visual overview:
 
 ![Screenshot 2025-04-18 at 4.00.25 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.25_PM.png)
 
-**QUICK LINKS**
+**LINKS**
 
 - [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
+- [CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc)
 - [Clinical Interview Questions (Optional)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
 - [Clinician Ratings Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
@@ -78,8 +80,8 @@ Here is a visual overview:
 
 ![Screenshot 2025-04-18 at 4.05.44 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
 
-1. Check the file in [/Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) for any new participants
-2. Copy over new participants to  [/Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)
+1. Check the file in [/Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) (restricted access- must be invited to the sheet to view) for any new participants
+2. Copy over new participants to  [/Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)  (restricted access- must be invited to the sheet to view)
 3. For new participants, create a subject log for them in [/Box/PCX_Round2/subject_logs](https://rutgers.box.com/s/86lbddpb6fk0uh7vumr43tlu8wggsc42) by making a copy of the file in [/templates/template.xlsx](https://rutgers.box.com/s/ct4spvu2dbazc7tfzfwpxaeih5sui7ig) and renaming it sub-PCRID.xlsx from the linking sheet
 4. Look in iLabs for 3-5 upcoming MRI slots available on different days 
     
@@ -139,7 +141,7 @@ Here is a visual overview:
     [Tutorial: BIDS in Flywheel to Amarel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21) 
     
 
-**QUICK LINKS**
+**LINKS**
 
 - [Session Docs on Box](https://rutgers.box.com/s/n3jowubh3tbjb9kzyyp73o7sfpxeam8e)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
@@ -194,7 +196,7 @@ Here is a visual overview:
     Monthly MindLAMP Email Template
     
 
-**QUICK LINKS**
+**LINKS**
 
 [MindLAMP Admin Page](https://dashboard.lamp.digital/#/)
 

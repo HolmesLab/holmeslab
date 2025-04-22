@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: PCX
+title: Psychiatric Connectomics
 parent: Current Projects
 nav_enabled: true
 has_children: true

@@ -1,7 +1,8 @@
 ---
 title: Filesystem in Amarel
 parent: Lab Policies
-nav_enabled: true 
+nav_enabled: true
+nav_order: 6
 ---
 # Filesystem Amarel Holmes Lab
 

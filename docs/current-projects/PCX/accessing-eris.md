@@ -1,7 +1,8 @@
 ---
 title: Accessing Eris (MGB Server)
-parent: PCX
+parent: Psychiatric Connectomics
 nav_enabled: true
+nav_order: 99
 ---
 # How to get into Eris (MGB Server)
 

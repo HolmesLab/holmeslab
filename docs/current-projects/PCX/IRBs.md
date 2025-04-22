@@ -1,6 +1,6 @@
 ---
 title: IRBs
-parent: PCX
+parent: Psychiatric Connectomics
 has_toc: true
 nav_order: 3
 ---

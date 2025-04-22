@@ -2,6 +2,7 @@
 title: Software We Use
 parent: Lab Policies
 nav_enabled: true 
+nav_order: 5
 ---
 # Software We Use
 
