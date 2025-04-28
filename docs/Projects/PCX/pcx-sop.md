@@ -145,7 +145,7 @@ Here is a visual overview:
 - [Session Docs on Box](https://rutgers.box.com/s/n3jowubh3tbjb9kzyyp73o7sfpxeam8e)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
 - [PCX_fMRIVisit_SelfReport](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU)
-- [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)
+- [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
 - [MindLAMP Instructions for User](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)
 - [PCX_ClinicalVisit_RatingsInterview](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
 - [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
@@ -198,5 +198,5 @@ Here is a visual overview:
 **LINKS**
 
 [MindLAMP Admin Page](https://dashboard.lamp.digital/#/)
-
-[MindLAMP Passwords](https://rutgers.box.com/s/bvcz1i8cmagilc9wfc2y20c0vyr264l2)
+[MindLAMP Instructions for Researcher](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
+[MindLAMP Passwords](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)

@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: travel-reimbursements
+title: Travel
 nav_enabled: true
 nav_order: 6
 ---
