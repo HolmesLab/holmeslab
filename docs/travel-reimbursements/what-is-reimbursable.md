@@ -1,6 +1,6 @@
 ---
 title: What is Reimbursable
-parent: Travel & Reimbursement
+parent: travel-reimbursements
 nav_enabled: true 
 ---
 

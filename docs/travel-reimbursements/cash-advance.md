@@ -1,6 +1,6 @@
 ---
 layout: minimal
-parent: Travel & Reimbursements
+parent: travel-reimbursements
 title: Cash Advances
 nav_enabled: true
 nav_order: 8

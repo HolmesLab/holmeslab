@@ -1,6 +1,6 @@
 ---
 title: Concur Travel Booking
-parent: Travel & Reimbursements
+parent: travel-reimbursements
 nav_enabled: true 
 ---
 # Concur Travel Booking 

@@ -1,12 +1,12 @@
 ---
 title: Travel Reimbursement Tutorial
-parent: Travel & Reimbursement
+parent: travel-reimbursements
 nav_enabled: true 
 ---
 
 # Submitting Travel Reimbursements in Concur
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 ---

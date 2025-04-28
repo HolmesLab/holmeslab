@@ -1,12 +1,12 @@
 ---
 title: Travel Booking Tutorial
-parent: Travel & Reimbursement
+parent: travel-reimbursements
 nav_enabled: true 
 ---
 # Travel Booking Tutorial
 Date: February 25, 2025 4:20 PM
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 ---
