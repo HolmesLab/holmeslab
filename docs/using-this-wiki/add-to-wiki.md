@@ -1,5 +1,5 @@
 ---
-title: How to update this wiki
+title: Add to this Wiki
 parent: Using this Wiki
 nav_enabled: true 
 nav_order: 1
@@ -39,32 +39,38 @@ The lab wiki is hosted on the lab’s Github page. These steps will take you thr
 8. Figure out what folder/file you want this file to go under
     1. All files/folders are listed in the navigation bar on the left of the website
     2. The name that appears in the navigation bar which you want it to go under will be the name you’ll put in the “parent” field below
+    3. SAVE the file named something URL-appropriate, since the page online will be (for example):
+    `holmeslab.github.io/holmeslab/docs/folder-title/your-file`
+    - Best practice is using "-", all lowercase, as short as possible, descriptive
+    - In this case, the file is in /docs/, in a folder called folder-title/, named your-file.md
 9. Add this at the TOP of your markdown file
 (This is because the site is a Jekyll site. Read more about page layouts on the [Jekyll Documentation](https://jekyllrb.com/docs/pages/))
 ```bash
 ---
-title: <any title> 
+title: your-file 
 	#This is the title which will appear on the nav bar
 	#This doesn't have to match any content within the file
-	#But is the label which is the 'parent' field for any nested pages
+    #This SHOULD be the name of the file-- for clarity and consistency, but nothing will break if it isn't
+	#This is 
+    #
 nav_order: 1 
 	#This is the order they'll appear in the nav bar, lowest=first
 nav_enabled: true 
 	#default to true
 	#if false the page will still be in the nav bar,
 	# but the nav bar won't be *visible* on that page
-parent: <any title>
+parent: folder-title
 	# if this references an existing 'title' field, the doc will be 
 	# located as a nested doc under that doc in the nav bar
 ---
 ```
-
-1. Save your markdown file into /docs or any relevant subfolder
-2. Update the file back into the github repository like this
+10. If you want to make a new folder under /docs, make the folder, name it something URL-relevant formatted like `your-folder`, then within it make a file called index.md which contains the header (above), `title=your-folder`, no parent. This will be then a part of the folders shown in the nav folder to the left, and is the file which will be shown when you click on a folder itself, instead of clicking on of the subfiles within the folder. 
+11. Save your markdown file into the relevant subfolderm, and make sure in the heading of your folder is a field `parent: your-folder`, otherwise it won't show up as a page within that folder.  
+12. Update the file back into the github repository like this
     
     `git add your_file.md`
     
-    `git commit -m “Note about changes, for example: Adding file.md”`
+    `git commit -m "Descriptive note, for example: Adding file.md”`
     
     `git push`
     
