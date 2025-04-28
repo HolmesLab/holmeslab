@@ -3,7 +3,7 @@ title: Full PCX SOP
 parent: Psychiatric Connectomics
 nav_order: 1
 ---
-# Full PCX SOP
+# Full PCX Statement of Procedure
 Date Updated: Apr 21, 2025  
 ---
 ### Table of Contents
@@ -200,3 +200,4 @@ Here is a visual overview:
 [MindLAMP Admin Page](https://dashboard.lamp.digital/#/)
 [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
 [MindLAMP Passwords](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)
+
