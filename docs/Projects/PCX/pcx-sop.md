@@ -1,5 +1,5 @@
 ---
-title: Full PCX SOP
+title: Full Procedure
 parent: Psychiatric Connectomics
 nav_order: 1
 ---

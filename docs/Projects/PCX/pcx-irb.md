@@ -1,5 +1,5 @@
 ---
-title: PCX IRB
+title: IRB Structure
 parent: Psychiatric Connectomics
 has_toc: true
 nav_order: 3
