@@ -4,12 +4,13 @@ parent: Psychiatric Connectomics
 nav_order: 1
 ---
 # Full PCX Statement of Procedure
-Date Updated: Apr 21, 2025  
+Last Updated: Apr 28, 2025  
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 ---
+
 Legend: 
 📟 = add this event to the subject_logs tracker for that subject  
 

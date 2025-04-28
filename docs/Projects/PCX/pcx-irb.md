@@ -5,7 +5,12 @@ has_toc: true
 nav_order: 3
 ---
 
-For an overview of the Psychiatric Connectomics project, see here: [Psychiatric Connectomics]({{site.baseurl}}/docs/Projects/study-overview)
+For an overview of the Psychiatric Connectomics project, see here: [Psychiatric Connectomics]({{site.baseurl}}/docs/Projects/PCX/study-overview)
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
 
 ## IRB Numbers
 
@@ -100,7 +105,7 @@ The IRB which covers this project is a Reliance IRB, with the Reviewing/Single I
 - Files located at `/Box-Box/Holmes_Lab_Wiki/PCX_Round2/PCR_Regulatory/IRB`
 - Files should be tracked using this structure:
 
-## Structure of the IRB
+## Documents Necessary for Submission
 
 **General notes:**
 

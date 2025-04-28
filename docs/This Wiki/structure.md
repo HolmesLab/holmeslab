@@ -7,7 +7,7 @@ nav_order: 2
 
 # Structure of this Wiki
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 ---
