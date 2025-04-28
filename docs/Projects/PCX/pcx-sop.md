@@ -44,13 +44,13 @@ There are 3 IRBs at Rutgers which make up the Psychiatric Connectomics IRB struc
 
 Recruitment flyers and example posts are in [/PCX_Round2/Procedures/Recruitment Flyers](https://rutgers.box.com/s/c6v6x63oa6az0bcjvkau879zql6klwtf)
 
+Phone script for interested participants: [Phone Script for Recruitment / Clinical Session]({{site.baseurl}}/docs/Projects/PCX/interview-session)
+
+
 Participants get do SCID, refresher SCID or no SCID based on this flow chart:
 
 ![Screenshot 2025-04-18 at 4.00.42 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
 
-### Phone script for interested participants
-
-[Phone Script for Recruitment / Clinical Session](https://rutgers.box.com/s/2iw6nibdjy8ex6zns8ne063nwd3hub9k)
 
 ### Clinical Interview Session
 
@@ -119,7 +119,7 @@ Here is a visual overview:
 1. 📟 Open up subject log for that participant and log the fields during the study
 2. Follow the script for this session
 
-[Scanning Session Script Rutgers](https://www.notion.so/Scanning-Session-Script-Rutgers-1a7cf00eb9368039b2e1fdbb181e277b?pvs=21)
+[Scanning Session Script Rutgers]({{site.baseurl}}/docs/Projects/PCX/scan-session)
 
 1. EMAIL the task files to yourself from the scanning computer
 2. Add up the additional payments for the subject, including gas costs, parking/tolls costs, uber/lyft costs and overtime costs, and do the calculations in the subject log sheet for how much the subject is owed. Then put in an order to PerfectGift for that amount, rounding to the nearest dollar. 
