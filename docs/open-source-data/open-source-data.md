@@ -1,5 +1,5 @@
 ---
-title: Data Repositories
+title: Data Repository Sites
 parent: Open Source Data
 nav_enabled: true
 ---
