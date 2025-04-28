@@ -1,6 +1,6 @@
 ---
 parent: Running Experiments
-title: Tutorial - Buying Gift Cards
+title: Subject Payments
 ---
 # Tutorial: Buying Gift Cards from PerfectGift
 

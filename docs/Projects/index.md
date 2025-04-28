@@ -10,7 +10,7 @@ nav_order: 2
 ### Current Data Collections
 ---
 
-# [Psychiatric Connectomics]({{site.baseurl}}/docs/Projects/study-overview)
+# [Psychiatric Connectomics]({{site.baseurl}}/docs/Projects/PCX/study-overview)
 👤 Avram Holmes, PhD — PI, Rutgers University, RWJ Medical School Department of Psychiatry  
 Thomas Yeo, PhD — PI, National University of Singapore  
 Justin Baker, PhD — Co-PI, Harvard Medical School, McLean Hospital  

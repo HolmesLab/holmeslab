@@ -15,9 +15,7 @@ Legend:
 
 ## Study Structure
 
-*If you’re looking for an overview of the study grant and aims, please go to* 
-
-[PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)
+*If you’re looking for an overview of the study grant and aims, please go to [PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)*
 
 ### IRBs
 
@@ -57,10 +55,13 @@ Participants get do SCID, refresher SCID or no SCID based on this flow chart:
 
 Here is a master script for the entire session: 
 
-[Script for Clinical Interview Session](https://www.notion.so/Script-for-Clinical-Interview-Session-1d7cf00eb93680799dcadcfcbc357a3d?pvs=21)
+[Script for Clinical Interview Session](https://rutgers.box.com/s/7t3gsyhv218nd9baqt9jybg4zasvdf7x) (Restricted-- if you need access, ask lab manager)
 
-1. Do consent forms ([Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) & [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse))
-2. Ask any additional questions from [Clinical Interview Questions (Optional)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)  if you feel like 
+1. Do CCNP-Holmes01 consent forms [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) 
+2. Do [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) form
+3. Enter this subject into [CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc), assigning them a PCRID.
+4. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's PCRID and dates. Then go through the questions until you get to "PANSS".
+- From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
 
 Here is a visual overview: 
 
