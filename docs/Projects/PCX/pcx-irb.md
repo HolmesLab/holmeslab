@@ -12,8 +12,8 @@ For an overview of the Psychiatric Connectomics project, see here: [Psychiatric 
 {:toc}
 ---
 
-## IRB Numbers
 
+**IRB Numbers**:
 **Mass-General Brigham (IRB of Record / sIRB / Parent site)**
 - Protocol Number: #2013P001798
 - Amendment naming: AMEXX
@@ -31,7 +31,7 @@ There are 3 IRBs at Rutgers which make up the Psychiatric Connectomics IRB struc
 
 The IRB which covers this project is a Reliance IRB, with the Reviewing/Single IRB located at Mass General Brigham, McLean Hospital. Rutgers University is a child site to the MGB IRB. 
 
-### Structure Visual
+**Structure Visual**
 ![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
 
 
@@ -39,7 +39,7 @@ The IRB which covers this project is a Reliance IRB, with the Reviewing/Single I
 
 ## File structure
 
-### **MGB**
+**MGB**
 
 - Files located at `/Box-Box/Holmes_Lab_Wiki/PCX_Round2/PCM_Regulatory/IRB`
 - Files should be tracked using this structure:
@@ -100,7 +100,7 @@ The IRB which covers this project is a Reliance IRB, with the Reviewing/Single I
     ```
     
 
-### **Rutgers**
+**Rutgers**
 
 - Files located at `/Box-Box/Holmes_Lab_Wiki/PCX_Round2/PCR_Regulatory/IRB`
 - Files should be tracked using this structure:
@@ -172,7 +172,7 @@ NOTE: all of the documents at Rutgers MUST be the documents (with the same names
 
 ## Updating the IRB
 
-### Process - Updating Study Protocol
+**Process - Updating Study Protocol**
 
 NOTE: Any updates to the protocol at McLean or Rutgers must be submitted at the McLean IRB (staffing is different, see section below). 
 
@@ -183,8 +183,7 @@ NOTE: Any updates to the protocol at McLean or Rutgers must be submitted at the 
 - Submit as an amendment
 - If it affects the recruitment, inclusion/exclusion or clinical interview session at Rutgers, tell CCNP and onboard their staff to the changes
 
-### Process - Updating Staff
-
+**Process - Updating Staff**
 NOTE: Staff at Rutgers do not have to do the MGB-required trainings, and vice versa. Staff only have to be listed + do the trainings for their site.
 
 NOTE: Rutgers staff, even those with POI status who do all the trainings, cannot be added to Insight. Only the MGB staff can be on Insight (as of Apr 2025).
