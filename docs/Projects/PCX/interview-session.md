@@ -2,7 +2,7 @@
 title: Clinical Interview Session
 parent: Psychiatric Connectomics
 has_toc: true
-nav_order: 3
+nav_order: 5
 ---
 
 # Script for Clinical Interview Session

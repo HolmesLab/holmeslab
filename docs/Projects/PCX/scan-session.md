@@ -5,7 +5,7 @@ has_toc: true
 nav_order: 6
 ---
 
-# Scanning Session Script Rutgers
+# Script: Scanning Session
 Updated: April 28, 2025
 ---
 **Table of Contents**
