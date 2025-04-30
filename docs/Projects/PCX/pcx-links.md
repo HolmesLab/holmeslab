@@ -75,7 +75,7 @@ Within scanning session script:
 
 ## Subject Payments
 
-[Tutorial: Purchase gift cards from PerfectGift](https://holmeslab.github.io/holmeslab/docs/Running%20Experiments/perfectgift/)
+[Tutorial: Purchase gift cards from PerfectGift](https://holmeslab.github.io/holmeslab/docs/Running Experiments/perfectgift/)
 
 ## Supplemental Survey
 

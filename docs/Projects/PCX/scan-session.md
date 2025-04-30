@@ -329,7 +329,7 @@ add glasses procedure notes
 
 Button box:
 
-![Screenshot 2025-02-27 at 11.03.17 AM.png](Scanning%20Session%20Script%20Rutgers%201a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_11.03.17_AM.png)
+![Screenshot 2025-02-27 at 11.03.17 AM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_11.03.17_AM.png)
 
 - On silver control box mounted in the computer rack, press button and go through mode options to set the configuration:
     - click dial -> change mode? Yes, Autoconfig, USB, HID Key **12345**
@@ -357,11 +357,11 @@ Setup Computer system:
 
 - Click “LAP”
 
-![Screenshot 2025-02-27 at 2.55.54 PM.png](Scanning%20Session%20Script%20Rutgers%201a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.54_PM.png)
+![Screenshot 2025-02-27 at 2.55.54 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.54_PM.png)
 
 - Set up volume levels[insert picture]
     
-    ![Screenshot 2025-02-27 at 2.55.44 PM.png](Scanning%20Session%20Script%20Rutgers%201a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.44_PM.png)
+    ![Screenshot 2025-02-27 at 2.55.44 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.44_PM.png)
     
 
 - Check box for having discarded acquisitions for each task

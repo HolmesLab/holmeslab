@@ -20,28 +20,28 @@ Date: April 28, 2025 1:55 PM
 
 1.  Go to my.rutgers.edu and login, click “Apps” and click “Concur Travel & Expense”
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image.png)
 
 1. Click ‘Start a Request’
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%201.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 1.png)
 
 1. Enter in trip/lab information
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%202.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 2.png)
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%203.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 3.png)
 
 1. **Adding flights and other expenses:** 
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%204.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 4.png)
 
 1. Select the item you’d like to add
     1. Fill in the boxes with estimates of the costs of these items
         1. You can look at flights/hotels on Concur for those dates to create estimates, but do not book them yet!
         2. The benefit of doing a close estimate is that if your reimbursement request post-trip is within 10% of your Pre-Travel Request, your reimbursement will be auto-approved. But it does **not** need to be within 10%, you can put estimates and your actual expenditure may be different.
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%205.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 5.png)
 
 1. **Adding Attachments**
 
@@ -53,11 +53,11 @@ When adding attachments, add things that will help justify your expenses to your
     3. It will automatically calculate your per-diem amounts based on the city you chose and which days are travel days (travel days are only 75%)
         1. If there are days where you’re doing personal travel, exclude those days/meals by checking the box
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%206.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 6.png)
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%207.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 7.png)
 
-![image.png](Create%20a%20Pre-travel%20Request%201e3cf00eb93680dc8a90f569b0691f19/image%208.png)
+![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 8.png)
 
 Per diem notes (automatic):
 
