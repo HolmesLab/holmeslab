@@ -4,7 +4,7 @@ parent: Learning
 nav_enabled: true 
 ---
 
-# Books & Movies: Neuroscience
+# Neuroscience Books & Movies
 
 Date: May 29, 2024 2:27 PM
 
