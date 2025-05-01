@@ -18,7 +18,6 @@ Rutgers IRB [Pro2024000070](https://eirb.rutgers.edu/eIRB/sd/Rooms/DisplayPages/
 CCNP IRB [Pro2025000031](https://eirb.rutgers.edu/eIRB/sd/Rooms/DisplayPages/LayoutInitial?Container=com.webridge.entity.Entity[OID[61C2F922CC7511EF4B910AED9E565000]])
 
 ## Recruitment
-
 [Recruitment Flyers](https://rutgers.box.com/s/c6v6x63oa6az0bcjvkau879zql6klwtf)
 
 [Phone Script for Recruitment / Clinical Session](https://rutgers.box.com/s/2iw6nibdjy8ex6zns8ne063nwd3hub9k)
@@ -65,7 +64,7 @@ Within scanning session script:
 6. [Fixation Cross image](https://rutgers.box.com/s/bq3vkqlc7ff1iv3psm0eifldz8hcitet)
 7. [flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x)
 8. [language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)
-9. [Movie Rater Task](https://rutgers.box.com/s/v3n80mn5xuigav4g9r0cy903k2autn48) 
+9. [Movie Rater Task](https://rutgers.box.com/s/qs9x036pbjeoaaftg795i6zp7kwf73uk) 
 10. [Self-report battery survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU)
 11. [Post-MRI Scan Email Template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh)
 12. [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s) (printed)
@@ -84,7 +83,6 @@ Within scanning session script:
 ## Data Maintenance
 
 fMRI:
-
 [Tutorial: MRI to BIDS in Flywheel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21) 
 
 [Tutorial: BIDS to fMRIPrep in Flywheel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21)
