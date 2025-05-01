@@ -1,6 +1,6 @@
 ---
 title: Glossary
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 nav_order: 2
 ---

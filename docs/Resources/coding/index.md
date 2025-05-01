@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Coding Resources
+title: Coding
 parent: Resources
 nav_enabled: true
 ---

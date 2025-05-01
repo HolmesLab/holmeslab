@@ -1,6 +1,6 @@
 ---
 title: Shell Scripting Primer
-parent: Coding Resources
+parent: Coding
 nav_enabled: true 
 ---
 

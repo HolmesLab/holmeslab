@@ -1,6 +1,6 @@
 ---
 title: Neuroimaging Resource Sites
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 nav_order: 1
 ---

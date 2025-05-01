@@ -1,6 +1,6 @@
 ---
 title: PhD Applications
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 nav_order: 2
 ---

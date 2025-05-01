@@ -1,6 +1,6 @@
 ---
 title: External Courses / Workshops
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

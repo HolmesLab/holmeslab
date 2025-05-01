@@ -1,6 +1,6 @@
 ---
 title: NetworkX and PyTorch Basics
-parent: Coding Resources
+parent: Coding
 nav_enabled: true 
 ---
 

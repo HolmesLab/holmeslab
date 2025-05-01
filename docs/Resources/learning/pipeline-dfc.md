@@ -1,6 +1,6 @@
 ---
 title: Pipeline Outline for dFC Research
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 nav_order: 2
 ---

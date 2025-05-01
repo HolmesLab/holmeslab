@@ -1,6 +1,6 @@
 ---
 title: FreeSurfer Overview
-parent: Coding Resources
+parent: Coding
 nav_enabled: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Coding Tutorials from Online
-parent: Coding Resources
+parent: Coding
 nav_enabled: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Books & Movies - Neuroscience
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

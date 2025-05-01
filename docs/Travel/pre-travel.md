@@ -1,6 +1,6 @@
 ---
 title: Create a Pre-travel Request
-parent: travel-reimbursements
+parent: Travel
 nav_enabled: true 
 ---
 

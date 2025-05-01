@@ -1,6 +1,6 @@
 ---
 title: Dynamic Time Warping (DTW)
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

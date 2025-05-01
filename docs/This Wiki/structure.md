@@ -1,6 +1,6 @@
 ---
 title: Structure of this Wiki
-parent: Using this Wiki
+parent: Wiki
 has_nav: true
 nav_order: 2
 ---

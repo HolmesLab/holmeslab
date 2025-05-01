@@ -1,6 +1,6 @@
 ---
 title: Travel Booking Tutorial
-parent: travel-reimbursements
+parent: Travel
 nav_enabled: true 
 ---
 # Travel Booking Tutorial

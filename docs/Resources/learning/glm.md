@@ -1,6 +1,6 @@
 ---
 title: General Linear Model
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

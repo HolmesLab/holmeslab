@@ -1,6 +1,6 @@
 ---
 title: Using Markdown
-parent: Using this Wiki
+parent: Wiki
 ---
 
 # Using Markdown

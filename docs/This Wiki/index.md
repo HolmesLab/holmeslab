@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Using this Wiki
+title: Wiki
 nav_enabled: true
 ---
 

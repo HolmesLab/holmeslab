@@ -1,6 +1,6 @@
 ---
 title: Courses Online
-parent: Coding Resources
+parent: Coding
 nav_enabled: true 
 ---
 # Courses Online: Coding and ML

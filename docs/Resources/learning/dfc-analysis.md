@@ -1,6 +1,6 @@
 ---
 title: Dynamic FC Patterns
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

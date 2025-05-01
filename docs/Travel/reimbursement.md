@@ -1,6 +1,6 @@
 ---
 title: Travel Reimbursement Tutorial
-parent: travel-reimbursements
+parent: Travel
 nav_enabled: true 
 ---
 

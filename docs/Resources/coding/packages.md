@@ -1,6 +1,6 @@
 ---
 title: Packages for fMRI Analysis
-parent: Coding Resources
+parent: Coding
 nav_enabled: true 
 ---
 

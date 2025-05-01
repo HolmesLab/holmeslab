@@ -1,6 +1,6 @@
 ---
 title: Canonical Correlation Analysis
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Brain Network Analysis (using Atlases)
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 

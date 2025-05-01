@@ -1,6 +1,6 @@
 ---
 title: Add to this Wiki
-parent: Using this Wiki
+parent: Wiki
 nav_enabled: true 
 nav_order: 1
 ---

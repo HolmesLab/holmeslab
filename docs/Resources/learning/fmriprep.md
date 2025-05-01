@@ -1,6 +1,6 @@
 ---
 title: fMRIPrep Overview
-parent: Learning Resources
+parent: Learning
 nav_enabled: true 
 ---
 
