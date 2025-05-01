@@ -93,13 +93,13 @@ Here is a visual overview:
 7. 📟 If the participant needs an uber, check how much time it will take to get from the participant’s pickup/dropoff locations and reserve the pickup Lyft for the date/time which will allow the participant to get there in time
 8. Send the participant a confirmation + info email
     
-    [MRI Confirmation Email](https://rutgers.box.com/s/a5a3k8n5tdu0az3nerfzi3n4j3igtbf5)
+    [MRI Confirmation Email](https://rutgers.box.com/s/h3er1pb6c77q03cu1obq7c87aok8qfdg)
     
 9. Schedule the reminder emails for 2-days out (and 5-days out if the scan is far in advance)
     
     Appointment_Reminder_2days
     
-    [Appointment_Reminder_5days](https://rutgers.box.com/s/a5a3k8n5tdu0az3nerfzi3n4j3igtbf5)
+    [Appointment_Reminder_5days](https://rutgers.box.com/s/h3er1pb6c77q03cu1obq7c87aok8qfdg)
     
 10. Set a reminder for yourself to text the participant 36hrs before the scan time if they haven’t confirmed after the 2days-before email
 
@@ -201,5 +201,4 @@ Here is a visual overview:
 
 [MindLAMP Admin Page](https://dashboard.lamp.digital/#/)
 [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
-[MindLAMP Passwords](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)
 
