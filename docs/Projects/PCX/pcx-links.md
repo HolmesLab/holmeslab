@@ -28,7 +28,7 @@ CCNP IRB [Pro2025000031](https://eirb.rutgers.edu/eIRB/sd/Rooms/DisplayPages/Lay
 
 [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
 
-[CCNP/Holmes PCR Identifying Information Sheet](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) 
+CCNP/Holmes PCR Identifying Information Sheet is located in Box at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
 
 [Clinical Ratings Survey -- clinician fills out](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
 
@@ -56,7 +56,7 @@ Appointment_Confirmation_2days
 
 Within scanning session script:
 
-1. [PCRID Linking sheet](https://rutgers.box.com/s/0arhl2n2i2illvyhb9l9gfop46m29lcn)
+1. Holmes PCRID Linking Sheet is located at /(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx
 2. [PCRID Tracker](https://rutgers.box.com/s/8e77ri389fomlppgnn73gwiaaox3beal) 
 3.  [Subject Logs -- Create one for subject](https://rutgers.box.com/s/86lbddpb6fk0uh7vumr43tlu8wggsc42)
 4. [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)

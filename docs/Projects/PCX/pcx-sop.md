@@ -60,9 +60,12 @@ Here is a master script for the entire session:
 
 1. Do CCNP-Holmes01 consent forms [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) 
 2. Do [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) form
-3. Enter this subject into [CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc), assigning them a PCRID.
-4. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's PCRID and dates. Then go through the questions until you get to "PANSS".
-- From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
+3. Enter this subject into the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, assigning them a PCRID and a qualtrics ID.
+4. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. Then go through the questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
+5. Fill out this email template with the subjects' qualtrics ID, and email it to them. 
+6. Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom 
+7. Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
+8. Once they've submitted, send them their payment.
 
 Here is a visual overview: 
 
@@ -72,7 +75,7 @@ Here is a visual overview:
 
 - [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
-- [CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc)
+- CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)  located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
 - [Clinician Ratings Surveys - link to respond](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
 - [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
@@ -81,8 +84,8 @@ Here is a visual overview:
 
 ![Screenshot 2025-04-18 at 4.05.44 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
 
-1. Check the file in [/Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) (restricted access- must be invited to the sheet to view) for any new participants
-2. Copy over new participants to  [/Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1)  (restricted access- must be invited to the sheet to view)
+1. Check the file in /Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx (restricted access- must be invited to the sheet to view) for any new participants
+2. Copy over new participants to  /Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx  (restricted access- must be invited to the sheet to view)
 3. For new participants, create a subject log for them in [/Box/PCX_Round2/subject_logs](https://rutgers.box.com/s/86lbddpb6fk0uh7vumr43tlu8wggsc42) by making a copy of the file in [/templates/template.xlsx](https://rutgers.box.com/s/ct4spvu2dbazc7tfzfwpxaeih5sui7ig) and renaming it sub-PCRID.xlsx from the linking sheet
 4. Look in iLabs for 3-5 upcoming MRI slots available on different days 
     
