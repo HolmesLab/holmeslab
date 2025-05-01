@@ -6,17 +6,17 @@ parent: Amarel Computing
 ---
 
 # Slurm Jobs Tutorial - Rutgers
-
 Date: March 27, 2024 2:55 PM
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
 
-<aside>
 📌 In-depth Information in:
+- [Rutgers AMAREL Cluster User Guide](https://sites.google.com/view/cluster-user-guide)
+- [Rutgers Slurm Job / Batch User Guide](https://sites.google.com/view/cluster-user-guide#h.p4379j6lgjuh)
 
-[Rutgers AMAREL Cluster User Guide](https://sites.google.com/view/cluster-user-guide)
-
-[Rutgers Slurm Job / Batch User Guide](https://sites.google.com/view/cluster-user-guide#h.p4379j6lgjuh)
-
-</aside>
 
 ## Quick Tutorial:
 

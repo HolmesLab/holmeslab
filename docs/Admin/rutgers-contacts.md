@@ -11,7 +11,7 @@ People/emails to contact for various problems and questions relating to the Holm
 Created by: Kaley Joss, Jan 19 2024
 
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 ---

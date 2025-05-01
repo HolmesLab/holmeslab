@@ -7,8 +7,13 @@ parent: Amarel Computing
 
 
 # Update to New Python in Amarel
-
 Date: April 3, 2025 4:06 PM
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
+
 
 Since we don’t have sudo privileges, this is how to update Python in your local user space on Amarel: 
 

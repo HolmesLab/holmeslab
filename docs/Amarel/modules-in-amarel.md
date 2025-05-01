@@ -6,8 +6,14 @@ parent: Amarel Computing
 ---
 
 # Modules in Amarel (2024)
-
 Date: December 22, 2023 3:01 PM
+
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
+
 
 ## Tutorial: How to use Modules:
 

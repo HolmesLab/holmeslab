@@ -5,8 +5,13 @@ nav_enabled: true
 ---
 
 # Amarel Compute Cluster - General
-
 Date: February 6, 2024 11:31 AM
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
+
 
 ***Access - Each Time***
 

@@ -7,7 +7,7 @@ order: 1
 # Policies and Advising Manual
 Date: April 2, 2025 7:57 PM
 ---
-### Table of Contents
+**Table of Contents**
 1. TOC
 {:toc}
 ---
