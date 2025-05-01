@@ -15,9 +15,9 @@ The Holmes Lab is located in the Department of Psychiatry at Rutgers University.
 [Looking for the Lab Website? Click here][Holmes Lab Website]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 If you would like to add to this wiki, please follow these tutorials for how to add documentation: 
-- [Using this Wiki](docs/using-this-wiki/using-this-wiki.md): This gives an overview of the steps from downloading the repository, creating a new page and adding it to the site.
-- [Structure of this Wiki](docs/using-this-wiki/structure.md): This gives an intro to the site infrastructure and of all the documents in the folder of the repository. It will help you understand how the filesystem is structured. This indicates how docs are stored. If you want to change something about style or layout, look here to see where to edit it. 
-- [Using Markdown](docs/using-this-wiki/markdown.md): All docs are written in Markdown. Look here for how to style markdown text and add specific formatting/styles to your pages. 
+- [Using + Adding to this Wiki](docs/wiki/add-to-wiki.md): This gives an overview of the steps from downloading the repository, creating a new page and adding it to the site.
+- [Structure of this Wiki](docs/wiki/structure.md): This gives an intro to the site infrastructure and of all the documents in the folder of the repository. It will help you understand how the filesystem is structured. This indicates how docs are stored. If you want to change something about style or layout, look here to see where to edit it. 
+- [Using Markdown](docs/wiki/markdown.md): All docs are written in Markdown. Look here for how to style markdown text and add specific formatting/styles to your pages. 
 
 ---
 
