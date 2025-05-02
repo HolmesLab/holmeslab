@@ -1,6 +1,7 @@
 ---
 layout: minimal
 title: Books
+parent: Resources
 nav_enabled: true
 ---
 
