@@ -5,7 +5,7 @@ nav_enabled: true
 ---
 
 ## Connecting to Amarel in Terminal
-1. **Connect to VPN on Cisco Anyconnect App** ([Tutorial])(https://it.rutgers.edu/guides/remote-access-with-anyconnect-virtual-private-network/)
+1. **Connect to VPN on Cisco Anyconnect App** [Tutorial](https://holmeslab.github.io/holmeslab/docs/Amarel/rutgers-vpn/)
 
     1. fill in on Cisco Anyconnect app:
         1. [vpn.rutgers.edu](http://vpn1.rutgers.edu) 

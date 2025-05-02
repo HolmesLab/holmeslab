@@ -24,7 +24,8 @@ Full polices + overview doc: [https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeow
 ---
 
 **Table of Contents**
-
+1. TOC
+{:toc}
 ---
 
 ## Conference Registration Payment Process
