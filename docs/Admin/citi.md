@@ -57,9 +57,9 @@ Once you are done, make sure the course is listed under ‘Completed Courses’
 
 Once you are done, make sure the course is listed under ‘Completed Courses’
 
-Email Holmes lab manager ([kaley.joss@rutgers.edu](mailto:kaley.joss@rutgers.edu)) that you’ve completed your CITI requirements.
+Email Holmes lab manager that you’ve completed your CITI requirements.
 
 1. Log into [CITIprogram.com](https://www.citiprogram.org/index.cfm?pageID=14) but use your non-Rutgers institutional affiliation, if you’ve completed CITI under a different organization/institution. Check to see if you have any of the necessary courses under ‘completed courses’
-    1. IF SO – download the course completion document and send to Holmes lab manager, ([kaley.joss@rutgers.edu](mailto:kaley.joss@rutgers.edu)). She’ll use this for IRB certification and request your Rutgers NetID to be linked with your previous institutional affiliation account.
+    1. IF SO – download the course completion document and send to Holmes lab manager. She’ll use this for IRB certification and request your Rutgers NetID to be linked with your previous institutional affiliation account.
     2. IF NOT – Go to step 4
 

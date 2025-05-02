@@ -1,6 +1,6 @@
 ---
 title: Software We Use
-parent: Lab Policies
+parent: Rutgers Admin
 nav_enabled: true 
 nav_order: 5
 ---

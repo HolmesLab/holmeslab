@@ -118,7 +118,7 @@ eCOI [Quick Start Guide](https://uec.rutgers.edu/wp-content/uploads/eCOI-Quick-
     
 3. Log into [CITIprogram.com](https://www.citiprogram.org/index.cfm?pageID=14) (Click ‘Log in through my organization’ and specify ‘Rutgers the State University’) with your Rutgers NetID. Are any of the required courses listed under “Completed Courses”?
     1. YES – Go to step 5
-    2. NO – You need to link your completed CITI courses with your Rutgers NetID. Let the lab manager ([kaley.joss@rutgers.edu](mailto:kaley.joss@rutgers.edu)) know this!
+    2. NO – You need to link your completed CITI courses with your Rutgers NetID. Let the lab manager know this!
 4. Log into [CITIprogram.com](https://www.citiprogram.org/index.cfm?pageID=14) (Click ‘Log in through my organization’ and specify ‘Rutgers the State University’) with your Rutgers NetID.
     1. Complete **one** of these courses:
         - “Biomedical / Clinical Research Investigators **Basic”**
