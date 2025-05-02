@@ -11,7 +11,7 @@ Date Updated: May 1st, 2025
 [Page in progress]
 
 ### Goal of this wiki: 
-Store non-private information from the lab in a easy-to-navigate structure where people can find information and the right links. Allow it to be maintained by everyone in the lab and added to over time with the most up-to-date information. 
+This wiki is where tutorials, onboarding, statement-of-procedures, and other lab-general documents are kept. The idea is to have everything in a easy-to-navigate structure. Additionally, this structure allows the documentation to be maintained by everyone in the lab. It should be updated over time to include the most accurate information.
 
 ### What to add 
 - Tutorials of technical or administrative processes
