@@ -6,7 +6,7 @@ title: Subject Payments
 
 💡Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8pyb4a68mnbbk5086btj)
 
-Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
+Contact: [rutgers#perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
 
 ### Buying cards from Perfect Gift
 1. Go to [corp.perfectgift.com](http://corp.perfectgift.com) and login
@@ -25,7 +25,7 @@ Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers
 ### Perfect Gift Info
 
 - How to get an account:
-    - Contact Perfect Gift, [Chuck Peterson](mailto:Rutgers@perfectgift.com) ([Rutgers@perfectgift.com](mailto:Rutgers@perfectgift.com)) with your name and phone number, for initial setup. Perfect Gift will provide a login and password to their [website](https://www.perfectgift.com/corporate/rutgers) .
+    - Contact Perfect Gift, [Chuck Peterson](mailto:Rutgers@perfectgift.com) ([Rutgers#perfectgift.com](mailto:Rutgers@perfectgift.com)) with your name and phone number, for initial setup. Perfect Gift will provide a login and password to their [website](https://www.perfectgift.com/corporate/rutgers) .
 - $0 per card fee
 - Can send individual cards to participant location
 - *Bulk shipping of physical cards needs to go to a Rutgers address*

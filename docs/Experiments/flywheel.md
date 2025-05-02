@@ -1,6 +1,6 @@
 ---
 title: Flywheel Tutorial
-parent: MRI at CAHBIR
+parent: Running Experiments
 nav_enabled: true
 ---
 # Flywheel Tutorial

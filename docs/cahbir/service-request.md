@@ -5,17 +5,9 @@ nav_enabled: true
 ---
 
 # Service Request Tutorial
-
 Date: April 1, 2024 4:57 PM
-
-# Submitting a Service Request
-
 Created by: Kaley Joss | Mon Apr 1, 2024
 
-<aside>
-<img src="https://www.notion.so/icons/book_gray.svg" alt="https://www.notion.so/icons/book_gray.svg" width="40px" /> Contents
-
-</aside>
 
 ### Check for Supplier Contract
 

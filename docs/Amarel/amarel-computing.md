@@ -1,5 +1,5 @@
 ---
-title: Amarel Compute Cluster - General
+title: Amarel Compute Cluster
 parent: Amarel Computing
 nav_enabled: true 
 ---
@@ -12,49 +12,16 @@ Date: February 6, 2024 11:31 AM
 {:toc}
 ---
 
+Notes:
+- When sharing rwx permissions to others in the lab, use chmod ugo+rwx. Amarel is sensitive to those in the group saving/writing to files unless they’re open to ‘others’
+- 1-2 days a month Amarel does maintenance- you can’t connect to the compute nodes, see or edit your files, and any running jobs will be paused (though they won’t be stopped). You can see when maintenance days are scheduled here: [https://oarc.rutgers.edu/amarel-system-status](https://oarc.rutgers.edu/amarel-system-status/)
 
-***Access - Each Time***
-
-1. Connect to VPN
-    
-    ![](Amarel Compute Cluster - General cc93caf11a49489a9866e7a365ee2aef/Screenshot_2024-06-05_at_2.52.31_PM.png)
-    
-    1. fill in on Cisco anyconnect app:
-        1. [vpn.rutgers.edu](http://vpn1.rutgers.edu) 
-        2. NetID password 
-        3. DUO mobile password
-    2. or webpage: [https://vpn1.rutgers.edu/+CSCOE+/logon.html#form_title_text](https://vpn1.rutgers.edu/+CSCOE+/logon.html#form_title_text) 
-2. *Terminal:* 
-    1. On terminal or shell scripting application, Enter `ssh netID@amarel.rutgers.edu` (replace with your NetID)
-    2. prompts for password- Enter NetID password
-3. Environment
-    1.  `conda activate /projects/community/holmesenv`
-4. Start a jupyter notebook etc. session  [https://ondemand.hpc.rutgers.edu](https://ondemand.hpc.rutgers.edu/)
-    1. Go to [https://ondemand.hpc.rutgers.edu](https://ondemand.hpc.rutgers.edu/) for the GUI
-    2. Go to dashboard → interactive apps → Personal Jupyter
-        
-        Recommended Settings:
-        
-        Partition: main
-        
-        Hours: 24 (max is 8064)
-        
-        Conda Path: projects/community/holmesenv 
-        
-        Conda Environment: holmesenv
-        
-5. Launch session
-6. In Jupyter Notebook, if necessary, make sure you’re in the holmesenv conda
-    1. Select in toolbar *Kernel>Change kernel>holmesenv*
-    
 
 ## Personal Storage
 
 Each NetID Gets personal storage of:
-
-**/home/NetID** > 100GB of storage, not fastest, backed up
-
-**/scratch/NetID** > 1TB of storage, fast, up to 2TB before purging, not backed up
+- **/home/NetID** > 100GB of storage, not fastest, backed up
+- **/scratch/NetID** > 1TB of storage, fast, up to 2TB before purging, not backed up
 
 ### Best practices
 
@@ -82,7 +49,7 @@ files.
 
 Holmes lab storage and user group is located in Amarel at `/projects/f_ah1491_1` 
 
-To be added to the user group to acces this storage, email [help@oarc.rutgers.edu](mailto:help@oarc.rutgers.edu) with your NetID and CC Avram, avram.holmes@rutgers.edu. If no response, email [pgarias@oarc.rutgers.edu](mailto:pgarias@oarc.rutgers.edu) 
+To be added to the user group to acces this storage, email [help#oarc.rutgers.edu](mailto:help@oarc.rutgers.edu) with your NetID and CC Avram, avram.holmes@rutgers.edu. If no response, email [pgarias#oarc.rutgers.edu](mailto:pgarias@oarc.rutgers.edu) 
 
 Storage capacity: 100TB
 
@@ -172,7 +139,7 @@ Slurm jobs (sending jobs to be run in the compute cluster) should be used for ev
 
 Helpful commands
 
-if anything weird comes up can do `scancel kj537`
+if anything weird comes up can do `scancel <your netID>`
 
 `sacct -e` shows all the variables you could pull up for existing/past jobs
 
@@ -228,7 +195,7 @@ In this example, the rsync options I'm using are:
 To sync a local directory with updated data from Amarel:
 
 ```bash
-rsync -trlvpz gc563@amarel.rutgers.edu:/home/gc563/work-dir work-dir
+rsync -trlvpz <your NetID>@amarel.rutgers.edu:/home/<your NetID>/work-dir work-dir
 ```
 
 Here, we've simply reversed the order of the local and remote locations.
@@ -236,7 +203,7 @@ Here, we've simply reversed the order of the local and remote locations.
 For added security, you can use SSH for the data transfer by adding the e option followed by the protocol name (SSH, in this case):
 
 ```bash
-rsync -trlvpze ssh gc563@amarel.rutgers.edu:/home/gc563/work-dir work-dir
+rsync -trlvpze ssh <your NetID>@amarel.rutgers.edu:/home/<your NetID>/work-dir work-dir
 ```
 
 <aside>
@@ -398,6 +365,3 @@ module load fsl/6.0.0-gc563
 ```
 
 Notes
-
-- When sharing rwx permissions to others in the lab, use chmod ugo+rwx. Amarel is sensitive to those in the group saving/writing to files unless they’re open to ‘others’
-- 1-2 days a month Amarel does maintenance- you can’t connect to the compute nodes, see or edit your files, and any running jobs will be paused (though they won’t be stopped). You can see when maintenance days are scheduled here: [https://oarc.rutgers.edu/amarel-system-status](https://oarc.rutgers.edu/amarel-system-status/)

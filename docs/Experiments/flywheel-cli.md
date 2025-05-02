@@ -1,6 +1,6 @@
 ---
 title: Flywheel in Command Line
-parent: MRI at CAHBIR
+parent: Running Experiments
 nav_enabled: true
 ---
 # Flywheel in Command Line

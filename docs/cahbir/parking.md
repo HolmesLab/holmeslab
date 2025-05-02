@@ -10,7 +10,6 @@ nav_enabled: true
 🅿️ [Dots Website](https://ipo.rutgers.edu/dots)
 🛒 [RU Marketplace](https://solutions.sciquest.com/apps/Router/Home?tmstmp=1694597164716)
 🎫 [Visitor Permits Page](https://ipo.rutgers.edu/dots/permits/visitor-parking)
-🌐 [BHI Staff Page](https://brainhealthinstitute.rutgers.edu/about-us/staff/)
 
 ## General DOTS SOP
 - To access the lab account you must have a car registered in DOTS and also have a permit.

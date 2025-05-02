@@ -1,6 +1,6 @@
 ---
 title: Scheduling MRI Scans at CAHBIR
-parent: MRI at CAHBIR
+parent: Running Experiments
 nav_enabled: true
 ---
 
@@ -47,14 +47,11 @@ NOTE: make sure your irb allows a verbal phone screening  before participants ar
 
 - Places You can reserve at CAHBIR:
     
-    Free
-    
+    **Free**
     - testing room
     - Observation room
     - Mock scanner
     - Eeg room
     
-    Paid
-    
+    **Paid**
     - scanner room
-    -

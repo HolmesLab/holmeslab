@@ -5,25 +5,22 @@ nav_enabled: true
 ---
 
 # Booking Rooms in CAHBIR
-
 Date: April 30, 2025 3:12 PM
-
+---
+1. TOC
+{:toc}
+---
 ## Booking the CAHBIR Conference Room (SRB-127):
 
-### Viewing Schedule
-
+**Viewing Schedule**
 To view the room availability schedule, go to: [https://rod.rwjms.rutgers.edu/VA_Calendar.aspx](https://rod.rwjms.rutgers.edu/VA_Calendar.aspx)   
 
 **Campus**: Piscataway
-
 **Building**: Staged Research Building  
-
 **Room**: 127 (select the dropdown carrot by ‘Rooms’ to see 127)
-
 ![Screenshot 2025-04-30 at 3.24.52 PM.png](Booking Rooms in CAHBIR 1e5cf00eb9368076a879c674fb663c83/Screenshot_2025-04-30_at_3.24.52_PM.png)
 
-### Booking
-
+**Booking Conference Room**
 To book the conference room, go to: [https://rod.rwjms.rutgers.edu/SR_GeneralInfo.aspx](https://rod.rwjms.rutgers.edu/SR_GeneralInfo.aspx) 
 
 And fill out the information for your meeting, selecting **Campus**: Piscataway and **Building**: Staged Research Building
@@ -67,7 +64,8 @@ There are a few things to keep in mind when using the system:
 
 Reserving rooms is simple.
 
-1. Go to [the scheduling site](https://cahbir.rutgers.edu/scheduling/), and log in with your group’s credentials. The username is the PIs last name, all lowercase. The password (which should be changed as soon as possible) is the PIs last name, all lowercase, appended with 1234. For instance, my group’s password would be: luci1234
+1. Go to [the scheduling site](https://cahbir.rutgers.edu/scheduling/), and log in with your group’s credentials. 
+Our passwords are listed at /Lab_admin/Passwords.xlsx
 2. From the pulldown menu, select testing or huddle rooms as appropriate.
 3. Navigate to the day you need, and select the starting time for the room you want in the grid.
 4. In the menu that appears, fill out A) Your name; B) Any description you would like to show on the calendar (optional); C) The start and end times; D) the area (which should already be correctly populated); E) the room you want (again, should be populated); and finally, F) click save.
@@ -78,8 +76,6 @@ Reserving rooms is simple.
 
 That should be all you need to make a reservation. (You don’t even need to find and use a fourth bullet type for a list in a mass e-mail!) Selecting a reservation from the grid view will allow you to cancel if your group made the reservation.
 
-Please let us know if you have any problems or if you would like a demonstration by e-mailing[cahbir-support@rutgers.edu](mailto:cahbir-support@rutgers.edu).
-
-Booking MRI Testing Room: 
+Please let us know if you have any problems or if you would like a demonstration by e-mailing[cahbir-support#rutgers.edu](mailto:cahbir-support@rutgers.edu).
 
 Booking MRI Scans:
