@@ -1,31 +1,14 @@
 ---
 title: Movie Rater Website
-parent: Running Experiments
+parent: Psychiatric Connectomics
 nav_enabled: true 
 ---
 
-# Movie Rater SOP
-
-Parent item: PCX Data Collection (https://www.notion.so/PCX-Data-Collection-36c741fabaa64f60835a0ef561e4f887?pvs=21)
-Done: Done
-Doc Type: Task Notes
-Created time 1: February 21, 2025 5:49 PM
-Important Doc: No
-Status: Not started
-
 # Movie Rater Application
-
 Created by Kaley Joss, Feb 2025
 
-<aside>
-💡
+This is a web app to be used for the Psychiatric Connectomics project. It can also be used for other projects by adding additional movies. 
 
-Important notes:
-- Do NOT change the folder names or file names of anything in this folder! It will mess up the scripts. Movies must be in folders which start with /static
-
-</aside>
-
-![Screenshot 2025-02-21 at 5.54.23 PM.png](Movie Rater SOP 1a1cf00eb9368083b104d99fe159ffdb/Screenshot_2025-02-21_at_5.54.23_PM.png)
 
 ## Overview
 
@@ -38,6 +21,12 @@ Data will have these fields. (’time_elapsed’ is seconds since the video star
 subject_id, site and movie are all things you choose when you open the app. 
 
 ![Screenshot 2025-02-21 at 5.57.34 PM.png](Movie Rater SOP 1a1cf00eb9368083b104d99fe159ffdb/Screenshot_2025-02-21_at_5.57.34_PM.png)
+
+💡Important notes:
+- Do NOT change the folder names or file names of anything in this folder! It will mess up the scripts. Movies must be in folders which start with /static
+
+![Screenshot 2025-02-21 at 5.54.23 PM.png](Movie Rater SOP 1a1cf00eb9368083b104d99fe159ffdb/Screenshot_2025-02-21_at_5.54.23_PM.png)
+
 
 ### File Structure
 
