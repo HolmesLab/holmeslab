@@ -15,8 +15,8 @@ This wiki is where tutorials, onboarding, statement-of-procedures, and other lab
 
 ### What to add 
 - Tutorials of technical or administrative processes
-- Resources for learning, doing science or working in Academia
-- Statements of Procedure for experiments or lab processes
+- Resources for learning, doing science or working in academia
+- Statements of procedure for experiments or lab processes
 - Code tutorials or documentation, especially for lab-relevant analysis tools or pipelines that many people may use
 - Links, templates and forms for administrative or experimental processes
 - Anything else non-sensitive that could be helpful to others in the lab!

@@ -32,8 +32,6 @@ Date: July 15, 2024 12:05 PM
 
 ---
 
-From Max Mynter’s “[**Become a Machine Learning Engineer in Five to Seven Steps](https://www.maxmynter.com/pages/blog/become-mle)”**
-
 ### Intro to Programming
 
 - [Harvard’s CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) is a great high-level introduction to programming and software engineering that covers the fundamentals of Python.
@@ -47,14 +45,14 @@ From Max Mynter’s “[**Become a Machine Learning Engineer in Five to Seven St
 ### Deep Learning
 
 - If you liked Andrew Ng’s teaching style, you can continue with the [Deep Learning Specialisation](https://www.deeplearning.ai/courses/deep-learning-specialization/).
-- For a more university-style course, I recommend Yann LeCun’s [NYU lecture](https://atcold.github.io/NYU-DLSP21/) on deep learning.
+- For a more university-style course, there's Yann LeCun’s [NYU lecture](https://atcold.github.io/NYU-DLSP21/) on deep learning.
 - For a more practical approach, [fast.ai](https://course.fast.ai/) and the accompanying book [Practical Deep Learning for Coders](https://course.fast.ai/Resources/book.html) got you covered.
 
 ### Maths:
 
-- If you find your knowledge lacking, [deeplearning.ai](http://deeplearning.ai) has a course on the [Mathematics on Deep Learning](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/).
-- During my studies [this book](https://www.mathworks.com/academia/books/calculus-and-linear-algebra-in-recipes-karpfinger.html) was great. It has a lot of digestible chapters with practical examples that work for both, education and as a reference.
+- [deeplearning.ai](http://deeplearning.ai) has a course on the [Mathematics on Deep Learning](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/).
+-[This book](https://www.mathworks.com/academia/books/calculus-and-linear-algebra-in-recipes-karpfinger.html) was great. It has a lot of digestible chapters with practical examples that work for both, education and as a reference.
 
-## [OTHER RESOURCES HERE](https://www.maxmynter.com/pages/resources)
+### [Other resources:](https://www.maxmynter.com/pages/resources)
 
 ---

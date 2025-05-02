@@ -12,8 +12,7 @@ Course: [The Missing Semester of Your CS Education](https://missing.csail.mit.ed
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-<aside>
-📅  Course
+📅  Courses
 
 - [x]  [Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
 - [x]  [Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
