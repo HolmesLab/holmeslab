@@ -94,37 +94,15 @@ The PO will be placed and confirmed.
 3. After you send the email, you’ll get an email from [noreply.jaggaer_AP@trustflowds.com](mailto:noreply.jaggaer_AP@trustflowds.com) with whether it was successful.
     - **Example of successful invoice email**
         
-        Thank you for submitting your invoice. This notice confirms that we received your email to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu). All invoices must reference a VALID purchase order number. If there is no valid purchase order number, you will receive a separate rejection notice and the invoice will not be processed.
+        *Thank you for submitting your invoice. This notice confirms that we received your email to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu). All invoices must reference a VALID purchase order number. If there is no valid purchase order number, you will receive a separate rejection notice and the invoice will not be processed.*
         
-        The status of the email attachments is shown below:
+        *The status of the email attachments is shown below:*
+        *Valid Attachments*:
+        *1457125461.pdf Attachment Size - 34.632KB*
         
-        Valid Attachments:
+        *Rejected Attachments*:
+        *None*
         
-        1457125461.pdf Attachment Size - 34.632KB
-        
-        Rejected Attachments:
-        
-        If there are rejected attachments listed above, and those attachments are invoices that require payment, please resend the attachment in the correct format. Valid attachment types are PDF, TIF, Microsoft Word (doc, docx) and JPG.
-        
-        Please note, this is an unmonitored email. ANY FORM OF Inquiries should be directed to Help Desk Intake Form (
-        
-        [https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
-        
-        ). For information on invoice and payment status, please contact:
-        
-        Email: Help Desk Intake Form (
-        
-        [https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
-        
-        )
-        
-        Phone: 848-932-4375
-        
-        Thank you,
-        
-        EDM Americas
-        
-        On behalf of Rutgers University
         
 
 ## 7. Invoice is created and processed, payment is sent
@@ -143,9 +121,6 @@ The PO will be placed and confirmed.
     2. This choice is done in paymentworks
 2. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
-    - **Example of a Oracle payment page**
-        
-        ![Inv-OL-206638_payment.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
         
 
 ## If the supplier does not have a contract:

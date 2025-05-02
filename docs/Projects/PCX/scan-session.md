@@ -132,7 +132,7 @@ After the scan we're going to have a few more questionnaires which will take abo
 
 We anticipate that today’s session will take no more than 4 hours. After you’re all done today, you’ll be compensated with $60.
 
-If you want to stop at anyitrnrgo[ time 
+If you want to stop at any time, just let me know. 
 
 ### **Additional Sessions**
 
