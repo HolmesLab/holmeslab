@@ -20,13 +20,13 @@ Tutorial:
         
         ERISOne Linux Cluster Account Request Form
         
-        Submitted by user: kj110
+        Submitted by user: <netID>
         
         Submitted values are:
         
-        MGB Username: kj110
+        MGB Username: <netID>
         
-        Full Name: Kaley Joss
+        Full Name: <Your name>
         
         Position: Research Collaborator EW
         
@@ -34,19 +34,15 @@ Tutorial:
         
         Institution: The McLean Hospital Corporation
         
-        Email:
+        Email: <netID>@mgb.org
         
-        [kjoss@mgb.org](mailto:kjoss@mgb.org)
-        
-        Phone: 2069497119
+        Phone: 
         
         Office Location: REMOTE
         
         Principal Investigator: Justin Baker
         
-        Principal Investigator's Email:
-        
-        [jtbaker@mgb.org](mailto:jtbaker@mgb.org)
+        Principal Investigator's Email: <justin's email>
         
         Principal Investigator's Mass General Brigham ID: jtbaker
         

@@ -1,6 +1,6 @@
 ---
 title: Filesystem in Amarel
-parent: Lab Policies
+parent: Amarel Computing
 nav_enabled: true
 nav_order: 6
 ---
