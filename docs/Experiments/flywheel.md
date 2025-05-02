@@ -9,36 +9,24 @@ Date: February 24, 2025 3:56 PM
 
 FLYWHEEL LINK: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
 
-**TABLE OF CONTENTS:** 
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
 
-`fmap.*run-01*.* .**bold.nii.gz`
+Quick copy: `fmap.*run-01*.* .**bold.nii.gz`
 
 ## High level process
-
 - Download data to amarel
 - Multi-echo multi-band Convert using Jeff custom method
     - reproIn
     - this assigns echo1 echo2 echo3 to the bids name
     - then it does the dcm2niix
-- Then upload to flywheel
-- Then download to box
-- Then share from box
-
-[Tutorial Powerpoint by Wil](https://rutgers.box.com/s/rcd8dqegut1uwayr8ehicoopklqul4tu)
-
-[Recorded Demonstration from Flywheel](https://www.youtube.com/watch?v=6nhSLgFT_B0)
-
-## High level process
-
-- Download data to amarel
-- Multi-echo multi-band Convert using Jeff custom method
-    - reproIn
-    - this assigns echo1 echo2 echo3 to the bids name
-    - then it does the dcm2niix
-- Then uploads to flywheel
+- Then the MRI Tech uploads the data to flywheel
 - Then you send to BIDS Curation
 - then you send to fMRIPrep
-- Then download subject to box OR open flywheel on amarel desktop and download to amarel
+- Then download subject to box OR open flywheel on Amarel desktop and download to amarel, or use custom python script to download to Amarel
 - Then share
 
 ## How to change file names (if necessary):

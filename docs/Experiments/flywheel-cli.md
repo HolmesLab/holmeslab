@@ -81,12 +81,8 @@ OPTIONS--docs  Show HTML docs for command
 4. press control+X → ‘Y’ → ‘Enter’ to save and exit 
 5. enter `source ~/.bashrc`` to update
 
-<aside>
-🚨
+🚨 Note: when your API key expires, make a new one and update it in your bash_aliases through this process
 
-Note: when your API key expires, make a new one and update it in your bash_aliases through this process
-
-</aside>
 
 ### Step 3: login to CLI with API Key on Flywheel:
 

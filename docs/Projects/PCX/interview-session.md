@@ -6,6 +6,7 @@ nav_order: 5
 ---
 
 # Script for Clinical Interview Session
+[in progress]
 
 Date: April 16, 2025 8:09 AM
 
@@ -18,3 +19,4 @@ The first thing we’re going to do is go over the consent forms. This study is 
 The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are a third set of online surveys and a smartphone-app tracking study. I’ll let you read through the consent form now, let me know if you have any questions. 
 
 [PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) (Qualtrics)
+

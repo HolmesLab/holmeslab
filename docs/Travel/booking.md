@@ -12,7 +12,6 @@ Date: February 25, 2025 4:20 PM
 ---
 
 ## TIMELINE:
-
 > ***4+ Weeks before registration deadline:*** contact RA to do conference registration payment
 ***24hrs before booking*:** Create pre-travel request
 Book travel
@@ -42,15 +41,10 @@ To pay for conference registration via check request:
 
 ## Travel and Accommodations
 
-<aside>
-🚨
+🚨 IMPORTANT: Is your travel being sponsored by/charged to a federal R01 grant? If so, check over these documents, as your restrictions/procedures may differ from general policy:
+- **General Considerations/Differences:** [https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6](https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6)
+- **Airfare and travel booking policies:** [https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy](https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy)
 
-IMPORTANT: Is your travel being sponsored by/charged to a federal R01 grant? If so, check over these documents, as your restrictions/procedures may differ from general policy:
-**General Considerations/Differences:** [https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6](https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6)
-
-**Airfare and travel booking policies:** [https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy](https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy)
-
-</aside>
 
 There are two main steps for paying for travel and accommodations:
 
@@ -90,12 +84,9 @@ There are two main steps for paying for travel and accommodations:
 - ONLY through concur
 - Tutorial for booking: [https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
-<aside>
-✈️
 
-Note: You CANNOT submit for reimbursement of flights/trains booked outside of Concur. But booking through Concur = Rutgers pays directly, no out of pocket
+✈️Note: You CANNOT submit for reimbursement of flights/trains booked outside of Concur. But booking through Concur = Rutgers pays directly, no out of pocket
 
-</aside>
 
 **Lodging:** 
 
@@ -105,16 +96,12 @@ Note: You CANNOT submit for reimbursement of flights/trains booked outside of Co
     - So if you want to share a room with someone else, you can both pay half and then submit for reimbursement
 - Tutorial for booking: [https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
-<aside>
-💵
-
-You can also request “cash advances” to cover per diem amounts, instead of paying out of pocket, if you want to 
+💵 You can also request “cash advances” to cover per diem amounts, instead of paying out of pocket, if you want to 
+[Cash Advances Tutorial](https://holmeslab.github.io/holmeslab/docs/Travel/cash-advance/)
 [Cash Advances tutorial video](https://rutgersconnect.sharepoint.com/sites/TravelExpenseBPR/_layouts/15/stream.aspx?id=%2Fsites%2FTravelExpenseBPR%2FShared)
-Cash Advances Tutorial: [https://rutgers.box.com/s/ejrg09uhn2m3cdpx3s13zitldmie7f3d](https://rutgers.box.com/s/ejrg09uhn2m3cdpx3s13zitldmie7f3d)
 
 Otherwise, just check the per diem for your city and spend in accordance, then submit for reimbursement after (no receipts or documentation needed)
 
-</aside>
 
 ### Step 3: Registration
 
@@ -126,24 +113,23 @@ Look at this doc: [https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3](h
 
 Keep Required Documentation!
 
-- Documentation needed: [https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe)
+- [List: Documentation Needed](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe)
 
 Check which expenses are reimbursable: 
 
-- What is reimbursable: [https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
+- [List: what is reimbursable?](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
 
 ### Step 5: Submit a Travel Expense Report for Reimbursement
 
-**TUTORIAL:** for Creating a Travel Expense Report in Concur: [https://rutgers.box.com/s/8mzht4kydhgb4n9bczku5u8jeb303hrc](https://rutgers.box.com/s/8mzht4kydhgb4n9bczku5u8jeb303hrc)
+**TUTORIAL:** for [Creating a Travel Expense Report in Concur](https://rutgers.box.com/s/8mzht4kydhgb4n9bczku5u8jeb303hrc)
 
 Overview: 
 
 - Click ‘Start a Reportʼ
 - Fill out your expenses, including receipts and information
-    - List of what documentation info / receipt types to include for non-per-diem
-    reimbursements: [https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe)
-    - What expenses are reimbursable:  [https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
-- Fill in Holmes Lab purchasing codes: [https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
+    - List of [what documentation info / receipt types to include](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe) for non-per-diem reimbursements: 
+    -[What expenses are reimbursable?](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
+- Fill in Holmes Lab purchasing codes: in Box at /Lab_admin/Purchasing_codes
 - If you have a pre-approved request in Concur, and your final expense report
 that you submit is within 10% of your approved expenses, it will be auto-
 approved!
@@ -156,12 +142,11 @@ approved!
 
 ### Step 6: Any other forms if necessary
 
-Lost Receipt Certification Form
-
+**Lost Receipt Certification Form**
 - Required for any expense for which a receipt/proof of payment cannot be provided.
 - Complete form, have it signed by supervisor, and include as an attachment with Expense Report
 
-Higher Level Approval Form
+**Higher Level Approval Form**
 Required for expenses older than 60 days.
 
 - Per RU policy, expenses older than 60 days require next higher level approval
@@ -170,8 +155,7 @@ Required for expenses older than 60 days.
 - Expenses older than one year are not reimbursable
 
 ### Other tutorials:
-
-- Entering travel allowance/per diem in Concur Travel Expense Report: [https://rutgers.box.com/s/x85iq979f3t96rr3us4n1x8hv54if2n3](https://rutgers.box.com/s/x85iq979f3t96rr3us4n1x8hv54if2n3)
-- Itemizing expenses in Concur: [https://rutgers.box.com/s/lz0bnvwkqps2szonlp78ai7m3ehdhetw](https://rutgers.box.com/s/lz0bnvwkqps2szonlp78ai7m3ehdhetw)
-- Entering Personal Car Mileage: [https://rutgers.box.com/s/cpcmzc4729x2b8fy945cptsnba4mjiop](https://rutgers.box.com/s/cpcmzc4729x2b8fy945cptsnba4mjiop)
-- Itemizing Nightly Lodging in Concur: [https://rutgers.box.com/s/1f9qkps89fzmyzk8nn16kfe4a9oadlt7](https://rutgers.box.com/s/1f9qkps89fzmyzk8nn16kfe4a9oadlt7)
+- [Entering travel allowance/per diem in Concur Travel Expense Report](https://rutgers.box.com/s/x85iq979f3t96rr3us4n1x8hv54if2n3)
+- [Itemizing expenses in Concur](https://rutgers.box.com/s/lz0bnvwkqps2szonlp78ai7m3ehdhetw)
+- [Entering Personal Car Mileage](https://rutgers.box.com/s/cpcmzc4729x2b8fy945cptsnba4mjiop)
+- [Itemizing Nightly Lodging in Concur](https://rutgers.box.com/s/1f9qkps89fzmyzk8nn16kfe4a9oadlt7)
