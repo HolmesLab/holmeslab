@@ -43,8 +43,8 @@ To pay for conference registration via check request:
 ## Travel and Accommodations
 
 🚨 IMPORTANT: Is your travel being sponsored by/charged to a federal R01 grant? If so, check over these documents, as your restrictions/procedures may differ from general policy:
-- **General Considerations/Differences:** [https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6](https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6)
-- **Airfare and travel booking policies:** [https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy](https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy)
+- [General Considerations/Differences](https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6)
+-[Airfare and travel booking policies](https://rutgers.box.com/s/la4lpkb602ff4ezuqjdgfs7b4v5coehy)
 
 
 There are two main steps for paying for travel and accommodations:
@@ -83,7 +83,7 @@ There are two main steps for paying for travel and accommodations:
 **Airfare, train tickets:**
 
 - ONLY through concur
-- Tutorial for booking: [https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
+- [Tutorial for booking](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
 
 ✈️Note: You CANNOT submit for reimbursement of flights/trains booked outside of Concur. But booking through Concur = Rutgers pays directly, no out of pocket
@@ -95,7 +95,7 @@ There are two main steps for paying for travel and accommodations:
     - Airbnb, hotels outside of concur, splitting rooms/lodging, etc.
     - Just submit for reimbursement after
     - So if you want to share a room with someone else, you can both pay half and then submit for reimbursement
-- Tutorial for booking: [https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
+- [Tutorial for booking](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
 💵 You can also request “cash advances” to cover per diem amounts, instead of paying out of pocket, if you want to 
 [Cash Advances Tutorial](https://holmeslab.github.io/holmeslab/docs/Travel/cash-advance/)
@@ -106,9 +106,7 @@ Otherwise, just check the per diem for your city and spend in accordance, then s
 
 ### Step 3: Registration
 
-ONLY if you’re travelling internationally AND you’re a student (undergrad or PhD) at Rutgers
-
-Look at this doc: [https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3](https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3)
+Fill out [this form](https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3) to complete registration ONLY if you’re travelling internationally AND you’re a student (undergrad or PhD) at Rutgers
 
 ### Step 4: During travel: pay out of pocket
 
