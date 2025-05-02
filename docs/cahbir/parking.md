@@ -5,46 +5,20 @@ nav_enabled: true
 ---
 
 # Parking Permits
-
-Date: January 30, 2024 10:04 AM
-
-## Helpful Links ⛓️
-
 ---
-
 🚘 [Parking Portal](https://rudots.nupark.com/portal/Account/Login)
-
 🅿️ [Dots Website](https://ipo.rutgers.edu/dots)
-
 🛒 [RU Marketplace](https://solutions.sciquest.com/apps/Router/Home?tmstmp=1694597164716)
-
 🎫 [Visitor Permits Page](https://ipo.rutgers.edu/dots/permits/visitor-parking)
-
-🗃️ [CANL Box](https://rutgers.app.box.com/folder/142221900764?s=j9z1yw88k65ql28b20oekogx5xmvo2ae)
-
 🌐 [BHI Staff Page](https://brainhealthinstitute.rutgers.edu/about-us/staff/)
 
-- For when contacts need to be updated due to turnover.
-
-### NuPark Info
-
----
-
-**CANL:** XXXXXX
-
 ## General DOTS SOP
-
----
-
+- To access the lab account you must have a car registered in DOTS and also have a permit.
 - Depending on which department you are trying to set up your account for, different steps will apply.
 - You should ONLY be doing this if you are the lab requestor!
+- Permits only last **3 months** and do NOT roll over so do make sure to buy only what you think you need!
 
-<aside>
-<img src="https://www.notion.so/icons/info-alternate_blue.svg" alt="https://www.notion.so/icons/info-alternate_blue.svg" width="40px" /> Permits only last **3 months** and do NOT roll over so do make sure to buy only what you think you need!
-
-</aside>
-
-- **Adding a New Member to CANL Departmental Account**
+- **Adding a New Member to Departmental Account**
     1. Go to the Rutgers DOTS website ([here](https://ipo.rutgers.edu/dots)) and click on the “DOTSHelp.rutgers.edu” hyperlink found under the “Contact Information” section on the left hand side of the page.
         - **Image Reference**
             
@@ -68,7 +42,6 @@ Date: January 30, 2024 10:04 AM
                 1. Only if you are adding people **without** also purchasing new passes.
             7. **Additional Comments:**
                 1. [Full Name] ([NetID]) needs access to ePermits.
-                    1. e.g., Sara Van Tuerenhout (sv707) needs access to ePermits.
                 2. If batch adding:
                     1. Needs access to ePermits:
                         1. [Full Name 1] ([NetID 1])
@@ -84,16 +57,11 @@ Date: January 30, 2024 10:04 AM
     4. If all goes well, DOTS should reach back out in **1-2 days** with confirmation that the new people have been added to the account.
 - **Steps for Adding Yourself to CAHBIR Departmental Account**
     - Talk to Rose Smith (Business Liaison for BHI) to add you the CAHBIR parking department account.
-        - Email: [rs1771@bhi.rutgers.edu](mailto:rs1771@bhi.rutgers.edu)
+        - Email: [rs1771#bhi.rutgers.edu](mailto:rs1771@bhi.rutgers.edu)
         - If Rose Smith no longer works for BHI, you can email Louise Petrone who is the Program Coordinator for BHI
-            - Email: [lp544@bhi.rutgers.edu](mailto:lp544@bhi.rutgers.edu)
+            - Email: [lp544#bhi.rutgers.edu](mailto:lp544@bhi.rutgers.edu)
     - If none of the above people still work for Rutgers, go to the [BHI Staff Page](https://brainhealthinstitute.rutgers.edu/about-us/staff/) and look for the Business Liaison for CHABIR and reach out!
 - **Buying One Day Parking Permits**
-    
-    <aside>
-    <img src="https://www.notion.so/icons/info-alternate_blue.svg" alt="https://www.notion.so/icons/info-alternate_blue.svg" width="40px" /> This guide assumes you are already set up in DOTS with a departmental account
-    
-    </aside>
     
     1. Go to Ru Marketplace and and in the search bar type “**IPO: RBHS One Day Parking Permit**.” Hit Return or Enter depending on computer type.
         - **Image Reference**
@@ -115,7 +83,7 @@ Date: January 30, 2024 10:04 AM
             4. **Department Name:** RWJMS Psychiatry
             5. **Department Address:** 675 Hoes Lane West, Piscataway, NJ 08854
             6. **Campus:** Busch Campus
-            7. **Contact Person:** YOUR NAME - [MUST BE LAB REQUESTOR!!!]
+            7. **Contact Person:** YOUR NAME - [MUST BE LAB REQUESTOR]
             8. **Contact Phone Number:** YOUR OFFICE PHONE #
                 1. If you do not have a lab phone number, make sure to purchase a phone for yourself
             9. **Contact Email:** YOUR RUTGERS EMAIL
@@ -127,8 +95,8 @@ Date: January 30, 2024 10:04 AM
                 
                 ![Screenshot 2023-09-25 at 3.31.00 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.31.00_PM.png)
                 
-    4. In the cart, check the Summary section to see 1) who it is prepared for [make sure it is David Zald] and 2) add a brief description to the cart name. Then click “**Proceed to Checkout.**”
-        1. Example cart name addition: “canl parking”
+    4. In the cart, check the Summary section to see 1) who it is prepared for [make sure it is Avram Holmes] and 2) add a brief description to the cart name. Then click “**Proceed to Checkout.**”
+        1. Example cart name addition: “holmes lab parking”
         - **Image Reference**
             
             ![Screenshot 2023-09-25 at 3.37.57 PM 1.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.37.57_PM_1.png)
@@ -137,22 +105,19 @@ Date: January 30, 2024 10:04 AM
         - **General Tab**
             1. Click on the pencil found next to the General tab to edit a few properties in this section.
             2. Add a brief description of the purchase in the “**Description**” box
-                1. E.g., “CANL 1-day parking permits”
-            3. If not correctly specified, update the “**Prepared For**” section to be David Zald instead of your name.
+                1. E.g., “Holmes Lab 1-day parking permits”
+            3. If not correctly specified, update the “**Prepared For**” section to be Avram Holmes instead of your name.
             4. If you forgot to give your cart name a brief descriptive name, add that now.
-                1. e.g., “canl parking”
+                1. e.g., “holmes lab parking”
             5. Click “**Save**” at the bottom of the screen!!
             - **Image Reference**
                 
                 ![Screenshot 2023-09-25 at 3.44.13 PM.png](Parking Permits eb5f3e20f6054212a61f399a043afa6c/Screenshot_2023-09-25_at_3.44.13_PM.png)
                 
         - **Accounting Codes**
-            
-            <aside>
-            <img src="https://www.notion.so/icons/info-alternate_blue.svg" alt="https://www.notion.so/icons/info-alternate_blue.svg" width="40px" /> **Reminder these permits are to be used for general lab projects not funded on a grant or other sub-award!!**
-            
-            </aside>
-            
+            Reminder: these permits are to be used for general lab projects not funded on a grant or other sub-award!
+            Accounting codes are located in the lab box at /Lab_admin/Purchasing_codes
+                         
             1. Click on the pencil in the **Accounting Codes** tab to edit the required fields. If not already made as your presets, here are the accounting values you need to input:
                 1. **Project ID:** XXXXXX
                 2. **Task:** XXX:XXXXXX
@@ -415,13 +380,11 @@ Date: January 30, 2024 10:04 AM
             6. **Purchase Order Amount:** ###
                 1. e.g., 100 [do not include the $ sign!]
             7. **Additional Comments:**
-                1. I am looking to set up departmental access for my ([YOUR NET ID]) parking account to issue one-day parking permits for research subjects. These subjects are participating in research at the Clinical and Affective Neuroscience lab run by Dr. David Zald. Our lab is under the RWJMS Psychiatry umbrella. The parking access would be for Lot 58c on the Busch Campus. **Despite Dr. Zald’s connection to BHI, we are looking to create a separate department and do NOT want to assign these parking permits to BHI.**
-                    1. Sentence in bold was added post-hoc as not including that caused parking to assume to permits were for BHI would make it so that everyone who has access to BHI would have access to our permits!!
+                1. I am looking to set up departmental access for my ([YOUR NET ID]) parking account to issue one-day parking permits for research subjects. These subjects are participating in research at the Clinical and Affective Neuroscience lab run by Dr. Avram Holmes. Our lab is under the RWJMS Psychiatry umbrella. The parking access would be for Lot 58c on the Busch Campus. 
             8. **Add Attachments:** Add a PDF of the Purchase Order.
                 1. To get a PDF of the purchase order, follow the steps below:
                     - **PDF Steps**
                         1. Go to the specific purchase order page.
-                            1. If you don’t know how to find it, reference the steps [here](https://www.notion.so/Parking-Permits-eb5f3e20f6054212a61f399a043afa6c?pvs=21).
                         2. On the page, click the print icon found in the top right corner next to the text bubble with the question mark to create the pdf.
                             - **Image Reference**
                                 
@@ -455,7 +418,3 @@ Date: January 30, 2024 10:04 AM
                     1. Address of Rutgers Day School (671 Hoes Ln W, Piscataway, NJ 08854)
     2. The student aspect is the most annoying, but DOTS is adamant about keeping it the same as there was rampant misuse of the system in the past, so we're at an impasse.
 
-**One pivotal thing that I just now updated in the Notion doc that I had previously left out.**
-
-- To access the lab account you must have a car registered in DOTS and I believe also have a permit.
-    - Our former lab manager rode his scooter (like those lime ones) to work and thus did not have a DOTS account, and they refused to let him hand out parking passes. It had to go through me for the longest time.
