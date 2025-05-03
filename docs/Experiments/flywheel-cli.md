@@ -4,10 +4,15 @@ parent: Running Experiments
 nav_enabled: true
 ---
 # Flywheel in Command Line
-
 Date: April 3, 2025 1:14 PM
 
-# Command Line Interface (CLI)
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
+
+# Legacy Command Line Interface (CLI)
 
 ### Step 1: Download flywheel command line interface
 The flywheel CLI is not able to be downloaded off a package manager like pip. Instead, you download it manually into your computer.
@@ -23,43 +28,7 @@ Now try linking to that flywheel instance in your terminal, like:
 
 If that returns a version number, you have it set up correctly. 
 
-
-### Step 2: Generate an API key on Flywheel
-
-1. Go to [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
-2. Click on your profile picture in the top right > ‘Profile’
-3. Scroll down to ‘Flywheel Access’ and click ‘+ Generate API Key’
-4. Copy API key and save in safe space
-
-### Step 3: Add your API key to your .bash_aliases file
-
-1. Log into Amarel on the terminal with ssh
-2. enter `nano ~/.bash_aliases`
-3. enter ``alias fwlogin='fw login [cahbir-flywheel.rutgers.edu](http://cahbir-flywheel.rutgers.edu/):<your_API_key>'` 
-4. press control+X → ‘Y’ → ‘Enter’ to save and exit 
-5. enter `source ~/.bashrc`` to update
-
-🚨 Note: when your API key expires, make a new one and update it in your bash_aliases through this process
-
-
-### Step 4: login to CLI with API Key on Flywheel:
-
-1. type `alias fwlogin`
-2. copy and paste the string into your command line
-
-```bash
-#Formula: <filepath to fw> login <yourAPIKey>
-#ex: 
-/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw  login [cahbir-flywheel.rutgers.edu](http://cahbir-flywheel.rutgers.edu/):<your_API_key> 
-```
-
-Then it will say `You are now logged in as: Kaley Joss!`
-
-### Step 4: Move the fw executable to your home/netID/bin folder
-
-The fw executable is something downloaded from online, not from pip/package manager, so it doesn’t automatically get downloaded to the files your command line searches through. 
-
-To use fw, you can either:
+To use fw commands, you can either:
 
 OPTION 1: This is already set up. You can call the full path to the shared copy of the file (`/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw`) each time you want to run a command 
 
@@ -117,6 +86,41 @@ Available commands:
     deid      Test your de-identification template or generate a sample template
 
 ```
+
+### Step 2: Generate an API key on Flywheel
+
+1. Go to [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
+2. Click on your profile picture in the top right > ‘Profile’
+3. Scroll down to ‘Flywheel Access’ and click ‘+ Generate API Key’
+4. Copy API key and save in safe space
+
+### Step 3: Add your API key to your .bash_aliases file
+
+1. Log into Amarel on the terminal with ssh
+2. enter `nano ~/.bash_aliases`
+3. enter ``alias fwlogin='/path/to/fw login cahbir-flywheel.rutgers.edu:<your_API_key>'` 
+  For example, if using the Holmes Lab fw instance: `alias fwlogin='/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw login cahbir-flywheel.rutgers.edu:<your_API_key>`
+4. press control+X → ‘Y’ → ‘Enter’ to save and exit 
+5. enter `source ~/.bashrc`` to update
+
+🚨 Note: when your API key expires, make a new one and update it in your bash_aliases through this process
+
+
+### Step 4: login to CLI with API Key on Flywheel:
+
+1. If you did step 3, type `fwlogin'`
+  -> This should return `You are now logged in as <Your Name>!`
+
+2. If you did not do step 3, copy and paste this formula into your command line
+```bash
+#Formula: <filepath to fw> login <yourAPIKey>
+#ex: 
+/path/to/fw  login cahbir-flywheel.rutgers.edu:<your_API_key> 
+```
+
+-> When it logs in, it will say `You are now logged in as: <Your Name>!`
+
+
 
 ## Usage
 
