@@ -7,73 +7,31 @@ nav_enabled: true
 
 Date: April 3, 2025 1:14 PM
 
-# Beta Command Line Interface (CLI)
-
-<aside>
-⚙
-
-Prerequisites: The install script requires `bash`, `curl`, `grep`, `tar`, and `shasum` (or `sha256sum`) in order to download, extract, and verify the CLI.
-
-</aside>
-
-# 1 -- SSH into Amarel command line
-
-```bash
-ssh netID@amarel.rutgers.edu
-```
-
-# 2 -- Download prerequisites 
-
-```bash
-# latest stable version
-curl https://storage.googleapis.com/flywheel-dist/fw-cli/stable/install.sh | sh
-```
-
-By default, `fw-beta` will be extracted under `~/.fw` with all of its dependencies. The installation folder can be customized using the envvar `FW_CLI_INSTALL_DIR`.
-
-Shell profiles are automatically updated to include `fw-beta` on the `PATH` for bash and zsh using `~/.bash_profile` and `~/.zshenv` respectively.
-
-# 3 — Activate new bash profile
-
-```bash
-source ~/.bash_profile
-```
-
-# 4 — Use CLI `export`
-
-### `export`
-
-Export data from a Flywheel project to an external storage.
-
-```bash
-USAGE
-  fw-beta export [OPTIONS] COMMAND [ARGS]...
-
-  Export data from FW to a storage.
-
-COMMANDS
-  run       Export data from a project via the connector service
-  get       Get export by ID
-  list      List exports
-  cancel    Cancel an export by ID
-  rerun     Rerun an export by ID
-  schedule  Schedule exports to run later or repeatedly
-
-OPTIONS--docs  Show HTML docs for command
-  --help  Show this message and exit
-
-```
-
 # Command Line Interface (CLI)
 
-### Step 1: Generate an API key on Flywheel
+### Step 1: Download flywheel command line interface
+The flywheel CLI is not able to be downloaded off a package manager like pip. Instead, you download it manually into your computer.
+
+There is an existing instance in the Holmes Lab project space at `/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw`
+
+OR, you can download it somewhere locally by following the instructions on this tutorial: [Installing the Flywheel CLI](https://docs.flywheel.io/CLI/start/install/) Then, copy the filepath to where the flywheel .exe was downloaded into. The 
+
+Now try linking to that flywheel instance in your terminal, like:
+```
+/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw --version
+```
+
+If that returns a version number, you have it set up correctly. 
+
+
+### Step 2: Generate an API key on Flywheel
 
 1. Go to [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
 2. Click on your profile picture in the top right > ‘Profile’
 3. Scroll down to ‘Flywheel Access’ and click ‘+ Generate API Key’
 4. Copy API key and save in safe space
 
-### Step 2: Add your API key to your .bash_aliases file
+### Step 3: Add your API key to your .bash_aliases file
 
 1. Log into Amarel on the terminal with ssh
 2. enter `nano ~/.bash_aliases`
@@ -84,7 +42,7 @@ OPTIONS--docs  Show HTML docs for command
 🚨 Note: when your API key expires, make a new one and update it in your bash_aliases through this process
 
 
-### Step 3: login to CLI with API Key on Flywheel:
+### Step 4: login to CLI with API Key on Flywheel:
 
 1. type `alias fwlogin`
 2. copy and paste the string into your command line
@@ -321,3 +279,62 @@ Wrote 218 MB to s3.tar`
 
     
     ---
+
+
+
+# Beta Command Line Interface (CLI)
+
+<aside>
+⚙
+
+Prerequisites: The install script requires `bash`, `curl`, `grep`, `tar`, and `shasum` (or `sha256sum`) in order to download, extract, and verify the CLI.
+
+</aside>
+
+# 1 -- SSH into Amarel command line
+
+```bash
+ssh netID@amarel.rutgers.edu
+```
+
+# 2 -- Download prerequisites 
+
+```bash
+# latest stable version
+curl https://storage.googleapis.com/flywheel-dist/fw-cli/stable/install.sh | sh
+```
+
+By default, `fw-beta` will be extracted under `~/.fw` with all of its dependencies. The installation folder can be customized using the envvar `FW_CLI_INSTALL_DIR`.
+
+Shell profiles are automatically updated to include `fw-beta` on the `PATH` for bash and zsh using `~/.bash_profile` and `~/.zshenv` respectively.
+
+# 3 — Activate new bash profile
+
+```bash
+source ~/.bash_profile
+```
+
+# 4 — Use CLI `export`
+
+### `export`
+
+Export data from a Flywheel project to an external storage.
+
+```bash
+USAGE
+  fw-beta export [OPTIONS] COMMAND [ARGS]...
+
+  Export data from FW to a storage.
+
+COMMANDS
+  run       Export data from a project via the connector service
+  get       Get export by ID
+  list      List exports
+  cancel    Cancel an export by ID
+  rerun     Rerun an export by ID
+  schedule  Schedule exports to run later or repeatedly
+
+OPTIONS--docs  Show HTML docs for command
+  --help  Show this message and exit
+
+```
