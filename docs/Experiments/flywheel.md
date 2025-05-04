@@ -136,16 +136,21 @@ See how to set up and use it on the [Flywheel CLI Tutorial](https://holmeslab.gi
  
 ## Add Files to Projects/Sessions/Subjects
 
-- ‘ad-hoc’ upload
-- can add any type of file to a dataset
+Flywheel allows ‘ad-hoc’ upload, so you can add any type of file to a dataset.
 
-For project-level:
-Upload files by clicking on:
+For project-level (templates, etc):
+Click on:
     - Project Name (in side navigation bar)
     - Information tab
     - Attachments box
     - 'Upload' button
 
+For acquisition or subject files:
+Click on:
+    - Project Name (in side navigation bar)
+    - '...' vertical dot menu 
+    - 'Imports'
+    - 'Add Data'
 
 ## Flywheel Storage & Pipeline Rules
 
@@ -163,12 +168,12 @@ Upload files by clicking on:
 ## BIDS process
 1. click on the project you want to look at (ie ConteCenter, PCX)
 2. click on ”Sessions” tab
-3. make sure you’re on “Acquisitions” tab
-4. Run Gear
-5. Analysis Gear
-6. Bids Curation
-7. click on the project name
-8. ‘inputs’ tab: 
+3. Make sure you’re on “Acquisitions” tab
+4. Click 'Run Gear'
+5. Select 'Analysis Gear'
+6. Select 'BIDS Curation'
+7. Click on the project name
+8. ‘Inputs’ tab: 
     1. click on “template”
     2. click on ConteCenter or your project name (in the folder path)
     3. select the [nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9)
@@ -179,16 +184,16 @@ Upload files by clicking on:
         - Information tab
         - Attachments box
         - 'Upload' button
-9. ‘configuration’ tab:
+9. ‘Configuration’ tab:
     1. First: you need to specify the regexes in pairs, each element separated by a space.
         1. To attach all fmap to their relevant BOLD images: `fmap-.* .*bold.nii.gz`
-    2. reset: YES
-    3. “Ignore Config File”
-    4. ‘save sidecar as metadata’ select NO
+    2. **Reset: YES**
+    3. Ignore Config File: YES
+    4. Save idecar as Metadata: NO
         - the JSON sidecars of the data to fill in the configuration, but you can add additional stuff in the tab that isn’t in the sidecars
-10. go to jobs log tab to track usage or errors
-    1. select subject/job
-    2. select ‘log’ tab
+10. Go to jobs log tab to track usage or errors
+    1. Select subject/job
+    2. Select ‘log’ tab
     - Refresh to see current— not in real time
 
 [Getting BIDS to work on Flywheel](https://www.notion.so/Getting-BIDS-to-work-on-Flywheel-1abcf00eb93680318dfbc02655ee27d5?pvs=21)
