@@ -139,7 +139,15 @@ See how to set up and use it on the [Flywheel CLI Tutorial](https://holmeslab.gi
 - ‘ad-hoc’ upload
 - can add any type of file to a dataset
 
-## Flywheel Storage & Pipeline - only put active CAHBIR center data
+For project-level:
+Upload files by clicking on:
+    - Project Name (in side navigation bar)
+    - Information tab
+    - Attachments box
+    - 'Upload' button
+
+
+## Flywheel Storage & Pipeline Rules
 
 - No restrictions for the amount of data
 - But we’re charged for the data since it’s stored in google cloud
@@ -162,7 +170,7 @@ See how to set up and use it on the [Flywheel CLI Tutorial](https://holmeslab.gi
 7. click on the project name
 8. ‘inputs’ tab: 
     1. click on “template”
-    2. click on ConteCenter or your project name
+    2. click on ConteCenter or your project name (in the folder path)
     3. select the [nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9)
     - locates and assigns the echoes their proper echo name
     - ignores single band reference images and phase images for fieldmaps
