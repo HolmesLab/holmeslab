@@ -123,24 +123,24 @@ for example, this skips any files which start with “fmap_” or “fmap-” an
         },
 ```
 
-## Command Line
+## Download Files
 
-- set up a command line interface
-- initials > profile > flywheel CLI  Classic > download Classic CLI > setup API key (copy it while it’s there, it will never be visible again) > use command line to export your project in bids format
-    - you can do this on amarel and export directly to amarel
+The command line is where you can download BIDS files to Amarel/local computers, as well as download individual subjects or acquisitions quickly.
 
-## Add Additional Documents
+See how to set up and use it on the [Flywheel CLI Tutorial](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-cli/).
+ 
+## Add Files to Projects/Sessions/Subjects
 
 - ‘ad-hoc’ upload
 - can add any type of file to a dataset
 
 ## Flywheel Storage & Pipeline - only put active CAHBIR center data
 
-- no restrictions for the amount of data
-- but we’re charged for the data since it’s stored in google cloud
-- but in general it won’t cause a problem
-- Can keep all your data on flywheel
-    - more likely to stay stable than stuff you take off and put on amarel
+- No restrictions for the amount of data
+- But we’re charged for the data since it’s stored in google cloud
+- In general it won’t cause a problem
+- Can keep all your scanning data on flywheel
+    - More likely to stay stable than stuff you take off and put on amarel
 - After every session of fMRI scanning at CAHBIR the scan tech is going to automatically send data from the scanner to flywheel
     - multi-band multi-echo will go up but will go up a little later since Jeff has to do another step
     - compress-sensing MP2Rage
@@ -148,13 +148,12 @@ for example, this skips any files which start with “fmap_” or “fmap-” an
     - You should definitely do a test or two with your pipeline
 
 ## BIDS process
-
 1. click on the project you want to look at (ie ConteCenter, PCX)
 2. click on ”Sessions” tab
 3. make sure you’re on “Acquisitions” tab
-4. run gear
-5. analysis gear
-6. bids curation
+4. Run Gear
+5. Analysis Gear
+6. Bids Curation
 7. click on the project name
 8. ‘inputs’ tab: 
     1. click on “template”
@@ -268,7 +267,7 @@ for example, this skips any files which start with “fmap_” or “fmap-” an
 - little picture icon on the right of the dicom
 - can also double check that your files are right
 
-## Gear Exchange
+### Gear Exchange
 
 - [flywheel.io/gear-exchange/](http://flywheel.io/gear-exchange/)
     - if there’s any there you want and aren’t currently installed on our flywheel, let Wil / CAHBIR-support know, and they’ll ask flywheel to add it
