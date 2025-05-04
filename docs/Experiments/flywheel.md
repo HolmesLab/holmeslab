@@ -87,10 +87,15 @@ Flywheel Tutorial: [Ignoring Certain Images in Bids](https://docs.flywheel.io/us
 
 1. click on your project tab
 2. Go to “Information”
-3. In files find template nordic_extension_template_MMDDYYYY.json
+3. In files find template nordic_extension_template.json
+    If it's not already uploaded, upload into the project [files nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9), by clicking on:
+        - Project Name (in side navigation bar)
+        - Information tab
+        - Attachments box
+        - 'Upload' button
 4. Click on the 3 dots in the template row and click “Download” 
 5. Open file in an editor
-6. in the “initializers": [” section, paste in your code
+6. in the “initializers:” section, paste in your code
 
 for example, this skips any files which start with “fmap_” or “fmap-” and end with “SBRef” or “Pha”, and skips any files which end with “_e2” or “_e3”
 
@@ -158,9 +163,14 @@ See how to set up and use it on the [Flywheel CLI Tutorial](https://holmeslab.gi
 8. ‘inputs’ tab: 
     1. click on “template”
     2. click on ConteCenter or your project name
-    3. select the nordic_extension_template.json
+    3. select the [nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9)
     - locates and assigns the echoes their proper echo name
     - ignores single band reference images and phase images for fieldmaps
+    - If it's not already there, upload it to the project files by clicking on: 
+        - Project Name (in side navigation bar)
+        - Information tab
+        - Attachments box
+        - 'Upload' button
 9. ‘configuration’ tab:
     1. First: you need to specify the regexes in pairs, each element separated by a space.
         1. To attach all fmap to their relevant BOLD images: `fmap-.* .*bold.nii.gz`
