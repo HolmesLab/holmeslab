@@ -1,5 +1,5 @@
 ---
-title: Flywheel in Command Line
+title: Download Data from Flywheel
 parent: Running Experiments
 nav_enabled: true
 ---
@@ -12,7 +12,7 @@ Date: April 3, 2025 1:14 PM
 {:toc}
 ---
 
-# Legacy Command Line Interface (CLI)
+# Install Legacy Command Line Interface (CLI)
 
 ### Step 1: Download flywheel command line interface
 The flywheel CLI is not able to be downloaded off a package manager like pip. Instead, you download it manually into your computer.
@@ -126,7 +126,7 @@ Available commands:
 
 To view the available list of commands, run `fw -h` (^^pasted above). More information about each command can found in the *Command References* documentation folder.
 
-## Getting Help
+*Getting Help*
 
 With any command, you can add -h or --help to get more information. For example, with the `ls` command we'll see in the following section:
 
@@ -151,138 +151,102 @@ options:
 
 ```
 
-# The `fw download` Command
+# Downloading Data: The `fw download` Command
 
 Sessions, acquisitions, and files can be downloaded individually using the `fw download` command.
 
 ## Usage
 
-`fw download [-h] [--config-file CONFIG_FILE | --no-config] [-y] 
-[--ca-certs CA_CERTS] [--timezone TIMEZONE] [--debug | --quiet][-o [OUTPUT]] [-p PREFIX] [-i INCLUDE] [-e EXCLUDE] <source-path>`
+```bash
+fw download [-h] [--config-file CONFIG_FILE | --no-config] [-y] 
+[--ca-certs CA_CERTS] [--timezone TIMEZONE] [--debug | --quiet][-o [OUTPUT]] [-p PREFIX] [-i INCLUDE] [-e EXCLUDE] <source-path>
+```
 
-### Required Arguments
+### Arguments
 
-| Required Argument | Description |
+| Argument | Description |
 | --- | --- |
-| `source-path` | The location of the file on your Flywheel instance. For example [fw://group/project/subject/acquisition/attachments] |
+| `source-path` | REQUIRED: The location of the file on your Flywheel instance. For example [fw://group/project/subject/acquisition/attachments] |
+| `-i FILE_TYPE`, `--include FILE_TYPE` | Download only files with the specified types.* |
+| `-e FILE_TYPE`, `--exclude FILE_TYPE` | Ignore files with the specified types.* |
+| `-o`, `--output file name` | Name of the folder where the data is downloaded |
+| `-p PREFIX`, `--prefix PREFIX` | Prefix for downloaded directory structure |
 
-### Optional Arguments
-
-### Download
 
 For a full, up-to-date list of options, run the following from your command line:
 
 `fw download --help`
 
-Below is a list of commonly used options.
-
-| Optional Argument | Description |
-| --- | --- |
-| `-i FILE_TYPE`, `--include FILE_TYPE` | Download only files with the specified types.* |
-| `-e FILE_TYPE`, `--exclude FILE_TYPE` | Ignore files with the specified types.* |
-| `-o`, `--output file name` | Name of the folder where the data is downloaded |
-| `-p PREFIX`, `--prefix PREFIX` | Prefix for downloaded directory structure |
 - [Learn more about file types in Flywheel](https://docs.flywheel.io/user/upload/user_file_types_in_flywheel/)
 
-### General
 
-| Optional Argument | Description |
-| --- | --- |
-| `-h`, `--help` | Show help message and exit. |
-| `-C PATH`, `--config-file` | Specify configuration options via config file.* |
-| `--no-config` | Do NOT load the default configuration file. |
-| `-y`, `--yes` | Assume the answer is yes to all prompts. |
-| `--ca-certs CA_CERTS` | Path
- to a local Certificate Authority certificate bundle file. This option 
-may be required when using a private Certificate Authority. |
-| `--timezone TIMEZONE` | Set the effective local timezone to use when uploading data. |
-| `-q`, `--quiet` | Squelch log messages to the console. |
-| `-d`, `--debug` | Turn on debug logging. |
-| `-v`, `--verbose` | Get more detailed output. |
-- [Learn more about how to create this file](https://docs.flywheel.io/CLI/start/config_file/).
-
-## Example
+## Example: Downloading Acquisition Files
 
 Below is an example of how to download a particular subject:
 
-1. 
-    
-    [Download the Flywheel CLI](https://docs.flywheel.io/CLI/start/install/), and sign in using your API key. Once signed in, the following message should appear:
-    
-- `C02W39YBHTD6:~ AvaAnderson$ fw login staging2.dev.flywheel.io:Ja0ib***********pf
-You are now logged in as Ava Anderson!`
-    
-    ---
-    
-- 
-    
-    Now you can navigate to the files you wish to download. In this example, we're navigating to the subjects in the ConteCenter project:
-    
-- `fw ls 022/ConteCenter`
-outputs:
+### Find the files
+1. Find which group you need files from. You can return all the "groups" you're a part of (and your permissions) by running run `fw ls`. The Holmes Lab "group" in flywheel is `022`, so it may say:
 
+  $ `fw ls`
+  Output: `rw   022`
+    
+2. Next, figure out what "project" they're in. Running `fw ls 022` will return all the projects in the Holmes Lab group
 ```bash
-files/README.txt                               
-files/dataset_description.json                 
-files/freesurfer_license_jun2024.txt           
-files/nordic_extension_template.json           
-files/nordic_extension_template_archived.json  
-files/nordic_extension_template_archived2.json 
-PCR2Pilot     # Subject folder                            
-PCR2Pilot2    # Subject folder  
+[netID@amarel ~]$ fw ls 022
+rw   Napls       
+rw   PCX         
+rw   ConteCenter 
 ```
-
-- `fw ls 022/ConteCenter/PCR2Pilot`
-    
-    outputs:
-    
-    ```bash
-    001     # Session folder
-    ```
-    
-- `fw ls 022/ConteCenter/PCR2Pilot/001`
-    
-    outputs:
-    
-    - All analyses/gears run
-    - ALL acquisition folder in RAW acquisition format
-    
-    ```bash
-    #example:
-    analyses/bids-pre-curate 02/28/2025 14:18:16           
-    analyses/curate-bids 02/28/2025 16:48:13               
-    analyses/bids-fmriprep 03/14/2025 11:22:35   
-    AAHead_Scout
-    AAHead_Scout_MPR_sag
-    AAHead_Scout_MPR_cor
-    ```
-    
-- `fw ls "022/ConteCenter/PCR2Pilot/001/analyses/bids-fmriprep 03/14/2025 11:22:35"`
+3. See what data is availabe in the project you're interested in. For example
+```bash
+[kj537@amarel2 ~]$ fw ls 022/Napls
+rw                          analyses/bids-pre-curate 05/03/2025 17:41:29 
+rw                          analyses/curate-bids 05/03/2025 17:47:15     
+rw     5B May 03 2025 22:47 files/README.txt                             
+rw   200B May 03 2025 22:47 files/dataset_description.json               
+rw  1.1KB May 03 2025 22:47 files/participants.txt                       
+rw                          sub-NDARZN877YYQ                             
+rw                          sub-NDARZP892XY9                             
+rw                          sub-NDARZW884MZC          
+```
+4. You can investigate the contents of subjects (acquisition files) or specific analyses. For example
 
 ```bash
+[kj537@amarel2 ~]$ fw ls "022/ConteCenter/PCR2Pilot/001/analyses/bids-fmriprep 03/14/2025 11:22:35"
 files/bids_tree.html
 files/bids-fmriprep_001_67d449d202be158786fab2d3.zip
 files/fmriprep_log.txt
 files/sub-PCR2Pilot.html.zip
 ```
 
----
 
-Tip
+### Download the files
 
-If a project or subject's name includes spaces, use quotes around the name. For example: `Psychology/"An example study"`
+To download files, run `fw download /path/to/files`. 
 
-- 
-    
-    To download one of those subjects:
-    
-1. `C02W39YBHTD6:~ AvaAnderson$ fw download Psychology/AnxietyStudy/s3
-This download will be about 218 MB comprising 39 files.
+```bash
+[kj537@amarel2 ~]:~ AvaAnderson$ fw download "022/ConteCenter/PCR2Pilot/001/analyses/bids-fmriprep 03/14/2025 11:22:35"
+This download will be about 218 KB comprising 4 files.
 Continue? (yes/no): yes
-Wrote 218 MB to s3.tar`
+Wrote 218 MB to 2025 11:22:35.tar
+```
 
-    
-    ---
+# Downloading BIDS Files: The `fw export bids` Command
+
+To download the BIDS versions of files (ie the output of the BIDS Curation gear), you don't use the `fw download` on the BIDS Curation analysis. That will just download the acquisitions.tsv and other tsvs which were the outputs of that gear. To download the files in BIDS format, use the `fw export bids` command.
+
+The formula is:
+`fw export bids -p "<project>" -g "<group>" /path/to/destination/folder`
+
+For the Holmes Lab: 
+group = 022
+project = Conte, PCX, Napls, ...
+
+So a download command may look like: 
+`fw export bids -p "Conte" -g "022" ~/flywheel_download`
+
+You can also download specific subjects, using the --subject flag. For example:
+`fw export bids -p "Conte" --subject PCR2Pilot -g "022" ~/flywheel_download`
 
 
 
