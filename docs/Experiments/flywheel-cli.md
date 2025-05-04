@@ -30,37 +30,37 @@ If that returns a version number, you have it set up correctly.
 
 To use fw commands, you can either:
 
-OPTION 1: This is already set up. You can call the full path to the shared copy of the file (`/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw`) each time you want to run a command 
+**OPTION 1: Reference flywheel from the full path**
+
+ This is already set up. You can call the full path to the shared copy of the file (`/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw`) each time you want to run a command 
 
 ```bash
-/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw [COMMAND]
+/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw --help
 ```
 
-OPTION 2: move a copy of the fw file to your /home/netID/bin folder so you only have to say `fw` to reference the package
-
+**OPTION 2: Move a copy of the fw file to your /home/netID/bin folder so you only have to say `fw` to reference the package**
+Run these: 
 ```bash
-fw [COMMAND]
+$ cp /projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw ~/bin/
+$ chmod +x ~/bin/fw
+$ fw --help
 ```
+If that returns the flywheel help menu, it's set up correctly. 
 
-**How to set up Option 2:** 
+**OPTION 3: Add the path to the flywheel executable to your bashrc file**
 
-Run this command in your terminal, replacing <netID> with your netID
-
+Run these: 
 ```bash
-export PATH="/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64:$PATH"
-source ~/.bashrc
+$ export PATH="/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64:$PATH"
+$ source ~/.bashrc
+$ fw --help
 ```
+If that returns the flywheel help menu, it's set up correctly. 
 
 If you get a conda error, try running `conda deactivate` and then again `conda deactivate` until you’re fully out of all condas and then try this again
 
-You should be able to run
 
-```bash
-fw --help
-```
-
-If it returns this, you’ve got it setup!
-
+### Flywheel Help Menu:
 ```bash
 usage: fw [-h]  ...
 
@@ -122,7 +122,7 @@ Available commands:
 
 
 
-## Usage
+### Usage
 
 To view the available list of commands, run `fw -h` (^^pasted above). More information about each command can found in the *Command References* documentation folder.
 
@@ -155,7 +155,7 @@ options:
 
 Sessions, acquisitions, and files can be downloaded individually using the `fw download` command.
 
-## Usage
+### Usage
 
 ```bash
 fw download [-h] [--config-file CONFIG_FILE | --no-config] [-y] 
@@ -180,7 +180,7 @@ For a full, up-to-date list of options, run the following from your command line
 - [Learn more about file types in Flywheel](https://docs.flywheel.io/user/upload/user_file_types_in_flywheel/)
 
 
-## Example: Downloading Acquisition Files
+### Example: Downloading Acquisition Files
 
 Below is an example of how to download a particular subject:
 
@@ -243,29 +243,30 @@ group = 022
 project = Conte, PCX, Napls, ...
 
 So a download command may look like: 
-`fw export bids -p "Conte" -g "022" ~/flywheel_download`
-
+```bash
+fw export bids -p "Conte" -g "022" ~/flywheel_download
+```
 You can also download specific subjects, using the --subject flag. For example:
-`fw export bids -p "Conte" --subject PCR2Pilot -g "022" ~/flywheel_download`
+```bash
+fw export bids -p "Conte" --subject PCR2Pilot -g "022" ~/flywheel_download
 
-
+```
 
 # Beta Command Line Interface (CLI)
 
-<aside>
+
 ⚙
 
 Prerequisites: The install script requires `bash`, `curl`, `grep`, `tar`, and `shasum` (or `sha256sum`) in order to download, extract, and verify the CLI.
 
-</aside>
 
-# 1 -- SSH into Amarel command line
+### 1 -- SSH into Amarel command line
 
 ```bash
 ssh netID@amarel.rutgers.edu
 ```
 
-# 2 -- Download prerequisites 
+### 2 -- Download prerequisites 
 
 ```bash
 # latest stable version
@@ -276,15 +277,14 @@ By default, `fw-beta` will be extracted under `~/.fw` with all of its dependenci
 
 Shell profiles are automatically updated to include `fw-beta` on the `PATH` for bash and zsh using `~/.bash_profile` and `~/.zshenv` respectively.
 
-# 3 — Activate new bash profile
+### 3 — Activate new bash profile
 
 ```bash
 source ~/.bash_profile
 ```
 
-# 4 — Use CLI `export`
+### 4 — Use CLI `export`
 
-### `export`
 
 Export data from a Flywheel project to an external storage.
 
