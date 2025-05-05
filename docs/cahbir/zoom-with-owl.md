@@ -3,32 +3,36 @@ title: Zoom meetings with OWL Setup
 parent: Lab Space at CAHBIR
 nav_enabled: true 
 ---
-
 # SOP: Zoom meetings with OWL Setup
 
-Done: Done
-Doc Type: SOP/Doc
-Important Doc: No
 
-**Table of Contents**
-
-## Set up the OWL as the Microphone, Speaker and Camera…
+## Step 2: Set up the OWL as the Microphone, Speaker and Camera:
 
 1. Gather up the OWL, USB-C, and power cord & bring all to SRB 127 (or wherever you're having the meeting)
-    - OWL + cords location image reference
+    - OWL + cords location:
+    ![image.png][zoom-with-owl/owl_location.png]
 2. Place the owl in the middle of the room, unless you're having a speaker, in which case you can place the owl a little closer to where the speaker is. 
 3.  Plug in the power cord and the USB-C cord on the bottom of the Owl in the inputs. 
-4.  Plug in the power cord to the nearest outlet, and plug in the USB-C to your computer.
-    1. The Owl takes 30s or so to turn on. When it’s turning on you’ll hear a hoot noise
-5.  Open up Zoom on your computer. 
+4.  Plug in the power cord to the nearest outlet, 
+    1. The Owl takes 30s or so to turn on. When it’s turning on you’ll hear a hoot noise.
+5. Plug in the USB-C to your computer.
+5. Open up Zoom on your computer. 
 6. Click the carrot (^) next to the Microphone icon and select Zoom Meeting Owl 4+ as the microphone and speaker
-    - Image reference
+![image.png][zoom-with-owl/mic.png]
 7. Click the carrot (^) next to the Video icon and select Zoom Meeting Owl 4+ as the camera
-    - Image reference
+![image.png][zoom-with-owl/camera.png]
 8. Now you should see dynamic videos of everyone in the room!
 
-## Set up the SRB-127 Smart TV as your screen…
 
+## Step 2 (Option 1): Set up the screen in SRB-127 with Newline Cast
+(If you don't have DisplayNote App downloaded on your computer, download it, or use Option 2 for the screen.)
+1. If the screen isn’t on, click the power button on the lower right corner of the screen frame
+2. Press menu button that says 'Screen Sharing' or 'Newline Cast'
+3. It should open up with a Newline Cast page which lists a Session ID
+4. Open up DisplayNote App, enter Session ID, and share the screen you'd like to share to the TV
+
+
+## Step 2 (Option 2): Set up the screen in SRB-127 as direct screen…
 1. If the screen isn’t on, click the power button on the lower right corner of the screen frame
 2. Click the button on the menu which says “PC” (or if you don’t see the menu, click one of the white dots on the side of the screen to display the menu)
 3. Locate the wireless keyboard and make sure it’s on (look on the top of the keyboard for a switch, make sure it’s switched to green, not red)
@@ -49,7 +53,6 @@ Important Doc: No
 - Make sure the speaker on their computer is off/at 0
 
 ## If you want to lock the screen on a speaker…
-
 1. Download the Meeting Owl app on your computer from here [https://resources.owllabs.com/app-download](https://resources.owllabs.com/app-download) 
 2. Select your device from the **Nearby** list.
 3. From the **Current Meeting Controls** page, select **Lock and Zoom**.
