@@ -18,29 +18,8 @@ Legend:
 
 *If you’re looking for an overview of the study grant and aims, please go to [PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)*
 
-### IRBs
 
-There are 3 IRBs at Rutgers which make up the Psychiatric Connectomics IRB structure. 
-
-**Mass-General Brigham (IRB of Record / sIRB / Parent site)**
-
-- Protocol Number: #2013P001798
-- Amendment naming: AMEXX
-
-**Rutgers (Child site)**
-
-- Protocol Number: #Pro2024000070
-- Amendment naming: Modification2025XXXXX
-
-**Holmes 01 CCNP Substudy:** 
-
-- Protocol Number: #Pro2025000031
-
-![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
-
-## Procedures
-
-### Recruit for Clinical Interview Session
+## Recruit for Clinical Interview Session
 
 Recruitment flyers and example posts are in [/PCX_Round2/Procedures/Recruitment Flyers](https://rutgers.box.com/s/c6v6x63oa6az0bcjvkau879zql6klwtf)
 
@@ -52,7 +31,7 @@ Participants get do SCID, refresher SCID or no SCID based on this flow chart:
 ![Screenshot 2025-04-18 at 4.00.42 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
 
 
-### Clinical Interview Session
+## Clinical Interview Session
 
 Here is a master script for the entire session: 
 
@@ -80,7 +59,7 @@ Here is a visual overview:
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
 - [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
 
-### MRI Session Scheduling
+## MRI Session Scheduling
 
 ![Screenshot 2025-04-18 at 4.05.44 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
 
@@ -113,7 +92,7 @@ Here is a visual overview:
     [Tutorial: Cancelling MRI Scans in iLabs](https://www.notion.so/Scheduling-MRI-Scans-at-CAHBIR-173cf00eb9368082b3c1ec7c9d39c66e?pvs=21)
     
 
-### MRI Session + Supplemental Battery
+## MRI Session + Supplemental Battery
 
 ![Screenshot 2025-04-18 at 4.06.51 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.06.51_PM.png)
 
