@@ -10,7 +10,7 @@ nav_enabled: true
 
 1. Gather up the OWL, USB-C, and power cord & bring all to SRB 127 (or wherever you're having the meeting)
     - OWL + cords location:
-    ![image.png][zoom-with-owl/owl_location.png]
+    ![owl_location.png][zoom-with-owl/owl_location.png]
 2. Place the owl in the middle of the room, unless you're having a speaker, in which case you can place the owl a little closer to where the speaker is. 
 3.  Plug in the power cord and the USB-C cord on the bottom of the Owl in the inputs. 
 4.  Plug in the power cord to the nearest outlet, 
@@ -18,9 +18,9 @@ nav_enabled: true
 5. Plug in the USB-C to your computer.
 5. Open up Zoom on your computer. 
 6. Click the carrot (^) next to the Microphone icon and select Zoom Meeting Owl 4+ as the microphone and speaker
-![image.png][zoom-with-owl/mic.png]
+![mic.png][zoom-with-owl/mic.png]
 7. Click the carrot (^) next to the Video icon and select Zoom Meeting Owl 4+ as the camera
-![image.png][zoom-with-owl/camera.png]
+![camera.png][zoom-with-owl/camera.png]
 8. Now you should see dynamic videos of everyone in the room!
 
 
