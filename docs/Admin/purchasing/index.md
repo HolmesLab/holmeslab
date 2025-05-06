@@ -142,3 +142,4 @@ The PO will be placed and confirmed.
     ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
     
     1.  Look up which commodity code you’ll need in this form: [Commodity Codes - Which Forms Are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) (downloaded from Canvas link [List: Commodity Codes)](https://rutgers.instructure.com/courses/561/pages/list-commodity-codes-with-corresponding-forms?module_item_id=6208614) and make sure to use whichever form it says is allowable (ie Goods Request, Service Request or Quick Order)
+    

@@ -20,6 +20,10 @@ nav_order: 4
 - [Compute Cluster Updates/Maintenance](https://oarc.rutgers.edu/amarel-system-status/)  
 
 ### Other Quick Links
+- [Holmes Lab purchasing codes - for our funds](https://rutgers.box.com/s/qwr930x0d1lat1jsgni8yfbm0v5qxeb7) (Password is same as general lab password)
+- [Common Accounting/Commodity Codes - Based on item](https://holmeslab.github.io/holmeslab/docs/Admin/purchasing/account-codes/)
+- [Recommended Account Codes (if you can't find your item on the above page)](https://rutgers.box.com/s/mrnx5wg8w5rhbiixzs9i9mjoternm231)
+- [All Account Codes (giant spreadsheet)](https://rutgers.box.com/s/lujk9fm9n5jwju52cfvkoqkp8q0o32pn)
 - [eIRB Dashboard](https://eirb.rutgers.edu/eIRB/sd/Rooms/DisplayPages/LayoutInitial?Container=com.webridge.entity.Entity%5BOID%5B51CF5D6F830F11EE3C910AED9E565000%5D)  
 - [SmartIRB Reliance](https://reliance.smartirb.org/users/sign_in)  
 - [IRBRelianceTeam@research.rutgers.edu](mailto:IRBRelianceTeam@research.rutgers.edu)   
@@ -31,6 +35,5 @@ nav_order: 4
 - [Rutgers Qualtrics](https://rutgers.qualtrics.com/)  
 - [Procurement Forms](https://procurementservices.rutgers.edu/resources/forms)  
 - [RBHS Research Codes/Contacts](https://research.rutgers.edu/sites/default/files/2022-10/RSP_QuickFacts.pdf)  
-
 
 
