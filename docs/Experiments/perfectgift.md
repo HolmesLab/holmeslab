@@ -2,30 +2,50 @@
 parent: Running Experiments
 title: Subject Payments
 ---
+
 # Tutorial: Buying Gift Cards from PerfectGift
 
-💡Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8pyb4a68mnbbk5086btj)
+💡 Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8pyb4a68mnbbk5086btj)
 
-Contact: [rutgers#perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
+Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
 
 ### Buying cards from Perfect Gift
+
 1. Go to [corp.perfectgift.com](http://corp.perfectgift.com) and login
 2. Select Place Order and then select Visa as the vendor
     1. Choose Digital (Email Delivery)
     2. Choose 36-month Expiration
 3. Payment method: ACH
-4. Submit the order (that will automatically generate a PDF invoice.)
-    1. View invoice
-5. Go to Marketplace and create a Check Request. Attach Invoice (from step 4) to Check Request as required backup.
-6. Department and Accounts Payable Check Request team must approve the Check Request. Once approved by all parties, Payment will be releasedto the provider on the next Payment Run (Tuesday & Thursday every week).
-7. Once RU sends the money, PerfectGift will process immediately or next-day
-8. On your perfectgift account, you can see your in progress/submitted orders whether the cards have been shipped
-9. Once provider receives payment, the order is fulfilled.
+4. If buying physical cards, for free shipping: use promotional code “RUTGERS”
+5. Submit the order (that will automatically generate a PDF invoice.)
+    
+    ![Screenshot 2025-05-06 at 12.44.27 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.27_PM.png)
+    
+    1. Order number = invoice number
+    2. View invoice
+        
+        ![Screenshot 2025-05-06 at 12.44.32 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.32_PM.png)
+        
+    3. Download the invoice and save it to box folder [Perfect Gift](https://rutgers.box.com/s/jx2fmd1xgtbz4e0q7pu33jcgzv21mrby) (in Lab_admin > Purchasing and Reimbursement)
+6. Go to Marketplace and create a Check Request  Attach Invoice (from step 5) to Check Request as required backup.
+    1. Supplier: Perfect Gift LLC
+    2. Commodity Code: Gift Cards
+    3. Type of Payment: Invoice
+    4. Invoice #/Payment Identifier: Order # from [PerfectGift.com](http://PerfectGift.com) / Invoice Number from invoice  (same number)
+    
+    Image reference:
+    
+    ![Screenshot 2025-05-06 at 12.45.18 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.45.18_PM.png)
+    
+7. Department and Accounts Payable Check Request team must approve the Check Request. Once approved by all parties, Payment will be releasedto the provider on the next Payment Run (Tuesday & Thursday every week).
+8. Once RU sends the money, PerfectGift will process immediately or next-day
+9. On your perfectgift account, you can see your in progress/submitted orders whether the cards have been shipped
+10. Once provider receives payment, the order is fulfilled.
 
 ### Perfect Gift Info
 
 - How to get an account:
-    - Contact Perfect Gift, [Chuck Peterson](mailto:Rutgers@perfectgift.com) ([Rutgers#perfectgift.com](mailto:Rutgers@perfectgift.com)) with your name and phone number, for initial setup. Perfect Gift will provide a login and password to their [website](https://www.perfectgift.com/corporate/rutgers) .
+    - Contact Perfect Gift, [Chuck Peterson](mailto:Rutgers@perfectgift.com) ([Rutgers@perfectgift.com](mailto:Rutgers@perfectgift.com)) with your name and phone number, for initial setup. Perfect Gift will provide a login and password to their [website](https://www.perfectgift.com/corporate/rutgers) .
 - $0 per card fee
 - Can send individual cards to participant location
 - *Bulk shipping of physical cards needs to go to a Rutgers address*
