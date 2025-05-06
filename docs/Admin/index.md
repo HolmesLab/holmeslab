@@ -38,7 +38,7 @@ Misc
 - [RBHS Research Codes/Contacts](https://research.rutgers.edu/sites/default/files/2022-10/RSP_QuickFacts.pdf)  
 
 Purchasing
-- [Holmes Lab purchasing codes - for our funds](https://rutgers.box.com/s/qwr930x0d1lat1jsgni8yfbm0v5qxeb7) (Password is same as general lab password)
+- [Holmes Lab purchasing codes - for our funds](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) (Password is same as general lab password)
 - [Commodity Codes - Which Forms are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf)
 - [Which forms needed for 'Non-PO Upload' Items](https://rutgers.box.com/s/od35jddjazp5fik32lzs9kt800tp8jjt)
 - [Common Accounting/Commodity Codes - Based on item](https://holmeslab.github.io/holmeslab/docs/Admin/purchasing/account-codes/)
