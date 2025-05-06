@@ -18,7 +18,8 @@ This has lab general codes for **Exp Org**, **Location**, **Activity**, **Unit**
 - 52950 - Office supplies general
 - 52930 - Office supplies computer
 - 58030 - Computer Software Licenses & Fees
-- 74108 - anything (mac etc) from kite+key
+- 74108 - Anything from kite+key punchout supplier (mac etc) 
+- 69182 - Gift cards for subject payment
 
 ### Common Commodity Codes
 - Hotels / Banquets / Conferences (for travel fees, conference fees)
