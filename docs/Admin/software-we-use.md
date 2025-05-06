@@ -16,7 +16,7 @@ Date: April 1, 2025 11:00 PM
 Amarel 
 - Rutgers high-performance compute cluster
 - Follow tutorials to access and use:
-    - [General Amarel Information](https://holmeslab.github.io/holmeslab/docs/Amarel/amarel-computing/)
+    - [General Amarel Information](https://holmeslab.github.io/holmeslab/docs/Amarel/)
     - [Connect to Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/connect-amarel/)
     - [Filesystem on Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/filesystem-amarel/)
 
