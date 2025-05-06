@@ -4,19 +4,23 @@ parent: Purchasing
 nav_enabled: true 
 ---
 
-Common Account Codes
-o	55250 - Publication fees
-o	56060 - travel + conference registration fees
-o	56100 - travel meals per diem
-o	56090 - travel lodging, foreign
-o	56080 - travel lodging, domestic
-o	52950 - Office supplies general
-o	52930 - Office supplies computer
-o	58030 - Computer Software Licenses & Fees
-o	74108 - anything (mac etc) from kite+key
+Commonly Used Account Codes
+- 55250 - Publication fees  
+- 56060 - travel + conference registration fees  
+- 56100 - travel meals per diem
+- 56090 - travel lodging, foreign
+- 56080 - travel lodging, domestic
+- 52950 - Office supplies general
+- 52930 - Office supplies computer
+- 58030 - Computer Software Licenses & Fees
+- 74108 - anything (mac etc) from kite+key
 
 Common Commodity Codes
-
+- Hotels / Banquets / Conferences (for travel fees, conference fees)
+- Office Supplies & Equipment (for any office food/supplies misc)
+- Gift cards
+- Books/Publications/Library Services (for publication fees)
+- Wire, Prepayment, Non-PO Uploads
 
 
 If your item isn't listed in the above, you can check these places:
