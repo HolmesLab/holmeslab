@@ -3,11 +3,13 @@ title: Account Codes
 parent: Purchasing
 nav_enabled: true 
 ---
-### Lab General Codes
+# Accounting Codes
 - [Holmes Lab purchasing codes - for our funds](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) (Password is same as general lab password)
+This has lab general codes for **Exp Org**, **Location**, **Activity**, **Unit**, **Division**, **Org**, **Fund Type**, **Activity**, and specific grant codes for **Project ID/Project Number**, **Task**
 
-### By-Item Codes
-Commonly Used Account Codes
+
+# Purchasing Codes based on Item (Commodity/Account)
+### Commonly Used Account Codes
 - 55250 - Publication fees  
 - 56060 - travel + conference registration fees  
 - 56100 - travel meals per diem
@@ -18,7 +20,7 @@ Commonly Used Account Codes
 - 58030 - Computer Software Licenses & Fees
 - 74108 - anything (mac etc) from kite+key
 
-Common Commodity Codes
+### Common Commodity Codes
 - Hotels / Banquets / Conferences (for travel fees, conference fees)
 - Office Supplies & Equipment (for any office food/supplies misc)
 - Gift cards
