@@ -29,9 +29,18 @@ Date: April 1, 2025 11:00 PM
 - Connect with your personal email/existing slack account if you'd like, then you'll have access if you leave Rutgers + can maintain access with existing workspaces
 
 ## Email lists
-- Holmes Lab Google Group (send an email to all active Holmes Lab members): holmeslab@
-## Other recommended:
-- Zotero for saving, annotating and organizing research articles
+- Holmes Lab Google Group (send an email to all active Holmes Lab members): holmeslab-bhi#googlegroups.com 
+    - Get added by asking lab manager
+- CAHBIR Listserv: cahbir_news@email.rutgers.edu
+    - Get added to the group by following [this tutorial](https://holmeslab.github.io/holmeslab/docs/cahbir/CAHBIR-mailing-list/) 
+- BHI Listserv: bhi-bhi.rutgers.edu@shared1.ccsend.com 
+    - Get added by signing up on the [BHI Website](https://brainhealthinstitute.rutgers.edu/) 
+- Center for Cognitive Computational NeuroPsychiatry (CCNP): ccnp@princeton.edu
+    - Get added by contacting CCNP staff, listed on the [CCNP website](https://ccnp.princeton.edu/upcoming-meetings/)
+
+
+## Other miscellaneous used by some lab members:
+- Zotero or EndNote as a reference manager for saving, annotating and organizing research articles
 - Canva for creating visualizations, flyers, posters, etc
 - Notion for creating your own custom dashboard to store documents, tasks, projects, SOPs, etc
 - Litmaps and Connected Papers for visualizing citation networks

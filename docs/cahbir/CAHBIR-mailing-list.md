@@ -1,9 +1,9 @@
 ---
-title: CAHBIR E-Mailing List SOP
+title: CAHBIR E-Mailing List
 parent: Lab Space at CAHBIR
 nav_enabled: true
 ---
-# CAHBIR E-Mailing List SOP
+# CAHBIR E-Mailing List
 
 Date: September 16, 2024 1:00 PM
 
