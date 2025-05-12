@@ -14,7 +14,7 @@ nav_enabled: true
 Date: April 28, 2025 1:12 PM
 
 ## 1. Fill in general information
-    1. You can click “create from an approved request” and link it to your pre-travel request
+    1. Click **“create from an approved request”** and LINK it to your **pre-travel request**
     2. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
     (If that link doesn't work, copy and paste this into your browser:  [https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a))
 
@@ -49,7 +49,7 @@ For specific item examples, go to that section (hotel/lodging, mileage, airfare)
 
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 4.png)
 
-### 4. Add lodging expenses
+## 4. Add lodging expenses
 - Make sure to upload an *itemized* receipt for lodging, so that the different expenses (nightly room cost, taxes, any room charge, etc) are all listed in separate lines (more info
 - If your hotel vendor is not an option in the 'Vendor' list, contact your lab manager or University Procurement Services
 1. Itemizing receipts
@@ -61,7 +61,7 @@ For specific item examples, go to that section (hotel/lodging, mileage, airfare)
 
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 6.png)
 
-### 5. Adding car mileage
+## 5. Adding car mileage
 
 1. Select type of mileage:
 - Local = driving around within conference area
@@ -82,7 +82,7 @@ c. Select “Mileage Calculator”
 
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 8.png)
 
-### 6 Adding flights
+## 6 Adding flights
 
 - If you've done a 'Pre-Travel Request' for this trip including airfare, your flight should be in the system, and you then add it to your expense report
 - Even though Rutgers already paid for it, they still want you to add it to a report, so make sure its linked to your report and shows up as an expense. If it’s not linked, you can add it as an expense, listing cost and a screenshot of your booking. Concur just won’t reimburse you for it since it was paid by Rutgers already
