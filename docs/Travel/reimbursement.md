@@ -14,11 +14,13 @@ Date: April 28, 2025 1:12 PM
 
 Notes: Warning
 
-## 1. Fill in general information
-1. Click **“create from an approved request”** and LINK it to your **pre-travel request**
-2. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
-(If that link doesn't work, copy and paste this into your browser:  [https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a))
+## 1. Fill in trip information
 
+1. Create request
+![start_report.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/start_report.png)
+2. Click **“create from an approved request”** and LINK it to your **pre-travel request**
+![create_from_approved.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/create_from_approved.png)
+3. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image.png)
 
 ## 2. Add per-diem expenses 
