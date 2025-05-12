@@ -10,13 +10,14 @@ nav_enabled: true
 1. TOC
 {:toc}
 ---
-
 Date: April 28, 2025 1:12 PM
 
+Notes: Warning
+
 ## 1. Fill in general information
-    1. Click **“create from an approved request”** and LINK it to your **pre-travel request**
-    2. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
-    (If that link doesn't work, copy and paste this into your browser:  [https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a))
+1. Click **“create from an approved request”** and LINK it to your **pre-travel request**
+2. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
+(If that link doesn't work, copy and paste this into your browser:  [https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a))
 
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image.png)
 
@@ -53,12 +54,10 @@ For specific item examples, go to that section (hotel/lodging, mileage, airfare)
 - Make sure to upload an *itemized* receipt for lodging, so that the different expenses (nightly room cost, taxes, any room charge, etc) are all listed in separate lines (more info
 - If your hotel vendor is not an option in the 'Vendor' list, contact your lab manager or University Procurement Services
 1. Itemizing receipts
-    1. Add room and taxes
+- Add room and taxes
+![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 5.png)
     
-    ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 5.png)
-    
-    1. If you have other line items other than room rate and taxes (for example: valet/car parking, wifi payment, etc.), add it in a new itemization by clicking "Save and Add Another" & selecting a new "Expense Type"
-
+- If you have other line items other than room rate and taxes (for example: valet/car parking, wifi payment, etc.), add it in a new itemization by clicking "Save and Add Another" & selecting a new "Expense Type"
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 6.png)
 
 ## 5. Adding car mileage
