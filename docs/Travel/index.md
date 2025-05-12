@@ -126,6 +126,31 @@ Overview:
 that you submit is within 10% of your approved expenses, it will be auto-
 approved!
 
+
+Reporting Expenses
+
+After returning from a trip on Rutgers business, travelers who used personal funds for travel-related expenses can request reimbursement by submitting an expense report by clicking Concur Travel and Expense icon, accessible through myRutgers Portal. If you receive an error message, download and complete the Expense Management Access Form from the University Controllers Office Forms Repository page.
+
+Please note with Concur Expense, travel allowance (per diem) is automatically calculated using the IRS per diem rate based on the date and location.  The per diem charts are no longer required to claim per diem.  As a reminder, per diem does not require receipts although your department may.
+
+Expense reports must include receipts for travel expenses and a complete explanation of the business purpose of the trip to support the use of University funds. The business purpose must clearly state the benefit to the University.
+
+ 
+Attach Receipts With Your Expense Report 
+
+Travelers must attach original receipts for any travel-related expense in excess of $50. The travel policy defines a receipt as "an original document itemizing the good(s) or service(s) purchased."
+
+A receipt must provide:
+
+    a named payee
+    date that confirms payment has been made for a stated purchase
+    proof of payment, i.e. last 4 digits of credit card
+
+If travelers lose a receipt, they can complete the [Lost Receipt Certification Form](https://procurementservices.rutgers.edu/travel_policies_and_forms) and electronically attach it to their expense reports. Accessible via RU Marketplace, this form is required for all duplicate or lost receipts, and must be accompanied by proof of payment and the signatures of both the requester and the person approving the expense.
+
+If a receipt has someone else's name on it, the traveler requesting reimbursement must obtain a memo from the person named on the receipt authorizing reimbursement to the traveler. The memo must also indicate that the person named on the receipt (and writing the memo) will not seek reimbursement from the University.
+
+ 
 **TIMELINE:** 
 
 - To be completed ASAP upon return from travel and/or when business expenses are incurred, within 60 days.
