@@ -27,22 +27,6 @@ Tutorial: [Creating and Submitting a Request in Concur](https://rutgersconnect.s
 
 Quick notes: 
 
-**Click ‘Start a Request’**
-
-- Travel
-    - Travel requests - NEED do this before booking anything (except for the beginning)
-    - put in what you will use - like hotels and other
-        - Gets approved and then when you come back you just click ‘create a report’
-    - The approver for this is Finance Approver (John Nguyen-Cleary)
-        - It will then go to the Project Approver if a project is indicated (PI)
-        - You can reassign the expense report to another finance approver
-    - A delegate can now prepare a report, but the report will then go to the traveler to sign off on
-        - The traveler will get an email that ‘you have a report waiting to be approved’
-        - if they don’t, they’ll get more emails
-        - Then, when they submit, it will go for processing & reimbursement
-    - Have to have an approved request before they go in to book
-        - This is approved by the business approver
-
 ## Travel Reimbursement Requests
 
 **Click ‘Start a Report’**

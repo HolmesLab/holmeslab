@@ -13,10 +13,10 @@ Updated: April 25, 2025 4:21 PM
 ---
 
 ## TIMELINE:
-> ***4+ Weeks before registration deadline:*** contact RA to do conference registration payment
-***24hrs before booking*:** Create pre-travel request
-Book travel
-Return from travel
+> ***4+ Weeks before registration deadline, >2 months before travel:*** contact RA to do conference registration payment
+***24hrs before booking, >2 weeks before travel*:** Create pre-travel request
+***Book travel***
+***Return from travel***
 ***Within 60 days from last travel day:*** Submit Expense Report
 > 
 
@@ -73,42 +73,34 @@ There are two main steps for paying for travel and accommodations:
 ## Step 2: Book hotels, transportation and airfare
 
 **Airfare, train tickets:**
+- ONLY book airfare through Concur
+- Rutgers pays directly, no out of pocket expenses
+- [Tutorial for booking airfare in Concur](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
-- ONLY through concur
-- [Tutorial for booking](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
+✈️ Note: You CANNOT submit for reimbursement of flights/trains booked outside of Concur. Booking through Concur = Rutgers pays directly, no out of pocket
 
-✈️Note: You CANNOT submit for reimbursement of flights/trains booked outside of Concur. But booking through Concur = Rutgers pays directly, no out of pocket
 
 
 **Lodging:** 
-
 - Can be through concur, can also book anywhere and submit for reimbursement
     - Airbnb, hotels outside of concur, splitting rooms/lodging, etc.
     - Just submit for reimbursement after
     - So if you want to share a room with someone else, you can both pay half and then submit for reimbursement
-- [Tutorial for booking](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
+- [Tutorial for booking lodging in Concur](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
 💵 You can also request “cash advances” to cover per diem amounts, instead of paying out of pocket, if you want to 
 [Cash Advances Tutorial](https://holmeslab.github.io/holmeslab/docs/Travel/cash-advance/)
 [Cash Advances tutorial video](https://rutgersconnect.sharepoint.com/sites/TravelExpenseBPR/_layouts/15/stream.aspx?id=%2Fsites%2FTravelExpenseBPR%2FShared)
-
-Otherwise, just check the per diem for your city and spend in accordance, then submit for reimbursement after (no receipts or documentation needed)
+- Otherwise, just check the per diem for your city and spend in accordance, then submit for reimbursement after (no receipts or documentation needed)
 
 
 ## Step 3: Registration
-
-ONLY if you’re travelling internationally AND you’re a student (undergrad or PhD) at Rutgers: [International travel for students](https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3)
+- ONLY if you’re travelling internationally AND you’re a student (undergrad or PhD) at Rutgers: [International travel for students](https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3)
 
 ## Step 4: During travel: pay out of pocket
-
-Keep Required Documentation!
-
-- [List: Documentation Needed](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe)
-
-Check which expenses are reimbursable: 
-
-- [List: what is reimbursable?](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
+- Keep Required Documentation! [List: Documentation Needed](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe)
+- Check which expenses are reimbursable: [List: what is reimbursable?](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
 
 ## Step 5: Submit a Travel Expense Report for Reimbursement
 

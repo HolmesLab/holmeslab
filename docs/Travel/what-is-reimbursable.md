@@ -12,7 +12,37 @@ Date: April 28, 2025 2:03 PM
 1. TOC
 {:toc}
 ---
-### **What Needs to be on Documentation?**
+
+## **Overview: What is Reimbursable**
+
+Reimbursable travel expenses can include:
+
+- Local rail (NJ Transit) tickets
+- Lodging
+- Per Diem for Meals (excluding alcohol)
+- [Rental vehicles, ground transportation](https://procurementservices.rutgers.edu/purchasing/travel-and-expenses/car-rental-rail-and-ground-transportation) (e.g., car service, taxis, shuttles, and van service)
+- Tolls and automobile mileage reimbursement for personal vehicles
+- Parking - search [Find Products and Services](https://procurementservices.rutgers.edu/purchasing/find-products-and-services) and search keyword "parking" to find an airport parking supplier
+- Mileage Reimbursement for driving rental cars or university-owned vehicles
+- Baggage expenses
+- Hotels / Accommodation
+- Anything that can be reasonably attributed to ‘*supporting business / research interests at Rutgers’*
+
+Non-Reimbursable Expenses:
+
+- Flights
+    - Flights are paid directly by Rutgers, so they don’t have to be reimbursed
+    - Airfare must be booked through [Rutgers Online Travel Booking Tool](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww-us.api.concursolutions.com%2Fsso%2Fsaml2%2FV2%2Fauthnrequest%2F26038124-8167-45bd-a1fe-45ab91fb3b9b%2F1632108764019&data=04%7C01%7Ccw561%40finance.rutgers.edu%7C52f08ce24ae343e77d1a08da17cd72e8%7Cb92d2b234d35447093ff69aca6632ffe%7C1%7C0%7C637848468402829873%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ergyDsloHoNaigJwutQdbcYSVNNHUQYkri7j4dxQHeE%3D&reserved=0) (SAP Concur, found in [myRutgers Portal](https://my.rutgers.edu/)) or through the travel agency [Direct Travel](https://procurementservices.rutgers.edu/purchasing/travel-agencies).
+- Flights booked with frequent flyer miles
+- Travel insurance
+- Gasoline for a personal vehicle is not reimbursable; mileage reimbursement rate covers this cost.
+
+
+### Reference: **Reimbursable & Non-Reimbursable Expenses**   
+
+![Screenshot 2025-04-28 at 1.23.14 PM.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/Screenshot_2025-04-28_at_1.23.14_PM.png)
+
+## **What Needs to be on Documentation?**
 
 The Five “Ws” (Why, Who, What, When and Where) should be entered in the business purpose field for each expense report. A clear business purpose description should contain all information necessary to substantiate the expenditure including a list of attendees and the purpose for attending, business topics, and the benefit to the University. Documentation and back-up for all expenses must be included in the expense report even if said expense has already been paid.
 
@@ -44,29 +74,6 @@ For all items, see [required documentation for travel expense reimbursement repo
 
 https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe
 
-## **Overview:**
-
-Reimbursable travel expenses can include:
-
-- Local rail (NJ Transit) tickets
-- Lodging
-- Per Diem for Meals (excluding alcohol)
-- [Rental vehicles, ground transportation](https://procurementservices.rutgers.edu/purchasing/travel-and-expenses/car-rental-rail-and-ground-transportation) (e.g., car service, taxis, shuttles, and van service)
-- Tolls and automobile mileage reimbursement for personal vehicles
-- Parking - search [Find Products and Services](https://procurementservices.rutgers.edu/purchasing/find-products-and-services) and search keyword "parking" to find an airport parking supplier
-- Mileage Reimbursement for driving rental cars or university-owned vehicles
-- Baggage expenses
-- Hotels / Accommodation
-- Anything that can be reasonably attributed to ‘*supporting business / research interests at Rutgers’*
-
-Non-Reimbursable Expenses:
-
-- Flights
-    - Flights are paid directly by Rutgers, so they don’t have to be reimbursed
-    - Airfare must be booked through [Rutgers Online Travel Booking Tool](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww-us.api.concursolutions.com%2Fsso%2Fsaml2%2FV2%2Fauthnrequest%2F26038124-8167-45bd-a1fe-45ab91fb3b9b%2F1632108764019&data=04%7C01%7Ccw561%40finance.rutgers.edu%7C52f08ce24ae343e77d1a08da17cd72e8%7Cb92d2b234d35447093ff69aca6632ffe%7C1%7C0%7C637848468402829873%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ergyDsloHoNaigJwutQdbcYSVNNHUQYkri7j4dxQHeE%3D&reserved=0) (SAP Concur, found in [myRutgers Portal](https://my.rutgers.edu/)) or through the travel agency [Direct Travel](https://procurementservices.rutgers.edu/purchasing/travel-agencies).
-- Flights booked with frequent flyer miles
-- Travel insurance
-- Gasoline for a personal vehicle is not reimbursable; mileage reimbursement rate covers this cost.
 
 ## **Procedures for Expense Reporting by Item**
 
