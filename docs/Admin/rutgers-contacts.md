@@ -63,23 +63,15 @@ Psychiatry Business manager
 
 
 # Holmes Lab
-
-Lab email: [**holmes.lab#rwjms.rutgers.edu**]
+Lab email: [**holmeslab.bhi#gmail.com**]
 
 **Kaley Joss**
-
 Lab Manager/RA, Holmes Lab
-
 [Kaley.joss#rutgers.edu]
-
-- Email about purchasing for the lab,
-
-financial questions, admin processes, or anything lab-general
+- Email about anything administrative or lab-general
 
 **Avram Holmes**
-
 Director / Principal Investigator, Holmes Lab
-
 [Avram.holmes#rutgers.edu]
 
 # CAHBIR

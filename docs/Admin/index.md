@@ -6,6 +6,7 @@ nav_order: 4
 ---
 
 # Quick links:
+- [holmeslab.bhi#gmail.com](holmeslab.bhi@gmail.com) - Lab manager / research assistants email
 - [my.rutgers.edu](my.rutgers.edu) - Where all your reimbursement, payment, HR, insurance, etc. information is.
 - [Purchasing](https://holmeslab.github.io/holmeslab/docs/Admin/purchasing/) - information and tutorials for purchasing
 - [Rutgers Contacts](https://holmeslab.github.io/holmeslab/docs/Admin/rutgers-contacts/) - People/emails to contact for various problems and questions relating to the Holmes Lab at Rutgers University
