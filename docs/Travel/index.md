@@ -21,10 +21,9 @@ Return from travel
 > 
 
 
-## Conference Registration Payment Process
+# Conference Registration Payment Process
 
 To pay for conference registration via check request:
-
 - The conference organization must first be added as a supplier in PaymentWorks if they are not already in the Rutgers system
     - Ask the lab manager to check if they’re in PaymentWorks or add them
 - Once supplier status is confirmed, obtain an invoice/quote from the conference showing registration fees
@@ -33,7 +32,7 @@ To pay for conference registration via check request:
 
 ---
 
-## Travel and Accommodations
+# Travel and Accommodations
 
 🚨 IMPORTANT: Is your travel being sponsored by/charged to a federal R01 grant? If so, check over these documents, as your restrictions/procedures may differ from general policy:
 - [General Considerations/Differences](https://rutgers.box.com/s/c2tyz5h94zvp0nr64bq0u9qr0yrb70o6)
@@ -42,7 +41,7 @@ To pay for conference registration via check request:
 
 There are two main steps for paying for travel and accommodations:
 
-### Step 1: Pre-trip Request (create 24hrs before you want to book)
+## Step 1: Pre-trip Request (create 24hrs before you want to book)
 
 1. **Look up the cost of the accommodation, airfare, expected costs, etc. which you expect to use during your travel.**
     
@@ -71,7 +70,7 @@ There are two main steps for paying for travel and accommodations:
     *(He doesn’t need to approve it to make your bookings—if he doesn’t reject within 24 hours, you’re approved to book)*
     
 
-### Step 2: Book hotels, transportation and airfare
+## Step 2: Book hotels, transportation and airfare
 
 **Airfare, train tickets:**
 
@@ -97,11 +96,11 @@ There are two main steps for paying for travel and accommodations:
 Otherwise, just check the per diem for your city and spend in accordance, then submit for reimbursement after (no receipts or documentation needed)
 
 
-### Step 3: Registration
+## Step 3: Registration
 
 ONLY if you’re travelling internationally AND you’re a student (undergrad or PhD) at Rutgers: [International travel for students](https://rutgers.box.com/s/v30d71j6zytqyaqsqtnk0r63im0ruut3)
 
-### Step 4: During travel: pay out of pocket
+## Step 4: During travel: pay out of pocket
 
 Keep Required Documentation!
 
@@ -111,12 +110,11 @@ Check which expenses are reimbursable:
 
 - [List: what is reimbursable?](https://rutgers.box.com/s/8pde44tv6c9egwlsbo4oxfntx7su0lt7)
 
-### Step 5: Submit a Travel Expense Report for Reimbursement
+## Step 5: Submit a Travel Expense Report for Reimbursement
 
 **TUTORIAL:** for [Creating a Travel Expense Report in Concur](https://rutgers.box.com/s/8mzht4kydhgb4n9bczku5u8jeb303hrc)
 
-Overview: 
-
+### Overview: 
 - Click ‘Start a Reportʼ
 - Fill out your expenses, including receipts and information
     - List of [what documentation info / receipt types to include](https://rutgers.box.com/s/7dmtb6ignsrxim5pqgpufd3v4beiq7qe) for non-per-diem reimbursements: 
@@ -127,26 +125,20 @@ that you submit is within 10% of your approved expenses, it will be auto-
 approved!
 
 
-Reporting Expenses
-
+### Reporting Expenses
 After returning from a trip on Rutgers business, travelers who used personal funds for travel-related expenses can request reimbursement by submitting an expense report by clicking Concur Travel and Expense icon, accessible through myRutgers Portal. If you receive an error message, download and complete the Expense Management Access Form from the University Controllers Office Forms Repository page.
 
 Please note with Concur Expense, travel allowance (per diem) is automatically calculated using the IRS per diem rate based on the date and location.  The per diem charts are no longer required to claim per diem.  As a reminder, per diem does not require receipts although your department may.
 
 Expense reports must include receipts for travel expenses and a complete explanation of the business purpose of the trip to support the use of University funds. The business purpose must clearly state the benefit to the University.
 
- 
-Attach Receipts With Your Expense Report 
-
+### Attach Receipts With Your Expense Report 
 Travelers must attach original receipts for any travel-related expense in excess of $50. The travel policy defines a receipt as "an original document itemizing the good(s) or service(s) purchased."
 
 A receipt must provide:
-
-    a named payee
-    date that confirms payment has been made for a stated purchase
-    proof of payment, i.e. last 4 digits of credit card
-
-If travelers lose a receipt, they can complete the [Lost Receipt Certification Form](https://procurementservices.rutgers.edu/travel_policies_and_forms) and electronically attach it to their expense reports. Accessible via RU Marketplace, this form is required for all duplicate or lost receipts, and must be accompanied by proof of payment and the signatures of both the requester and the person approving the expense.
+- a named payee
+- date that confirms payment has been made for a stated purchase
+- proof of payment, i.e. last 4 digits of credit card
 
 If a receipt has someone else's name on it, the traveler requesting reimbursement must obtain a memo from the person named on the receipt authorizing reimbursement to the traveler. The memo must also indicate that the person named on the receipt (and writing the memo) will not seek reimbursement from the University.
 
@@ -157,9 +149,10 @@ If a receipt has someone else's name on it, the traveler requesting reimbursemen
 - Can only be submitted after all expenses are incurred
     - So if you’re travelling for a conference and you pay for an Airbnb in advance, you can only submit for reimbursement AFTER the conference is over, even if you’ve paid before the conference
 
-### Step 6: Any other forms if necessary
+## Step 6: Any other forms if necessary
 
 **Lost Receipt Certification Form**
+If travelers lose a receipt, they can complete the [Lost Receipt Certification Form](https://procurementservices.rutgers.edu/travel_policies_and_forms) and electronically attach it to their expense reports. Accessible via RU Marketplace, this form is required for all duplicate or lost receipts, and must be accompanied by proof of payment and the signatures of both the requester and the person approving the expense.
 - Required for any expense for which a receipt/proof of payment cannot be provided.
 - Complete form, have it signed by supervisor, and include as an attachment with Expense Report
 
