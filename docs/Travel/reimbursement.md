@@ -16,8 +16,8 @@ Notes: Warning
 
 ## 1. Fill in trip information
 
-1. Create request
-<img src="Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/start_report.png" width="200" height="100">
+1. Create request  
+<img src="start_report.png" width="200" height="100">
 2. Click **“create from an approved request”** and LINK it to your **pre-travel request**
 ![create_from_approved.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/create_from_approved.png)
 3. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
