@@ -13,7 +13,7 @@ Date: February 6, 2024 11:31 AM
 ---
 
 Notes:
-- When making files, sure the 'group owner' is the Holmes Lab group, g_ah1491_1. To change the group owner, run `chgrp g_ah1491_1 /path/to/file.ext` or for a folder, `chgrp -R g_ah1491_1 /path/to/folder`
+- When making files, sure the 'group owner' is the Holmes Lab group, g_ah1491_1. To change the group owner, run in the terminal $`chgrp g_ah1491_1 /path/to/file.ext` (or for a folder, $`chgrp -R g_ah1491_1 /path/to/folder`)
     - To see who the group owner is, run $`ls -l`. The file/folder will be listed as `rwxrwxrwx author group ...` 
 - 1-2 days a month Amarel does maintenance- you can’t connect to the compute nodes, see or edit your files, and any running jobs will be paused (though they won’t be stopped). You can see when maintenance days are scheduled here: [https://oarc.rutgers.edu/amarel-system-status](https://oarc.rutgers.edu/amarel-system-status/)
 
