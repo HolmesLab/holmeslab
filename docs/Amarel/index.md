@@ -13,8 +13,8 @@ Date: February 6, 2024 11:31 AM
 ---
 
 Notes:
-- Make sure you're added to the Holmes Lab group, `g_ah1491_1`. Check this by logging into amarel and running $`groups` in the terminal to see all your groups. (It should return: `netID gaussian g_ah1491_1` with your netID). If you don't have `g_ah1491_1`, ask the lab manager to email [help@oarc.edu](help@oarc.edu), cc'ing Avram, to ask for you to be added. 
-- When sharing rwx permissions to others in the lab, make sure the 'group owner' is the Holmes Lab group, g_ah1491_1. To see who the group ownder is, do 'ls -l'. The file/folder will be listed as `rwxrwxrwx author group ...`. So if I had a file in the Holmes Lab group it would say `rwxrwxrwx kj537 g_ah1491_1 ...`. If it says `rwxrwxrwx kj537 kj537` that means my 'group owner' is myself, and if I do chmod+ug, only I would be able to open it. To change the group owner, run `chgrp g_ah1491_1 /path/to/file.ext` or for a folder, `chgrp -R g_ah1491_1 /path/to/folder`
+- When making files, sure the 'group owner' is the Holmes Lab group, g_ah1491_1. To change the group owner, run `chgrp g_ah1491_1 /path/to/file.ext` or for a folder, `chgrp -R g_ah1491_1 /path/to/folder`
+    - To see who the group owner is, run $`ls -l`. The file/folder will be listed as `rwxrwxrwx author group ...` 
 - 1-2 days a month Amarel does maintenance- you can’t connect to the compute nodes, see or edit your files, and any running jobs will be paused (though they won’t be stopped). You can see when maintenance days are scheduled here: [https://oarc.rutgers.edu/amarel-system-status](https://oarc.rutgers.edu/amarel-system-status/)
 
 
