@@ -1,6 +1,6 @@
 ---
 title: Software We Use
-parent: Rutgers Admin
+parent: Lab Policies
 nav_enabled: true 
 nav_order: 5
 ---
@@ -16,6 +16,8 @@ Date: April 1, 2025 11:00 PM
     - [General Amarel Information](https://holmeslab.github.io/holmeslab/docs/Amarel/)
     - [Connect to Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/connect-amarel/)
     - [Filesystem on Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/filesystem-amarel/)
+- Make sure you're added to the Holmes Lab group, `g_ah1491_1`. Check this by logging into amarel and running $`groups` in the terminal to see all your groups. (It should return: `netID gaussian g_ah1491_1` with your netID). If you don't have `g_ah1491_1`, ask the lab manager to email [help@oarc.edu](help@oarc.edu), cc'ing Avram, to ask for you to be added. 
+
 
 ## Shared calendars: Google Calendar
 - Holmes Lab - Meetings: [View Calendar or Request Access](https://calendar.google.com/calendar/u/0?cid=Y19hMmJhNjE1MzlmODQzNjBhZmJkYTU2ODM5YjY4MTYwMTZlYWM3OTQ0MGE5NjMyODMxZjVmYjM3NzVjOTcwYzc4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
