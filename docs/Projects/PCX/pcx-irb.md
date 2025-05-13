@@ -5,15 +5,15 @@ has_toc: true
 nav_order: 3
 ---
 
-For an overview of the Psychiatric Connectomics project, see here: [Psychiatric Connectomics]({{site.baseurl}}/docs/Projects/PCX/study-overview)
 ---
 **Table of Contents**
 1. TOC
 {:toc}
 ---
 
+For an overview of the Psychiatric Connectomics project, see here: [Psychiatric Connectomics]({{site.baseurl}}/docs/Projects/PCX/study-overview)
 
-**IRB Numbers**:
+### **IRB Numbers**:
 **Mass-General Brigham (IRB of Record / sIRB / Parent site)**
 - Protocol Number: #2013P001798
 - Amendment naming: AMEXX
@@ -35,7 +35,7 @@ The IRB which covers this project is a Reliance IRB, with the Reviewing/Single I
 ![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
 
 ## How to Create a Modification
-1. Create folder in [MGB IRB](https://rutgers.box.com/s/rougasn9aqc1uwmsnbc89nfehipdia4y) or [Rutgers IRB](https://rutgers.box.com/s/2fmmfxno0s2jz7fu25ixjdpd9rj8jt66) folders, named by the amendment number (eg `AME68` for MGB or `MS3` for Rutgers). 
+1. Create folder in [MGB IRB](https://rutgers.box.com/s/libf346niv6tt8fqinypz1csmpkk0oxo) or [Rutgers IRB](https://rutgers.box.com/s/2fmmfxno0s2jz7fu25ixjdpd9rj8jt66) folders, named by the amendment number (eg `AME68` for MGB or `MS3` for Rutgers). 
     a. if it's an MGB local site amendment for Rutgers, add "`_Rutgers`" to the end, (eg `AME69_Rutgers`)
 2.  For the documents you want to edit in this modification, copy the most recent approved version of that doc from the Currently Approved Docs folder
 3.  Create a tracking document (text file or word doc) in the folder called `AME#_description_of_changes`.
