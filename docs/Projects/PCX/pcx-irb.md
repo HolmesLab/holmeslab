@@ -35,18 +35,17 @@ The IRB which covers this project is a Reliance IRB, with the Reviewing/Single I
 ![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
 
 ## How to Create a Modification
-So process for creating a new modification is (i'll add this to the wiki):
-Create folder named by the amendment number (eg AME68 for MGB or MS3 for Rutgers)
-if it's an MGB local site amendment for Rutgers, add "_Rutgers" to the end, (eg AME69_Rutgers)
+1. Create folder in [MGB IRB](https://rutgers.box.com/s/rougasn9aqc1uwmsnbc89nfehipdia4y) or [Rutgers IRB](https://rutgers.box.com/s/2fmmfxno0s2jz7fu25ixjdpd9rj8jt66) folders, named by the amendment number (eg `AME68` for MGB or `MS3` for Rutgers). 
+    a. if it's an MGB local site amendment for Rutgers, add "`_Rutgers`" to the end, (eg `AME69_Rutgers`)
 2.  For the documents you want to edit in this modification, copy the most recent approved version of that doc from the Currently Approved Docs folder
-3.  Create a tracking document (text file or word doc) in the folder called AME#_description_of_changes.
-4.  Rename the document from "_clean" to "_tracked". Open the document to edit and turn on 'tracking changes'.
+3.  Create a tracking document (text file or word doc) in the folder called `AME#_description_of_changes`.
+4.  Rename the document from "_clean" to "_tracked". Open the document to edit and turn on 'tracking changes' (under 'Review' tab).
 5.  Create any changes you'd like to make for the modification, with tracking on.
 6.  Describe all the changes you make in the  AME#_description_of_changes doc.
-7.  Once you've made all the changes necessary, create a clean version of the document by duplicating the "_tracked" document, renaming the copy to "_clean", opening the document in word, highlight the whole document with command+A, click Review > Track Changes > Accept all changes. Now there should be a popup saying "there are no tracked changes in your document." Press "OK" and then save the document. Now this document should reflect all the newest changes without any actual 'tracking' marking up the document.
-7.  Upload the _tracked and _clean versions of the document to the modification in Insight (for MGB) or eIRB (for Rutgers)
+7.  Once you've made all the changes necessary, create a clean version of the document by duplicating the "_tracked" document, renaming the copy to "`_clean`", opening the document in word, highlight the whole document with command+A, click Review > Track Changes > Accept all changes. Now there should be a popup saying "there are no tracked changes in your document." Press "OK" and then save the document. Now this document should reflect all the newest changes without any actual 'tracking' marking up the document.
+7.  Upload the `_tracked` and `_clean` versions of the document to the modification in Insight (for MGB) or eIRB (for Rutgers)
 8.  Copy and paste the description of changes into the relevant field for the modification
-9.  When it gets approved, add the ReviewLetter to "Approval_letters" folder
+9.  When it gets approved, add the ReviewLetter to [`Approval_letters`](https://rutgers.box.com/s/z0roc2ekqfm9umo7a8sq57w8l7ndonbx) folder
 10.  Update all the new approved docs in the Currently Approved Docs folder, so that it reflects the most recent docs
 
 
