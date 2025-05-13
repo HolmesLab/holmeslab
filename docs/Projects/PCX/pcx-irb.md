@@ -29,7 +29,7 @@ For an overview of the Psychiatric Connectomics project, see here: [Psychiatric 
 ## IRB Structure
 There are 3 IRBs at Rutgers which make up the Psychiatric Connectomics IRB structure.
 
-The IRB which covers this project is a Reliance IRB, with the Reviewing/Single IRB located at Mass General Brigham, McLean Hospital. Rutgers University is a child site to the MGB IRB. 
+The IRB which covers this project is a Reliance IRB, with the Reviewing/Single IRB located at Mass General Brigham, McLean Hospital. Rutgers University is a child site to the MGB IRB. This means, Rutgers IRB submissions are categorized as "Administrative Review", [instructions here for administrative review guidance](https://rutgers.box.com/s/8t0s45ppe61dj1tmeg6ipadi2uga47kv).
 
 **Structure Visual**
 ![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
