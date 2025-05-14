@@ -5,8 +5,24 @@ nav_enabled: true
 nav_order: 99
 ---
 # How to get into Eris (MGB Server)
+        
+### Sign into Eris each time by:
+    1. Connect to Mclean VPN:  **pvc.partners.org/saml**
+    2. In terminal, type ssh -Y netID@eristwo.partners.org
+        1. if it says `The authenticity of host '[eristwo.partners.org](http://eristwo.partners.org/) (172.31.254.105)' can't be established.
+        RSA key fingerprint is SHA256:AYERiujz9FYfiO0DTxmsuybPL2OVroyMaEkQoC41724.
+        This key is not known by any other names.
+        Are you sure you want to continue connecting (yes/no/[fingerprint])?` enter: yes
+        2. Type your password
+        3. connected!
 
-Tutorial:
+### Data is in…
+    
+    /data/sbdp/PCM
+    
+
+
+Tutorial to Access Eris:
 
 1. If you don’t have “Windows App” setup follow this tutorial: →  [How To: Intune - Enroll Your Personal Mac](https://partnershealthcare.service-now.com/kb_view.do?sysparm_article=KB0041620)
 2. Open Cisco AnyConnect
@@ -58,22 +74,7 @@ Tutorial:
         
         linux command line, rclone
         
-        Comment: I am the research assistant for Dr Avram Holmes at Rutgers University, and we're collaborating with Dr Justin Baker at McLean. We are doing a joint data collection, and I will be using the Eris servers to rclone the de-identified and some identifiable data from Dr Baker's data collection into the Rutgers servers to compile the full dataset of the joint data collection. Dr Baker's lab members will be putting data for me in a specific folder and I'll be syncing that specific folder to the Rutgers cluster. My access to this data and the joint sharing of PHI data is all approved in a McLean IRB and Rutgers IRB. 
-        
-2. Sign into Eris each time by:
-    1. Connect to Mclean VPN:  **pvc.partners.org/saml**
-    2. In terminal, type ssh -Y netID@eristwo.partners.org
-        1. if it says `The authenticity of host '[eristwo.partners.org](http://eristwo.partners.org/) (172.31.254.105)' can't be established.
-        RSA key fingerprint is SHA256:AYERiujz9FYfiO0DTxmsuybPL2OVroyMaEkQoC41724.
-        This key is not known by any other names.
-        Are you sure you want to continue connecting (yes/no/[fingerprint])?` enter: yes
-        2. Type your password
-        3. connected!
-
-1. Data is in…
-    
-    /data/sbdp/PCM
-    
+        Comment: Please add to group sbdp. Area of study: Digital phenotypin I am the research assistant for Dr Avram Holmes at Rutgers University, and we're collaborating with Dr Justin Baker at McLean. We are doing a joint data collection, and I will be using the Eris servers to rclone the de-identified and some identifiable data from Dr Baker's data collection into the Rutgers servers to compile the full dataset of the joint data collection. Dr Baker's lab members will be putting data for me in a specific folder and I'll be syncing that specific folder to the Rutgers cluster. My access to this data and the joint sharing of PHI data is all approved in a McLean IRB and Rutgers IRB. 
 
 ---
 
