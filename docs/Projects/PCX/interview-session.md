@@ -6,22 +6,42 @@ nav_order: 5
 ---
 
 # Script for Clinical Interview Session
-[in progress]
 
-Date: April 16, 2025 8:09 AM
-
+## Introduction
 Hi! Thank you for coming in today. I’m going to be reading from a script to make sure each participant has a similar experience.
 
 You are being invited to participate in a research study on individual differences in how the brain functions. We hope that this data will allow us to better understand the bigger questions of how people vary in their behavior, and how those variations come about.
 
  I'll give you a brief overview of our procedures, and then you can read more specifics in the consent form. 
 
+## Clinical Interview (Holmes 01) Consent Form
 The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions. 
 
 [Holmes 01 Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) (Qualtrics)
 
-The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are a third set of online surveys and a smartphone-app tracking study. I’ll let you read through the consent form now, let me know if you have any questions. 
+## MRI & Smartphone Session (PCR) Consent Form
+The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are a third set of online surveys and a smartphone-app tracking study. 
 
+**Signature Boxes:**
+The first signature is allowing us to share your private health information, including identifiable information such as your name, with only the following groups listed.
+
+- “Medical history and medications”  which we collect only pertains to study data we collect - no additional medical records
+
+The second part is where there's a signature is for allowing the main part of the study which is the surveys today, the supplemental survey, and the MRI scan. 
+
+The other boxes are for the two optional things:
+1. The smartphone tracking part of the study
+2.  Whether you are okay with your data being included in a mass de-identified upload to a data sharing site like the National Institute of Health, where there's a bunch of neuroscience studies where you can upload data and everyone can use it to further the field. This would be completely de-identified. They wouldn't be able to have any indicators of your face from the MRI scan. They wouldn't have your name. They wouldn't have your birthday. They wouldn't have the day that you go in for the study. They would only have the numerical code that isn't associated with any of your personal information. 
+
+
+I’ll let you read through the consent form now, let me know if you have any questions. 
+
+[PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) (Qualtrics)
+
+Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.
+
+
+## Protocol Overview
 ### Payment
 - $20/hour for today's session, wihch is expected to last 2-3 hours. We will pay you via a gift card at the end of the session
 - The rest of the sessions would be run by a collaborating group, who will pay you in Visa gift cards emailed to you at the end of each session
@@ -33,10 +53,10 @@ The second consent form is for the MRI scanning session. If you sign this form t
         - $15 for 15-19 surveys completed
         - $30 for 20-24 surveys completed
         - $35 for 25+ surveys completed
-    For up to 6 months ($210 total for the smartphone component)
+    For up to 6 months ($210 total for the smartphone component)  
 
-### **Scan Session Protocol Overview**
 
+### **Scan Session Overview**
 At the scaning session, this is what will happen: 
 
 First, you're going to fill out a collection of surveys online, which will take about an hour, asking you about your mood, emotions and history.
@@ -74,23 +94,5 @@ All of the data we collect in this study will be de-identified and stored secure
 
 Your participation in this study is totally voluntary, so you’re free to stop participating at any point; just let us know.
 
-### **Signatures**
 
-The first signature is allowing us to share your private health information, including identifiable information such as your name, with only the following groups listed.
-
-- “medical history and medications”  which we collect only pertains to study data we collect - no additional medical records
-
-The second part is where there's a signature is for allowing the main part of the study which is the surveys today, the supplemental survey, and the fMRI scan. 
-
-The other boxes are for the two optional things:
-
-1. The smartphone tracking part of the study
-2.  Whether you are okay with your data being included in a mass de-identified upload to a data sharing site like the National Institute of Health, where there's a bunch of neuroscience studies where you can upload data and everyone can use it to further the field. This would be completely de-identified. They wouldn't be able to have any indicators of your face from the MRI scan. They wouldn't have your name. They wouldn't have your birthday. They wouldn't have the day that you go in for the study. They would only have the numerical code that isn't associated with any of your personal information. 
-
-[*Participant must check off either Yes or No, then initial*]
-
-Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and on your way out we’ll give you a blank copy to keep for your records
-
-
-[PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) (Qualtrics)
 
