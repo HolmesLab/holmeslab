@@ -40,7 +40,7 @@ I’ll let you read through the consent form now, let me know if you have any qu
 
 Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.
 
-
+If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
 ## Protocol Overview
 ### Payment
 - $20/hour for today's session, wihch is expected to last 2-3 hours. We will pay you via a gift card at the end of the session
