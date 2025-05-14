@@ -7,14 +7,10 @@ nav_order: 99
 # How to get into Eris (MGB Server)
         
 ### Sign into Eris each time by:
-    1. Connect to Mclean VPN:  **pvc.partners.org/saml**
-    2. In terminal, type ssh -Y netID@eristwo.partners.org
-        1. if it says `The authenticity of host '[eristwo.partners.org](http://eristwo.partners.org/) (172.31.254.105)' can't be established.
-        RSA key fingerprint is SHA256:AYERiujz9FYfiO0DTxmsuybPL2OVroyMaEkQoC41724.
-        This key is not known by any other names.
-        Are you sure you want to continue connecting (yes/no/[fingerprint])?` enter: yes
-        2. Type your password
-        3. connected!
+1. Connect to Mclean VPN:  **pvc.partners.org/saml**
+2. In terminal, type `ssh -Y netID@eristwo.partners.org` or `ssh -Y netID@dna006.research.partners.org`
+3. Type your password
+Connected!
 
 ### Data is in…
     
