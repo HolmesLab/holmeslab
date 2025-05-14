@@ -22,7 +22,7 @@ The first thing we’re going to do is go over the consent forms. This study is 
 
 The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are a third set of online surveys and a smartphone-app tracking study. I’ll let you read through the consent form now, let me know if you have any questions. 
 
-Payment: 
+### Payment
 - $20/hour for today's session, wihch is expected to last 2-3 hours. We will pay you via a gift card at the end of the session
 - The rest of the sessions would be run by a collaborating group, who will pay you in Visa gift cards emailed to you at the end of each session
     - $60 for the MRI Scan session, which is expected to last around 3 hours
@@ -34,8 +34,6 @@ Payment:
         - $30 for 20-24 surveys completed
         - $35 for 25+ surveys completed
     For up to 6 months ($210 total for the smartphone component)
-
-(If they want more information, go through the protocol:)
 
 ### **Scan Session Protocol Overview**
 
