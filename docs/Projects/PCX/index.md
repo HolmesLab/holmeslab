@@ -1,5 +1,5 @@
 ---
-title: Study Overview
+title: Psychiatric Connectomics
 parent: Current Projects
 nav_enabled: true 
 layout: minimal
@@ -34,7 +34,7 @@ population
 
 Feb 12, 2025: Grant Awarded, Feb 3 grant “started”
 
-| Quarter | Participants | Rate | Rutgers (Cumulative) | McLean (Cumulative) |
+| Quarter | Participants in period | Rate | Rutgers (Cumulative) | McLean (Cumulative) |
 | --- | --- | --- | --- | --- |
 | Mar 1* -April 1 2025 | 13 | 13/month | 13 | 13 |
 | April 1 - Aug 1 2025** | 14 | 3.5/month | 27 | 27 |
