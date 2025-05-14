@@ -6,7 +6,7 @@ nav_order: 99
 ---
 # How to get into Eris (MGB Server)
         
-### Sign into Eris each time by:
+## Sign into Eris each time by:
 1. Connect to Mclean VPN:  **pvc.partners.org/saml**
 2. In terminal, type `ssh -Y netID@eristwo.partners.org` or `ssh -Y netID@dna006.research.partners.org`
 3. Type your password
@@ -18,7 +18,7 @@ Connected!
     
 
 
-Tutorial to Access Eris:
+## Tutorial to Get Access to Eris: 
 
 1. If you don’t have “Windows App” setup follow this tutorial: →  [How To: Intune - Enroll Your Personal Mac](https://partnershealthcare.service-now.com/kb_view.do?sysparm_article=KB0041620)
 2. Open Cisco AnyConnect
