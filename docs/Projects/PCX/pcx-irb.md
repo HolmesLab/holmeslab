@@ -34,6 +34,8 @@ The IRB which covers this project is a Reliance IRB, with the Reviewing/Single I
 **Structure Visual**
 ![Screenshot 2025-04-18 at 5.38.56 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_5.38.56_PM.png)
 
+> Rutgers Protocol, SmartIRB Number Note: MGB IRB team has told us "we don’t utilize the SMART IRB Reliance portal so there isn’t a cede determination letter". This means we don't have a 'SmartIRB Number'. So in the Rutgers IRB, we say "No" to the SmartIRB question, so that we don't have to provide a number, but we are using SmartIRB. We just upload the SmartIRB reliance to the forms on question 1.5.4 where it says "Upload SMART IRB Acknowledgement, or If sIRB the IRB authorization Agreement" 
+
 ## How to Create a Modification
 1. Create folder in [MGB IRB](https://rutgers.box.com/s/libf346niv6tt8fqinypz1csmpkk0oxo) or [Rutgers IRB](https://rutgers.box.com/s/2fmmfxno0s2jz7fu25ixjdpd9rj8jt66) folders, named by the amendment number (eg `AME68` for MGB or `MS3` for Rutgers). 
     a. if it's an MGB local site amendment for Rutgers, add "`_Rutgers`" to the end, (eg `AME69_Rutgers`)
