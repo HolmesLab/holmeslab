@@ -6,6 +6,11 @@ nav_order: 5
 ---
 
 # Script for Clinical Interview Session
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
 
 ## Introduction
 Hi! Thank you for coming in today. I’m going to be reading from a script to make sure each participant has a similar experience.
