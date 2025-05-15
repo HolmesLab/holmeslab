@@ -19,6 +19,7 @@ You are being invited to participate in a research study on individual differenc
 
  I'll give you a brief overview of our procedures, and then you can read more specifics in the consent form. 
 
+# Consents
 ## Clinical Interview (Holmes 01) Consent Form
 The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions. 
 
@@ -47,6 +48,30 @@ Do you have any questions for me? [*Participant must print, sign, and date*] Thi
 
 ## Post-Consent Email
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent form. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
+
+# Surveys
+First, the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, 
+Enter this subject, assigning them a PCRID and a qualtrics ID.
+![sheet](interview_session/sheet.png)
+![qual_id](interview_session/qual_id.png)
+
+### Clinician Rating Survey
+Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. 
+![id_in_survey](interview_session/id_in_survey.png)
+
+Go through the first 2 pages of questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions (listed in purple) are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
+
+Note:
+- This survey has display logic to display questions based on answers. Specifically, suicidality questions will be displayed or skipped based on answers. 
+- There is also suicidality procedure information in the displayed answers based on how the participant responds to the questions.
+
+### Self-Report Survey
+After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom 
+
+Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
+
+## Payment
+Once they've submitted, send them their payment.
 
 If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
 ## Protocol Overview
