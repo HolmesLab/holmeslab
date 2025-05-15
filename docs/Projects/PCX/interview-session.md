@@ -19,13 +19,13 @@ You are being invited to participate in a research study on individual differenc
 
  I'll give you a brief overview of our procedures, and then you can read more specifics in the consent form. 
 
-# Consents
-## Clinical Interview (Holmes 01) Consent Form
+# 1. Consents
+## 1.1 Clinical Interview (Holmes 01) Consent Form
 The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions. 
 
 [Holmes 01 Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) (Qualtrics)
 
-## MRI & Smartphone Session (PCR) Consent Form
+## 1.2 MRI & Smartphone Session (PCR) Consent Form
 The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are a third set of online surveys and a smartphone-app tracking study. 
 
 **Signature Boxes:**
@@ -46,16 +46,17 @@ I’ll let you read through the consent form now, let me know if you have any qu
 
 Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.
 
-## Post-Consent Email
+## Note: Post-Consent Email
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent form. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
 
-# Surveys
-First, the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, 
+## 2. Enter Participant into ID-Linking Sheet
+First, go the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
+
 ![sheet](interview_session/sheet.png)
 ![qual_id](interview_session/qual_id.png)
 
-### Clinician Rating Survey
+## 3. Clinician-Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. 
 ![id_in_survey](interview_session/id_in_survey.png)
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
@@ -66,12 +67,12 @@ Note:
 - This survey has display logic to display questions based on answers. Specifically, suicidality questions will be displayed or skipped based on answers. 
 - There is also suicidality procedure information in the displayed answers based on how the participant responds to the questions.
 
-### Self-Report Survey
-After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom 
+## 4. Self-Report Survey
+After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom.
 
 Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 
-## Payment
+## 5. Payment
 Once they've submitted, send them their payment.
 
 If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
