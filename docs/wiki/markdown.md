@@ -4,8 +4,12 @@ parent: Wiki
 ---
 
 # Using Markdown
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
 
-Date: April 15, 2025 7:27 PM
 
 ## Overview
 
@@ -155,6 +159,12 @@ italicize the middle of a word for emphasis, add three asterisks without
 | Markdown | HTML | Rendered Output |
 | --- | --- | --- |
 | `This text is ***really important***.` | `This text is <em><strong>really important</strong></em>.` | This text is ***really important***. |
+
+**Color**
+
+Use HTML tags to change text color. The `color` attribute allows you to specify the font color using a color’s name or the hexadecimal `#RRGGBB` code.
+
+`<font color="red">This text is red!</font>`
 
 **Code**
 
@@ -368,11 +378,11 @@ and the HTML for the link would be:
 **Link Best Practices**
 
 Markdown applications don’t agree on how to handle spaces in the 
-middle of a URL. For compatibility, try to URL encode any spaces with ` `. Alternatively, if your Markdown application [supports HTML](https://www.markdownguide.org/basic-syntax/#html), you could use the `a` HTML tag.
+middle of a URL. For compatibility, try to URL encode any spaces with `%20`. Alternatively, if your Markdown application [supports HTML](https://www.markdownguide.org/basic-syntax/#html), you could use the `a` HTML tag.
 
 | ✅  Do this | ❌  Don't do this |
 | --- | --- |
-| `[link](https://www.example.com/my great page)
+| `[link](https://www.example.com/my%20great%20page)
 
         <a href="https://www.example.com/my great page">link</a>` | `[link](https://www.example.com/my great page)` |
 
@@ -486,7 +496,7 @@ To create an unordered list, add dashes (`-`), asterisks (`*`), or plus signs (`
 • Third item
 • Fourth item |
 
-Toggle Lists
+**Toggle Lists**
 
 A toggle list takes a bit of HTML coding tags, but then enables the user to toggle the bullets to view and hide them.
 
@@ -521,26 +531,6 @@ This creates:
 ```bash
 code code code
 ```
-
-## Images
-
-`1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
-
-    ![Tux, the Linux mascot](/assets/images/tux.png)
-
-3. Close the file.`
-
-The rendered output looks like this:
-
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
-    
-    ![](https://mdg.imgix.net/assets/images/tux.png)
-    
-3. Close the file.
-
-1. Fourth item
 
 ## Divider Lines
 
@@ -579,9 +569,7 @@ The rendered output looks like this:
 
 ![](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg)
 
-**Note:** To resize an image, see the section on [image size](https://www.markdownguide.org/hacks/#image-size). To add a caption, see the section on [image captions](https://www.markdownguide.org/hacks/#image-captions).
-
-**Linking Images**
+### **Embedding Images from Online**
 
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.
 
@@ -590,6 +578,24 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 The rendered output looks like this:
 
 ![](https://mdg.imgix.net/assets/images/shiprock.jpg)
+
+### Image Size
+
+The Markdown syntax for [images](https://www.markdownguide.org/basic-syntax/#images-1)  doesn’t allow you to specify the width and height of images. If you  need to resize an image and your Markdown processor supports [HTML](https://www.markdownguide.org/basic-syntax/#html), you can use the `img` HTML tag with the `width` and `height` attributes to set the dimensions of an image in pixels.
+
+`<img src="image.png" width="200" height="100">`
+
+The rendered output will contain the image resized to the dimensions you specified.
+
+### Image Captions
+
+Markdown doesn’t natively support image captions, but there are two possible workarounds. If your Markdown application supports [HTML](https://www.markdownguide.org/basic-syntax/#html), you can use the `figure` and `figcaption` HTML tags to add a caption for your image.
+
+`<figure>
+    <img src="/assets/images/albuquerque.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>`
 
 ## Escaping Characters
 
@@ -693,11 +699,11 @@ To make a nice table of contents, this format is recommended
 
 This creates: 
 
-![Screenshot 2025-04-15 at 8.00.58 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.00.58_PM.png)
+![Screenshot 2025-04-15 at 8.00.58 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.00.58_PM.png)
 
 ---
 
-### Tables and Dividers
+## Tables
 
 You can make a table like this
 
@@ -716,12 +722,29 @@ You can make a table like this
 | out of stock | good and plenty | nice |
 | ok | good `oreos`  | hmm |
 
-You can create a divider like this 
+### Lists Within Table Cells
+
+You can add a list within a table cell by using HTML tags.
+
+`| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |`
+
+The rendered output looks like this:
+
+![Screenshot 2025-05-12 at 3.11.15 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-05-12_at_3.11.15_PM.png)
+
+## Divider
+
+You can create a divider like this:
 
 ```bash
 * * * #or
 ---
 ```
+
+which renders:
 
 ---
 
@@ -731,7 +754,7 @@ You can create a divider like this
 
 Labels like the following can be created with the example code below. For more colors/customizations, you’ll have to edit the [labels.scss](https://rutgers.box.com/s/rwsh4khiyl7rbmeqty5nfe9rqztp1pkf) file in the codebase. 
 
-![Screenshot 2025-04-15 at 7.55.22 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/5e602955-6772-40a1-94da-74e5f1da5bdc.png)
+![Screenshot 2025-04-15 at 7.55.22 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/5e602955-6772-40a1-94da-74e5f1da5bdc.png)
 
 ```markdown
 ### Labels
@@ -762,7 +785,7 @@ red
 
 To create a chart like this, markdown/jekyll uses mermaid. Below is a simple code block, but if you want to know how to make more complex charts, look up Mermaid’s documentation.
 
-![Screenshot 2025-04-15 at 7.56.47 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.56.47_PM.png)
+![Screenshot 2025-04-15 at 7.56.47 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.56.47_PM.png)
 
 ```bash
 ```mermaid
@@ -821,3 +844,25 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 ```
+
+## Comments
+
+Some people need the ability to write sentences in their Markdown files that *will not*
+ appear in the rendered output. These comments are essentially hidden 
+text. The text is viewable by the author of the document, but it’s not 
+printed on the webpage or PDF. Markdown doesn’t natively support 
+comments, but several enterprising individuals have devised a solution.
+
+To add a comment, place text inside brackets followed by a colon, a space, and a pound sign (e.g., `[comment]: #`). You should put blank lines before and after a comment.
+
+`Here's a paragraph that will be visible.
+
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.`
+
+The rendered output looks like this:
+
+Here’s a paragraph that will be visible.
+
+And here’s another paragraph that’s visible.

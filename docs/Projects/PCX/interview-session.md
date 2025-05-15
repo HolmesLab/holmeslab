@@ -52,11 +52,10 @@ An email gets automatically emailed to the participant through Qualtrics after t
 ## 2. Enter Participant into ID-Linking Sheet
 First, go the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
-
-![sheet](interview_session/sheet.png)
 ![qual_id](interview_session/qual_id.png)
 
-## 3. Clinician-Rating Survey
+# 3. Surveys
+## 3.1 Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. 
 ![id_in_survey](interview_session/id_in_survey.png)
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
@@ -67,18 +66,21 @@ Note:
 - This survey has display logic to display questions based on answers. Specifically, suicidality questions will be displayed or skipped based on answers. 
 - There is also suicidality procedure information in the displayed answers based on how the participant responds to the questions.
 
-## 4. Self-Report Survey
+## 3.2 Self-Report Survey
 After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom.
 
 Tell them or email them their qual_id so that they enter it correctly. (ie qualr_01)
 
 Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 
-## 5. Payment
+# 4. Payment
 Once they've submitted, send them their payment.
 
+
+--- 
+
 If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
-## Protocol Overview
+# Protocol Overview
 ### Payment
 - $20/hour for today's session, wihch is expected to last 2-3 hours. We will pay you via a gift card at the end of the session
 - The rest of the sessions would be run by a collaborating group, who will pay you in Visa gift cards emailed to you at the end of each session
