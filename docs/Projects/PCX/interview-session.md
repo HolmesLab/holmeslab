@@ -40,6 +40,9 @@ I’ll let you read through the consent form now, let me know if you have any qu
 
 Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.
 
+## Post-Consent Email
+An email gets automatically emailed to the participant through Qualtrics after they sign the consent form. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
+
 If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
 ## Protocol Overview
 ### Payment
@@ -94,9 +97,6 @@ All of the data we collect in this study will be de-identified and stored secure
 
 Your participation in this study is totally voluntary, so you’re free to stop participating at any point; just let us know.
 
-
-## Post-Session Email
-This email gets emailed to the participant after they sign the consent form. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
 
 ## Suicidality Procedures
 If a participant endorses suicidality, the study-staff (trained post-baccalaureate, postdoctoral researcher, and/or graduate student member(s) of the research team) will conduct a thorough suicide risk assessment. If the study-staff assesses imminent risk to the participant or to others, and the participant is unwilling to contact his/her current treatment provider to arrange for a prompt crisis session and to engage in suicide contracting, the study-staff will contact UBHC Psychiatric Emergency Services. The study staff escort the at-risk study participant to UBHC Psychiatric Emergency Services, one building over from the lab space (671 Hoes Lane Piscataway, NJ 08854). If a participant that the study-staff has assessed to be imminently at risk leaves the debriefing session without first contacting a provider and making arrangements that reduce risk, the study-staff will contact Rutgers Security and provide the name and contact information of the at-risk individual. The Director of Clinical Training and the IRB will also be contacted in such an incident. The study-staff will consult with the study PI, Dr. Avram Holmes immediately following each suicide assessment and before a participant has left the lab. Together, the study-staff and the consulting faculty member will determine the participant’s risk status and appropriate course of action.

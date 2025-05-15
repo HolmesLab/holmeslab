@@ -39,9 +39,9 @@ Here is a master script for the entire session:
 
 1. Do CCNP-Holmes01 consent forms [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) 
 2. Do [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) form
-3. Enter this subject into the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, assigning them a PCRID and a qualtrics ID.
-4. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. Then go through the questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
-5. Fill out this email template with the subjects' qualtrics ID, and email it to them. 
+3. The consent form, once submitted, will automatically send them an email to the address they provided. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
+4. Enter this subject into the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, assigning them a PCRID and a qualtrics ID.
+5. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. Then go through the questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
 6. Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom 
 7. Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 8. Once they've submitted, send them their payment.
