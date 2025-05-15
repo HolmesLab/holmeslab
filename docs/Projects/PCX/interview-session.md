@@ -70,6 +70,8 @@ Note:
 ## 4. Self-Report Survey
 After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom.
 
+Tell them or email them their qual_id so that they enter it correctly. (ie qualr_01)
+
 Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 
 ## 5. Payment
