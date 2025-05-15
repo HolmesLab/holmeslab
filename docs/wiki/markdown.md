@@ -582,8 +582,10 @@ The rendered output looks like this:
 ### Image Size
 
 The Markdown syntax for [images](https://www.markdownguide.org/basic-syntax/#images-1)  doesn’t allow you to specify the width and height of images. If you  need to resize an image and your Markdown processor supports [HTML](https://www.markdownguide.org/basic-syntax/#html), you can use the `img` HTML tag with the `width` and `height` attributes to set the dimensions of an image in pixels.
-
 `<img src="image.png" width="200" height="100">`
+
+> NOTE: Make sure to put the image not in a folder, but in the same folder level as the script
+
 
 The rendered output will contain the image resized to the dimensions you specified.
 

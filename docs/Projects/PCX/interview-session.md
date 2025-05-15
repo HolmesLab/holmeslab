@@ -57,7 +57,8 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 # 3. Surveys
 ## 3.1 Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. 
-![id_in_survey](interview_session/id_in_survey.png)
+<img src="id_in_survey.png" width="200" height="100">
+
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
 
 Go through the first 2 pages of questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions (listed in purple) are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
