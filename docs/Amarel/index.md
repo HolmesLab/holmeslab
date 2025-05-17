@@ -12,6 +12,11 @@ Date: February 6, 2024 11:31 AM
 {:toc}
 ---
 
+[CLUSTER USER GUIDE](https://sites.google.com/view/cluster-user-guide/amarel) for Amarel
+- [Applications](https://sites.google.com/view/cluster-user-guide/amarel/applications?authuser=0) (Conda, Singularity, Python, R)
+- [User Guide](https://sites.google.com/view/cluster-user-guide/) (Policies, Storage, Slurm, File transferring)
+- [Beginner Information Hub](https://resources.cs.rutgers.edu/docs/new-users/beginners-info/) - Linux, Bash, Code Editors, etc
+
 Notes:
 - When making files, sure the 'group owner' is the Holmes Lab group, g_ah1491_1. To change the group owner, run in the terminal $ `chgrp g_ah1491_1 /path/to/file.ext` (or for a folder, $`chgrp -R g_ah1491_1 /path/to/folder`)
     - To see who the group owner is, run $`ls -l`. The file/folder will be listed as `rwxrwxrwx author group ...` 
