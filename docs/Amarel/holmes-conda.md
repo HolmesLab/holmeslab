@@ -9,11 +9,16 @@ parent: Amarel Computing
 Last updated: May 19, 2025 11:01 AM
 
 ## Activate Holmes Lab Conda
-In the terminal, signed into Amarel, type:
+In the terminal, signed into Amarel, run:
 ```bash
 conda activate /projects/community/holmesenv
 ```
 Now you are 'in' the Holmes Lab conda environment. Anything you install using `pip install ...` or `conda install ...` will be installed to this conda. 
+
+To de-activate Holmes Lab Conda, run:
+```bash
+conda deactivate
+```
 
 ## Modules in Holmes Lab Conda
 To see all the current modules in our conda, type:

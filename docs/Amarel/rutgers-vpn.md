@@ -1,6 +1,7 @@
 ---
 title: Connecting to Rutgers VPN
 parent: Amarel Computing
+nav_order: 3
 ---
 
 # Connecting to Rutgers VPN

@@ -2,7 +2,7 @@
 title: Filesystem in Amarel
 parent: Amarel Computing
 nav_enabled: true
-nav_order: 6
+nav_order: 2
 ---
 # Filesystem Amarel Holmes Lab
 

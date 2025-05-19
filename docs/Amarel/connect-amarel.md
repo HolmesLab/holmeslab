@@ -2,6 +2,7 @@
 title: Connecting to Amarel
 parent: Amarel Computing
 nav_enabled: true 
+nav_order: 1
 ---
 
 ## Connecting to Amarel in Terminal
