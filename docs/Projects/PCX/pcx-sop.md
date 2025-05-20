@@ -38,7 +38,7 @@ Follow this script for the session (includes links and instructions):
 
 General Overview + Links:
 1. Do CCNP-Holmes01 consent forms [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) 
-2. Do [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) form
+2. Do [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) form
 3. The consent form, once submitted, will automatically send them an email to the address they provided. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
 4. Enter this subject into the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, assigning them a PCRID and a qualtrics ID.
 5. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's ***qualtrics ID*** and dates. Then go through the questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
@@ -53,7 +53,7 @@ Here is a visual overview:
 **LINKS**
 
 - [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
-- [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
+- [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 - CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)  located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
 - [Clinician Ratings Surveys - link to respond](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
@@ -127,7 +127,7 @@ Here is a visual overview:
 **LINKS**
 
 - [Session Docs on Box](https://rutgers.box.com/s/n3jowubh3tbjb9kzyyp73o7sfpxeam8e)
-- [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
+- [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 - [PCX_fMRIVisit_SelfReport](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU)
 - [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
 - [MindLAMP Instructions for User](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)

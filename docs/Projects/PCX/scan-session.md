@@ -19,7 +19,7 @@ Updated: April 28, 2025
 
 ## **MRI Full Session — Brief Overview**
 
-1. [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) on Qualtrics 
+1. [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) on Qualtrics 
 2. Train on MRI Tasks
     1. [flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x) 
     2. [language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)  
@@ -707,7 +707,7 @@ The email also contains:
 
 Now we’ll set up MindLAMP— this powerpoint will also be emailed to you! 
 
-[Then go through this setup powerpoint to take the participant through download and setup: [MindLAMP Instructions for User](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)]
+[Then go through this setup powerpoint to take the participant through download and setup: [MindLAMP Instructions for User](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)]
 
 ## **SECTION 18: Supplemental survey**
 
