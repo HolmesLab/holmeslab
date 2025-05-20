@@ -15,8 +15,6 @@ FLYWHEEL LINK: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-f
 {:toc}
 ---
 
-Quick copy: `fmap.*run-01*.* .**bold.nii.gz`
-
 ## High level process
 - Download data to amarel
 - Multi-echo multi-band Convert using Jeff custom method
@@ -187,6 +185,19 @@ Click on:
 9. ‘Configuration’ tab:
     1. First: you need to specify the regexes in pairs, each element separated by a space.
         1. To attach all fmap to their relevant BOLD images: `fmap-.* .*bold.nii.gz`
+            You have to match the fmap container to the functional images containers. 
+            Our containers for Conte/PCX are (both AP and PA):
+            - `fmap-epi_dir-AP_BOLD_NORDIC_run-01`
+            - `fmap-fieldmap_acq-B0`
+            - `fmap-phasediff_dir-AP` 
+
+            Our functional images are
+            - func-epi_task-<taskName>_BOLD_NORDIC_run-01
+            
+            So to map (fill intendedFor field) every fmap to the functional images, use `fmap-.* .*bold.nii.gz`
+            EX: To just map epi fmaps to the functional images, use `fmap-epi_.* .*bold.nii.gz`
+            
+
     2. **Reset: YES**
     3. Ignore Config File: YES
     4. Save idecar as Metadata: NO
