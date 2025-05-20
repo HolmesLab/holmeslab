@@ -16,7 +16,7 @@ You can also look up this parking lot (the nearest on-campus one) Lot 58B, addre
 ### DRIVING
 **Street Parking (Free)**
 You can park on any of these residential streets and then walk to the CAHBIR. 
-![free-parking.png][free-parking.png]
+<img src="free-parking.png" width="200" height="100">
 
 **Parking Lot**
 Nearest Rutgers parking lot is Lot 58B, address: 135 Bevier Rd, Piscataway, NJ 08854
