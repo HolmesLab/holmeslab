@@ -1,5 +1,5 @@
 ---
-title: Transit on Campus
+title: Driving to CAHBIR
 parent: Lab Space at CAHBIR
 nav_enabled: true 
 ---
