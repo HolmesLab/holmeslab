@@ -67,6 +67,7 @@ Note: The passiogo tracker occiasionally loses buses, meaning one that is schedu
 Taking a rideshare service like Uber or Lyft from the train station is also an available option. The cost is around ~$12 to get to the lab from the train station, or between campuses. The ride from New Brunswick Station - Albany Street to the Holmes Lab is about 10 minutes. 
 
 ### BIKING
-Attached is a biking map published by Rutgers University about biking options on the New Brunswick campus
-<img src="biking-maps.pdf" width="200" height="100">
+Attached is a biking map published by Rutgers University about biking options on the New Brunswick campus  
+<img src="biking-busch.png" width="200" height="100">
+<img src="biking-college-ave.png" width="200" height="100">
 
