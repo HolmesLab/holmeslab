@@ -98,11 +98,11 @@ Feb 12, 2025: Grant Awarded, Feb 3 grant “started”
     - In RedCAP for McLean, in CCNP protocols for Rutgers
     - At Rutgers, only diagnoses are communicated for participants, not SCID notes
     - At Rutgers, participants who have already done the SCID may do a ‘refresher’ version of the SCID with only modules A, B & D
-2. Ratings Interview
-    - On Qualtrics: [PCX_ClinicalVisit_RatingsInterview](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1TaMc3VH59wEeZo)
-    - This is done as-needed to fill in parts where the clinician cannot determine
-3. Clinician-Rated Scales
+2. Clinician-Rated Scales
     - On Qualtrics: [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
+    - Filled out by clinician
+    - This is done as-needed to fill in parts where the clinician cannot determine from SCID
+
     1. YMRS (Young Mania Rating Scale)
     2. (BPRS) Brief Psychiatric Rating Scale
     3. (PANSS) Positive and Negative Symptom Scale
