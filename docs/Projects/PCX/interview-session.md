@@ -56,17 +56,17 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 
 
 ### 2.1 Send this email to participantL
-Email template to send to participant for self-report surveys: 
-    [PCR_ClinVisit_SelfReport_email.docx](PCR_ClinVisit_SelfReport_email.docx).
-    [Email file to download](PCR_ClinVisit_SelfReport_email.eml).
-    [PCR email page]()
-- Fill in template with their name and qualtrics ID
-- Email has self-report battery link, CAHBIR screener link and mental health resources sheet
+1. Email template to send to participant for self-report surveys: 
+    - [PCR_ClinVisit_SelfReport_email.docx](interview_session/PCR_ClinVisit_SelfReport_email.docx).
+    - [Email file to download](interview_session/PCR_ClinVisit_SelfReport_email.eml).
+    - [PCR email page](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1)
+2. Fill in template with their name and qualtrics ID
+3. Email has self-report battery link, CAHBIR screener link and mental health resources sheet
 
 # 3. Surveys
 ## 3.1 Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. 
-<img src="id_in_survey" width="200" height="100">
+<img src="interview_session/id_in_survey" width="200" height="100">
 
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
 
@@ -88,6 +88,7 @@ Once they've submitted, send them their payment.
 
 
 --- 
+---
 
 If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
 # Protocol Overview
