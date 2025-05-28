@@ -34,21 +34,20 @@ Take the **A or H** route from **The Yard** (40 College Ave, New Brunswick, NJ 0
 If the shuttle goes directly from The Yard → Allison Road Classroom (ARC) (Taking the A or H line) the route takes about 15 minutes in my experience. I’ve also only had to wait about 10m max for a bus. It takes me about 6 minutes to get off the train and get to The Yard bus stop, and about 6 min to get from ARC to the lab. Which is in total 27-40 minutes of transit from the station!
 
 ### If you're at the train station:
-<img src="transit/train-to-stop.jpg" width="100" height="200">
+![img](transit/train-to-stop.jpg)
 
 ### Closest bus stop to CAHBIR: 
-<img src="transit/stop-to-cahbir.jpg" width="100" height="200">
+![img](transit/stop-to-cahbir.jpg)
 
 ### Full Schedule
-<img src="transit/bus-sched.png" width="100" height="200">
-
+![img](transit/bus-sched.png)
 
 The location of the stops/routes can be viewed through the app Passio Go (rutgers.passiogo.com). I’ve used all a lot to get around. The stop names are mostly buildings, so you can look up the names of the stops and see on google maps where the stop is. (I’ve added in the rough location of our lab on the PDF map, for context). Or, you can look at the Passio Go app.
 
 **Summer, Rutgers University Breaks or Weekends**
 During these times, the buses run a different schedule. They come every ~20 mins. You should take "Summer 1" / "Weekend 1" from train station -> Allison Road Classroom stop. Then on the way back, take "Summer 2" / "Weekend 2" from Allison Road Classroom -> The Yard.
 
-<img src="transit/summer-buses.png" width="200" height="100">
+![img](transit/summer-buses.png)
 
 
 **First time riders**: The shuttle system does have some confusing parts (the bus stops are not always marked, so it’s also hard to know which stop you’re at sometimes. Also, sometimes one ‘stop’ name will actually have multiple stops in that location, and you have to be at the right one for your route, but they are unmarked). If you’re taking it for the first time, I would give yourself ample time, ~1hr, to get from the train station to the lab. 
@@ -68,6 +67,6 @@ Taking a rideshare service like Uber or Lyft from the train station is also an a
 
 ### BIKING
 Attached is a biking map published by Rutgers University about biking options on the New Brunswick campus  
-<img src="transit/biking-busch.png" width="200" height="100">
-<img src="transit/biking-college-ave.png" width="200" height="100">
+![img](transit/biking-busch.png)
+![img](transit/biking-college-ave.png)
 
