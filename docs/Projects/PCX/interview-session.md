@@ -60,7 +60,7 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 
 # 3. Surveys
 ## 3.1 Clinician Rating Survey
-Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates.  
+Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) on Qualtrics and enter in the subject's qualtrics ID and dates.  
 ![id](interview-session/id_in_survey.png){ width=100 height=200 }
 
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 

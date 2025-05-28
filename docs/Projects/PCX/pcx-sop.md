@@ -56,7 +56,7 @@ Here is a visual overview:
 - Email template to send to participant for self-report surveys: 
     - [PCR email page](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)  
 
-- [Clinician Ratings Surveys - link to respond](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG)
+- [Clinician Ratings Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG)
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
 - [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
 

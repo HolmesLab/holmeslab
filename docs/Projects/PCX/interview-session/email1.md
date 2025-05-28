@@ -4,6 +4,8 @@ parent: Psychiatric Connectomics
 nav_enabled: true 
 ---
 
+Subject: Link to PCX Surveys 
+
 Hi `Name`,
 Thank you for filling out the consent forms, we’re excited to have you in our study.
 Attached here are some links and information you’ll need for the second half of the session today. This involves filling out surveys about your behavior and experience. Please fill out all surveys to the best of your ability. If you do not wish to answer a question, you can always select “Do not wish to answer.” These surveys should take approximately 1 hour.
