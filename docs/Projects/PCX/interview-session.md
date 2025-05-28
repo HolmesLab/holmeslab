@@ -47,12 +47,21 @@ I’ll let you read through the consent form now, let me know if you have any qu
 Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.
 
 ## Note: Post-Consent Email
-An email gets automatically emailed to the participant through Qualtrics after they sign the consent form. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
+An email gets automatically emailed to the participant through Qualtrics after they sign the consent forms, with a copy of their signed consent forms.
 
 ## 2. Enter Participant into ID-Linking Sheet
 First, go the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
 ![qual_id](interview_session/qual_id.png)
+
+
+### 2.1 Send this email to participantL
+Email template to send to participant for self-report surveys: 
+    [PCR_ClinVisit_SelfReport_email.docx](PCR_ClinVisit_SelfReport_email.docx).
+    [Email file to download](PCR_ClinVisit_SelfReport_email.eml).
+    [PCR email page]()
+- Fill in template with their name and qualtrics ID
+- Email has self-report battery link, CAHBIR screener link and mental health resources sheet
 
 # 3. Surveys
 ## 3.1 Clinician Rating Survey

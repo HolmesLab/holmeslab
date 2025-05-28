@@ -30,7 +30,7 @@ CCNP IRB [Pro2025000031](https://eirb.rutgers.edu/eIRB/sd/Rooms/DisplayPages/Lay
 
 CCNP/Holmes PCR Identifying Information Sheet is located in Box at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
 
-[Clinical Ratings Survey -- clinician fills out](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm)
+[Clinical Ratings Survey -- clinician fills out](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG)
 
 [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
 
