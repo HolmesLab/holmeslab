@@ -49,18 +49,18 @@ An email gets automatically emailed to the participant through Qualtrics after t
 ## 2. Enter Participant into ID-Linking Sheet
 First, go the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
-![qual_id](interview-session/)
+![qual_id](interview-session/id_in_survey.png)
 
 
 ## 3. Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) on Qualtrics and enter in the subject's qualtrics ID and dates.  
-![id](interview-session/id_in_survey.png){ width=100 height=200 }
+![id](interview-session/id_in_survey.png)
 
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
 
-Go through the first 2 pages of questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions (listed in purple) are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
 
-Note:
+### Notes:
+- The clinical survey questions are *NOT MANDATORY*. You can ask any of these questions to get more information, but feel free to skip if you've gotten enough information from the SCID.
 - This survey has display logic to display questions based on answers. Specifically, suicidality questions will be displayed or skipped based on answers. 
 - There is also suicidality procedure information in the displayed answers based on how the participant responds to the questions.
 
@@ -78,15 +78,15 @@ Tell them or email them their qual_id so that they enter it correctly. (ie qualr
 
 Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 
-# 6. Payment
+## 6. Payment
 Once they've submitted, send them their payment.
 
 
---- 
 ---
 
-If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
 # Protocol Overview
+If the participant has questions or would like you to explain additional informaiton, here is a selection of study information: 
+
 ### Payment
 - $20/hour for today's session, wihch is expected to last 2-3 hours. We will pay you via a gift card at the end of the session
 - The rest of the sessions would be run by a collaborating group, who will pay you in Visa gift cards emailed to you at the end of each session
@@ -102,7 +102,7 @@ If the participant has questions or would like you to explain additional informa
 
 
 ### **Scan Session Overview**
-At the scaning session, this is what will happen: 
+At the scanning session, this is what will happen: 
 
 First, you're going to fill out a collection of surveys online, which will take about an hour, asking you about your mood, emotions and history.
 
@@ -119,19 +119,16 @@ After the scan they're going to have a few more questionnaires which will take a
 We anticipate that the MRI session will take no more than 3 hours. You’ll be compensated with $60.
 
 
-### **Additional Sessions**
+### Smartphone Tracking
 
- There are a few more parts to the study where you can get additional compensation, after the MRI session happens. You'll be onboarded to these at the MRI session, if you opt in. If you don't opt in today, you can always change your mind at the MRI session.  
+You can opt into a smartphone tracking research that we're doing. Basically it will be on your phone - it's an app. It won't take any of your cellular data but it will occasionally (every 3 minutes or so) check your GPS location and it will also check things like how fast you're moving using the accelerometer. It will also check how many times your phone turns on and off.  
 
-1. One of those is a supplemental questionnaire where they'll send you a link to do about one more hour of questionnaires at home whenever it is convenient for you within the next 48 hours. If you finish those, you'll be sent an additional $30.
-
-(**Smartphone tracking is not required to participate in the study**)
-2. You can opt into a smartphone tracking research that we're doing. Basically it will be on your phone - it's an app. It won't take any of your cellular data but it will occasionally (every 3 minutes or so) check your GPS location and it will also check things like how fast you're moving using the accelerometer. It will also check how many times your phone turns on and off. 
 This will give us an idea of things like your activity during the day, how much you're sleeping, how much you're moving, how much exercise you're doing.
 The other part of the app is daily surveys where it will ask you about 10 questions every day. It'll pop up at 6pm but we can change that specific time. Then you'll answer questions about your mood and what you've been doing during the day.
+
 The reason that we are interested in this is because it can give us an insight into how people's behavior affects their mood and how different people with different brain profiles may have different activity patterns or mood relationships that we can investigate with this long-term data.
-For that portion of the study, you'll be paid based on how many survey days you complete. So if you complete 25 or more survey days, you'll be paid $35/month. If you complete 15 survey days, you'll be paid $20/month. The specifics are in the consent form. !! add!!
-This will run for a maximum of six months, but if you would like to leave the study at any time during that period, you can always uninstall the app and it will stop collecting data. 
+
+This will run for a maximum of **six months**, but if you would like to leave the study at any time during that period, you can always **uninstall the app and it will stop collecting data.**
 
 ### **Data Privacy**
 
