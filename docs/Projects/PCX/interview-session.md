@@ -26,19 +26,16 @@ The first thing we’re going to do is go over the consent forms. This study is 
 [Holmes 01 Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) (Qualtrics)
 
 ## 1.2 MRI & Smartphone Session (PCR) Consent Form
-The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are a third set of online surveys and a smartphone-app tracking study. 
+The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are adding your data to the data repository, and a smartphone-app tracking study. 
+
 
 **Signature Boxes:**
-The first signature is allowing us to share your private health information, including identifiable information such as your name, with only the following groups listed.
+The first signature box is allowing us to use your de-identified data in the datasets we upload to data sharing sites, so that other researchers can use it. This is an optional component.
+The second signature box is for the smartphone app portion of the study, where you could earn additional money to answer daily questions on your smartphone for up to 6 months. This is an optional component.
 
-- “Medical history and medications”  which we collect only pertains to study data we collect - no additional medical records
+The third signature is the main part of the study which is the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.
 
-The second part is where there's a signature is for allowing the main part of the study which is the surveys today, the supplemental survey, and the MRI scan. 
-
-The other boxes are for the two optional things:
-1. The smartphone tracking part of the study
-2.  Whether you are okay with your data being included in a mass de-identified upload to a data sharing site like the National Institute of Health, where there's a bunch of neuroscience studies where you can upload data and everyone can use it to further the field. This would be completely de-identified. They wouldn't be able to have any indicators of your face from the MRI scan. They wouldn't have your name. They wouldn't have your birthday. They wouldn't have the day that you go in for the study. They would only have the numerical code that isn't associated with any of your personal information. 
-
+(Note: “Medical history and medications”  which we collect only pertains to study data we collect - no additional medical records)
 
 I’ll let you read through the consent form now, let me know if you have any questions. 
 
@@ -50,7 +47,7 @@ Do you have any questions for me? [*Participant must print, sign, and date*] Thi
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent forms, with a copy of their signed consent forms.
 
 ## 2. Enter Participant into ID-Linking Sheet
-First, go the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx.  
+First, go the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
 ![qual_id](interview_session/qual_id.png)
 

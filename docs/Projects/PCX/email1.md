@@ -14,11 +14,9 @@ Subject ID: qualr_2`xx`
 Link to Self-Report Surveys: **https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ**
 
 When you click the link, fill in the Subject ID with your ID from this email, and select the site. For example:
-![email](email.md)
+![id](interview_session/id_in_survey.png)
 
 Then click the arrow and fill out all the surveys. Please ask the study staff if you have any questions!
-
-We also ask you to fill out this MRI screener: https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k 
 
 As these surveys deal with mental health, we’ve prepared some New Jersey and national mental health resources: [NJ Mental Health Resources](Mental_health_resources_NJ.pdf)
  
