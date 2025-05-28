@@ -14,7 +14,7 @@ Subject ID: qualr_2`xx`
 Link to Self-Report Surveys: **https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ**
 
 When you click the link, fill in the Subject ID with your ID from this email, and select the site. For example:
-![id](interview_session/id_in_survey.png)
+![id](interview-session/id_in_survey.png)
 
 Then click the arrow and fill out all the surveys. Please ask the study staff if you have any questions!
 

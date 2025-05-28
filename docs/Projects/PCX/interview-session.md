@@ -54,9 +54,7 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 
 ### 2.1 Send this email to participantL
 1. Email template to send to participant for self-report surveys: 
-    - [PCR_ClinVisit_SelfReport_email.docx](interview-session/PCR_ClinVisit_SelfReport_email.docx).
-    - [Email file to download](interview-session/PCR_ClinVisit_SelfReport_email.eml).
-    - [PCR email page](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1)
+    - [Email template](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)
 2. Fill in template with their name and qualtrics ID
 3. Email has self-report battery link, CAHBIR screener link and mental health resources sheet
 
