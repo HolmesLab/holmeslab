@@ -56,8 +56,8 @@ Here is a visual overview:
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 - CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)  located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
 - Email template to send to participant for self-report surveys: 
-    - [PCR_ClinVisit_SelfReport_email.docx](interview_session/PCR_ClinVisit_SelfReport_email.docx)  
-    - [Email file to download](interview_session/PCR_ClinVisit_SelfReport_email.eml)  
+    - [PCR_ClinVisit_SelfReport_email.docx](interview-session/PCR_ClinVisit_SelfReport_email.docx)  
+    - [Email file to download](interview-session/PCR_ClinVisit_SelfReport_email.eml)  
     - [PCR email page](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1)  
 
 - [Clinician Ratings Surveys - link to respond](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG)

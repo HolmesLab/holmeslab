@@ -49,13 +49,13 @@ An email gets automatically emailed to the participant through Qualtrics after t
 ## 2. Enter Participant into ID-Linking Sheet
 First, go the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
-![qual_id](interview_session/qual_id.png)
+![qual_id](interview-session/qual_id.png)
 
 
 ### 2.1 Send this email to participantL
 1. Email template to send to participant for self-report surveys: 
-    - [PCR_ClinVisit_SelfReport_email.docx](interview_session/PCR_ClinVisit_SelfReport_email.docx).
-    - [Email file to download](interview_session/PCR_ClinVisit_SelfReport_email.eml).
+    - [PCR_ClinVisit_SelfReport_email.docx](interview-session/PCR_ClinVisit_SelfReport_email.docx).
+    - [Email file to download](interview-session/PCR_ClinVisit_SelfReport_email.eml).
     - [PCR email page](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1)
 2. Fill in template with their name and qualtrics ID
 3. Email has self-report battery link, CAHBIR screener link and mental health resources sheet
@@ -63,7 +63,7 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 # 3. Surveys
 ## 3.1 Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates. 
-<img src="interview_session/id_in_survey" width="200" height="100">
+<img src="interview-session/id_in_survey" width="200" height="100">
 
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
 
