@@ -23,8 +23,6 @@ Legend:
 
 Recruitment flyers and example posts are in [/PCX_Round2/Procedures/Recruitment Flyers](https://rutgers.box.com/s/c6v6x63oa6az0bcjvkau879zql6klwtf)
 
-Phone script for interested participants: [Phone Script for Recruitment / Clinical Session]({{site.baseurl}}/docs/Projects/PCX/interview-session)
-
 
 Participants get do SCID, refresher SCID or no SCID based on this flow chart:
 
@@ -40,9 +38,9 @@ General Overview + Links:
 1. Do CCNP-Holmes01 consent forms [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) 
 2. Do [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) form
 3. The consent form, once submitted, will automatically send them an email to the address they provided. It has the link to the self-report battery, link to the CAHBIR MRI screener survey and these attachments: the blank PCR Consent, blank Holmes 01 consent and Mental Health Contacts sheet. 
-4. Enter this subject into the sheet in Box located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx, assigning them a PCRID and a qualtrics ID.
-5. Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) on Qualtrics and enter in the subject's ***qualtrics ID*** and dates. Then go through the questions until you get to "PANSS". From PANSS questions on (surveys: PANSS, MADRS, BPRS, YMRS, possibly CSSRS), the questions are not mandatory. They are all just guidance in case you don't feel you have enough information from the SCID to rate the participant on a specific symptom. 
-6. Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom 
+4. Enter this subject into the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`, assigning them a PCRID and a qualtrics ID.
+5. Administer the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) 
+6. Ask them to open the Self-Report Survey link from their email, and to share their screen if on Zoom 
 7. Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 8. Once they've submitted, send them their payment.
 
@@ -130,6 +128,7 @@ Here is a visual overview:
 **LINKS**
 
 - [Session Docs on Box](https://rutgers.box.com/s/n3jowubh3tbjb9kzyyp73o7sfpxeam8e)
+- [Holmes 01 Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 - [PCX_fMRIVisit_SelfReport](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU)
 - [MindLAMP Instructions for Researcher](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
