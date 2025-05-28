@@ -49,7 +49,7 @@ An email gets automatically emailed to the participant through Qualtrics after t
 ## 2. Enter Participant into ID-Linking Sheet
 First, go the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
-![qual_id](interview-session/qual_id.png)
+![qual_id](interview-session/)
 
 
 ### 2.1 Send this email to participantL
@@ -61,7 +61,7 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 # 3. Surveys
 ## 3.1 Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm) on Qualtrics and enter in the subject's qualtrics ID and dates.  
-<img src="![interview-session/id_in_survey.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8720T6HpLUa4XWrtn_TWzw7Ry2RLIK6pBsMIGwxAS1UHKCKWFhgWnQJJk2N_ZRQzQVh_ijU3Vea8pGiwRK_xOs73wjDFq_f3UdtWOLTV4yf3dXynNJzvRGotTTEPvuuQ5yzuDOS2mpteblU1zVqygKVY5vCJq_CKlxoTfjPdWIp6HqN7yEawDaQu_Hso/s4032/IMG_6697.jpeg)" width="200" height="100">
+![id](interview-session/id_in_survey.png){ width=100 height=200 }
 
 > If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
 
