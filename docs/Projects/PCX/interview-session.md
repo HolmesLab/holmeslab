@@ -52,14 +52,7 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 ![qual_id](interview-session/)
 
 
-### 2.1 Send this email to participantL
-1. Email template to send to participant for self-report surveys: 
-    - [Email template](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)
-2. Fill in template with their name and qualtrics ID
-3. Email has self-report battery link, CAHBIR screener link and mental health resources sheet
-
-# 3. Surveys
-## 3.1 Clinician Rating Survey
+## 3. Clinician Rating Survey
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) on Qualtrics and enter in the subject's qualtrics ID and dates.  
 ![id](interview-session/id_in_survey.png){ width=100 height=200 }
 
@@ -71,14 +64,21 @@ Note:
 - This survey has display logic to display questions based on answers. Specifically, suicidality questions will be displayed or skipped based on answers. 
 - There is also suicidality procedure information in the displayed answers based on how the participant responds to the questions.
 
-## 3.2 Self-Report Survey
+## 4. Send [this email]((https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)) to participant
+1. Fill out this [email template](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/) to send to participant for self-report surveys: 
+    - Fill in their name and qualtrics ID
+    - Email has self-report battery link, CAHBIR screener link and mental health resources sheet
+2. Email to participant
+    - If on zoom, must be an email they can access - this is where they'll click the self-report surveys link
+
+## 5. Self-Report Surveys
 After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom.
 
 Tell them or email them their qual_id so that they enter it correctly. (ie qualr_01)
 
 Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 
-# 4. Payment
+# 6. Payment
 Once they've submitted, send them their payment.
 
 
