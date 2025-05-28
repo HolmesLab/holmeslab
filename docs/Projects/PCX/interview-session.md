@@ -13,35 +13,36 @@ nav_order: 5
 ---
 
 ## Introduction
-Hi! Thank you for coming in today. I’m going to be reading from a script to make sure each participant has a similar experience.
+*Hi! Thank you for coming in today. I’m going to be reading from a script to make sure each participant has a similar experience.*
 
-You are being invited to participate in a research study on individual differences in how the brain functions. We hope that this data will allow us to better understand the bigger questions of how people vary in their behavior, and how those variations come about.
+*You are being invited to participate in a research study on individual differences in how the brain functions. We hope that this data will allow us to better understand the bigger questions of how people vary in their behavior, and how those variations come about.*
 
- I'll give you a brief overview of our procedures, and then you can read more specifics in the consent form. 
+*I'll give you a brief overview of our procedures, and then you can read more specifics in the consent form.* 
 
 # 1. Consents
 ## 1.1 Clinical Interview (Holmes 01) Consent Form
-The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions. 
+*The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions.* 
 
 [Holmes 01 Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) (Qualtrics)
 
 ## 1.2 MRI & Smartphone Session (PCR) Consent Form
-The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are adding your data to the data repository, and a smartphone-app tracking study. 
+*The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are adding your data to the data repository, and a smartphone-app tracking study.* 
 
 
 **Signature Boxes:**
-The first signature box is allowing us to use your de-identified data in the datasets we upload to data sharing sites, so that other researchers can use it. This is an optional component.
-The second signature box is for the smartphone app portion of the study, where you could earn additional money to answer daily questions on your smartphone for up to 6 months. This is an optional component.
+*The first signature box is allowing us to use your de-identified data in the datasets we upload to data sharing sites, so that other researchers can use it. This is an optional component.*
 
-The third signature is the main part of the study which is the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.
+*The second signature box is for the smartphone app portion of the study, where you could earn additional money to answer daily questions on your smartphone for up to 6 months. This is an optional component.*
+
+*The third signature is the main part of the study. It involves the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.*
 
 (Note: “Medical history and medications”  which we collect only pertains to study data we collect - no additional medical records)
 
-I’ll let you read through the consent form now, let me know if you have any questions. 
+*I’ll let you read through the consent form now, let me know if you have any questions.* 
 
 [PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) (Qualtrics)
 
-Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.
+*Do you have any questions for me? [Participant must print, sign, and date] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.*
 
 ## Note: Post-Consent Email
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent forms, with a copy of their signed consent forms.
