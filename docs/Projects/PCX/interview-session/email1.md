@@ -1,6 +1,6 @@
 ---
-title: Movie Rater Website
-parent: Psychiatric Connectomics
+title: Email template
+parent: Clinical Interview Session
 nav_enabled: true 
 ---
 

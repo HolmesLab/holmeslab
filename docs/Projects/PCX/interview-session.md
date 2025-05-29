@@ -44,7 +44,7 @@ nav_order: 5
 
 *Do you have any questions for me? [Participant must print, sign, and date] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.*
 
-## Note: Post-Consent Email
+### Note: Post-Consent Email
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent forms, with a copy of their signed consent forms.
 
 ## 2. Enter Participant into ID-Linking Sheet

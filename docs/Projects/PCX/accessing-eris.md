@@ -9,14 +9,12 @@ nav_order: 99
 ## Sign into Eris each time by:
 1. Connect to Mclean VPN:  **pvc.partners.org/saml**
 2. In terminal, type `ssh -Y netID@eristwo.partners.org` or `ssh -Y netID@dna006.research.partners.org`
+NOTE: netID must be all LOWERCASE. 
 3. Type your password
 Connected!
 
 ### Data is in…
-    
     /data/sbdp/PCM
-    
-
 
 ## Tutorial to Get Access to Eris: 
 
@@ -31,46 +29,30 @@ Connected!
     - **Form field answers:**
         
         ERISOne Linux Cluster Account Request Form
-        
         Submitted by user: <netID>
-        
-        Submitted values are:
-        
         MGB Username: <netID>
-        
         Full Name: <Your name>
-        
         Position: Research Collaborator EW
-        
         Department: RSCH Imaging Center-Baker
-        
         Institution: The McLean Hospital Corporation
-        
         Email: <netID>@mgb.org
-        
-        Phone: 
-        
+        Phone: <enter your phone number>
         Office Location: REMOTE
-        
         Principal Investigator: Justin Baker
-        
         Principal Investigator's Email: <justin's email>
-        
         Principal Investigator's Mass General Brigham ID: jtbaker
-        
-        Access Methods: Linux command line using SSH, Linux remote desktop
-        
-        Data Classification: Personally Identifiable Information
-        
+        Grant or Project ID?: Blank
+        Access Methods: Linux command line using SSH
+        Briefcase Group (PAS): sbdp
+        Data Classification: de-identified human subjects data
+        Lab or storage group: None
         Purpose: Research
-        
+        Storage Required: Up to 50GB
         Area of Study: Other (describe in comments section)
-        
-        Applications:
-        
-        linux command line, rclone
-        
-        Comment: Please add to group sbdp. Area of study: Digital phenotypin I am the research assistant for Dr Avram Holmes at Rutgers University, and we're collaborating with Dr Justin Baker at McLean. We are doing a joint data collection, and I will be using the Eris servers to rclone the de-identified and some identifiable data from Dr Baker's data collection into the Rutgers servers to compile the full dataset of the joint data collection. Dr Baker's lab members will be putting data for me in a specific folder and I'll be syncing that specific folder to the Rutgers cluster. My access to this data and the joint sharing of PHI data is all approved in a McLean IRB and Rutgers IRB. 
+        Applications: python3, pandas, numpy, rclone
+        Comment: 
+        "Please add to group sbdp. Area of study: Digital phenotyping.
+         I am the research assistant for Dr Avram Holmes at Rutgers University, and we're collaborating with Dr Justin Baker at McLean. We are doing a joint data collection, and I will be using the Eris servers to rclone the de-identified and some identifiable data from Dr Baker's data collection into the Rutgers servers to compile the full dataset of the joint data collection. Dr Baker's lab members will be putting data for me in a specific folder and I'll be syncing that specific folder to the Rutgers cluster. My access to this data and the joint sharing of PHI data is all approved in a McLean IRB and Rutgers IRB."
 
 ---
 
