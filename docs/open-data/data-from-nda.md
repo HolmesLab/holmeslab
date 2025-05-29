@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Data from NDA
+title: NDA Data
 parent: Open Source Data
 nav_enabled: true 
 ---

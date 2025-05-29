@@ -1,5 +1,5 @@
 ---
-title: Downloading Data from UK Biobank
+title: UK Biobank Data
 parent: Open Source Data
 nav_enabled: true
 ---
