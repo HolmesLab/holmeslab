@@ -307,7 +307,11 @@ Ok, great. Let’s head to the scanning center!
 
 ## **SECTION 5: Going into the Zone 2 of the MRI center**
 
-First, I'm going to have you go into this room here, and there are scrub tops where you can change into them. Please take off all clothes on the top half of your body.
+First, just to make sure-- you have no implants, other than [list any approved ones from the screener sheet]? No medical patches? No insulin patches or medicine pumps? No chance of pregnancy? No hearing aids? No dentures? 
+
+[If hearing aids, dentures, etc ask them to remove]
+
+First, I'm going to have you go into this room here, and there are scrub tops where you can change into them. Please take off all clothes on the top half of your body (including bra), but you can leave your pants, shoes and socks on. 
 
 There are  lockers in here, and that's where you can put all your clothes, your phone, your keys (anything in your pockets). You can keep your pants, socks, and shoes on for now. But we want everything out of your pockets and we want glasses off, jewelry off. Put everything in the locker 
 

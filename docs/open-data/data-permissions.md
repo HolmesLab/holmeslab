@@ -8,11 +8,11 @@ nav_enabled: true
 
 ### National Data Archive (NDA)
 NIMH Data Archive
-    Expiration: January 25, 2026
-Developing Human Connectome Project (dHCP)  
-    Expiration: Mar 14, 2026
-Connectome Coordination Facility (CCF) 
-    Expiration: May 29, 2026
+- Expiration/Renew before: January 25, 2026  
+Developing Human Connectome Project (dHCP)    
+- Expiration/Renew before: Mar 14, 2026   
+Connectome Coordination Facility (CCF)   
+- Expiration/Renew before: May 29, 2026   
 
 - To be added: follow instructions on https://holmeslab.github.io/holmeslab/docs/open-data/nda/ 
 
