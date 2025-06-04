@@ -378,11 +378,11 @@ and the HTML for the link would be:
 **Link Best Practices**
 
 Markdown applications don’t agree on how to handle spaces in the 
-middle of a URL. For compatibility, try to URL encode any spaces with `%20`. Alternatively, if your Markdown application [supports HTML](https://www.markdownguide.org/basic-syntax/#html), you could use the `a` HTML tag.
+middle of a URL. For compatibility, try to URL encode any spaces with ` `. Alternatively, if your Markdown application [supports HTML](https://www.markdownguide.org/basic-syntax/#html), you could use the `a` HTML tag.
 
 | ✅  Do this | ❌  Don't do this |
 | --- | --- |
-| `[link](https://www.example.com/my%20great%20page)
+| `[link](https://www.example.com/my great page)
 
         <a href="https://www.example.com/my great page">link</a>` | `[link](https://www.example.com/my great page)` |
 
@@ -701,7 +701,7 @@ To make a nice table of contents, this format is recommended
 
 This creates: 
 
-![Screenshot 2025-04-15 at 8.00.58 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.00.58_PM.png)
+![Screenshot 2025-04-15 at 8.00.58 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_8.00.58_PM.png)
 
 ---
 
@@ -735,7 +735,7 @@ You can add a list within a table cell by using HTML tags.
 
 The rendered output looks like this:
 
-![Screenshot 2025-05-12 at 3.11.15 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-05-12_at_3.11.15_PM.png)
+![Screenshot 2025-05-12 at 3.11.15 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-05-12_at_3.11.15_PM.png)
 
 ## Divider
 
@@ -756,7 +756,7 @@ which renders:
 
 Labels like the following can be created with the example code below. For more colors/customizations, you’ll have to edit the [labels.scss](https://rutgers.box.com/s/rwsh4khiyl7rbmeqty5nfe9rqztp1pkf) file in the codebase. 
 
-![Screenshot 2025-04-15 at 7.55.22 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/5e602955-6772-40a1-94da-74e5f1da5bdc.png)
+![Screenshot 2025-04-15 at 7.55.22 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/5e602955-6772-40a1-94da-74e5f1da5bdc.png)
 
 ```markdown
 ### Labels
@@ -787,7 +787,7 @@ red
 
 To create a chart like this, markdown/jekyll uses mermaid. Below is a simple code block, but if you want to know how to make more complex charts, look up Mermaid’s documentation.
 
-![Screenshot 2025-04-15 at 7.56.47 PM.png](Using%20Markdown%201d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.56.47_PM.png)
+![Screenshot 2025-04-15 at 7.56.47 PM.png](Using Markdown 1d6cf00eb936801ab4b3d070df2b21c6/Screenshot_2025-04-15_at_7.56.47_PM.png)
 
 ```bash
 ```mermaid

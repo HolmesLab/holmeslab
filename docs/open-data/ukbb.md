@@ -15,7 +15,7 @@ nav_enabled: true
     
      [https://ams.ukbiobank.ac.uk/ams/resProjects](https://ams.ukbiobank.ac.uk/ams/resProjects)
     
-    ![Screenshot 2025-05-22 at 3.52.10 PM.png](Downloading%20Data%20from%20UK%20Biobank%201fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.52.10_PM.png)
+    ![Screenshot 2025-05-22 at 3.52.10 PM.png](Downloading Data from UK Biobank 1fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.52.10_PM.png)
     
 
 ---
@@ -24,7 +24,7 @@ nav_enabled: true
 
 The courses you need to do are listed in this section within your AMS profile: 
 
-![Example of courses— this person has completed all but the MRC Research Course](Downloading%20Data%20from%20UK%20Biobank%201fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.53.44_PM.png)
+![Example of courses— this person has completed all but the MRC Research Course](Downloading Data from UK Biobank 1fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.53.44_PM.png)
 
 Example of courses— this person has completed all but the MRC Research Course
 
@@ -37,7 +37,7 @@ Example of courses— this person has completed all but the MRC Research Course
     2. To complete the course, you must pass a 10-question multiple-choice quiz with a score of 70% or higher. Your certificate should look like this:
     - Certificate image reference
         
-        ![Screenshot 2025-05-22 at 3.54.34 PM.png](Downloading%20Data%20from%20UK%20Biobank%201fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.54.34_PM.png)
+        ![Screenshot 2025-05-22 at 3.54.34 PM.png](Downloading Data from UK Biobank 1fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.54.34_PM.png)
         
     1. Steps to upload your certificate:
         - [Log in to your AMS](https://ams.ukbiobank.ac.uk/ams/) account
@@ -47,7 +47,7 @@ Example of courses— this person has completed all but the MRC Research Course
         - Upload your certificate in PDF format
         - Where to upload your certificate image reference
             
-            ![Screenshot 2025-05-22 at 3.56.20 PM.png](Downloading%20Data%20from%20UK%20Biobank%201fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.56.20_PM.png)
+            ![Screenshot 2025-05-22 at 3.56.20 PM.png](Downloading Data from UK Biobank 1fbcf00eb9368009b258e17c721c90ca/Screenshot_2025-05-22_at_3.56.20_PM.png)
             
 
 Listed on here: [https://community.ukbiobank.ac.uk/hc/en-gb/articles/22145292393757-Researcher-Training-Courses](https://community.ukbiobank.ac.uk/hc/en-gb/articles/22145292393757-Researcher-Training-Courses) 
@@ -125,7 +125,7 @@ Misc Documentation Pages:
 
 ### **UKB-RAP costs**
 
-For guidance on how much money you can expect to spend for computation and data storage on the UKB-RAP, please see the [**UKB-RAP Rate Card](https://20779781.fs1.hubspotusercontent-na1.net/hubfs/20779781/Product%20Team%20Folder/Rate%20Cards/BiobankResearchAnalysisPlatform_Rate%20Card_Current.pdf)** where you will find information on the cost per hour of using different instance types. You may also want to see our [**costs and billing page**](https://dnanexus.gitbook.io/uk-biobank-rap/administrator/billing-and-costs) and the [**costs & financial support webpage**](https://www.ukbiobank.ac.uk/enable-your-research/costs). To help reduce costs, remember to maintain good file management.
+For guidance on how much money you can expect to spend for computation and data storage on the UKB-RAP, please see the [**UKB-RAP Rate Card](https://20779781.fs1.hubspotusercontent-na1.net/hubfs/20779781/Product Team Folder/Rate Cards/BiobankResearchAnalysisPlatform_Rate Card_Current.pdf)** where you will find information on the cost per hour of using different instance types. You may also want to see our [**costs and billing page**](https://dnanexus.gitbook.io/uk-biobank-rap/administrator/billing-and-costs) and the [**costs & financial support webpage**](https://www.ukbiobank.ac.uk/enable-your-research/costs). To help reduce costs, remember to maintain good file management.
 
 ## **Find support**
 

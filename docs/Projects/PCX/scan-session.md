@@ -307,19 +307,19 @@ Ok, great. Let’s head to the scanning center!
 
 ## **SECTION 5: Going into the Zone 2 of the MRI center**
 
-First, just to make sure-- you have no implants, other than [list any approved ones from the screener sheet]? No medical patches? No insulin patches or medicine pumps? No chance of pregnancy? No hearing aids? No dentures? 
+First, just to make sure-- you have no implants, other than [list any approved ones from the screener sheet]? No medical patches? No insulin patches or medicine pumps? No chance of pregnancy? No hearing aids? No dentures? Hair extensions / accessories?
 
-[If hearing aids, dentures, etc ask them to remove]
+[If hearing aids, dentures, or stapled/metal hair extensions, ask them to remove]
 
-First, I'm going to have you go into this room here, and there are scrub tops where you can change into them. Please take off all clothes on the top half of your body (including bra), but you can leave your pants, shoes and socks on. 
+First, I'm going to have you go into this room here, and there are scrub tops where you can change into them. Please take off all clothes on the top half of your body (including bra), but you can leave your pants, shoes and socks on. You'll leave your shoes in the scanning room when we go in there.
 
-There are  lockers in here, and that's where you can put all your clothes, your phone, your keys (anything in your pockets). You can keep your pants, socks, and shoes on for now. But we want everything out of your pockets and we want glasses off, jewelry off. Put everything in the locker 
+There are  lockers in here, and that's where you can put all your clothes, your phone, your keys (anything in your pockets). You can keep your pants, socks, and shoes on for now. But we want everything out of your pockets and we want glasses off, jewelry off. Put everything in the locker.
 
-Then you can lock it and take the key.
+You can lock it with the key, and then there are transparent cubbies in the scanner room where you'll put the key. You can also leave your phone in there if you'd rather, or you can lock it in the locker. 
 
 There's also a restroom right here if you'd like to use the restroom. The scan is an hour and a half, so please use the restroom before.
 
-Once you're ready, I'll be in this room over here, so just walk down! 
+Once you're ready, I'll be in this room right here! 
 
 ### **Researcher setting up Control Room**
 
@@ -602,7 +602,7 @@ Take out participant
 
 Clean up magnet room
 
-- Clean headphone covers and mic filter using sanitary wipes in top black cabinet
+- Clean headphone covers, head coil/cage, and mic filter using sanitary wipes in top black cabinet
 - Return headphones and mic to their drawers (follow wires, be sure not to wind fiber optic cables too tightly)
 - Return mirror to the counter
 - Return small head cushions to the dark red cabinet
