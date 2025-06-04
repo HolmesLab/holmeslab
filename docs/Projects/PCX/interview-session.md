@@ -21,13 +21,14 @@ nav_order: 5
 
 # 1. Consents
 ## 1.1 Clinical Interview (Holmes 01) Consent Form
-*The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions.* 
-
 [Holmes 01 Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) (Qualtrics)
 
-## 1.2 MRI & Smartphone Session (PCR) Consent Form
-*The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are adding your data to the data repository, and a smartphone-app tracking study.* 
+*The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions.* 
 
+## 1.2 MRI & Smartphone Session (PCR) Consent Form
+[PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) (Qualtrics)
+
+*The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are adding your data to the data repository, and a smartphone-app tracking study.* 
 
 **Signature Boxes:**
 *The first signature box is allowing us to use your de-identified data in the datasets we upload to data sharing sites, so that other researchers can use it. This is an optional component.*
@@ -36,15 +37,9 @@ nav_order: 5
 
 *The third signature is the main part of the study. It involves the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.*
 
-(Note: “Medical history and medications”  which we collect only pertains to study data we collect - no additional medical records)
+*I’ll let you read through the consent form now, let me know if you have any questions.*
 
-*I’ll let you read through the consent form now, let me know if you have any questions.* 
-
-[PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) (Qualtrics)
-
-*Do you have any questions for me? [Participant must print, sign, and date] This signed copy is for us to keep, and the survey has emailed you a blank copy of this consent form.*
-
-### Note: Post-Consent Email
+**Note: Post-Consent Email**
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent forms, with a copy of their signed consent forms.
 
 ## 2. Enter Participant into ID-Linking Sheet
@@ -57,27 +52,34 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) on Qualtrics and enter in the subject's qualtrics ID and dates.  
 ![id](interview-session/id_in_survey.png)
 
-> If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) 
+> (If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) )
 
-
-### Notes:
-- The clinical survey questions are *NOT MANDATORY*. You can ask any of these questions to get more information, but feel free to skip if you've gotten enough information from the SCID.
-- This survey has display logic to display questions based on answers. Specifically, suicidality questions will be displayed or skipped based on answers. 
-- There is also suicidality procedure information in the displayed answers based on how the participant responds to the questions.
+Surveys Administered
+> NOTE: These 4 surveys are in order of *content*, NOT separated by survey-- so a BPRS question may be in the middle of 2 PANSS questions, etc. 
+- PANSS (guiding questions are optional if you have enough information from the SCID)
+    - About the last week
+    - Questions are similar to PANSS official guiding questions, and are consistent with our prior data collection of these scales
+- MADRS  (guiding Q’s as needed) 
+    - Questions are similar to MADRS official guiding questions, and are consistent with our prior data collection of these scales
+- BPRS (overlaps with PANSS guiding Q’s; also as needed) 
+- YMRS (guiding Q’s as needed)
+- C-SSRS (only use when SI has been endorsed a.k.a as normal)
+    - NOTE: CSSRS will only come up depending on the answer to MADRS Question 10, which is about suicidal ideation and intent. 
 
 ## 4. Send [this email]((https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)) to participant
-1. Fill out this [email template](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/) to send to participant for self-report surveys: 
-    - Fill in their name and qualtrics ID
-    - Email has self-report battery link, CAHBIR screener link and mental health resources sheet
-2. Email to participant
+1. Fill out this [email template](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/) to send to participant for self-report surveys (Email has self-report battery link, CAHBIR screener link and mental health resources sheet)
+    - NOTE: fill in their name and qualtrics ID
+2. Send email to participant
     - If on zoom, must be an email they can access - this is where they'll click the self-report surveys link
 
 ## 5. Self-Report Surveys
-After finishing the clinician interviews, Ask them to open the Self-Report Survey link from the email, and to share their screen if on Zoom.
-
-Tell them or email them their qual_id so that they enter it correctly. (ie qualr_01)
-
-Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
+- Have subject go to their email and select [“Psych Connectomics Clinical Visit Self Report Scales”](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ) from the email (duration: ~50 minutes) 
+- Ask them to open the Self-Report Survey link from their email
+    - Ask them to share their screen if on Zoom
+- After they finish, Check [Self-Report Scales](https://rutgers.yul1.qualtrics.com/reporting-dashboard/web/6759f2274afe9f0008e00f36/pages/Page_7691eb9e-0279-4dea-b9f6-75c7541d5cfc/view?surveyId=SV_78QRYTSOnegCSjQ) (<- link to survey responses) for QIDS-SR scale question qids_12, deals with suicidal ideation
+QIDS response is a 6, administer [Holmes Lab Suicide Risk Assessment](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1Nb3mdge9pfjlnE) 
+    - 2-4 questions, very fast
+    - Logic displays what to do based on answers
 
 ## 6. Payment
 Once they've submitted, send them their payment.
@@ -146,3 +148,7 @@ If the participant is judged not to be an imminent risk to him/herself and/or ot
 Regardless of risk status, each participant with extreme scores will be strongly encouraged to contact their mental health treatment provider, if they do not have one, or to make an appointment with a new provider. They will also be offered the option of being contacted by Dr. Avram Holmes, a Professor in the Rutgers Psychiatry Department. If participants desire, Dr. Avram Holmes will be contacted and provided with the participant’s name and email address, and will follow up the participant within 24 hours whenever possible with the following email message:
 
 “I am a professor affiliated with Rutgers University - From your answers to one of the questionnaires in a psychology research study, you seemed to be feeling quite down and blue/anxious. You were provided with some information about counseling services at the end of your participation in the study, but I wanted to follow up and offer to provide any other referral information you might want. If you would prefer to discuss this over the phone, please send me your phone number and some preferred times and I will do my best to reach you at a time that is convenient for you."
+
+
+
+
