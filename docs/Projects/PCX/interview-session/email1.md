@@ -13,7 +13,8 @@ While you’re taking the survey, a staff member will stay on zoom, but off came
 
 Subject ID: qualr_2`xx`
 
-Link to Self-Report Surveys: **https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ**
+Surveys: [“Psych Connectomics Clinical Visit Self Report Scales”](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)  
+(If that link doesn't work, copy and paste this into Google: **https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ**)
 
 When you click the link, fill in the Subject ID with your ID from this email, and select the site. For example:
 ![id](interview-session/id_in_survey.png)
