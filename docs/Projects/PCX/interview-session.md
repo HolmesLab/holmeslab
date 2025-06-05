@@ -54,8 +54,14 @@ Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://r
 
 > (If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) )
 
-Surveys Administered
+### **Surveys Administered**
 > NOTE: These 4 surveys are in order of *content*, NOT separated by survey-- so a BPRS question may be in the middle of 2 PANSS questions, etc. 
+> NOTE: 0=not assessed, 1=not present. Make sure to choose 1 if an item isn’t present. 
+> NOTE: PANSS P questions- If people don’t have mania / schizoaffective disorders, **first ask if anything has changed in their symptoms in the last week.**
+    - If they mention anything, you can ask further to see if any of the psychosis/mania (PANSS questions are relevant. 
+    - If not, you can skip those questions (mark them as “not present" )
+> NOTE: PANSS G+N, YMRS questions - Please still include+rate these scales, even if participants don’t have a history of mania/psychosis. We use these for factor analyses across symptom groups. 
+
 - PANSS (guiding questions are optional if you have enough information from the SCID)
     - About the last week
     - Questions are similar to PANSS official guiding questions, and are consistent with our prior data collection of these scales
