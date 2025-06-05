@@ -85,6 +85,7 @@ The PO will be placed and confirmed.
     - It’s typically the supplier’s job to do this, but you do NOT have to wait for the supplier. If you have the invoice from the beginning, as soon as the PO number is generated and approved (is ‘sent to supplier’), you can add that PO number to the invoice and email it to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu)
     - The supplier may do this and if so the invoice will be in RU marketplace
     - Email MUST contain PO NUMBER
+
 3. After you send the email, you’ll get an email from [noreply.jaggaer_AP@trustflowds.com](mailto:noreply.jaggaer_AP@trustflowds.com) with whether it was successful.
     - **Example of successful invoice email**
         
@@ -101,8 +102,10 @@ The PO will be placed and confirmed.
 
 ## 7. Invoice is created and processed, payment is sent
 
-1. Now on your PO/Requisition, Rutgers will create an Invoice under “related documents”, with a Rutgers-unique invoice number (it will not match the supplier’s documentation of that invoice number)
-2. The invoice page will list all relevant payment information- and when / whether it’s been paid
+
+1. Check back every few days to see if the invoice has been created (or put email alerts on your purchasing account). If it hasn't been created within 5 business days, submit a ticket to the [UPS Helpdesk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6) and ask if it can be submitted. 
+2. Now on your PO/Requisition, Rutgers will create an Invoice under “related documents”, with a Rutgers-unique invoice number (it will not match the supplier’s documentation of that invoice number)
+3. The invoice page will list all relevant payment information- and when / whether it’s been paid
     1. Before payment, in the box **Payment Information**, **Payment Date** and **Payment Number** will be blank. Once the payment has been mailed/wired, those fields will be filled in. 
     2. **Pay Status** will also list when it has been paid. 
     - **Example of a fully paid invoice:**
@@ -110,10 +113,10 @@ The PO will be placed and confirmed.
         ![Screenshot 2025-03-31 at 9.40.37 AM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
         
 
-1. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
+5. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
     1. if the supplier has indicated physical check, it goes via regular postal mail. The guidance we give is that it could take up to 10 days to arrive.
     2. This choice is done in paymentworks
-2. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
+6. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
         
 
