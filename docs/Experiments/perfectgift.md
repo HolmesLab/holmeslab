@@ -19,28 +19,37 @@ Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers
 4. If buying physical cards, for free shipping: use promotional code “RUTGERS”
 5. Submit the order (that will automatically generate a PDF invoice.)
     
-    ![Screenshot 2025-05-06 at 12.44.27 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.27_PM.png)
+    ![invoice.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/invoice.png)
     
-    1. Order number = invoice number
-    2. View invoice
+- Order number = invoice number
+`<details markdown="block">
+<summary> - View Invoice (click me for image reference!)</summary>
+![view_invoice.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/view_invoice.png)
+</details>`
         
-        ![Screenshot 2025-05-06 at 12.44.32 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.32_PM.png)
         
     3. Download the invoice and save it to box folder [Perfect Gift](https://rutgers.box.com/s/jx2fmd1xgtbz4e0q7pu33jcgzv21mrby) (in Lab_admin > Purchasing and Reimbursement)
 6. Go to Marketplace and create a Check Request  Attach Invoice (from step 5) to Check Request as required backup.
     1. Supplier: Perfect Gift LLC
     2. Commodity Code: Gift Cards
     3. Type of Payment: Invoice
+    4. Justification: This is for subject payments for MRI and survey sessions for subjects in the PCX and Conte studies 
     4. Invoice #/Payment Identifier: Order # from [PerfectGift.com](http://PerfectGift.com) / Invoice Number from invoice  (same number)
     
     Image reference:
     
-    ![Screenshot 2025-05-06 at 12.45.18 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.45.18_PM.png)
+    ![check_request](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/check_request.png)
     
 7. Department and Accounts Payable Check Request team must approve the Check Request. Once approved by all parties, Payment will be releasedto the provider on the next Payment Run (Tuesday & Thursday every week).
 8. Once RU sends the money, PerfectGift will process immediately or next-day
 9. On your perfectgift account, you can see your in progress/submitted orders whether the cards have been shipped
 10. Once provider receives payment, the order is fulfilled.
+
+
+
+
+
+--- 
 
 ### Perfect Gift Info
 
