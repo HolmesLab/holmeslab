@@ -12,8 +12,7 @@ nav_enabled: true
 ---
 Date: April 28, 2025 1:12 PM
 
-🚨 Make sure you have your personal cards set up in Concur (if not, follow this tutorial: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur))
-
+Notes: Warning
 
 ## 1. Fill in trip information
 
@@ -47,7 +46,7 @@ For specific item examples, go to that section (hotel/lodging, mileage, airfare)
 - The supporting documents must indicate the date, individual’s name, amount paid, payment method, and last 4-digits of credit card (if paid by card)
 - If a receipt does not include all required information, a credit card statement must also be provided as proof of payment (unrelated information may be redacted)
 - For lodging, the hotel folio (received upon checkout) with itemized charges and $0 balance must be provided
-- A Lost Receipt Certification Form must be completed for any missing receipts
+- A [Lost Receipt Certification Form](https://procurementservices.rutgers.edu/travel_policies_and_forms) must be completed for any missing receipts
 - If a receipt indicates another individual’s name, the employee requesting reimbursement must obtain a memo from the person named on the receipt authorizing reimbursement to the employee
 
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 3.png)
