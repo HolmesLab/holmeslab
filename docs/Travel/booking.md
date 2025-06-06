@@ -19,6 +19,8 @@ Return from travel
 ***Within 60 days from last travel day:*** Submit Expense Report
 > 
 
+🚨 Make sure you have your personal cards set up in Concur (if not, follow this tutorial: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur))
+
 Full polices + overview doc: [https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8](https://rutgers.box.com/s/2uf18n3ifisivweawnhiaeownjy4ulw8)
 
 ---

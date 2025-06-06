@@ -8,6 +8,7 @@ nav_enabled: true
 Date: April 28, 2025 1:55 PM
 
 ## **Timeline**:
+0. Make sure you have your personal cards set up in Concur (if not, follow this tutorial: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur))
 1. Create & submit a travel request in Concur for your dates, estimated expenses, per diem, etc.
     1. The purpose of this is for your finance office to approve that your account has the funds necessary to fund this trip, not for the office to look for reimbursable expenses, etc.
 2. The finance approver (for Holmes Lab it’s John Nguyen-Cleary's office) has only 24 hours to look over and reject the travel request (will only reject it in extreme circumstances, when your lab has no funds or something)

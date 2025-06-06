@@ -12,15 +12,17 @@ nav_enabled: true
 ---
 Date: April 28, 2025 1:12 PM
 
-Notes: Warning
+🚨 Make sure you have your personal cards set up in Concur (if not, follow this tutorial: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur))
+
 
 ## 1. Fill in trip information
 
 1. Create request  
-<img src="start_report.png" width="200" height="100">
+![start_report.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/start_report.png)
 2. Click **“create from an approved request”** and LINK it to your **pre-travel request**
 ![create_from_approved.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/create_from_approved.png)
-3. Fill in purchasing codes: [Purchasing codes folder at this link](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
+### 3. Fill in purchasing codes (use 'Start Up' codes unless otherwise directed): [Purchasing codes folder at this link](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) 
+(Password to this file is the Holmes Lab general password, ask RA if you don't know it)
 ![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image.png)
 
 ## 2. Add per-diem expenses 

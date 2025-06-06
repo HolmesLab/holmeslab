@@ -140,6 +140,8 @@ Time this takes: I would give 2 business days minimum for this, including gettin
     2. Or Direct Deposited
 2. Enroll in healthcare/benefits
 3. Optional tax savings plans, investment plans, pension plans.
+4. Add your personal cards to Concur if you'll do anything which will require reimbursement: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur). (Such as, travel, some subject payments, etc)
+
 
 ![image.png](Hiring and Onboarding Timeline 1e6cf00eb93680019c92f9cbcfb5e49c/image 1.png)
 
