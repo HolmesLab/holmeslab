@@ -65,7 +65,7 @@ You also need to install the required libraries:
 To install Flask, run the following command in your terminal or command prompt:
 
 ```python
-python3 install Flask
+pip install Flask
 ```
 
 1. **Set Up the Files:**
