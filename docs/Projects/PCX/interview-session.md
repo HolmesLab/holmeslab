@@ -23,21 +23,43 @@ nav_order: 5
 ## 1.1 Clinical Interview (Holmes 01) Consent Form
 [Holmes 01 Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM) (Qualtrics)
 
-*The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions.* 
+*The first thing we’re going to do is go over the consent forms. This study is being led by Dr Avram Holmes, who is a faculty member in the department of Psychiatry. Their study consists of this session today and a second session with an MRI scan. The first consent form is a consent for the activities we’ll ask you to do today, which include a structured clinical interview, which will take 20min-2hours. This is exactly like the interview you did with us when you first came into CCNP, we’re just doing it again to make sure the diagnosis is up to date. After that, I may ask you some more questions about your symptoms specifically in the last two weeks. The third thing we’d do today is an online survey. I would send you the link and you would fill it out yourself. This is expected to take around 1 hour. 
+
+*You'll be paid $20/hour to do this study, as well as reimbursed for your travel costs.*
+
+*Signing this consent form confirms that you are willing to do these activities and willing to have your information shared with the study staff at Dr Avram Holmes’ lab, so they can schedule with you the MRI scanning session. I’ll let you read through the consent form now, let me know if you have any questions.* 
+
+
 
 ## 1.2 MRI & Smartphone Session (PCR) Consent Form
 [PCR Consent Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) (Qualtrics)
 
 *The second consent form is for the MRI scanning session. If you sign this form today, you’ll also be asked to sign the same form when you go in for the MRI scan. You can always decide not to participate, even if you sign it today. This consent form goes over the activities you would do in this session and the second session. These include some more surveys, a 90 minute MRI scan and some optional components. The optional components are adding your data to the data repository, and a smartphone-app tracking study.* 
 
+*You'll be paid $60 for the 2.5 hours of MRI and surveys at the MRI session, and will receive a link to do an additional 1hr of surveys at home, for an additional $30*
+
+*There is also an optional smartphone tracking component, where you would be paid based on the number of daily surveys you complete:*
+        - $5 for 5-9 surveys completed 
+        - $10 for 10-14 surveys completed
+        - $15 for 15-19 surveys completed
+        - $30 for 20-24 surveys completed
+        - $35 for 25+ surveys completed
+*This would last for up to 6 months ($210 total for the smartphone component). However, you can uninstall the app at any time if you would like to leave the study.*
+
+
 **Signature Boxes:**
 *The first signature box is allowing us to use your de-identified data in the datasets we upload to data sharing sites, so that other researchers can use it. This is an optional component.*
 
+[Have them read the first page and sign]
+
 *The second signature box is for the smartphone app portion of the study, where you could earn additional money to answer daily questions on your smartphone for up to 6 months. This is an optional component.*
 
-*The third signature is the main part of the study. It involves the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.*
+[Have them read the second page and sign]
 
-*I’ll let you read through the consent form now, let me know if you have any questions.*
+*Then the form discusses risks and benefits. Then the third signature is the main part of the study. It involves the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.*
+
+[Have them read the third page and sign]
+
 
 **Note: Post-Consent Email**
 An email gets automatically emailed to the participant through Qualtrics after they sign the consent forms, with a copy of their signed consent forms.
@@ -48,13 +70,27 @@ Enter this subject, assigning them a PCRID and a qualtrics ID.
 ![qual_id](interview-session/qual_id.png)
 
 
-## 3. Clinician Rating Survey
-Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) on Qualtrics and enter in the subject's qualtrics ID and dates.  
-![id](interview-session/id_in_survey.png)
+## 3. Clinician Rating Survey + Self Report Scales
 
-> (If you've started the survey before and the URL is saving your responses, but you now want to go back to the original front page / delete your old responses, use [this link](https://rutgers.ca1.qualtrics.com/jfe/form/SV_bpUc7WXekERE7Cm?Q_R_DEL=1) )
+- Message to the subject (on chat if on zoom) the link to Psych Connectomics Clinical Visit Self Report Scales (https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ) & their  (duration: ~50 minutes) 
 
-### **Surveys Administered**
+*I've just messaged you a link in the chat. Can you open that link and share your screen with me?*
+
+*Ok, great. Please enter this ID in the "qualtrics id" box*
+
+- Message in the chat their qualtrics ID
+
+*Now go ahead and start filling otu the survey. After every few surveys there will be a screen asking you to notify me. I may ask you some more questions during those times, or I may ask you to keep going. These surveys should take about 40 minutes.*
+
+
+After they finish, Check [Self-Report Scales](https://rutgers.yul1.qualtrics.com/reporting-dashboard/web/6759f2274afe9f0008e00f36/pages/Page_7691eb9e-0279-4dea-b9f6-75c7541d5cfc/view?surveyId=SV_78QRYTSOnegCSjQ) (<- link to survey responses) for QIDS-SR scale question qids_12, deals with suicidal ideation
+QIDS response is a 6, administer [Holmes Lab Suicide Risk Assessment](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1Nb3mdge9pfjlnE) 
+    - 2-4 questions, very fast
+    - Logic displays what to do based on answers
+
+
+
+### Notes for Interviewer 
 > NOTE: These 4 surveys are in order of *content*, NOT separated by survey-- so a BPRS question may be in the middle of 2 PANSS questions, etc. 
 > NOTE: 0=not assessed, 1=not present. Make sure to choose 1 if an item isn’t present. 
 > NOTE: PANSS P questions- If people don’t have mania / schizoaffective disorders, **first ask if anything has changed in their symptoms in the last week.**
@@ -72,20 +108,7 @@ Go to the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://r
 - C-SSRS (only use when SI has been endorsed a.k.a as normal)
     - NOTE: CSSRS will only come up depending on the answer to MADRS Question 10, which is about suicidal ideation and intent. 
 
-## 4. Send [this email]((https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)) to participant
-1. Fill out this [email template](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/) to send to participant for self-report surveys (Email has self-report battery link, CAHBIR screener link and mental health resources sheet)
-    - NOTE: fill in their name and qualtrics ID
-2. Send email to participant
-    - If on zoom, must be an email they can access - this is where they'll click the self-report surveys link
 
-## 5. Self-Report Surveys
-- Have subject go to their email and select [“Psych Connectomics Clinical Visit Self Report Scales”](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ) from the email (duration: ~50 minutes) 
-- Ask them to open the Self-Report Survey link from their email
-    - Ask them to share their screen if on Zoom
-- After they finish, Check [Self-Report Scales](https://rutgers.yul1.qualtrics.com/reporting-dashboard/web/6759f2274afe9f0008e00f36/pages/Page_7691eb9e-0279-4dea-b9f6-75c7541d5cfc/view?surveyId=SV_78QRYTSOnegCSjQ) (<- link to survey responses) for QIDS-SR scale question qids_12, deals with suicidal ideation
-QIDS response is a 6, administer [Holmes Lab Suicide Risk Assessment](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1Nb3mdge9pfjlnE) 
-    - 2-4 questions, very fast
-    - Logic displays what to do based on answers
 
 ## 6. Payment
 Once they've submitted, send them their payment.
