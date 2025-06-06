@@ -67,7 +67,6 @@ An email gets automatically emailed to the participant through Qualtrics after t
 ## 2. Enter Participant into ID-Linking Sheet
 First, go the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`.  
 Enter this subject, assigning them a PCRID and a qualtrics ID.
-![qual_id](interview-session/qual_id.png)
 
 
 ## 3. Clinician Rating Survey + Self Report Scales
