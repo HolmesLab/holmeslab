@@ -16,10 +16,11 @@ nav_order: 5
 
 {: .new-title }
 > Green Callout 
-> **Payment Method**:
-> - CCNP pays directly at the end of the session
-> - Holmes Lab pays via Visa E-Gift Card which will be emailed to you, which you can use for purchases, but **cannot add to your bank account**  -- (if this is a deciding factor, tell Holmes Lab, we have a way that we can pay them in a way which will add to their bank account, and can do that for specific participants.)
-> **Payment by Session**:
+> **Payment Method**:  
+> - CCNP: pays directly at the end of the session
+> - Holmes Lab: pays via Visa E-Gift Card which will be emailed to you, which you can use for purchases, but **cannot add to your bank account**  -- (if this is a deciding factor, tell Holmes Lab, we have a way that we can pay them in a way which will add to their bank account, and can do that for specific participants.)
+> 
+> **Payment by Session**:  
 > - $20/hr for SCID + Clinical Surveys Session (SCID = 1hr control, 1.5hr patient. Surveys session = 1hr control, 1.5hr patient)  
 > - $60 for the MRI Scan session, ~3 hours (1.5hr MRI)   
 > - $30 for an optional additional set of online surveys, wnich would take around 1hr  
