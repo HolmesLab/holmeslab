@@ -12,9 +12,15 @@ nav_order: 5
 {:toc}
 ---
 
+
 ```bash
 {: .new-title }
 > Green Callout 
+>
+> testing text 
+> what about another lnie
+```
+
 **Payment Method**:
 - CCNP pays directly at the end of the session
 - Holmes Lab pays via Visa E-Gift Card which will be emailed to you, which you can use for purchases, but cannot add to your bank account  
@@ -29,8 +35,6 @@ An optional smartphone tracking component, where you would be paid based on the 
 - $30 for 20-24 surveys completed  
 - $35 for 25+ surveys completed  
 -> For up to 6 months ($210 maximum total for the smartphone component)  
-```
-
 
 ## Introduction
 *Hi! Thank you for coming in today. I’m going to be reading from a script to make sure each participant has a similar experience.*
