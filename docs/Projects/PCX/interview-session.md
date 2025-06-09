@@ -15,20 +15,20 @@ nav_order: 5
 ```bash
 {: .new-title }
 > Green Callout 
-> **Payment Method**:
-> - CCNP pays directly at the end of the session
-> - Holmes Lab pays via Visa E-Gift Card which will be emailed to you, which you can use for purchases, but cannot add to your bank account 
-> **Payment by Session**:
-> $20/hr for SCID + Clinical Surveys Session (SCID = 1hr control, 1.5hr patient. Surveys session = 1hr control, 1.5hr patient)
-> $60 for the MRI Scan session, ~3 hours (1.5hr MRI)
-> $30 for an optional additional set of online surveys, wnich would take around 1hr
-> An optional smartphone tracking component, where you would be paid based on the number of daily surveys you complete:
-> $5 for 5-9 surveys completed 
-> $10 for 10-14 surveys completed
-> $15 for 15-19 surveys completed
-> $30 for 20-24 surveys completed
-> $35 for 25+ surveys completed
-> -> For up to 6 months ($210 maximum total for the smartphone component)  
+**Payment Method**:
+- CCNP pays directly at the end of the session
+- Holmes Lab pays via Visa E-Gift Card which will be emailed to you, which you can use for purchases, but cannot add to your bank account  
+**Payment by Session**:
+- $20/hr for SCID + Clinical Surveys Session (SCID = 1hr control, 1.5hr patient. Surveys session = 1hr control, 1.5hr patient)  
+- $60 for the MRI Scan session, ~3 hours (1.5hr MRI)   
+- $30 for an optional additional set of online surveys, wnich would take around 1hr  
+An optional smartphone tracking component, where you would be paid based on the number of daily surveys you complete:  
+- $5 for 5-9 surveys completed   
+- $10 for 10-14 surveys completed  
+- $15 for 15-19 surveys completed  
+- $30 for 20-24 surveys completed  
+- $35 for 25+ surveys completed  
+-> For up to 6 months ($210 maximum total for the smartphone component)  
 ```
 
 
