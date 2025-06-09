@@ -24,6 +24,9 @@ Date: April 28, 2025 1:55 PM
 ![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 1.png)
 
 ### 3. Enter in trip/lab information
+**Fill in purchasing codes (use study codes if it was for a study, otherwise ask RA): [Purchasing codes folder at this link](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9)**
+(Password to this file is the Holmes Lab general password, ask RA if you don't know it)
+
 ![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 2.png)
 ![image.png](Create a Pre-travel Request 1e3cf00eb93680dc8a90f569b0691f19/image 3.png)
 

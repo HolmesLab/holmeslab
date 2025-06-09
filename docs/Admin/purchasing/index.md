@@ -103,8 +103,9 @@ The PO will be placed and confirmed.
 ## 7. Invoice is created and processed, payment is sent
 
 
-1. Check back every few days to see if the invoice has been created (or put email alerts on your purchasing account). If it hasn't been created within 5 business days, submit a ticket to the [UPS Helpdesk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6) and ask if it can be submitted. 
-2. Now on your PO/Requisition, Rutgers will create an Invoice under “related documents”, with a Rutgers-unique invoice number (it will not match the supplier’s documentation of that invoice number)
+1. Check back every few days to see if the invoice has been created (or put email alerts on your purchasing account). It generally takes 2-3 business days. If it hasn't been created within 5 business days, submit a ticket to the [UPS Helpdesk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6) and ask if it can be submitted.   
+    - If it's in your PO under the "invoices" tab, but not actually in your related documents, that means it's in processing. Invoices are processed in the order they are received. 
+2. After processing, on your PO/Requisition Rutgers will create an Invoice under “related documents”, with a Rutgers-unique invoice number (it will not match the supplier’s documentation of that invoice number)
 3. The invoice page will list all relevant payment information- and when / whether it’s been paid
     1. Before payment, in the box **Payment Information**, **Payment Date** and **Payment Number** will be blank. Once the payment has been mailed/wired, those fields will be filled in. 
     2. **Pay Status** will also list when it has been paid. 
@@ -112,7 +113,7 @@ The PO will be placed and confirmed.
         
         ![Screenshot 2025-03-31 at 9.40.37 AM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
         
-
+4. Payment will be sent before the due date. The due date is based on the DATE of the invoice, and the due date is Rutgers terms, aka Net 45-- so the Due Date will be the date of the invoice + 45 days. No matter when you submit it. 
 5. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
     1. if the supplier has indicated physical check, it goes via regular postal mail. The guidance we give is that it could take up to 10 days to arrive.
     2. This choice is done in paymentworks
