@@ -64,71 +64,14 @@ scp my-dir-of-output-files.tar.gz [gc563@amarel.rutgers.edu](mailto:gc563@amarel
 - `/home/gc563` – The destination folder.
 
 ---
+# Locations
 
-# File Structures
-
-The lab follows BIDS file structuring as much as possible for the organization of data files (see “BIDS” section below for details). Documentation, scripts and user folders are choices made by Holmes Lab. 
-
-## /scratch/f_ah1491_1/
-
+### /scratch/f_ah1491_1/
 - 100 TB storage
 - Unlimited file count
 - Not backed up
 - Never deleted
 - Lab general
-
-structure:
-
-```jsx
-/scratch/f_ah1491_1
-│── open_data/
-│── internal_data/
-│── users/
-
-```
-
-### **/internal_data or /open_data**
-
-```
-/project_name/
-│
-├── bids/                     # BIDS-compliant raw dataset
-│   ├── sub-01/
-│   ├── sub-02/
-│   ├── dataset_description.json
-│   ├── participants.tsv
-│   └── ...
-│
-├── derivatives/                  # BIDS derivatives (preprocessed data)
-│   ├── fmriprep/                 # fMRIPrep outputs (preprocessed fMRI)
-│   │   ├── sub-01/
-│   │   ├── sub-02/
-│   │   ├── logs/
-│   │   ├── figures/
-│   │   ├── reports/
-│   │   ├── dataset_description.json
-│   │   └── ...
-│   │
-│   ├── freesurfer/               # FreeSurfer outputs
-│   │   ├── sub-01/
-│   │   ├── sub-02/
-│   │   ├── scripts/
-│   │   ├── subjects/             # Standard FreeSurfer subjects directory
-│   │   ├── dataset_description.json
-│   │   └── ...
-
-```
-
-### **/users**
-
-structure:
-
-```
-/projects/f_ah1491_1/users/
-│── <user_name>/
-│── <user_name>/
-│── <user_name>/
-```
 
 ## /projects/f_ah1491_1/
 
@@ -138,7 +81,72 @@ structure:
 - Never deleted
 - Lab general
 
-structure:
+---
+
+# File Structures
+
+The lab follows BIDS file structuring as much as possible for the organization of data files (see “BIDS” section below for details). Documentation, scripts and user folders are choices made by Holmes Lab. 
+
+## Structure of /scratch/f_ah1491_1/
+```
+/scratch/f_ah1491_1
+│── open_data/
+│── internal_data/
+│── users/
+
+```
+
+### Structure of **/internal_data or /open_data**
+More information abot BIDS compliant datasets can be found at [bids-specification.readthedocs.io](https://bids-specification.readthedocs.io/en/stable/) 
+More information about fMRIPrep (+ FreeSurfer) outputs can be found at [fmriprep.org](https://fmriprep.org/en/stable/outputs.html) 
+
+```
+/project_name/
+ 	bids/                     # BIDS-compliant raw dataset
+		sub-01/
+		sub-02/
+	dataset_description.json
+	participants.tsv
+
+
+	derivatives/                  # BIDS derivatives (preprocessed data)
+		fmriprep/                 # fMRIPrep outputs, structured by fMRIPrep (preprocessed fMRI)
+			sub-01/
+			sub-02/
+			logs/
+			figures/
+			reports/
+			dataset_description.json   
+	   sourcedata/                 # FreeSurfer outputs, structured by FreeSurfer (processed anatomical volumes)
+			freesurfer/
+			fsaverage{,5,6}/
+				mri/
+				surf/
+				...
+			sub-<label>/
+				mri/
+				surf/
+				...
+			...
+		desc-aparc_dseg.tsv      # Precomputed anatomical volume numbers in text files
+		desc-aparcaseg_dseg.tsv
+  
+
+
+```
+
+### Structure of **/users**
+
+```
+/projects/f_ah1491_1/users/
+│── <user_name>/
+│── <user_name>/
+│── <user_name>/
+```
+
+---
+
+## Structure of /projects/f_ah1491_1/
 
 ```
 /projects/f_ah1491_1
