@@ -8,8 +8,8 @@ nav_enabled: true
 
 Last updated: Jun 12, 2025
 
-Database: [National Data Archive](https://nda.nih.gov/) at the United States National Institute of Health
-Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov) 
+Database: [National Data Archive](https://nda.nih.gov/) at the United States National Institute of Health  
+Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov)   
 
 
 
@@ -27,9 +27,9 @@ Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov)
     1. If it’s not, email the helpdesk [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov) and ask it to be changed   
     NOTE: It takes 48 hours for eRA institution changes to populate to NDA, so if you've just changed your eRA, wait to see if it populates to NDA.   
 
-## 3) Get added to a Data Use Agreement
+## 3) Create a Data Access Request (DAR)
 
-### 3.1) Request Access under a new DUA for an NDA dataset(s) you wish to use  
+### 3.1) Request Access under a new Data Access Request (DAR) for an NDA dataset(s) you wish to use  
 If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you wish to use, you must request permissions.  
   
 1. First, make sure your PI’s ‘Institutional affiliation’ is the same as yours  
@@ -63,47 +63,24 @@ If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you
 8. After reading the Terms and Conditions, check the boxes to certify your agreement, then click 'Confirm' to complete the process.
 ![data-use-2.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/data-use-2.png)
   
-9. Wait to get granted access (~15 business days)  
+9. Wait to get granted access (~10 business days)  
 
 
-### 3.2) Get added to your PI’s existing DUA for a collection/dataset
+### 3.2) Get added to your PI’s existing DAR for a collection/dataset
+If additional individuals need data access after DAR approval, the lead recipient or new recipients must submit a new DAR using the “New Data Access Requests (DAR)” procedure (Steps in 3.1). The new DAR can reuse the same Research Data Use Statement if applicable.
 
-For PI/Administrators: How to Add Users to Your NDA Collection
+### 3.3) Edit a DAR
+1. Have the PI go to their Data Permissions dashboard and select 'View Request'.
+![pending-dar-view-request-button.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/pending-dar-view-request-button.png)
+2. On the eDAR overview page, click 'Edit' in the top right corner.
+![edit-button.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/edit-button.png)
+3. A prompt will appear asking, "Are you sure you want to edit this Data Access Request?" Read the message carefully, then click 'Yes' to proceed.
+4. Once confirmed, you can edit the DAR. Click 'Start Request' to proceed.
 
----
-
-1. Have the user [create an NDA account](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account).
-2. Click on the Permissions tab on your NDA Collection.
-    
-    ![](https://stage-strapi-public-uploads.s3.amazonaws.com/permissions-tab.jpg)
-    
-3. Enter either the NDA username or email address of the person you wish to add.
-    
-    ![](https://stage-strapi-public-uploads.s3.amazonaws.com/username-email-field.jpg)
-    
-4. Click on search.
-    
-    ![](https://stage-strapi-public-uploads.s3.amazonaws.com/search-button.jpg)
-    
-5. Click on Add User.
-    
-    ![](https://stage-strapi-public-uploads.s3.amazonaws.com/add-user.jpg)
-    
-6. Apply the [desired permission level](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=collection-permissions#permission-levels).
-    
-    ![](https://stage-strapi-public-uploads.s3.amazonaws.com/permission-edit-table.png)
-    
-7. Click Save on the bottom left of the screen.
-    
-    ![](https://stage-strapi-public-uploads.s3.amazonaws.com/save.png)
-    
-
-<aside>
-🌟 For more information, please see:
-
-PDF Tutorial: [https://rutgers.box.com/s/fh8iv3luan3xonevzyijf185shpzavvm](https://rutgers.box.com/s/fh8iv3luan3xonevzyijf185shpzavvm)
-
-Youtube Tutorial: [NDA Data Access Webinar](https://www.youtube.com/watch?v=53P6hEy-zaM&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F&source_ve_path=MjM4NTE&feature=emb_title) 
+### 3.4) Renewing an eDAR
+1. Log into your NDA account with your eRA Commons username and password. Navigate to your Data Permissions Dashboard and select ‘Renew Access’ under the ‘Actions’ menu for the eDAR you wish to renew.
+![renew-access-button.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/renew-access-button.png)
+2. In the Research Data Use Statement section, review the information and make any necessary updates. Once you're done, click 'Next' to proceed.
 
 </aside>
 
