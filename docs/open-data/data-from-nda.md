@@ -12,7 +12,7 @@ Database: [National Data Archive](https://nda.nih.gov/) at the United States Nat
 Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov)   
 
 
-
+# DARs
 ## 1) Have an eRA Profile
 
 1. Make sure you have an eRA account. If you don’t have one, email the RBHS signing official, Gregory Werhner ([gw266@research.rutgers.edu](mailto:gw266@research.rutgers.edu)) to have one created for you
@@ -82,8 +82,8 @@ If additional individuals need data access after DAR approval, the lead recipien
 ![renew-access-button.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/renew-access-button.png)
 2. In the Research Data Use Statement section, review the information and make any necessary updates. Once you're done, click 'Next' to proceed.
 
-</aside>
 
+# Data Downloads
 ## 2) Creating Python environment for Data Downloads
 
 1. Create Conda environment
