@@ -28,12 +28,8 @@ Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov)
     NOTE: It takes 48 hours for eRA institution changes to populate to NDA, so if you've just changed your eRA, wait to see if it populates to NDA.   
 
 ## 3) Get added to a Data Use Agreement
-### 3.1) Be added to an existing DUA for the NDA dataset(s) you wish to use
 
-1. Have the PI/primary requestor follow steps  
-
-
-### 3.2) Request Access under a new DUA foran NDA dataset(s) you wish to use  
+### 3.1) Request Access under a new DUA for an NDA dataset(s) you wish to use  
 If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you wish to use, you must request permissions.  
   
 1. First, make sure your PI’s ‘Institutional affiliation’ is the same as yours  
@@ -70,7 +66,7 @@ If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you
 9. Wait to get granted access (~15 business days)  
 
 
-### 1C) Get added to your PI’s existing collection/dataset
+### 3.2) Get added to your PI’s existing DUA for a collection/dataset
 
 For PI/Administrators: How to Add Users to Your NDA Collection
 
