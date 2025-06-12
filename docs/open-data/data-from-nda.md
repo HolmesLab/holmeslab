@@ -4,20 +4,14 @@ parent: Open Source Data
 nav_enabled: true 
 ---
 
-# Tutorial: Data from NDA
+# ✍️ Tutorial: Data from NDA
 
-Date: February 15, 2024 12:02 PM
+Last updated: Jun 12, 2025
 
 Database: [National Data Archive](https://nda.nih.gov/) at the United States National Institute of Health
-
 Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov) 
 
-<aside>
-✍️ Tutorial Contents:
 
-</aside>
-
-Youtube Tutorial: [https://www.youtube.com/watch?v=53P6hEy-zaM](https://www.youtube.com/watch?v=53P6hEy-zaM) 
 
 ## 1) Have an eRA Profile
 
@@ -26,51 +20,55 @@ Youtube Tutorial: [https://www.youtube.com/watch?v=53P6hEy-zaM](https://www.yout
     1. For example, there are 2 versions of RBHS. “Rutgers Biomedical and Health Sciences”, and “Rutgers Biomedical/Health Sciences - RBHS”. There’s also “Rutgers, the State University of NJ” and others. Make sure to select the one that matches your PI
 3. Change your contact email to your Rutgers email 
 
-## 1) Get Access to NDA
+## 2) Get Access to NDA
 
-1. [Create an NDA account](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account) ([nda tutorial](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account)): Go to the NDA website: [https://nda.nih.gov/](https://nda.nih.gov/). To create an account, click the “log in” button in the top right which will prompt a few “create account” options. Make sure to link to your eRA or [login.gov](http://login.gov) which is listed with your institutional email
-2. After/if you already have an account, go to “Profile” and make sure your institutional affiliation is the same as listed on your eRA account / your PI’s institutional affiliation.
-    1. If it’s not, email the helpdesk [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov) and ask it to be changed 
+1. [Create an NDA account](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account) ([nda tutorial](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account)): Go to the NDA website: [https://nda.nih.gov/](https://nda.nih.gov/). To create an account, click the “log in” button in the top right which will prompt a few “create account” options. Make sure to link to your eRA or [login.gov](http://login.gov) which is listed with your institutional email  
+2. After/if you already have an account, go to “Profile” and make sure your institutional affiliation is the same as listed on your eRA account / your PI’s institutional affiliation.  
+    1. If it’s not, email the helpdesk [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov) and ask it to be changed   
+    NOTE: It takes 48 hours for eRA institution changes to populate to NDA, so if you've just changed your eRA, wait to see if it populates to NDA.   
 
-### 1.1) Be added to an existing DUC for the NDA dataset(s) you wish to use
+## 3) Get added to a Data Use Agreement
+### 3.1) Be added to an existing DUA for the NDA dataset(s) you wish to use
 
-1. Have the PI/primary requestor add your name to the existing DUC from the NDA website
-2. Have the PI download the Data Access Request (DAR)
-3. Follow steps 3-5 from **1B**
+1. Have the PI/primary requestor follow steps  
 
-### 1.2) Request Access under a new DUC to the NDA dataset(s) you wish to use
 
-If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you wish to use, you must request permissions.
+### 3.2) Request Access under a new DUA foran NDA dataset(s) you wish to use  
+If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you wish to use, you must request permissions.  
+  
+1. First, make sure your PI’s ‘Institutional affiliation’ is the same as yours  
+2. Have your PI go to Profile > Data Permissions > scroll down to the collection… > Request Access (PI must start a request to the data collection that holds the dataset you’re interested in)  
+![data-permissions-request-access.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/data-permissions-request-access.png)
 
-1. First, make sure your PI’s ‘Institutional affiliation’ is the same as yours
-2. Have your PI go to Profile > Data Permissions > scroll down to the collection… > Request Access (PI must start a request to the data collection that holds the dataset you’re interested in)
-3. Fill project specific fields— example responses :
-    1. **Name of Project: “**Psychiatric connectomes”
-        1. Not important, doesn’t have to match anywhere else
-    2. **Research purpose:** “Our research is looking at the relationship between biological biomarkers, such as MRI and fMRI, and behavioral markers such as clinical phenotypes and task-behavior. “
-4. Fill in the other two fields— USE THIS LANGUAGE for these questions:
-    
-    **Data access plan**: “The data will be stored on a secure server, in a password protected partition on the Rutgers University Amarel computing cluster. The folder will only be accessible by those listed in this DUA.”
-    
-    **Plan for deletion**: “All data that has been downloaded from this dataset will be deleted from all our local or cloud-based machines when research is completed, or this DUC is expired, whichever comes first.“ 
-    
-5. Then add everyone who will access the data 
-    1. If the person has an NDA account: but you don’t see them on the list of “Known affiliated user” you have to ask them to follow steps 1.a.-1.c.
+3. Read the instructions carefully to fully understand the process and timeline. Make sure you have selected the correct institutional sponsorship, then click 'Start Request' to begin your application.
+![instructions-institution-section-step](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/instructions-institution-section-step)
+3. Fill project specific fields— example responses:  
+    1. **Name of Project**: “Psychiatric connectomes”  
+        1. Not important, doesn’t have to match anywhere else  
+    2. **Research purpose:** “Our research is looking at the relationship between biological biomarkers, such as MRI and fMRI, and behavioral markers such as clinical phenotypes and task-behavior. “  
+4. Fill in the other two fields— USE THIS LANGUAGE for these questions:  
+      
+    **Data access plan**: “The data will be stored on a secure server, in a password protected partition on the Rutgers University Amarel computing cluster. The folder will only be accessible by those listed in this DUA.”  
+      
+    **Plan for deletion**: “All data that has been downloaded from this dataset will be deleted from all our local or cloud-based machines when research is completed, or this DUC is expired, whichever comes first.“   
+      
+5. Then add everyone who will access the data. On this page, make sure to add all individuals who will access, use, or analyze the data, regardless of their position title, or role in data usage. This includes any IT staff responsible for cleaning or managing the data.
+    1. If the person has an NDA account: but you don’t see them on the list of “Known affiliated user” you have to ask them to follow steps 1.1.-1.3.
         1. Make sure to select the email associated with your collaborator’s NDA account. Don’t press ‘add new user’ unless your collaborator doesn’t have an NDA account already
+![add-user.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/add-user.png)  
+  
+
 6. For “Signing Official”, select Chrissa Pappannoiu ****[cp847@ored.rutgers.edu](mailto:cp847@ored.rutgers.edu)
-7. Download the DUC file (auto-created)
-    1. E-sign it as the Lead Recipient
-    
-    ![Screenshot 2024-09-25 at 10.07.13 AM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screenshot_2024-09-25_at_10.07.13_AM.png)
-    
-8. Email the signed file to **Gregory Werhner** [cp847@ored.rutgers.edu](mailto:cp847@ored.rutgers.edu)
-    1. Message: “Hi Chrissa, 
-    I’m a researcher in the Holmes Lab and we’re applying for access to the NDA dataset [Enter dataset name] for the purposes of scientific investigation. The data will be stored on a secure server, in a password protected file on the Rutgers University Amarel computing cluster. The folder will only be accessible by those listed in this DUA. All raw data will be deleted after the conclusion of the project.”
-9. Once you receive it back signed, upload the DUC (signed by both of you) to the “Upload Supporting Documentation” under “active requests”
-    
-    ![Screen Shot 2024-01-26 at 3.40.04 PM.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/Screen_Shot_2024-01-26_at_3.40.04_PM.png)
-    
-10. Wait to get granted access
+    1. They will log into NDA to sign your eDAR.
+    2. Email Signing official: 
+    > “Hi Chrissa, 
+    > I’m a researcher in the Holmes Lab, PI: Avram Holmes, and we’re applying for access to the NDA dataset [Enter dataset name]. The Data Access Request is within NDA for your signature. Thanks so much and please let me know if you have any questions.”
+7. Review the details of your eDAR to ensure everything is correct and click ‘Next’ to proceed.
+8. After reading the Terms and Conditions, check the boxes to certify your agreement, then click 'Confirm' to complete the process.
+![data-use-2.png](Tutorial Data from NDA fe5a660f44ed41d481d12daeaee59455/data-use-2.png)
+  
+9. Wait to get granted access (~15 business days)  
+
 
 ### 1C) Get added to your PI’s existing collection/dataset
 
