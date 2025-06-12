@@ -30,7 +30,7 @@ Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov)
 ## 3) Create a Data Access Request (DAR)
 
 ### 3.1) Request Access under a new Data Access Request (DAR) for an NDA dataset(s) you wish to use  
-If your PI doesn’t already have a Data Use Agreement (DUA) for the dataset you wish to use, you must request permissions.  
+If your PI doesn’t already have a DAR for the dataset you wish to use, you must request permissions.  Additionally, if you wish to add or remove people from a DAR, you must submit a new DAR. 
   
 1. First, make sure your PI’s ‘Institutional affiliation’ is the same as yours  
 2. Have your PI go to Profile > Data Permissions > scroll down to the collection… > Request Access (PI must start a request to the data collection that holds the dataset you’re interested in)  
