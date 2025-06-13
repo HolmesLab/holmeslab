@@ -60,17 +60,11 @@ Subject leaves, done.
 
 # MRI Session — Instructions Script
 
-<aside>
 🔑
 
 This Script:
-Text       is your speaking
-
+*Italic Text*       is your speaking
 [Bracketed text]      is actions/links
-
-Grey Text      is Bernadette/MRI Tech
-
-</aside>
 
 ## **SECTION 0: BEFORE PARTICIPANT ARRIVES**
 
@@ -80,16 +74,15 @@ To do
     - Charged scanner laptop with all adapters and charger
     - Binder with consent form copies, MRI log copies, script copy, button box picture, task instructions.
 - On your laptop
-    - Open up [PCRID Linking sheet](https://rutgers.box.com/s/0arhl2n2i2illvyhb9l9gfop46m29lcn)
-    - Open [PCRID Tracker](https://rutgers.box.com/s/8e77ri389fomlppgnn73gwiaaox3beal)
+    - Open up [PCRID Linking sheet](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) at Rutgers 
+    - Open [Subject_tracker_PCR](https://rutgers.box.com/s/i5jaa225v6fz6czlj1bbakar79xtrvng)
         - FOR BOTH: Filter to only their row so you can check information with them without showing any other participants
-- Make a subject log in [subject_logs](https://rutgers.box.com/s/86lbddpb6fk0uh7vumr43tlu8wggsc42) based off of the [template](https://rutgers.box.com/s/ct4spvu2dbazc7tfzfwpxaeih5sui7ig) called <PCRID>.xlsx
-- Fill in subject ID on the MRI Subject Log
-- Have printed copies of [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s) to give to participant along with consent form
-- Have printed copies of consent form to give to participant
+- Have printed copies of [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s) & consent form if you want to give to participant along with consent form -- though Qualtrics automatically sends participants a copy of their consent in their email. 
 - On scanning computer
     - Open up [the fixation cross image](https://rutgers.box.com/s/bq3vkqlc7ff1iv3psm0eifldz8hcitet)
     - Make sure the computer settings is set to not sleep
+    - Open up Flanker task in PsychoPy
+    - Open up Language task in PsychoPy
 - On testing computer
     - Open up [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) on Qualtrics
     - Open MRI Session [Self-report battery survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) on Qualtrics
@@ -114,163 +107,89 @@ You are invited to participate in a research study on individual differences in 
 
 First, we're going to give you a collection of surveys, which will take about an hour, asking you about your mood, emotions, history, those types of things.
 
- Then we'll go over the MRI screening form again just to make sure nothing has changed. 
+*After that, I'll take you through some of the tasks that we're going to be doing just on my computer here, so that you know what to expect when we get into the MRI room.*
 
-After that, I'll take you through some of the tasks that we're going to be doing just on my computer here, so that you know what to expect when we get into the MRI room.
+*After that, we're going to walk down to the MRI room. I'm going to have you change into a scrub top, but you can keep your pants - anything from the waist down. You'll also take off your shoes before going into the scanner.* 
 
-After that, we're going to walk down to the MRI room. I'm going to have you change into a scrub top, but you can keep your pants - anything from the waist down. You'll also take off your shoes before going into the scanner. 
+*During today’s study, we’ll run a few different scans -- during these scans, we’ll ask you to lie as still as possible. You will also play do some simple tasks that we’ll go over in just a second. You'll also watch some short films, and a planet earth episode. 
+*
+*After the scan we're going to have a few more questionnaires which will take about 20 minutes.*
 
-The large, donut-shaped machine in the room down the hall is the MRI scanner, which uses a magnetic field (***not*** ionizing radiation) to take pictures of your brain. The MRI scanner is like a really old camera, so you have to stay really still because it takes pictures of your brain over time. And so if you move, then the pictures will be blurry.
+*We anticipate that today’s session will take no more than 4 hours. After you’re all done today, you’ll be compensated with $60.*
 
-During today’s study, we’ll run a few different scans -- during these scans, we’ll ask you to lie as still as possible. You will also play do some simple tasks that we’ll go over in just a second. You'll also watch some short films, and a planet earth episode. 
+*If you want to stop at any time, just let me know.*
 
-After the scan we're going to have a few more questionnaires which will take about 20 minutes.
+## Sign PCX Consent Form (2nd time, have already signed before interview session)
 
-We anticipate that today’s session will take no more than 4 hours. After you’re all done today, you’ll be compensated with $60.
 
-If you want to stop at any time, just let me know. 
+*Now we'll have you sign the same consent form again, as you signed before.* 
 
-### **Additional Sessions**
+*For these sessions, you'll be paid in e-gift cards, which you can use with venmo, as a debit card on your phone (by adding it to your wallet), or as a debit card for any online purchse. You cannot transfer directly to your bank.*
 
- There are a few more parts to the study where you can get additional compensation:
+*You'll be paid $60 for the 2.5 hours of MRI and surveys at the MRI session, and will receive a link to do an additional 1hr of surveys at home, for an additional $30*
 
-1. One of those is a supplemental questionnaire where we'll send you a link to do about one more hour of questionnaires at home whenever it is convenient for you within the next 48 hours. If you finish those, you'll be sent an additional $30.
-2. You can opt into a smartphone tracking research that we're doing. Basically it will be on your phone - it's an app. It won't take any of your cellular data but it will occasionally (every 3 minutes or so) check your GPS location and it will also check things like how fast you're moving using the accelerometer. It will also check how many times your phone turns on and off. 
-This will give us an idea of things like your activity during the day, how much you're sleeping, how much you're moving, how much exercise you're doing.
-The other part of the app is daily surveys where it will ask you about 10 questions every day. It'll pop up at 6pm but we can change that specific time. Then you'll answer questions about your mood and what you've been doing during the day.
-The reason that we are interested in this is because it can give us an insight into how people's behavior affects their mood and how different people with different brain profiles may have different activity patterns or mood relationships that we can investigate with this long-term data.
-For that portion of the study, you'll be paid based on how many survey days you complete. So if you complete 25 or more survey days, you'll be paid $35/month. If you complete 15 survey days, you'll be paid $20/month. The specifics are in the consent form. !! add!!
-This will run for a maximum of six months, but if you would like to leave the study at any time during that period, you can always uninstall the app and it will stop collecting data. 
+*There is also an optional smartphone tracking component, where you would be paid based on the number of DAILY surveys you complete:*
+        - $5 for 5-9 survey days completed 
+        - $10 for 10-14 survey days completed
+        - $15 for 15-19 survey days completed
+        - $30 for 20-24 survey days completed
+        - $35 for 25+ survey days completed
+*This would last for up to 6 months ($210 total for the smartphone component). However, you can uninstall the app at any time if you would like to leave the study.*
+
+
+**Signature Boxes:**
+*The first signature box is allowing us to use your de-identified data in the datasets we upload to data sharing sites, so that other researchers can use it. This is an optional component.*
+
+[Have them read the first page and sign]
+
+*The second signature box is for the smartphone app portion of the study, where you could earn additional money to answer daily questions on your smartphone for up to 6 months. This is an optional component.*
+
+*The tracking will be on your phone. It won't take any of your cellular data but it will occasionally (every 3 minutes or so) check your GPS location and it will also check things like how fast you're moving using the accelerometer. It will also check how many times your phone turns on and off.*
+
+*This will give us an idea of things like your activity during the day, how much you're sleeping, how much you're moving, how much exercise you're doing*.
+
+*The other part of the app is daily surveys where it will ask you about 10 questions every day. It'll pop up at 6pm but we can change that specific time. Then you'll answer questions about your mood and what you've been doing during the day.*
+
+*The reason that we are interested in this is because it can give us an insight into how people's behavior affects their mood and how different people with different brain profiles may have different activity patterns or mood relationships that we can investigate with this long-term data.*
+
+**[Have them read the second page and sign]**
+
+*Then the form discusses risks and benefits. Then the third signature is the main part of the study. It involves the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.*
+
+**[Have them read the third page and sign]**
+
 
 ### **Data Privacy**
 
-All of the data we collect in this study will be de-identified and stored securely in our lab, to protect your privacy. So instead of your name, all your data will be associated with a numerical ID, and the link to your name is stored on a protected, HIPAA-compliant document. So even when sharing with collaborators or other researchers, we'll never disclose your personal information.  The only people who could see things like your name, your birthday, your email, would be people who are directly staffed in this lab. 
+*All of the data we collect in this study will be de-identified and stored securely in our lab, to protect your privacy. So instead of your name, all your data will be associated with a numerical ID, and the link to your name is stored on a protected, HIPAA-compliant document. So even when sharing with collaborators or other researchers, we'll never disclose your personal information.  The only people who could see things like your name, your birthday, your email, would be people who are directly staffed in this lab.* 
 
-Your participation in this study is totally voluntary, so you’re free to stop participating at any point; just let us know.
-
-### **Signatures**
-
-The first signature is allowing us to share your private health information, including identifiable information such as your name, with only the following groups listed.
-
-- “medical history and medications”  which we collect only pertains to study data we collect - no additional medical records
-
-The second part is where there's a signature is for allowing the main part of the study which is the surveys today, the supplemental survey, and the fMRI scan. 
-
-The other boxes are for the two optional things:
-
-1. The smartphone tracking part of the study
-2.  Whether you are okay with your data being included in a mass de-identified upload to a data sharing site like the National Institute of Health, where there's a bunch of neuroscience studies where you can upload data and everyone can use it to further the field. This would be completely de-identified. They wouldn't be able to have any indicators of your face from the MRI scan. They wouldn't have your name. They wouldn't have your birthday. They wouldn't have the day that you go in for the study. They would only have the numerical code that isn't associated with any of your personal information. 
-
-[*Participant must check off either Yes or No, then initial*]
-
-Do you have any questions for me? [*Participant must print, sign, and date*] This signed copy is for us to keep, and on your way out we’ll give you a blank copy to keep for your records
 
 ---
 
-## **SECTION 2: CAHBIR MRI screen, Surveys part 1**
+## **SECTION 2: Self-Report Surveys
 
-Because the MRI scanner is essentially a giant magnet, I’m just going to verbally scan you again, need to make sure that you don’t have any metal inside you, or on your face or skin. Pant buttons are fine. So you don’t have any implants? pacemakers, or anything like that?
-
-any injectables or patches on your skin like a glucose monitor?
-
-Now we're going to go to the first selection of surveys, which will take about an hour. I'm going to set you up on this computer here, and then I'll leave the room. You can fill out the surveys, and I'll be right next door, so let me know if you have any questions or if you want any clarification on any of the questions. 
+*Now we're going to go to the first selection of surveys, which will take about 30 minutes. I'm going to set you up on this computer here, and then I'll leave the room. You can fill out the surveys, and I'll be right next door, so let me know if you have any questions or if you want any clarification on any of the questions.* 
 
 [Open [Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) (Qualtrics)]
 
-First, I'll help with this first page. I'm going to tell you your de-identified study code that you'll enter in right here so that the survey isn't associated with your name. It's [PCRXXX]. 
+First, I'll help with this first page. I'm going to tell you your de-identified study code that you'll enter in right here so that the survey isn't associated with your name. It's [qual_XXX]. 
 
-All right, you click right here to begin the survey. I'm going to be right outside, so feel free to come outside if you have any questions. Other than that, just come and knock on the door when you’re finished!
-
-[Leave room and go into room next door while they complete the survey]
+**[Leave room and go into room next door while they complete the survey]**
 
 ## **SECTION 3: Tasks Instructions, MRI overview**
 
-Great! Thank you for answering those surveys.
-
-Now, I'm going to go over with you the tasks that we're going to do in the fMRI scanner so that you're familiar with them before we actually get into the scanner. Then, I'm also going to go over what exactly the MRI process will look like.
+*Now, I'm going to go over with you the tasks that we're going to do in the fMRI scanner so that you're familiar with them before we actually get into the scanner. Then, I'm also going to go over what exactly the MRI process will look like.*
 
 ### **Flanker Task**
 
-Open up the flanker task in psychopy and have them try out doing the 
-
-[Slide 1] The first task is called the Flanker task. 
-
-[Slide 2] In this task, there's going to be a cross that appears where you're just going to keep your eyes on it, and then arrows will appear. 
-
-[Slide 3] The arrows will be pointing a certain direction (they'll be in the middle of the screen), and there will be one arrow missing in the very center of the four arrows. 
-
-[Slide 4] Once that arrow comes on, that's the arrow you want to focus on. 
-
-[Slide 5] What we're going to have you do is respond with the button box based on which direction the arrow is pointing. [Read slide]
-
-[Slide 6] Now, it's a little confusing because you're going to have to use your pointer finger and your middle finger as your left and your right. Your pointer finger is going to be the left, so if the arrow is pointing left, you'll press that finger, and if the arrow is pointing right, you'll press the middle finger.
-
-[Slide 7] so for example, if you see the first screen with arrows like this:
-
-[Slide 8]  When the  middle arrow comes on - you're gonna press your index finger because it's going to the left. 
-
-[Slide 9] Now you're seeing a first screen with arrows going to the right 
-
-[Slide 10] And now the middle arrow is on, it’s also pointing to the right, and you're gonna press your middle finger because the middle arrow that comes on is pointing to the right as well.
-[Slide 11] The task can get tricky when the arrows that are originally (you see) are not pointing the same way as the arrow in the middle is going to point. Here the arrows are all pointing to the right,
-
-[Slide 12] but the middle arrow comes on, and it points to the left. So you're going to respond and press your index finger (on the top) for the left, not your middle finger for the right because the arrow in the middle is the one that you want to respond to. Does that make sense?
-
-[Slide 13] now we're going to have you practice. So put your hand like you're holding a button box. I'm going to flip through the slides, and then you press with your finger as if you're holding a button box (which finger is the correct way), and I'll also show the correct answer so you can see if you got them right.
-
-[*Click through slide 14-16]* Did you get it right?
-
-[*Click through slide 17-19*] Did you get it right?
-
-[*Click through slide 20-22*] Did you get it right?
-
-[Slide 23] The aim is to respond both accurately and quickly. So you're only going to have a few seconds to respond. So you want to do it accurately and as quickly as possible.
+Open up the flanker task in psychopy and have them try out doing the task.
 
 ### **Language Task**
 
-[Open the training powerpoint in powerpoint, and play in presenter view: [Language Task Training Powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)]
+Open up the language task in psychopy and have them try out doing the task.
 
-[Slide 1]: This is the other task, and the goal of this task is to map the regions of your brain that are active when you listen to and understand sentences as opposed to just hearing scrambled words.
+Training powerpoint if needed: [Language Task Training Powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)
 
-[Slide 2]: This is the button box. You're only going to be responding with your index finger this time, so not to just the one finger for both button presses.
-
-[Slide 3]: This is an example of an image. For every image, you're going to have two button presses. The image will only be on for one second, and then it'll go away. 
-
-[Slide four] Then you'll see the fixation cross, and the audio will play. 
-
-[Wait for audio to finish]
-
-[Slide 5] Once the audio finishes, you’ll press on the button box 
-
-[Slide 6] When you press on the button box, you'll see the fixation cross turn into a star like this
-
-[Slide 7] Then
-
-[Slide 8] the star will turn into a square. When you see that happen, press the button box again.
-
-[Slide 9] After a bit, you’ll see another image
-
-[Slide 10] The cross will appear and the audio will play
-
-[Slide 11] When the audio ends, press on the button box 
-
-[Slide 12] The cross will into a star 
-
-[Slide 13] Then when you see it turn into a square
-
-[Slide 8] Press the button box again.
-
-Would you like to practice?
-
-add more practice
-
-say that there’s a fixation cross at the beginning
-
-Okay, just pretend you’re holding the button box again. 
-
-[Click through slides 16-19, and watch to make sure they’ve done it right.]
-
-Great job!
 
 ## **SECTION 4: MRI Prep and Explanation**
 
@@ -279,56 +198,53 @@ Great job!
 Changing room
 
 - You will be asked to change into a scrub top, and to take off your shoes, but you can keep your clothes on from the waist down (pants etc).
-- You will be asked to remove jewelry, eyeglasses, hearing aids, hairpins, removable dental work or other objects that may interfere with the procedure.
+- You will be asked to remove jewelry, eyeglasses, hearing aids, wigs, hairpins, removable dental work or other objects that may interfere with the procedure.
 - You will put all your items into a locked locker during the MRI
 - You will be given MRI-safe prescription eyeglasses if you wear them
 
 Have you ever had an MRI before? 
 
-If YES, don’t go through this.
+If YES, take them to the scanning room.
 
 If NO:
 
-- You will lie on a scan table that slides into a circular opening of the scanning machine. Pillows and a headrest will be used to prevent movement during the procedure. There will be a strucuture over your head a few inches from your face which will hold the mirror so you can see the screen.
-- we will then insert some MRI-safe earbuds into your ears and put some inflatable padding by your head so that both your earbuds stay in place, your head stays in place, and so that the sound from the scanner is muffled
-- The technologist will be in another room where the scanner controls are located. However, you will be in constant sight of the technologist through a window. Speakers inside the scanner will enable the technologist to communicate with and hear you. You will have a communication ball so that you can let the technologist know if you have any problems during the procedure. The technologist will be watching you at all times and will be in constant communication.
-- During the scanning process, a clicking noise and other sounds will sound. The scanner will also lightly vibrate at some points. The scanner is quite loud and we do everything we can to muffle sounds.
+*I'll briefly explain the procedure:.*
+*- The MRI is like an old camera. It takes pictures of your brain very slowly. So if you move even a bit, the pictures will be blurry. So we'll ask you to stay very still during the scans. You'll have breaks every 7 minutes or so where we'll check in with you, and you'll be able to do thigs like adjust your mouth or be a little less still*   
+*- You will lie on a scan table that slides into a circular opening of the scanning machine. Pillows and a headrest will be used to prevent movement during the procedure. There will be a strucuture over your head a few inches from your face which will hold the mirror so you can see the screen.*
+*- We will then insert some MRI-safe earbuds into your ears and put some inflatable padding by your head so that both your earbuds stay in place, your head stays in place, and so that the sound from the scanner is muffled*
+*- The technologist will be in another room where the scanner controls are located. However, you will be in constant sight of the technologist through a window. Speakers inside the scanner will enable the technologist to communicate with and hear you. You will have a communication ball so that you can let the technologist know if you have any problems during the procedure. The technologist will be watching you at all times and will be in constant communication.*
+*- During the scanning process, a clicking noise and other sounds will sound. The scanner will also lightly vibrate at some points. The scanner is quite loud and we do everything we can to muffle sounds.*
     - Here’s an example of the sounds you’ll hear: [MRI Audio Sounds](https://rutgers.box.com/s/hm6yyhqclbyngto8zhvno5hk9ibmusgo)
-- It will be important for you to remain very still during the examination, as any movement could cause distortion and affect the quality of the scan.
-- Once the scan is complete, the table will slide out of the scanner and you will be helped off the table.
+*- It will be important for you to remain very still during the examination, as any movement could cause distortion and affect the quality of the scan.*
 
-Any questions?
 
-Ok, great. Let’s head to the scanning center!
+*Any questions?*
+
 
 ## **SECTION 5: Going into the Zone 2 of the MRI center**
+*First, I'm going to have you go into this room here, and there are scrub tops where you can change into them. Please take off all clothes on the top half of your body (including bra), but you can leave your pants, shoes and socks on. Please take off all glasses, hats, jewelry, hair extensions, wigs, and removable devices. You'll leave your shoes on, and take them off in the scanning room.*
 
-First, just to make sure-- you have no implants, other than [list any approved ones from the screener sheet]? No medical patches? No insulin patches or medicine pumps? No chance of pregnancy? No hearing aids? No dentures? Hair extensions / accessories?
+*There are  lockers in here for your clothes and things.*
 
-[If hearing aids, dentures, or stapled/metal hair extensions, ask them to remove]
+*You can lock it with the key, and then there are transparent cubbies in the scanner room where you'll put the key.*
 
-First, I'm going to have you go into this room here, and there are scrub tops where you can change into them. Please take off all clothes on the top half of your body (including bra), but you can leave your pants, shoes and socks on. You'll leave your shoes in the scanning room when we go in there.
+*There's also a restroom right here.*
 
-There are  lockers in here, and that's where you can put all your clothes, your phone, your keys (anything in your pockets). You can keep your pants, socks, and shoes on for now. But we want everything out of your pockets and we want glasses off, jewelry off. Put everything in the locker.
-
-You can lock it with the key, and then there are transparent cubbies in the scanner room where you'll put the key. You can also leave your phone in there if you'd rather, or you can lock it in the locker. 
-
-There's also a restroom right here if you'd like to use the restroom. The scan is an hour and a half, so please use the restroom before.
-
-Once you're ready, I'll be in this room right here! 
-
-### **Researcher setting up Control Room**
+## **Researcher setting up Control Room**
 
 [While participant changes, go into scanner control room and set everything up]
 
-Glasses:
+### In Scan Room:
+- Attach correct button box 
+- Make sure correct head coil is out
+- Put bed into "Home" position
+- Turn on MONITOR/computer in back of the room, make sure it's in line with scanner
+- Dim the lights, potentially (limit glare)
 
-- if the participant needs glasses, ask Bernadette to grab the right prescription for them
+### Glasses:
+- if the participant needs glasses, take the glasses box out of the cabinet and take out the eye test sheet.
 
-add glasses procedure notes
-
-Button box:
-
+### Button box - control room:
 ![Screenshot 2025-02-27 at 11.03.17 AM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_11.03.17_AM.png)
 
 - On silver control box mounted in the computer rack, press button and go through mode options to set the configuration:
@@ -341,7 +257,6 @@ Button box:
 - ‘USB’ will be flashing on the screen if it’s not registering (will flash if computer is turned off or goes to sleep)
 
 Test button box:
-
 - Ensure button box/keyboard 1 is paired with computer on AV system
 - Open Notepad on computer
 - Pair computer with monitor inside scan room (so that you can see the computer screen inside the scan room)
@@ -349,31 +264,22 @@ Test button box:
 - In Notepad, you should see 121212
 - Once this is tested and working, close Notepad
 
-Setup Computer system:
-
+### Setup Computer system:
 - Plug in scan laptop to the MRI-room computer cables
-
-[Insert picture]
-
+    - **BOTH USB-C AND AUDIO JACK**
 - Click “LAP”
-
 ![Screenshot 2025-02-27 at 2.55.54 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.54_PM.png)
 
-- Set up volume levels[insert picture]
-    
+- Set up volume levels
     ![Screenshot 2025-02-27 at 2.55.44 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.44_PM.png)
     
-
 - Check box for having discarded acquisitions for each task
 
-On Scanning Computer
-
+### On Scanning Computer
 **For details on the explanation, overview and setup of tasks, and running fMRI tasks for the first time, see this tutorial: [SOP Running fMRI Tasks](https://rutgers.box.com/s/m8wlwxw0vnl45fs0o3k6jb3my5dc91my)**
 
-- Open ALL PsychoPy Scripts in Coder view
-    
+- OPEN ALL PsychoPy Scripts in Coder view
     Filepath: [Box-Box/Holmes_Lab_Wiki/PCX_Round2/MRI/In_scanner_tasks](https://rutgers.box.com/s/qkqr45kfk22q1a3s32qxj8r15022n7ig)/<task_name>
-    
     - [sound_check.py](https://rutgers.box.com/s/7vb8o2k0jbopamg3zukksjcxy1aiqktk)
     - [flanker_task_TCP_250407.py](https://rutgers.box.com/s/cpomqh7ehr7zcbdtiwutdqqgp2j6a56l)
     - [language.py](https://rutgers.box.com/s/947kr3dfstppfna4y0dlgcvir3yuxu25)
@@ -382,34 +288,39 @@ On Scanning Computer
     
 - Cancel any other processes or apps running on the scanning laptop
 - Make sure it’s set to no-sleep
+- Have it on charger
+
+- OPEN [fixation cross image](https://rutgers.box.com/s/jbkipzmw6pusy9b8421t77s30pgb9l3h) in full screen on the monitor
+
+
+
 
 ### **Once the participant arrives to control room:**
 
-Hi! Okay, great, you have your key, we're going to put it in this small transparent box right here next to the door.
+Verbally scan participant:
+- You have no implants, other than [list any approved ones from the screener sheet]? 
+- No medical patches? 
+- No insulin patches or medicine pumps? 
+- No chance of pregnancy? 
+- You've taken out any hearing aids, removable dental things, dentures, hair extensions? 
+- You don't have anything in your pockets?
 
-[If they need glasses, hand them to them.]
+If they need glasses: 
+- Have them try differetn prescriptions from the glasses box
+- Test them on the eye test sheet. 
 
-Now, a final check, you have nothing in your pockets, right? [Watch them pat down their pockets.]
-
-Ok! We can head into the scan room.
 
 ## **SECTION 6: Situating the participant in the scanner**
 
-First we’ll have you leave your shoes here right next to the door. 
+- Have them leave their shoes by the door
 
-We’re also going to dim the lights so there are no reflections on the screen. [Dim lights]
+*As a reminder, we’re using the scanner to take pictures of your brain, it is super important that you remain as still as possible while the scans are in progress; if you move too much, the images will be blurry and unusable. And of course, regular breathing and swallowing is totally fine.*
 
-Is this light level OK for you? 
+*For further hearing protection, and so we can communicate with you in between scans, we have this set of headphones for you to wear. You’ll be able to hear us and any audio related to the experiment through these headphones, and there’s also a microphone that you can use to talk to us in between scans. However, because the scanner is very loud while it’s running, we won’t be able to hear you during a scan.*
 
-[Have them sit on the scanning table]
+*If you’re in the middle of scan and need to communicate with us urgently (for example, if you begin to feel sick), you can squeeze this bulb to stop the scan and trigger an alert so we can talk to you. We just ask that you only hit that button in case of an emergency- if you need to go to the bathroom or would like us to reposition your headphones, you can always ask us once the current scan has finished. Remember, each scan is only 1-8 minutes. Here’s the button box that you’ll be using to respond to the experiment.*
 
-As a reminder, we’re using the scanner to take pictures of your brain, it is super important that you remain as still as possible while the scans are in progress; if you move too much, the images will be blurry and unusable. And of course, regular breathing and swallowing is totally fine.
-
-For further hearing protection, and so we can communicate with you in between scans, we have this set of headphones for you to wear. You’ll be able to hear us and any audio related to the experiment through these headphones, and there’s also a microphone that you can use to talk to us in between scans. However, because the scanner is very loud while it’s running, we won’t be able to hear you during a scan.
-
-**If PNS:** Just wanted to let you know that you may feel some tingling or twitching during the scan- this is totally normal and not harmful, but if you start to experience any discomfort, you can press this button to stop the scan and trigger an alert so we can talk to you.
-
-If you’re in the middle of scan and need to communicate with us urgently (for example, if you begin to feel sick), you can squeeze this bulb to stop the scan and trigger an alert so we can talk to you. We just ask that you only hit that button in case of an emergency- if you need to go to the bathroom or would like us to reposition your headphones, you can always ask us once the current scan has finished. Remember, each scan is only 1-8 minutes. Here’s the button box that you’ll be using to respond to the experiment.
+- Have them try the squeeze ball so they know it works
 
 If you don’t mind, I’m going to place my hand behind your head and guide you down so that you’re perfectly centered in this headrest. Hold your headphones against your ears like this (mime motion), and here we go (guide head down). Great! How does that feel? If it’s at all uncomfortable, definitely let me know- you’re going to be in here for around an hour and we want you to be as comfortable as possible.
 
@@ -425,7 +336,7 @@ How are you feeling? I can also grab you some padding for your arms and legs if 
 
 ## **SECTION 7: Sound Check**
 
-[Run: sound_check.py]
+[Run: momentous.py]
 
 Hi ________, can you hear me alright? If you’d like me to raise or lower the volume on your headphones, just let me know.
 
@@ -447,25 +358,19 @@ Would you prefer it louder/quieter?
 ⚠️ NOTE: When talking through the intercom - its a PA system outside of the scanner, not through the earbuds. So make sure you face the speaker when you talk, talk slowly and clearly, and ask the participant if they heard you correctly    
     
 
-Ok, if you’re feeling comfortable, then we’ll get started with the first scan, which should only take about 15 seconds (AAHead_Scout). Remember, when the scanner is running, I won’t be able to hear you, so in the case of an emergency, you’ll have to push the button on your headphones to communicate with me. And one last reminder to stay as still as possible while the scan is in progress. Here we go!
+*Ok, if you’re feeling comfortable, then we’ll get started with the first scan, which should only take about 15 seconds (AAHead_Scout). Remember, when the scanner is running, I won’t be able to hear you, so in the case of an emergency, you’ll have to push the button on your headphones to communicate with me. And one last reminder to stay as still as possible while the scan is in progress. Here we go!*
 
-Hi _____ are you still ok? The next scan will be around 5 minutes. Is that ok? Here we go! (anat-T1w_acq-MPRAGE)
+*Hi _____ are you still ok? The next scan will be around 5 minutes. Feel free to have your eyes open or closed. *  (anat-T1w_acq-MPRAGE)
 
-Hi _____, how was that? The next scan will be around 3 minutes. Is that ok? Here we go! (anat-mpm_acq-setter, anat-T2w_acq-mgh-navSPACE)
+*Hi _____, how was that? The next scan will be around 3 minutes. Feel free to have your eyes open or closed.* (anat-mpm_acq-setter, anat-T2w_acq-mgh-navSPACE)
 
-This next run is about 7 minutes long. Just remain still and relaxed please. (
+*This next run is about 7 minutes long. Please keep your eyes open and look at the cross.* 
+**Bold run 1: func-epi_task-rest_BOLD_NORDIC_run-01**
 
-Bold run 1: func-epi_task-rest_BOLD_NORDIC_run-01)
+*This next run is also about 10 minutes. Please keep your eyes open and look at the cross.* 
 
-This next run is also about 8 minutes. Please stay still you are doing great. (
-
-FMAPS: fmap-epi_dir-AP_BOLD_NORDIC_run-01, fmap-epi_dir-PA_BOLD_NORDIC_run-01
-
-Bold run 2: func-epi_task-rest_BOLD_NORDIC_run-02,
-
-How are you doing? Were you able to stay awake?
-
-The next bit is a final 2 minutes. Is that ok? (Fieldmap: fmap-fieldmap_acq-B0)
+**FMAPS: fmap-epi_dir-AP_BOLD_NORDIC_run-01, fmap-epi_dir-PA_BOLD_NORDIC_run-01** 
+**Bold run 2: func-epi_task-rest_BOLD_NORDIC_run-02**
 
 **SECTION 8: Running the Flanker Task**
 
@@ -477,103 +382,74 @@ The next bit is a final 2 minutes. Is that ok? (Fieldmap: fmap-fieldmap_acq-B0)
 
 Hi _______, how are you doing?
 
-Great, we have the first structural/task/rest scan coming up for you. It should take about 7 minutes (func-epi_task-flanker_BOLD_NORDIC_run-0). To remind you of the instructions, you will first see a blank screen for several seconds. Please do your absolute best to keep as still as possible at the beginning of the run. Then, you will see a white cross appear by itself in the middle of the screen. Please keep your eyes on the cross throughout the entire task.
+*Great, we have the first structural/task/rest scan coming up for you. It should take about 7 minutes* (func-epi_task-flanker_BOLD_NORDIC_run-0).
 
-Before you get started, let’s practice pressing the buttons and doing the task with a few arrows. To practice pressing the buttons, I am going to instruct you to press a key and you will go ahead and press that key. We will do this a few times. Are you ready to start?
+*Before you get started, let’s practice pressing the buttons and doing the task for the direction of each arrow. Remember, you'll press based on the direction of the arrow which appears in the center. *  
+*Press your pointer finger for left.*  
+*Press your middle finger for right.*  
+*Pointer finger for left.*  
+*Middle finger for right.*  
+*Now press the key for left.*  
+*Press the key for right.*   
+*Left.*  
+*Right.*  
+*Left.*  
+*Right.*  
 
-Press your pointer finger for left.
 
-Press your middle finger for right.
+*Great job! We are now ready to start the task. It will be just like the practice, but longer at about 7 minutes. I want to remind you that it is imperative to keep your head and body completely still throughout the entire task, from the very first image to the very last image. Do you understand?*
 
-Pointer finger for left.
+Run: func-epi_task-flanker_BOLD_NORDIC_run-0
 
-Middle finger for right.
-
-Middle finger for right.
-
-Now press the key for left.
-
-Press the key for right.
-
-Left.
-
-Right.
-
-Left.
-
-Right.
-
-Left.
-
-*[If the subject makes many errors, check finger positioning and repeat the practice as needed.]*
-
-Great job! We are now ready to start the task. It will be just like the practice, but longer at about 7 minutes. I want to remind you that it is imperative to keep your head and body completely still throughout the entire task, from the very first image to the very last image. Do you understand?
-
-Great. Are you ready to start?
-
-Great. Remember to keep as still as possible from head to toe for the next five minutes. Here comes the task.
-
-We are now ready to start the task. It will be just like the practice, but longer at about 6 minutes. Are you ready to start?
-
-Great. Remember to keep as still as possible from head to toe for the next seven minutes, and to respond as quickly and accurately as you can. Here comes the task.
-
-[Run the Flanker task, block 1.]
-
-How are you doing in there?
-
-Great. Please give us a moment to set up for the next run. [Check for movement and give feedback if necessary.]
 
 ## **SECTION 9: Running the Language Task**
 
-[Open psychopy builder, open listening_language_task_250214.psyexp]
+[Open psychopy builder, open language.py]
 
-Hi _______, how are you doing?
+*Hi _______, how are you doing?*
 
-We’re now going to have another task. This is the task where you listen to audio and press the button when it’s over, do you remember?
+*We’re now going to have another task. This is the task where you listen to audio and press the button when it’s over. Can you repeat to me at what points you press the button to respond?*
 
-Ok, great. So first it will start with a fixation cross. then the image will come on briefly, like this
+(Correct answer: after the audio finishes, after the square appears.)
 
-Then the audio will play, around 4 seconds.
-
-As soon as the audio is done, press your pointer finger. That will make the cross turn into a star.
-
-Then, the star will turn into a square on it’s own. As soon as you see that, press your pointer finger again.
-
-It will be about 7 minutes (func-epi_task-language_BOLD_NORDIC_run-01).
+*It will be about 7 minutes.*
+    
+Run: func-epi_task-language_BOLD_NORDIC_run-01
 
 ## **SECTION 10: Running the movie task: The Elevator**
 
-Alright, that’s finished. How do you feel? Next we’ve got a short film. There are no button presses here, just watch the movie. It’s about 3 minutes long. Please do your absolute best to keep as still as possible during the movie. at the beginning of the run.
+*Alright, that’s finished. How do you feel? Next we’ve got a short film. There are no button presses here, just watch the movie. It’s about 3 minutes long. Please do your absolute best to keep as still as possible during the movie.*
 
-Sound good? (func-epi_task-theElevator_BOLD_NORDIC_run-01)
+Run: func-epi_task-theElevator_BOLD_NORDIC_run-01
 
 ## **SECTION 11: Running Diffusion**
 
-Great, we have another scan coming up for you. This one is a bit different as the scanner will vibrate a bit. This will not affect the image, but still try to stay as still as possible. about 8 minutes. To remind you of the instructions, you will first see a blank screen for several seconds. Please do your absolute best to keep as still as possible at the beginning of the run. Then, you will see a plus sign appear by itself in the middle of the screen. Please keep your eyes on the plus sign throughout the entire task
+*Great, we have another scan coming up for you. On this one you may feel slight vibrations of the scanner. This is because it's a different type of scan. Please try to stay as still as possible. It's about 8 minutes.*
 
-Ok? (dwi-dwi_acq-CMRR-118-dir)
-
-How was that? Now we have a few short scans which won’t vibrate, for about 1 minute. 
-
-(fmap-phasediff_acq-dir-AP, fmap-phasediff_acq-dir-PA)
+Run: dwi-dwi_acq-CMRR-118-dir
 
 ## **SECTION 12: Movie task: Momentous**
 
-Now we have another short film, this one is around 7 minutes long. Again, we’ll be taking images of your brain so remember not to move. Sound good?
+*How was that? Now we have a few short scans which won’t vibrate, for about 1 minute.* 
 
-(func-epi_task-momentous_BOLD_NORDIC_run-01)
+Run: fmap-phasediff_acq-dir-AP, fmap-phasediff_acq-dir-PA
+
+*Now we have another short film, this one is around 7 minutes long.*
+
+Run: func-epi_task-momentous_BOLD_NORDIC_run-01
 
 ## **SECTION 13: Final rest runs**
 
-Now we have the final 2 runs of the session, around 14 more minutes. Both are rest runs. How are you feeling?
+*Now we have the final 2 runs of the session, around 14 more minutes. Please keep your eyes open and look at the cross*
 
-Ok, starting the  run, 7 minutes: (func-epi_task-rest_BOLD_NORDIC_run-03)
+*Ok, starting the  run, 7 minutes*
+Run: func-epi_task-rest_BOLD_NORDIC_run-03
 
-Ok, here is the final 7 minutes. Sound good?  (func-epi_task-rest_BOLD_NORDIC_run-04,
+*Ok, here is the final 7 minutes. Sound good?*  
+Run: func-epi_task-rest_BOLD_NORDIC_run-04,
+Run: fmap-epi_dir-AP_BOLD_NORDIC_run-02
 
-fmap-epi_dir-AP_BOLD_NORDIC_run-02)
-
-Alright, you’re finished! Feel free to move now. I’m coming into the room now to help you out.
+*Alright, you’re finished! Feel free to move now. I’m coming into the room now to help you out*.
 
 ## **SECTION 14: In control room after the scan session**
 
@@ -587,8 +463,13 @@ Take out participant
 - Ask participant to sit up slowly and take a second before getting up. It’s normal to be dizzy.
 - Tell them they can grab their shoes and walk back to the console room
 
-Clean up magnet room
 
+## **SECTION 15: Post-scan Movie-rater task in testing room
+
+
+### While they do the task, clean up scan room.
+
+Clean up magnet room
 - Clean headphone covers, head coil/cage, and mic filter using sanitary wipes in top black cabinet
 - Return headphones and mic to their drawers (follow wires, be sure not to wind fiber optic cables too tightly)
 - Return mirror to the counter
@@ -605,21 +486,11 @@ Clean up magnet room
 - Turn off the lights in the magnet room
 
 Transfer data
-
 - MRI Tech (bernadette) transfers the MRI data
 
 Before leaving
-
 - Double-check that you have all of your belongings, room looks clean
 - If applicable: Turn off lights in console room and close the door on your way out
-
-## **SECTION 15: Post-scan battery i**n testing room
-
-This is a self-report survey, similar to the one you did after the clinical interview in the first session. It will take about 1 hour. I’ll be outside the testing room here while you do it, let em know if you hav any questions. I’ll enter the first page for you of your subject ID, and then I’ll leave you to finish the survey
-
-[Open MRI Session [Self-report battery survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) on Qualtrics, fill in participant ID]
-
-[Once they’re finished] Great! Did you submit/can I see the last page to see that you submitted it? Thanks so much.
 
 ## **SECTION 16: Payment Setup**
 
@@ -636,36 +507,6 @@ Great! And is this the best email for you to receive these cards?
 ## **SECTION 17: MindLAMP Setup (if applicable)**
 
 Now we’re going to go over the MindLAMP setup. Would you like me to go over the protocol again or do you feel good about it from reading the consent form?
-
-**(Refresher on protocol if they need it, based on how much you already talked about it):**
-
-**Passive Data Collection**
-
-First, passive data is collected automatically in the background while you go about your day. This includes things like how much you move (using your phone’s motion sensors), general location data (GPS), and phone usage patterns like when your screen is on or off. It also includes anonymized information about nearby Wi-Fi and Bluetooth connections, as well as call and text activity logs, which only track things like number of texts sent and length of message, but we **never** record the content of your calls or messages, and we don’t track who you’re talking to. The purpose is just to get a general idea of your social activity levels, never the specifics.
-
-**Active Data Collection**
-
-Next, there’s active data collection. This is where you’ll get 1-2 short surveys per day sent to your phone. These will ask things like how you’re feeling, what you’ve been up to, or how you slept. They’re super quick—usually around two minutes, never more than five. 
-
-**What About Data & Privacy?**
-
-We take your privacy very seriously. Your data is encrypted, stored securely, and never linked to your name—only to a coded identifier. We also make sure all transfers are encrypted, and your information is only accessible to trained researchers. If you ever decide to stop participating, you can uninstall the app and let us know, and we’ll delete your data from our systems (though it may take a couple of months to fully remove all backups). Also, the app only uploads data when you’re connected to Wi-Fi, so it won’t use up your phone’s data plan."
-
-**Compensation**
-
-Here’s how you’ll be compensated for your time. Each month, you’ll be paid based on the number of surveys you complete:
-
-- Complete 5-9 survey days = You’ll earn $5.
-- Complete 10-14 =  $10.
-- Complete 15-19 = $15.
-- Complete 20-24 =  $30.
-- Complete 25 or more? = $35
-
-Payment schedule is the end of each month. So for example on the 30th of this month I'll see how many surveys you did this month (even if you in the middle of this month) and pay you based on that.
-
-You can participate for up to six months, starting after your scan. The more surveys you complete, the higher your compensation—it’s that simple! Note that surveys are daily—if you complete 20 surveys in 1 day trying to get $30, it won’t count. You must complete the surveys on separate days.
-
-That’s the gist of it. Do you have any questions?
 
 **MindLAMP notes:**
 
