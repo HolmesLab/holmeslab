@@ -78,6 +78,8 @@ Within scanning session script:
 
 ## Supplemental Survey
 
+[]
+
 [Supplemental Survey Reminder Email](https://rutgers.box.com/s/30wdozbmtsyfob49s57938ctq5etsf47)
 
 ## Data Maintenance

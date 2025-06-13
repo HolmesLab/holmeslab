@@ -13,10 +13,6 @@ Updated: April 28, 2025
 {:toc}
 ---
 
- 
-
----
-
 ## **MRI Full Session — Brief Overview**
 
 1. [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) on Qualtrics 
@@ -32,20 +28,20 @@ Updated: April 28, 2025
         | **Name** | **Scan name on protocol** | **Time** | **On screen for participant** |
         | --- | --- | --- | --- |
         | Head align | AAHead_Scout | 00:00:14 | Nothing |
-        | T1 | anat-T1w_acq-MPRAGE | 00:05:21 | First Planet earth |
-        | Setter | anat-mpm_acq-setter | 00:00:01 | First Planet earth |
-        | Localizer | anat-T2w_acq-mgh-navSPACE | 00:02:37 | First Planet earth |
+        | T1 | anat-T1w_acq-MPRAGE | 00:05:21 | Black fixation |
+        | Setter | anat-mpm_acq-setter | 00:00:01 | Black fixation |
+        | Localizer | anat-T2w_acq-mgh-navSPACE | 00:02:37 | Black fixation |
         | Resting state 1 | func-epi_BOLD_NORDIC_run-01 | 00:06:53 | Black fixation |
         | Fmap epi AP | fmap-epi_dir-AP_BOLD_NORDIC_run-01 | 00:00:25 | Black fixation |
         | Fmap epi PA | fmap-epi_dir-PA_BOLD_NORDIC_run-01 | 00:00:25 | black fixation |
-        | Resting state 2 | func-epi_BOLD_NORDIC_run-02 | 00:06:53 | black fixation |
-        | Fmap fieldmap  | fmap-fieldmap_acq-B0 | 00:02:21 | black fixation |
+        | Resting state 2 | func-epi_BOLD_NORDIC_run-02 | 00:06:53 | Black fixation |
+        | Fmap fieldmap  | fmap-fieldmap_acq-B0 | 00:02:21 | Black fixation |
         | Flanker task | func-epi_task-flanker_BOLD_NORDIC_run-01 | 00:06:41 | flanker task |
         | Language Task | func-epi_task-language_BOLD_NORDIC_run-01 | 00:06:51 | language task |
         | The Elevator (movie task) | func-epi_task-theElevator_BOLD_NORDIC_run-01 | 00:04:08 | the elevator |
         | Diffusion Weighted Imaging | dwi-dwi_acq-CMRR-118-dir | 00:07:12 | second planet earth |
-        | Fmap phasediff AP | fmap-phasediff_dir-AP | 00:00:55 | second planet earth |
-        | Fmap phasediff PA | fmap-phasediff_dir-PA | 00:00:55 | second planet earth |
+        | Fmap phasediff AP | fmap-phasediff_dir-AP | 00:00:55 | Black fixation |
+        | Fmap phasediff PA | fmap-phasediff_dir-PA | 00:00:55 | Black fixation |
         | Momentous (movie task) | func-epi_task-momentous_BOLD_NORDIC_run-1 | 00:06:49 | momentous |
         | Resting state 3 | func-epi_BOLD_NORDIC_run-03 | 00:06:53 | black fixation |
         | Resting state 4 | func-epi_BOLD_NORDIC_run-04 | 00:06:53 | black fixation |
@@ -195,7 +191,7 @@ Now, I'm going to go over with you the tasks that we're going to do in the fMRI 
 
 ### **Flanker Task**
 
-[[Flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x)]
+Open up the flanker task in psychopy and have them try out doing the 
 
 [Slide 1] The first task is called the Flanker task. 
 
@@ -448,16 +444,7 @@ Would you prefer it louder/quieter?
 [keep testing until you find a good level]
 
 ## **SECTION 8: The first scans**
-
-<aside>
-⚠️
-
-NOTE: When talking through the intercom - its a PA system outside of the scanner, not through the earbuds. So make sure you face the speaker when you talk, talk slowly and clearly, and ask the participant if they heard you correctly
-
-</aside>
-
-- Scan times
-    
+⚠️ NOTE: When talking through the intercom - its a PA system outside of the scanner, not through the earbuds. So make sure you face the speaker when you talk, talk slowly and clearly, and ask the participant if they heard you correctly    
     
 
 Ok, if you’re feeling comfortable, then we’ll get started with the first scan, which should only take about 15 seconds (AAHead_Scout). Remember, when the scanner is running, I won’t be able to hear you, so in the case of an emergency, you’ll have to push the button on your headphones to communicate with me. And one last reminder to stay as still as possible while the scan is in progress. Here we go!
@@ -717,9 +704,11 @@ Now we’ll set up MindLAMP— this powerpoint will also be emailed to you!
 
 The last thing is, we've got a final supplemental survey for you. We’ll email it to you, so you can fill it out at home, but you could also fill it out right now if you’d prefer. You’ll get $30 more for completing it! This is similar to what you filled out for an hour here on Qualtrics on the testing computer. It is an hour of self-report surveys and there's also some little cognitive tests that you'll be linked to that will involve things like choosing shapes or testing your reaction time. The link to the survey is in the email I sent, that also has the information for the gift card and all of your follow-up information. We’re aiming to have everyone fill it out within 48 hours. Does that feel possible for you? [If no, make notes in the sheet]
 
-Would you like to fill it out now, here, or do it at home? 
+Would you like to fill it out now, here, or do it at home?
 
-[If here, take them back to the testing room and set them up on the computer.
+SEND THEM THIS EMAIL: [PostMRI_Email](PCR_PostMRI_Email)
+
+(If here, take them back to the testing room and set them up on the computer.)
 
 ## **SECTION 18: Goodbye**
 

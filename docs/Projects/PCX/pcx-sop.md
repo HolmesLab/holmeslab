@@ -100,7 +100,6 @@ Here is a visual overview:
 ![Screenshot 2025-04-18 at 4.06.51 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.06.51_PM.png)
 
 **Session Day:**
-
 1. 📟 Open up subject log for that participant and log the fields during the study
 2. Follow the script for this session
 
@@ -108,18 +107,14 @@ Here is a visual overview:
 
 1. EMAIL the task files to yourself from the scanning computer
 2. Add up the additional payments for the subject, including gas costs, parking/tolls costs, uber/lyft costs and overtime costs, and do the calculations in the subject log sheet for how much the subject is owed. Then put in an order to PerfectGift for that amount, rounding to the nearest dollar. 
-    
     [Tutorial: Purchase gift cards from PerfectGift](https://www.notion.so/Tutorial-Buying-Gift-Cards-from-PerfectGift-1c2cf00eb93680c0b6d6fa7ed18985df?pvs=21)
-    
 
 **1 Day Post-Session:** 
-
 1. Check if yesterday’s subject has filled out the supplemental survey, if not, send them [Supplemental Survey Reminder Email](https://rutgers.box.com/s/30wdozbmtsyfob49s57938ctq5etsf47)
 2. Follow [Tutorial: MRI to BIDS in Flywheel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21) to convert the subject’s data to BIDS
 3. Follow [Tutorial: BIDS to fMRIPrep in Flywheel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21) to run the subject through fMRIPrep
 
 **2 Days Post-Session:**
-
 1. Once fMRIPrep has finished, follow this tutorial to move the data from Flywheel to Amarel 
     
     [Tutorial: fMRIPrep in Flywheel to Amarel](https://www.notion.so/Flywheel-Tutorial-MBME-Scans-134cf00eb936804ca6a0d364fcfd7266?pvs=21) 
