@@ -494,69 +494,63 @@ Before leaving
 
 ## **SECTION 16: Payment Setup**
 
-Ok, final questions! First, we have digital cards we can send to your email, which will come with a card number so you can use the card like any other card for online purchases. Is this OK?
+*Ok, final questions! First, we have digital cards we can send to your email, which will come with a card number so you can use the card like any other card for online purchases.*
 
-Great! And is this the best email for you to receive these cards? 
+*Did you have any transportation reimbursement to request?*
 
-[Check their email on the PCRID Identifiers Linking sheet, change if there’s a better one]
+- Check their email on the PCRID Identifiers Linking sheet, change if there’s a better one
+- Open **payment tracking sheet** with the gift card links
+- Copy the link + password to a $60 card, and put in the PCRID and current time in recipient fields
+- Add transportation reimbursement amount into 
 
-[Open this payment tracking sheet with the gift card links]
+Put info into THIS template: [Post-MRI Scan Email Template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh): 
+    - MindLAMP credentials (if applicable) from [Subject_tracking_PCR](https://rutgers.box.com/s/i5jaa225v6fz6czlj1bbakar79xtrvng)
+    - Payment links 
 
-[Copy the link + password to a $60 card, and put in the PCRID and current time in recipient fields]
+SEND EMAIL!
 
 ## **SECTION 17: MindLAMP Setup (if applicable)**
 
-Now we’re going to go over the MindLAMP setup. Would you like me to go over the protocol again or do you feel good about it from reading the consent form?
+### Add Participant to MindLAMP
+- Open up https://dashboard.lamp.digital/#/ 
+- Input admin credentials (follow [Researcher Instructions MindLAMP](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh))
 
-**MindLAMP notes:**
+- Add new user
+![add_user](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/add_user.png)
+- Rename them to their qual-id
+![name_user](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/name_user.png)
+- Press key icon
+![key_icon](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/key_icon.png)
+- Fill in "name" and "role" as qual-id, fill in email and password as assigned. 
+![credentials](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/credentials.png) 
 
-We currently have daily survey’s set up to alert you at 6pm for the survey. Does that work? We could have it ding you anytime between 5pm-10pm, is there a time that would be best? 
+### Configuration
+*We currently have daily survey’s set up to alert you at 6pm for the survey. Does that work? We could have it ding you anytime between 5pm-10pm, is there a time that would be best?*
+- If they note a time, put it in their participant file and change it on MindLAMP
 
-- [If they note a time, put it in their participant file and change it on MindLAMP]
-
-Ready to set up. First i’ll grab your password and ID, which I’ll put in an email to you:
-
-[Pull up Holmes [linking ID sheet](https://rutgers.box.com/s/17t1ffvb5lj80zmsozapvaiurq3qbtd1) to access their MindLamp ID and password]
-
-[Now SENDING this template: [Post-MRI Scan Email Template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh): 
-
-filling in these fields:
-
-- Their MindLAMP / qualtrics ID (qual_XXX)
-- Their MindLAMP password
-- The link to the $60 gift card
-- The password/activation to the $60 gift card]
-
-Ok, i’m sending you this email which contains the ID and password you’ll use to sign into the smartphone app, as well as your link for your $60 gift card. Any additional reimbursements from parking/travel or overtime payment will be sent in a follow up email in the next 2 weeks. 
-
-The email also contains:
-
+### I sent you an email, which contains:
 - The instructions I’m going to go over now, for the smartphone app, in case you forget
+- The username and password to the smartphone app
 - The link to a supplemental survey, which I’ll explain after this
+- The ID to input in the supplemental survey
 - Blank version of the consent form
 - Blank [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
 - [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s)
 
-Now we’ll set up MindLAMP— this powerpoint will also be emailed to you! 
+### Set up MindLAMP with participant
+- [Then go through this setup powerpoint to take the participant through download and setup: [MindLAMP Instructions for User](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)]
 
-[Then go through this setup powerpoint to take the participant through download and setup: [MindLAMP Instructions for User](https://rutgers.box.com/s/57h007shwx09wapkhvrg5dcdaumzeltq)]
+
 
 ## **SECTION 18: Supplemental survey**
 
-The last thing is, we've got a final supplemental survey for you. We’ll email it to you, so you can fill it out at home, but you could also fill it out right now if you’d prefer. You’ll get $30 more for completing it! This is similar to what you filled out for an hour here on Qualtrics on the testing computer. It is an hour of self-report surveys and there's also some little cognitive tests that you'll be linked to that will involve things like choosing shapes or testing your reaction time. The link to the survey is in the email I sent, that also has the information for the gift card and all of your follow-up information. We’re aiming to have everyone fill it out within 48 hours. Does that feel possible for you? [If no, make notes in the sheet]
+*In your email is the link to the supplemental survey. If you do it within 48hours, we'll send you an additional $30.*
 
-Would you like to fill it out now, here, or do it at home?
-
-SEND THEM THIS EMAIL: [PostMRI_Email](PCR_PostMRI_Email)
+*Would you like to fill it out now, here, or do it at home?*
 
 (If here, take them back to the testing room and set them up on the computer.)
 
 ## **SECTION 18: Goodbye**
-
-- Say, “I’ll be walking out with you to show you the way. Please make sure you have all your belongings”
-- GIVE a copy of (physical paper)
-    - Blank [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
-    - [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s)
 
 The debriefing should be short and say something like (Whether this is over email or verbally): “We are using neuroimaging methods to identify biological pathways and functional differences associated with psychiatric illnesses. We really appreciate you taking the time to participate in our study, and we hope to see you again soon!”
 
