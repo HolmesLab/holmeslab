@@ -78,7 +78,7 @@ Within scanning session script:
 
 ## Supplemental Survey
 
-[]
+[Supplemental Survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_08nF8tsZ4NU0rWe)
 
 [Supplemental Survey Reminder Email](https://rutgers.box.com/s/30wdozbmtsyfob49s57938ctq5etsf47)
 

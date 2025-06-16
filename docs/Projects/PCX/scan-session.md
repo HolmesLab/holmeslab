@@ -531,7 +531,8 @@ SEND EMAIL!
 ### I sent you an email, which contains:
 - The instructions I’m going to go over now, for the smartphone app, in case you forget
 - The username and password to the smartphone app
-- The link to a supplemental survey, which I’ll explain after this
+- The link to a [Supplemental Survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_08nF8tsZ4NU0rWe)
+, which I’ll explain after this
 - The ID to input in the supplemental survey
 - Blank version of the consent form
 - Blank [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
