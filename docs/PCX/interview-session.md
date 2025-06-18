@@ -1,5 +1,5 @@
 ---
-title: Script: Clinical Interview Session
+title: Script - Clinical Interview Session
 parent: Psychiatric Connectomics
 has_toc: true
 nav_order: 5
