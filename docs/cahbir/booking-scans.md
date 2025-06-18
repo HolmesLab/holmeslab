@@ -1,7 +1,8 @@
 ---
-title: Scheduling MRI Scans at CAHBIR
+title: Booking MRI Scans at CAHBIR
 parent: Lab Space at CAHBIR
 nav_enabled: true 
+nav_order: 1
 ---
 
 - Get [iLab](https://rutgers.ilab.agilent.com/) access: this is where you schedule:

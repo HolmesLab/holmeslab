@@ -2,6 +2,7 @@
 title: Booking Rooms in CAHBIR
 parent: Lab Space at CAHBIR
 nav_enabled: true 
+nav_order: 2
 ---
 
 # Booking Rooms in CAHBIR
