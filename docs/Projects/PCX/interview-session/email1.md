@@ -1,5 +1,5 @@
 ---
-title: Email template
+title: Email - Clinical Self-Report Surveys Link
 parent: Clinical Interview Session
 nav_enabled: true 
 ---
