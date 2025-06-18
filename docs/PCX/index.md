@@ -5,23 +5,21 @@ layout: minimal
 has_toc: true
 nav_order: 2
 ---
-
 # Psychiatric Connectomics
 👤 Avram Holmes, PhD — PI, Rutgers University, RWJ Medical School Department of Psychiatry  
 Thomas Yeo, PhD — PI, National University of Singapore  
 Justin Baker, PhD — Co-PI, Harvard Medical School, McLean Hospital  
 
-### Aims
-Objective:  **Establish connectome signatures, or “fingerprints”, that co-vary with cognition, negative valence systems, and social functions in healthy and clinical samples, dissecting their associated genetic and cellular bases.**
+### Objective:  
+Establish connectome signatures, or “fingerprints”, that co-vary with cognition, negative valence systems, and social functions in healthy and clinical samples, dissecting their associated genetic and cellular bases.
 
-**Questions to address:**
+### Questions to address:
 1) To what extent can brain function predict symptom profiles (cognition, negative valence, and social functions) across transdiagnostic cohorts, revealing the presence of clinical subgroups?  
 2) Can a predictive modeling approach establish network profiles that precede longitudinal change?  
 3) Do cell type profiles recapitulate functional network organization in the general population?  
 4) Do these cellular associates of network function reveal genomic signatures that are co-heritable with psychiatric illness risk?  
 
 # PCX Links
-
 ## Recruitment
 - [Recruitment Flyers](https://rutgers.box.com/s/c6v6x63oa6az0bcjvkau879zql6klwtf)
 - [Phone Script for Recruitment / Clinical Session](https://rutgers.box.com/s/2iw6nibdjy8ex6zns8ne063nwd3hub9k)
