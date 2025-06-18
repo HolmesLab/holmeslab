@@ -16,59 +16,25 @@ Updated: April 28, 2025
 ## **MRI Full Session — Brief Overview**
 
 1. [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) on Qualtrics 
+2. [MRI Session Self-Report Battery](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) on Qualtrics
 2. Train on MRI Tasks
-    1. [flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x) 
-    2. [language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)  
 3. Prep for MRI 
     1. Change, verbal metal scan, get into scanner
 4. [MRI Protocol](https://rutgers.box.com/s/9cgfscxixyd7ja5gah5t9tmdu8ib8gzt)
-    - **MRI Protocol outline**
-        
-        
-        | **Name** | **Scan name on protocol** | **Time** | **On screen for participant** |
-        | --- | --- | --- | --- |
-        | Head align | AAHead_Scout | 00:00:14 | Nothing |
-        | T1 | anat-T1w_acq-MPRAGE | 00:05:21 | Black fixation |
-        | Setter | anat-mpm_acq-setter | 00:00:01 | Black fixation |
-        | Localizer | anat-T2w_acq-mgh-navSPACE | 00:02:37 | Black fixation |
-        | Resting state 1 | func-epi_BOLD_NORDIC_run-01 | 00:06:53 | Black fixation |
-        | Fmap epi AP | fmap-epi_dir-AP_BOLD_NORDIC_run-01 | 00:00:25 | Black fixation |
-        | Fmap epi PA | fmap-epi_dir-PA_BOLD_NORDIC_run-01 | 00:00:25 | black fixation |
-        | Resting state 2 | func-epi_BOLD_NORDIC_run-02 | 00:06:53 | Black fixation |
-        | Fmap fieldmap  | fmap-fieldmap_acq-B0 | 00:02:21 | Black fixation |
-        | Flanker task | func-epi_task-flanker_BOLD_NORDIC_run-01 | 00:06:41 | flanker task |
-        | Language Task | func-epi_task-language_BOLD_NORDIC_run-01 | 00:06:51 | language task |
-        | The Elevator (movie task) | func-epi_task-theElevator_BOLD_NORDIC_run-01 | 00:04:08 | the elevator |
-        | Diffusion Weighted Imaging | dwi-dwi_acq-CMRR-118-dir | 00:07:12 | second planet earth |
-        | Fmap phasediff AP | fmap-phasediff_dir-AP | 00:00:55 | Black fixation |
-        | Fmap phasediff PA | fmap-phasediff_dir-PA | 00:00:55 | Black fixation |
-        | Momentous (movie task) | func-epi_task-momentous_BOLD_NORDIC_run-1 | 00:06:49 | momentous |
-        | Resting state 3 | func-epi_BOLD_NORDIC_run-03 | 00:06:53 | black fixation |
-        | Resting state 4 | func-epi_BOLD_NORDIC_run-04 | 00:06:53 | black fixation |
-        |  |  |  |  |
-        |  |  |  |  |
-5. Post scan surveys
-    1. [Movie Rater Task](https://rutgers.box.com/s/v3n80mn5xuigav4g9r0cy903k2autn48) 
-6. [MRI Session Self-Report Battery](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) on Qualtrics
+5. Post scan: [Movie Rater Task](https://rutgers.box.com/s/v3n80mn5xuigav4g9r0cy903k2autn48) 
+6. Send [post-session email [template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh)]
 7. If subject consented to MindLAMP: Go through [MindLAMP Instructions for Setup](https://rutgers.box.com/s/nl4emov6zjv5089vakdbib2l0nw5ras2) 
 8. Explain payment setup and schedule
-9. Send [post-session email [template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh)]
-
-Subject leaves, done.
 
 ---
 
 # MRI Session — Instructions Script
 
-🔑
-
-This Script:
+🔑 This Script:
 *Italic Text*       is your speaking
 [Bracketed text]      is actions/links
 
 ## **SECTION 0: BEFORE PARTICIPANT ARRIVES**
-
-To do
 
 - Get together scan bag with the following items:
     - Charged scanner laptop with all adapters and charger
@@ -77,7 +43,6 @@ To do
     - Open up [PCRID Linking sheet](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) at Rutgers 
     - Open [Subject_tracker_PCR](https://rutgers.box.com/s/i5jaa225v6fz6czlj1bbakar79xtrvng)
         - FOR BOTH: Filter to only their row so you can check information with them without showing any other participants
-- Have printed copies of [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s) & consent form if you want to give to participant along with consent form -- though Qualtrics automatically sends participants a copy of their consent in their email. 
 - On scanning computer
     - Open up [the fixation cross image](https://rutgers.box.com/s/bq3vkqlc7ff1iv3psm0eifldz8hcitet)
     - Make sure the computer settings is set to not sleep
@@ -90,7 +55,7 @@ To do
     - Open the [language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32) in powerpoint
 
 ---
-
+# Consent
 ## **SECTION 1: Consent**
 
 Welcome to imaging session of our study!
@@ -166,6 +131,10 @@ First, we're going to give you a collection of surveys, which will take about an
 
 ---
 
+# Non-MRI Tasks (Can be done in any order, based on time)
+
+
+
 ## **SECTION 2: Self-Report Surveys
 
 *Now we're going to go to the first selection of surveys, which will take about 30 minutes. I'm going to set you up on this computer here, and then I'll leave the room. You can fill out the surveys, and I'll be right next door, so let me know if you have any questions or if you want any clarification on any of the questions.* 
@@ -176,7 +145,7 @@ First, I'll help with this first page. I'm going to tell you your de-identified 
 
 **[Leave room and go into room next door while they complete the survey]**
 
-## **SECTION 3: Tasks Instructions, MRI overview**
+## **SECTION 3: Tasks Instructions
 
 *Now, I'm going to go over with you the tasks that we're going to do in the fMRI scanner so that you're familiar with them before we actually get into the scanner. Then, I'm also going to go over what exactly the MRI process will look like.*
 
@@ -193,16 +162,16 @@ Training powerpoint if needed: [Language Task Training Powerpoint](https://rutge
 
 ## **SECTION 4: MRI Prep and Explanation**
 
- I'm going to explain what we're going to do when we head over to the MRI room, so that you can ask any questions now and not be caught off guard! 
+ *I'm going to explain what we're going to do when we head over to the MRI room, so that you can ask any questions now and not be caught off guard!*
 
 Changing room
 
-- You will be asked to change into a scrub top, and to take off your shoes, but you can keep your clothes on from the waist down (pants etc).
-- You will be asked to remove jewelry, eyeglasses, hearing aids, wigs, hairpins, removable dental work or other objects that may interfere with the procedure.
-- You will put all your items into a locked locker during the MRI
-- You will be given MRI-safe prescription eyeglasses if you wear them
+- *You will be asked to change into a scrub top, and to take off your shoes, but you can keep your clothes on from the waist down (pants etc).*
+- *You will be asked to remove jewelry, eyeglasses, hearing aids, wigs, hairpins, removable dental work or other objects that may interfere with the procedure.*
+- *You will put all your items into a locked locker during the MRI*
+- *You will be given MRI-safe prescription eyeglasses if you wear them*
 
-Have you ever had an MRI before? 
+*Have you ever had an MRI before?* 
 
 If YES, take them to the scanning room.
 
@@ -354,7 +323,32 @@ Would you prefer it louder/quieter?
 
 [keep testing until you find a good level]
 
+## **MRI Protocol outline**
+        | **Name** | **Scan name on protocol** | **Time** | **On screen for participant** |
+        | --- | --- | --- | --- |
+        | Head align | AAHead_Scout | 00:00:14 | Nothing |
+        | T1 | anat-T1w_acq-MPRAGE | 00:05:21 | Black fixation |
+        | Setter | anat-mpm_acq-setter | 00:00:01 | Black fixation |
+        | Localizer | anat-T2w_acq-mgh-navSPACE | 00:02:37 | Black fixation |
+        | Resting state 1 | func-epi_BOLD_NORDIC_run-01 | 00:06:53 | Black fixation |
+        | Fmap epi AP | fmap-epi_dir-AP_BOLD_NORDIC_run-01 | 00:00:25 | Black fixation |
+        | Fmap epi PA | fmap-epi_dir-PA_BOLD_NORDIC_run-01 | 00:00:25 | black fixation |
+        | Resting state 2 | func-epi_BOLD_NORDIC_run-02 | 00:06:53 | Black fixation |
+        | Fmap fieldmap  | fmap-fieldmap_acq-B0 | 00:02:21 | Black fixation |
+        | Flanker task | func-epi_task-flanker_BOLD_NORDIC_run-01 | 00:06:41 | flanker task |
+        | Language Task | func-epi_task-language_BOLD_NORDIC_run-01 | 00:06:51 | language task |
+        | The Elevator (movie task) | func-epi_task-theElevator_BOLD_NORDIC_run-01 | 00:04:08 | the elevator |
+        | Diffusion Weighted Imaging | dwi-dwi_acq-CMRR-118-dir | 00:07:12 | second planet earth |
+        | Fmap phasediff AP | fmap-phasediff_dir-AP | 00:00:55 | Black fixation |
+        | Fmap phasediff PA | fmap-phasediff_dir-PA | 00:00:55 | Black fixation |
+        | Momentous (movie task) | func-epi_task-momentous_BOLD_NORDIC_run-1 | 00:06:49 | momentous |
+        | Resting state 3 | func-epi_BOLD_NORDIC_run-03 | 00:06:53 | black fixation |
+        | Resting state 4 | func-epi_BOLD_NORDIC_run-04 | 00:06:53 | black fixation |
+        |  |  |  |  |
+        |  |  |  |  |
+
 ## **SECTION 8: The first scans**
+
 ⚠️ NOTE: When talking through the intercom - its a PA system outside of the scanner, not through the earbuds. So make sure you face the speaker when you talk, talk slowly and clearly, and ask the participant if they heard you correctly    
     
 

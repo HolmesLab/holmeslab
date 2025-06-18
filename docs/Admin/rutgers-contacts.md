@@ -134,9 +134,17 @@ Email: [barrincc#rutgers.edu]
 
 # General Rutgers IT Problems
 
-[IT Helpdesk Request Form](https://rutgers.service-now.com/sp?id=sc_cat_item&sys_id=3c2100e41b672490217ca9bfbd4bcb86&referrer=recent_items)
+**Rutgers Office of Information Technologies**
+For help on email, internet access, tech support, apps (Zoom, Qualtrics, Teams, etc) and the High-performance computing cluster. 
 
+[IT Helpdesk Request Form](https://rutgers.service-now.com/sp?id=sc_cat_item&sys_id=3c2100e41b672490217ca9bfbd4bcb86&referrer=recent_items)
 - Very fast, generally responds/resolved within 1 day
+
+OIT Help Desk at Rutgers–New Brunswick: 833-OIT-HELP (833-648-4357).
+- Super helpful, they can request remote control of your computer so that they can help you directly on your machine, and can give information about a wide variety of tech / Rutgers apps. 
+- Can also talk to clients/apps for you (such as Qualtrics, Zoom, Teams, RedCAP, etc)
+- Mark Pinto is great
+
 
 **Robert Wood Johnson (RWJ) Office of Information Technology (OIT)**
 
