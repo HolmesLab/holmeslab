@@ -1,5 +1,5 @@
 ---
-title: MRI Scanning Session
+title: Script: MRI Session
 parent: Psychiatric Connectomics
 has_toc: true
 nav_order: 6
