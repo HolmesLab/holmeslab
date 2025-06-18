@@ -26,7 +26,7 @@ Establish connectome signatures, or “fingerprints”, that co-vary with cognit
 
 ## Clinical Interview Session
 - [CCNP - Task Admin (Restricted)](https://docs.google.com/document/d/1-ONOuq6lpjxSsUNxftySPxO9P1PxhklxOHpW7WqT-AI/edit?usp=sharing)
-- [Clinical Interview Session Script](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/)
+- [Script - Clinical Interview Session Script](https://holmeslab.github.io/holmeslab/docs/PCX/interview-session/)
 - [Holmes 01 Consent (CCNP Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 CCNP/Holmes PCR Identifying Information Sheet is located in Box at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
@@ -42,7 +42,7 @@ CCNP/Holmes PCR Identifying Information Sheet is located in Box at /(Restricted)
 - [Tutorial: Cancelling MRI Scans in iLabs](https://www.notion.so/Scheduling-MRI-Scans-at-CAHBIR-173cf00eb9368082b3c1ec7c9d39c66e?pvs=21)
 
 ## MRI Session
-- [Scanning Session Script](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/scan-session/)
+- [Script - Scanning Session](https://holmeslab.github.io/holmeslab/docs/PCX/scan-session/)
 
 ***Within scanning session script:***
 1. Holmes PCRID Linking Sheet is located at /(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx
