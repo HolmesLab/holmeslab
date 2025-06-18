@@ -15,10 +15,10 @@ Justin Baker, PhD — Co-PI, Harvard Medical School, McLean Hospital
 Objective:  **Establish connectome signatures, or “fingerprints”, that co-vary with cognition, negative valence systems, and social functions in healthy and clinical samples, dissecting their associated genetic and cellular bases.**
 
 **Questions to address:**
-1) To what extent can brain function predict symptom profiles (cognition, negative valence, and social functions) across transdiagnostic cohorts, revealing the presence of clinical subgroups?
-2) Can a predictive modeling approach establish network profiles that precede longitudinal change?
-3) Do cell type profiles recapitulate functional network organization in the general population?
-4) Do these cellular associates of network function reveal genomic signatures that are co-heritable with psychiatric illness risk?
+1) To what extent can brain function predict symptom profiles (cognition, negative valence, and social functions) across transdiagnostic cohorts, revealing the presence of clinical subgroups?  
+2) Can a predictive modeling approach establish network profiles that precede longitudinal change?  
+3) Do cell type profiles recapitulate functional network organization in the general population?  
+4) Do these cellular associates of network function reveal genomic signatures that are co-heritable with psychiatric illness risk?  
 
 # PCX Links
 
