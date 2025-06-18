@@ -102,34 +102,34 @@ More information about fMRIPrep (+ FreeSurfer) outputs can be found at [fmriprep
 
 ```
 /project_name/
- 	bids/                     # BIDS-compliant raw dataset
-		sub-01/
-		sub-02/
-	dataset_description.json
-	participants.tsv
+├── bids/                     # BIDS-compliant raw dataset
+	├── sub-01/
+	├── sub-02/
+├── dataset_description.json
+├── participants.tsv
 
 
-	derivatives/                  # BIDS derivatives (preprocessed data)
-		fmriprep/                 # fMRIPrep outputs, structured by fMRIPrep (preprocessed fMRI)
-			sub-01/
-			sub-02/
-			logs/
-			figures/
-			reports/
-			dataset_description.json   
-	   sourcedata/                 # FreeSurfer outputs, structured by FreeSurfer (processed anatomical volumes)
-			freesurfer/
-			fsaverage{,5,6}/
-				mri/
-				surf/
+├── derivatives/                  # BIDS derivatives (preprocessed data)
+	├── fmriprep/                 # fMRIPrep outputs, structured by fMRIPrep 
+		├── sub-01/
+		├── sub-02/
+		├── logs/
+		├── figures/
+		├── reports/
+		├── dataset_description.json   
+	├── sourcedata/             # FreeSurfer outputs, structured by FreeSurfer (processed anatomical volumes)
+		├── freesurfer/
+		├── fsaverage{,5,6}/
+			├── mri/
+			├── surf/
 				...
-			sub-<label>/
-				mri/
-				surf/
+		├── sub-<label>/
+			├── mri/
+			├── surf/
 				...
 			...
-		desc-aparc_dseg.tsv      # Precomputed anatomical volume numbers in text files
-		desc-aparcaseg_dseg.tsv
+	├── desc-aparc_dseg.tsv      # Precomputed anatomical volume numbers in text files
+	├── desc-aparcaseg_dseg.tsv
   
 
 
