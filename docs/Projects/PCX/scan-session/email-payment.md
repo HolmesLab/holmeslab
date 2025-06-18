@@ -21,77 +21,43 @@ Card link:
 
 2. You’ll see a card number, CVC and an expiration date. Use those numbers to follow the below instructions and add the card to your wallet. For example:
 
--> You can use this card number to purchase anything online, just as you would with any debit or credit card! 
+🧑‍💻 You can use this card number to purchase anything online, just as you would with any debit or credit card! 
 
--> You can also add this card to your Apple or Google wallet, and use it with tap-to-pay:
-
-
-✅ Steps to Add Your Card to Apple Wallet Manually
-
-	• Open the Wallet app on your iPhone.
-
-		• Or go to Settings > Wallet & Apple Pay.
-
-	• Tap "+" (Add) in the upper-right corner.
-
-	• Choose "Credit or Debit Card".
-
-	• Tap "Enter Card Details Manually" (usually an option if you don’t scan the card).
-
-	• Enter:
-
-		• Card Number
-
-		• Expiration Date
-
-		• CVC (Security Code)
-
-	• Tap Next.
-
-	• Apple will attempt to verify the card:
-
-		• You may be prompted to verify via SMS, email, bank app, or a phone call.
-
-		• Follow the instructions provided by your bank or card issuer.
-
-	• Once verified, the card will be added to your Wallet, and you can use it with Apple Pay
+📲 You can also add this card to your Apple or Google wallet, and use it with tap-to-pay:
 
 
+ Steps to Add Your Card to Apple Wallet Manually
+• Open the Wallet app on your iPhone.
+	• Or go to Settings > Wallet & Apple Pay.
+• Tap "+" (Add) in the upper-right corner.
+• Choose "Credit or Debit Card".
+• Tap "Enter Card Details Manually" (usually an option if you don’t scan the card).
+• Enter:
+	• Card Number
+	• Expiration Date
+	• CVC (Security Code)
+• Tap Next.
+• Apple will attempt to verify the card:
+	• You may be prompted to verify via SMS, email, bank app, or a phone call.
+	• Follow the instructions provided by your bank or card issuer.
+• Once verified, the card will be added to your Wallet, and you can use it with Apple Pay
 
-✅ Steps to Add Your Card to Google Wallet (Android Phone) Manually
 
-1. Open Google Wallet
-
-	• Find and open the Google Wallet app.
+![icon](android_icon.png) Steps to Add Your Card to Google Wallet (Android Phone) Manually
+• Open Google Wallet
+• Find and open the Google Wallet app.
 (If it’s not installed, get it from the Play Store: Google Wallet)
-
-2. Tap “Add to Wallet” or the “+” Button
-
+• Tap “Add to Wallet” or the “+” Button
 	• Located at the bottom or lower-right corner of the screen.
-
- 3. Choose “Payment card”
-
-	• Tap on "Payment card" → "New credit or debit card"
-
- 4. Enter Card Details
-
-	• You can either:
-
-		• Use the camera to scan your card, or
-
-		• Tap “Enter details manually” and type:
-
-			• Card number
-
-			• Expiration date
-
-			• CVC (security code)
-
-			• Cardholder name
-
-			• Billing address
-
-
+• Choose “Payment card”
+• Tap on "Payment card" → "New credit or debit card"
+• Enter Card Details
+• You can either:
+	• Use the camera to scan your card, or
+	• Tap “Enter details manually” and type:
+		• Card number
+		• Expiration date
+		• CVC (security code)
 
 Let me know if you have any questions or concerns!
 - Kaley 
