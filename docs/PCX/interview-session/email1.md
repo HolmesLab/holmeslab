@@ -1,6 +1,6 @@
 ---
 title: Email - Clinical Self-Report Surveys Link
-parent: Clinical Interview Session
+parent: Script - Clinical Interview Session
 nav_enabled: true 
 ---
 

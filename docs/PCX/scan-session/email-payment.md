@@ -1,6 +1,6 @@
 ---
 title: Email - Payment Instructions
-parent: MRI Scanning Session
+parent: Script - Clinical Interview Session
 nav_enabled: true 
 ---
 Dear   ,
