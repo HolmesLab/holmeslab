@@ -47,9 +47,9 @@ Updated: April 28, 2025
     - Open up [the fixation cross image](https://rutgers.box.com/s/bq3vkqlc7ff1iv3psm0eifldz8hcitet)
     - Make sure the computer settings is set to not sleep
     - Open up Flanker task in PsychoPy
-    - Open up Language task in PsychoPy
+    - Open up [language.py](https://rutgers.box.com/s/928zafyoy6zr2czooyzvizlw3ir6bnqq) task in PsychoPy
 - On testing computer
-    - Open up [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse) on Qualtrics
+    - Open up [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) on Qualtrics
     - Open MRI Session [Self-report battery survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) on Qualtrics
     - Open the [flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x)
     - Open the [language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32) in powerpoint
@@ -251,7 +251,7 @@ Test button box:
     Filepath: [Box-Box/Holmes_Lab_Wiki/PCX_Round2/MRI/In_scanner_tasks](https://rutgers.box.com/s/qkqr45kfk22q1a3s32qxj8r15022n7ig)/<task_name>
     - [sound_check.py](https://rutgers.box.com/s/7vb8o2k0jbopamg3zukksjcxy1aiqktk)
     - [flanker_task_TCP_250407.py](https://rutgers.box.com/s/cpomqh7ehr7zcbdtiwutdqqgp2j6a56l)
-    - [language.py](https://rutgers.box.com/s/947kr3dfstppfna4y0dlgcvir3yuxu25)
+    - [language.py](https://rutgers.box.com/s/928zafyoy6zr2czooyzvizlw3ir6bnqq)
     - [PlayTheElevator.py](https://rutgers.box.com/s/comr04gp5quujiudreoef8ci35qke96d)
     - [PlayMomentous.py](https://rutgers.box.com/s/comr04gp5quujiudreoef8ci35qke96d)
     
@@ -398,7 +398,7 @@ Run: func-epi_task-flanker_BOLD_NORDIC_run-0
 
 ## **SECTION 9: Running the Language Task**
 
-[Open psychopy builder, open language.py]
+[Open psychopy builder, open [language.py](https://rutgers.box.com/s/928zafyoy6zr2czooyzvizlw3ir6bnqq)]
 
 *Hi _______, how are you doing?*
 
@@ -529,7 +529,7 @@ SEND EMAIL!
 , which I’ll explain after this
 - The ID to input in the supplemental survey
 - Blank version of the consent form
-- Blank [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_1GQDBN2Y4DHxSse)
+- Blank [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 - [Mental_health_resources_NJ](https://rutgers.box.com/s/wdzm85lp57errgwe3msyy8jelainem8s)
 
 ### Set up MindLAMP with participant

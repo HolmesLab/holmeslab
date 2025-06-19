@@ -55,12 +55,9 @@ Here is a visual overview:
 - [Holmes 01 Consent (CCNP Consent)](https://rutgers.ca1.qualtrics.com/jfe/form/SV_byE8zSL9wiv3PLM)
 - [PCR_Consent](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG)
 - CCNP/Holmes PCR Identifying Information Sheet (Restricted Access)  located at /(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx
-- Email template to send to participant for self-report surveys: 
-    - [PCR email page](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/)  
-
 - [Clinician Ratings Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG)
 - [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ)
-- [Holmes Group Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
+- [Holmes Group MRI Screening Form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k)
 
 ## MRI Session Scheduling
 
@@ -68,7 +65,6 @@ Here is a visual overview:
 
 1. Check the file in /Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx (restricted access- must be invited to the sheet to view) for any new participants
 2. Copy over new participants to  /Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx  (restricted access- must be invited to the sheet to view)
-3. For new participants, create a subject log for them in [/Box/PCX_Round2/subject_logs](https://rutgers.box.com/s/86lbddpb6fk0uh7vumr43tlu8wggsc42) by making a copy of the file in [/templates/template.xlsx](https://rutgers.box.com/s/ct4spvu2dbazc7tfzfwpxaeih5sui7ig) and renaming it sub-PCRID.xlsx from the linking sheet
 4. Look in iLabs for 3-5 upcoming MRI slots available on different days 
     
     Don’t know how? Read [Tutorial: Booking MRI in iLabs](https://www.notion.so/Scheduling-MRI-Scans-at-CAHBIR-173cf00eb9368082b3c1ec7c9d39c66e?pvs=21)
@@ -77,21 +73,15 @@ Here is a visual overview:
 6. 📟 Log responses + scheduled time
 7. 📟 If the participant needs an uber, check how much time it will take to get from the participant’s pickup/dropoff locations and reserve the pickup Lyft for the date/time which will allow the participant to get there in time
 8. Send the participant a confirmation + info email
-    
     [MRI Confirmation Email](https://rutgers.box.com/s/h3er1pb6c77q03cu1obq7c87aok8qfdg)
     
 9. Schedule the reminder emails for 2-days out (and 5-days out if the scan is far in advance)
-    
-    Appointment_Reminder_2days
-    
-    [Appointment_Reminder_5days](https://rutgers.box.com/s/h3er1pb6c77q03cu1obq7c87aok8qfdg)
+    [Appointment_Reminder_2days](https://rutgers.box.com/s/h3er1pb6c77q03cu1obq7c87aok8qfdg)
     
 10. Set a reminder for yourself to text the participant 36hrs before the scan time if they haven’t confirmed after the 2days-before email
 
 1. **24hrs before MRI Session:** 
-    
     If the participant hasn’t confirmed, cancel the slot. If the participant confirms day-of, you can always rebook the slot as it will rarely be booked after you cancel. But if the participant doesn’t show, you will still have to pay for the scan
-    
     [Tutorial: Cancelling MRI Scans in iLabs](https://www.notion.so/Scheduling-MRI-Scans-at-CAHBIR-173cf00eb9368082b3c1ec7c9d39c66e?pvs=21)
     
 
@@ -102,10 +92,9 @@ Here is a visual overview:
 **Session Day:**
 1. 📟 Open up subject log for that participant and log the fields during the study
 2. Follow the script for this session
+[Scanning Session Script Rutgers]({{site.baseurl}}/docs/PCX/scan-session)
 
-[Scanning Session Script Rutgers]({{site.baseurl}}/docs/Projects/PCX/scan-session)
-
-1. EMAIL the task files to yourself from the scanning computer
+1. EMAIL the task files to yourself from the scanning computer, or save them to BOX
 2. Add up the additional payments for the subject, including gas costs, parking/tolls costs, uber/lyft costs and overtime costs, and do the calculations in the subject log sheet for how much the subject is owed. Then put in an order to PerfectGift for that amount, rounding to the nearest dollar. 
     [Tutorial: Purchase gift cards from PerfectGift](https://www.notion.so/Tutorial-Buying-Gift-Cards-from-PerfectGift-1c2cf00eb93680c0b6d6fa7ed18985df?pvs=21)
 
