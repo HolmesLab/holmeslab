@@ -1,6 +1,6 @@
 ---
 title: Email - MindLAMP Instructions
-parent: Script - Clinical Interview Session
+parent: Script - MRI Session
 nav_enabled: true 
 ---
 Dear   ,

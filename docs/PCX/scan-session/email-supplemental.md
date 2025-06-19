@@ -1,6 +1,6 @@
 ---
 title: Email - Supplemental Survey
-parent: Script - Clinical Interview Session
+parent: Script - MRI Session
 nav_enabled: true 
 ---
 Dear   ,
