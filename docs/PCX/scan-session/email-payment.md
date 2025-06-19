@@ -27,45 +27,36 @@ Card link:
 
 
  Steps to Add Your Card to Apple Wallet Manually
-• Open the Wallet app on your iPhone.
-	• Or go to Settings > Wallet & Apple Pay.
-• Tap "+" (Add) in the upper-right corner.
-• Choose "Credit or Debit Card".
-• Tap "Enter Card Details Manually" (usually an option if you don’t scan the card).
-• Enter:
-	• Card Number
-	• Expiration Date
-	• CVC (Security Code)
-• Tap Next.
-• Apple will attempt to verify the card:
-	• You may be prompted to verify via SMS, email, bank app, or a phone call.
-	• Follow the instructions provided by your bank or card issuer.
-• Once verified, the card will be added to your Wallet, and you can use it with Apple Pay
+• Open the Wallet app on your iPhone.  
+	• Or go to Settings > Wallet & Apple Pay.  
+• Tap "+" (Add) in the upper-right corner.  
+• Choose "Credit or Debit Card".  
+• Tap "Enter Card Details Manually" (usually an option if you don’t scan the card).  
+• Enter:   
+	• Card Number  
+	• Expiration Date  
+	• CVC (Security Code)  
+• Tap Next.  
+• Apple will attempt to verify the card:  
+	• You may be prompted to verify via SMS, email, bank app, or a phone call.  
+	• Follow the instructions provided by your bank or card issuer.  
+• Once verified, the card will be added to your Wallet, and you can use it with Apple Pay  
 
 
 ![icon](android_icon.png) Steps to Add Your Card to Google Wallet (Android Phone) Manually
-• Open Google Wallet
-• Find and open the Google Wallet app.
-(If it’s not installed, get it from the Play Store: Google Wallet)
-• Tap “Add to Wallet” or the “+” Button
-	• Located at the bottom or lower-right corner of the screen.
-• Choose “Payment card”
-• Tap on "Payment card" → "New credit or debit card"
-• Enter Card Details
-• You can either:
-	• Use the camera to scan your card, or
-	• Tap “Enter details manually” and type:
-		• Card number
-		• Expiration date
-		• CVC (security code)
+• Open Google Wallet  
+• Find and open the Google Wallet app.  
+(If it’s not installed, get it from the Play Store: Google Wallet)  
+• Tap “Add to Wallet” or the “+” Button  
+	• Located at the bottom or lower-right corner of the screen.  
+• Choose “Payment card”  
+• Tap on "Payment card" → "New credit or debit card"  
+• Enter Card Details  
+• You can either:  
+	• Use the camera to scan your card, or  
+	• Tap “Enter details manually” and type:  
+		• Card number  
+		• Expiration date  
+		• CVC (security code)  
 
 Let me know if you have any questions or concerns!
-- Kaley 
-
-— 
-
-Kaley (she/her)
-Study Coordinator
-Psychiatric Connectomes Project
-holmeslab.bhi@gmail.com 
-(848)-228-3894
