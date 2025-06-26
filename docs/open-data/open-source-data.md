@@ -24,14 +24,7 @@ Allen Brain Atlas hosts much brain-related open-source data. Allen focuses on ge
 
 ## [UK Biobank](https://www.ukbiobank.ac.uk/)
 UK biobank is a large neuroimaging dataset. 
-<details markdown="block">
-<summary>To get access to UK Biobank data, follow the below steps:
-</summary>
-1. Sign up for an account and file 
-2. Fill out your profile information and institutional affiliation
-3. Wait for your registration to be activated
-4. Ask PI to add you to the “Ethics” ie the IRB for the site-access for your institution
-</details>
+To get access to UK Biobank data, follow the steps here: [How To - UK Biobank Data](https://holmeslab.github.io/holmeslab/docs/open-data/ukbb/)
 
 # Data Resource Sites: Neuroimaging
 These are sites which are relevant to datasets, but aren't directly data hosting sites. They contain tutorials, visualization software, analysis tools, dataset searches, and other useful resources. 
