@@ -133,7 +133,7 @@ Here is a visual overview:
 
 **RedCAP → Amarel**  
 
-- TBD, pulling from Phoenix, Kaley waiting for permissions
+- TBD, pulling from Eris, Kaley waiting for permissions
 
 **MindLAMP → Amarel**  
 
