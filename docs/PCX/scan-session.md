@@ -7,11 +7,11 @@ nav_order: 6
 
 # Script: Scanning Session
 Updated: April 28, 2025
----
+<!-- ---
 **Table of Contents**
 1. TOC
 {:toc}
----
+--- -->
 
 ## **MRI Full Session — Brief Overview**
 
@@ -205,10 +205,14 @@ If NO:
 
 ### In Scan Room:
 - Attach correct button box 
-- Make sure correct head coil is out
-- Put bed into "Home" position
 - Turn on MONITOR/computer in back of the room, make sure it's in line with scanner
-- Dim the lights, potentially (limit glare)
+- VOLUME:
+    Computer Volume at **Middle Level**
+    Scanner Laptop **Output Volume at Middle Level**
+    Speaker Volume at **¾ level** -- adjust to preference
+    Scanner Earphones (from the scanner computer menu– NOT the ‘earphones’ dial) at **FULL volume**
+    ***Any of these 4 places will affect overall output***
+
 
 ### Glasses:
 - if the participant needs glasses, take the glasses box out of the cabinet and take out the eye test sheet.
@@ -225,24 +229,11 @@ If NO:
     - HID KEY 12345”
 - ‘USB’ will be flashing on the screen if it’s not registering (will flash if computer is turned off or goes to sleep)
 
-Test button box:
-- Ensure button box/keyboard 1 is paired with computer on AV system
-- Open Notepad on computer
-- Pair computer with monitor inside scan room (so that you can see the computer screen inside the scan room)
-- Go in magnet room (REMOVE ALL METAL) and press blue, yellow, blue, yellow, blue, yellow on the button box
-- In Notepad, you should see 121212
-- Once this is tested and working, close Notepad
-
 ### Setup Computer system:
 - Plug in scan laptop to the MRI-room computer cables
     - **BOTH USB-C AND AUDIO JACK**
 - Click “LAP”
 ![Screenshot 2025-02-27 at 2.55.54 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.54_PM.png)
-
-- Set up volume levels
-    ![Screenshot 2025-02-27 at 2.55.44 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.44_PM.png)
-    
-- Check box for having discarded acquisitions for each task
 
 ### On Scanning Computer
 **For details on the explanation, overview and setup of tasks, and running fMRI tasks for the first time, see this tutorial: [SOP Running fMRI Tasks](https://rutgers.box.com/s/m8wlwxw0vnl45fs0o3k6jb3my5dc91my)**
@@ -267,10 +258,7 @@ Test button box:
 ### **Once the participant arrives to control room:**
 
 Verbally scan participant:
-- You have no implants, other than [list any approved ones from the screener sheet]? 
-- No medical patches? 
-- No insulin patches or medicine pumps? 
-- No chance of pregnancy? 
+- You have no implants, other than [list any approved ones from the screener sheet]? No medical patches? No insulin patches or medicine pumps? 
 - You've taken out any hearing aids, removable dental things, dentures, hair extensions? 
 - You don't have anything in your pockets?
 
@@ -283,6 +271,16 @@ If they need glasses:
 
 - Have them leave their shoes by the door
 
+
+### Before starting scan:
+Explain the emergency ball
+Explain we want to make them comfortable, cushions
+Explain the speaker– it’s like a radio, I can’t hear you when I talk
+Explain the scanner – it’s like an old camera
+Explain the head coil – it’s like a football helmet
+Explain MOVING FEET = HEAD MOVES 
+
+Example script:
 *As a reminder, we’re using the scanner to take pictures of your brain, it is super important that you remain as still as possible while the scans are in progress; if you move too much, the images will be blurry and unusable. And of course, regular breathing and swallowing is totally fine.*
 
 *For further hearing protection, and so we can communicate with you in between scans, we have this set of headphones for you to wear. You’ll be able to hear us and any audio related to the experiment through these headphones, and there’s also a microphone that you can use to talk to us in between scans. However, because the scanner is very loud while it’s running, we won’t be able to hear you during a scan.*
