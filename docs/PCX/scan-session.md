@@ -6,12 +6,8 @@ nav_order: 6
 ---
 
 # Script: Scanning Session
-Updated: April 28, 2025
-<!-- ---
-**Table of Contents**
-1. TOC
-{:toc}
---- -->
+Updated: Jun 30, 2025
+
 
 ## **MRI Full Session — Brief Overview**
 
