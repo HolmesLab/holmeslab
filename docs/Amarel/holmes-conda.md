@@ -19,6 +19,28 @@ To de-activate Holmes Lab Conda, run:
 ```bash
 conda deactivate
 ```
+## To use Holmes Lab Conda Packages (or another env) in Slurm Scripts:
+Go to your terminal, and run:
+```bash
+$ nano ~/.bashrc
+```
+Add the following lines to your bashrc-- this will mean that every time you sign into Amarel, your account will automatically activate the Holmes Lab Conda. Thus, any slurm scripts will also use the Holmes Lab Conda
+```bash
+# Set up for conda
+. /projects/community/py-data-science-stack/5.1.0/kp807/etc/profile.d/conda.sh
+
+# Activate conda
+source /projects/community/py-machine-learning/intel18/cuda12/pgarias/etc/profi$
+conda activate /projects/community/holmesenv
+```
+
+If you want to automatically activate a different conda, just replace `/projects/community/holmesenv` with your conda environment name. 
+
+In any slurm scripts, add this before your command, to make sure your `.bashrc` is loaded:
+```bash
+source ~/.bashrc
+```
+
 
 ## Modules in Holmes Lab Conda
 To see all the current modules in our conda, type:

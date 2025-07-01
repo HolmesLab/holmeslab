@@ -11,7 +11,10 @@ nav_enabled: true
 {:toc}
 ---
 
-# Downloading Acquisition Data: The `fw download` Command
+# Downloading fMRIPrep Data
+1. 
+
+# Downloading Specific Data: The `fw download` Command
 
 Sessions, acquisitions, and files can be downloaded individually using the `fw download` command.
 
