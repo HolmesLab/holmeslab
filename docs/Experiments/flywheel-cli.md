@@ -152,12 +152,7 @@ options:
 ```
 
 # Beta Command Line Interface (CLI)
-
-
-⚙
-
-Prerequisites: The install script requires `bash`, `curl`, `grep`, `tar`, and `shasum` (or `sha256sum`) in order to download, extract, and verify the CLI.
-
+⚙ Prerequisites: The install script requires `bash`, `curl`, `grep`, `tar`, and `shasum` (or `sha256sum`) in order to download, extract, and verify the CLI.
 
 ### 1 -- SSH into Amarel command line
 

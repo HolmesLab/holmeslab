@@ -12,7 +12,23 @@ nav_enabled: true
 ---
 
 # Downloading fMRIPrep Data
-1. 
+1. Log into Amarel
+2. Make sure your profile is set up to automatically activate the Holmes Lab Conda environment. 
+  - Go to your terminal, and run:
+```bash
+$ nano ~/.bashrc
+```
+  - Add the following lines to your bashrc-- this will mean that every time you sign into Amarel, your account will automatically activate the Holmes Lab Conda. Thus, any slurm scripts will also use the Holmes Lab Conda
+  
+```bash
+# Set up for conda
+. /projects/community/py-data-science-stack/5.1.0/kp807/etc/profile.d/conda.sh
+
+# Activate conda
+source /projects/community/py-machine-learning/intel18/cuda12/pgarias/etc/profi$
+conda activate /projects/community/holmesenv
+```
+3. In terminal or the Amarel OnDemand GUI ()
 
 # Downloading Specific Data: The `fw download` Command
 

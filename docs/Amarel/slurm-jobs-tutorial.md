@@ -133,24 +133,47 @@ TIPS
     
     ```bash
     #! /bin/bash
-    #SBATCH --partition=main
-    #SBATCH --requeue
-    #SBATCH --nodes=1
-    #SBATCH --ntasks=1
-    #SBATCH --cpus-per-task=1
-    #SBATCH --mem=2000
-    #SBATCH --time=48:00:00
-    #SBATCH --output=slurm.%N.%j.out
-    #SBATCH --error=slurm.%N.%j.err
-    cd /projects/f_ah1491_1
+    #SBATCH --partition=p_dz268_1 # CAHBIR partition
+    #SBATCH --job-name=any-name # change to what you want the name to be 
+    #SBATCH --nodes=1 # change depending on computational needs
+    #SBATCH --ntasks=1 # change if parallelizing
+    #SBATCH --cpus-per-task=1 # change depending on computational needs
+    #SBATCH --mem=2000 # change depending on computational needs
+    #SBATCH --time=48:00:00 # change depending on computational needs
+    #SBATCH --output=slurm_%x.out # see below
+    #SBATCH --error=slurm_%x.err # see below
+    cd /download/folder  # where the file will be run from
     module purge
-    srun /projects/f_ah1491_1 < NAME.sh    
+    
+    # Activate the holmesenv virtual environment to use installed packages
+    # If you want to use a different conda, create a different script like activate.sh which activates your desired conda
+    /projects/f_ah1491_1/analysis_tools/holmesenv_conda/activate.sh 
+    source ~/.bashrc
+
+    srun /script/path/script.sh  # for bash script
+    python3 /script/path/script.py # for python  
     ```
     
+    - Change `slurm_%j.out` & `slurm_%j.err` to whatever you want your error/outfiles to be named. 
+        - You can add filepaths before filenames so that the err and out files are saved to folders (ie batch_jobs/file.err or err/file.err, etc) but you must have any referenced folders CREATED before running the script
+        - Renaming to `%x.out` will mean each time you run this job the slurm.out/slurm.err files will be replaced with the job-name, and will replace the current existing file, so the file would always the most recent run
+            - This is recommended unless you're running jobs in parallel and want to save out each specific job instance log separately
+            - Change job-name to change what will also autopopulate into the output/err folders, replacing `%x`
+        - More % Options:
+            - %x = Job name.
+            - %j = jobid of the running job.
+            - %N = short hostname. This will create a separate IO file per node.
+            - %n = Node identifier relative to current job (e.g. "0" is the first node of the running job) This will create a separate IO file per node.
+            - %s = stepid of the running job.
+            - %t = task identifier (rank) relative to current job. This will create a separate IO file per task.
+            - %u = User name.
+    NOTE:
     - Change time=48:00:00 to however much time you think you’ll need. Max to request is 2 weeks, but the more time you request the longer your slurm job will sit in the queue before running.
         - To estimate timing, try downloading 1 subject file and time how long the download takes, then multiply that by number of subjects
-    - Change `cd /projects/f_ah1491_1` to whatever filepath you want the data to be downloaded into.
-    - Change `srun /projects/f_ah1491_1`  to whatever filepath you want the data to be downloaded to
+
+    IMMEDIATE FAIL?
+    - Check if your err and out files have any paths/folders-- if so, make sure those folders exist and you have rwx permissions to them
+    - Make sure any files called have execute (x) permissions-- if not, run chmod (eg `chmod +x file.py`) for the relevant file, and then try running the slurm script again
 
 14. Save this file as a SHELLNAME.sh file, naming it something relevant to the package + shell
 
