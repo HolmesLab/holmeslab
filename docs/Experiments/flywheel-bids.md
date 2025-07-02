@@ -1,45 +1,16 @@
 ---
-title: Flywheel Tutorial
+title: Flywheel Tutorial - Raw to BIDS
 parent: Running Experiments
 nav_enabled: true
 ---
+# Flywheel: Data to BIDS 
+FLYWHEEL LINK: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
 
-# Flywheel Overview
-
-Flywheel: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
-
-**TABLE OF CONTENTS:** 
+---
+**Table of Contents**
+1. TOC
 {:toc}
-
-## Flywheel Storage & Pipeline - only put active CAHBIR center data
-
-- No restrictions for the amount of data
-- But we’re charged for the data since it’s stored in the cloud
-- Can keep all your active study data on flywheel
-    - More likely to stay stable than stuff you take off and put on amarel
-- After every session of fMRI scanning at CAHBIR the scan tech is going to automatically send data from the scanner to flywheel
-    - multi-band multi-echo will go up but will go up a little later since Jeff has to do another step
-    - compress-sensing MP2Rage
-- Double check that the information you want in flywheel is being transferred after the data is put into flywheel
-    - You should definitely do a test or two with your pipeline
-
-### Data-Viewer
-
-- Little picture icon on the right of the dicom
-- Can also double check that your files are right
-
-### Gear Exchange
-
-- [flywheel.io/gear-exchange/](http://flywheel.io/gear-exchange/)
-    - if there’s any there you want and aren’t currently installed on our flywheel, let Wil / CAHBIR-support know, and they’ll ask flywheel to add it
-- You can also make requests for flywheel to make a gear, though we don’t know how quickly that might happen
-
-### Questions
-
-- Flywheel has robust documentation
-    - [https://docs.flywheel.io/Developer_Guides](https://docs.flywheel.io/Developer_Guides)
-- Or email flywheel directly with ‘give us feedback’ (opens up a ticket)
-
+---
 
 ## How to change file names (if necessary):
 
@@ -82,14 +53,14 @@ Flywheel Tutorial: [Ignoring Certain Images in Bids](https://docs.flywheel.io/us
 
 1. Go to your Project tab
 2. click on Subjects tab and select the subject you’d like to run
-3. Go to Sessions tab
-4. Make sure you’re on “Acquisitions” tab
-5. Optional: Turn on “BIDS View”
+3. go to Sessions tab
+4. make sure you’re on “Acquisitions” tab
+5. optional: Turn on “BIDS View”
     1. click on the 3 dots to the right of the “Run Gear’ button
     2. click on the on-switch for “BIDS View”
-6. Click on the file you want to ignore
-7. In the popup, go to “Information” tab
-8. Scroll down to the small section which says “BIDS” and has a carrot “^”
+6. click on the file you want to ignore
+7. in the popup, go to “Information” tab
+8. scroll down to the small section which says “BIDS” and has a carrot “^”
 9. Press on the carrot to expant the BIDS information
 10. Scroll down to the line “ignore []” and check the box
 11. Press “save” on the popup
@@ -97,12 +68,17 @@ Flywheel Tutorial: [Ignoring Certain Images in Bids](https://docs.flywheel.io/us
 
 ### If you need to ignore many images based on rules…
 
-1. Click on your project tab
+1. click on your project tab
 2. Go to “Information”
-3. In files find template nordic_extension_template_MMDDYYYY.json
+3. In files find template nordic_extension_template.json
+    If it's not already uploaded, upload into the project [files nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9), by clicking on:
+        - Project Name (in side navigation bar)
+        - Information tab
+        - Attachments box
+        - 'Upload' button
 4. Click on the 3 dots in the template row and click “Download” 
 5. Open file in an editor
-6. In the “initializers":” section, paste in your code
+6. in the “initializers:” section, paste in your code
 
 for example, this skips any files which start with “fmap_” or “fmap-” and end with “SBRef” or “Pha”, and skips any files which end with “_e2” or “_e3”
 
@@ -135,7 +111,48 @@ for example, this skips any files which start with “fmap_” or “fmap-” an
         },
 ```
 
-## Add Additional Documents
+## BIDS process
+1. click on the project you want to look at (ie ConteCenter, PCX)
+2. click on ”Sessions” tab
+3. Make sure you’re on “Acquisitions” tab
+4. Click 'Run Gear'
+5. Select 'Analysis Gear'
+6. Select 'BIDS Curation'
+7. Click on the project name
+8. ‘Inputs’ tab: 
+    1. click on “template”
+    2. click on ConteCenter or your project name (in the folder path)
+    3. select the [nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9)
+    - locates and assigns the echoes their proper echo name
+    - ignores single band reference images and phase images for fieldmaps
+    - If it's not already there, upload it to the project files by clicking on: 
+        - Project Name (in side navigation bar)
+        - Information tab
+        - Attachments box
+        - 'Upload' button
+9. ‘Configuration’ tab:
+    1. First: you need to specify the regexes in pairs, each element separated by a space.
+        1. To attach all fmap to their relevant BOLD images: `fmap-.* .*bold.nii.gz`
+            You have to match the fmap container to the functional images containers. 
+            Our containers for Conte/PCX are (both AP and PA):
+            - `fmap-epi_dir-AP_BOLD_NORDIC_run-01`
+            - `fmap-fieldmap_acq-B0`
+            - `fmap-phasediff_dir-AP` 
 
-- ‘ad-hoc’ upload
-- can add any type of file to a dataset
+            Our functional images are
+            - func-epi_task-<taskName>_BOLD_NORDIC_run-01
+            
+            So to map (fill intendedFor field) every fmap to the functional images, use `fmap-.* .*bold.nii.gz`
+            EX: To just map epi fmaps to the functional images, use `fmap-epi_.* .*bold.nii.gz`
+            
+
+    2. **Reset: YES**
+    3. Ignore Config File: YES
+    4. Save idecar as Metadata: NO
+        - the JSON sidecars of the data to fill in the configuration, but you can add additional stuff in the tab that isn’t in the sidecars
+10. Go to jobs log tab to track usage or errors
+    1. Select subject/job
+    2. Select ‘log’ tab
+    - Refresh to see current— not in real time
+
+[Getting BIDS to work on Flywheel](https://www.notion.so/Getting-BIDS-to-work-on-Flywheel-1abcf00eb93680318dfbc02655ee27d5?pvs=21)
