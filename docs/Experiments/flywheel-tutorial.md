@@ -23,6 +23,14 @@ Flywheel: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywhe
 - Double check that the information you want in flywheel is being transferred after the data is put into flywheel
     - You should definitely do a test or two with your pipeline
 
+## Log into Flywheel:
+1. Go to [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywheel.rutgers.edu/#/projects)
+2. Choose "University Credentials via CILogin"
+![login1](flywheel/login1.png)
+3. Choose the dropdown arrow, type in "Rutgers" and select. 
+![login2](flywheel/login2.png)
+4. Log in with your NetID and password
+
 ### Data-Viewer
 
 - Little picture icon on the right of the dicom

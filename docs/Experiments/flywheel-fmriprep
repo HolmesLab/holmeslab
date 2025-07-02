@@ -14,7 +14,7 @@ Flywheel: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-flywhe
 ## Tutorial: Flywheel BIDS to fMRIPrep process
 
 1. ‘Run gear’
-2. ‘run analysis gear’
+2. ‘Run analysis gear’
     - NOT ‘fMRIPREP: A robust…”
     - Select “BIDS Apps: BIDS fMRIPrep” to run
 3. Input
