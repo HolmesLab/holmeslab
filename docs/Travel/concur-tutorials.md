@@ -1,42 +1,12 @@
 ---
-title: Concur Travel Booking
+title: Concur Videos
 parent: Travel
 nav_enabled: true 
+nav_order: 99
 ---
-# Concur Travel Booking 
-
-Date: July 16, 2024 4:18 PM
-
+# Concur Videos 
 *All Information: [https://procurementservices.rutgers.edu/travel-and-expense/concur-travel-and-expense](https://procurementservices.rutgers.edu/travel-and-expense/concur-travel-and-expense)* 
 
----
-**Table of Contents**
-1. TOC
-{:toc}
----
-
-# Travel
-
-### *****Before booking travel, you must submit a pre-travel request*
-
-## Pre-Travel Request:
-
-Tutorial: [Creating and Submitting a Request in Concur](https://rutgersconnect.sharepoint.com/:b:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Creating and Submitting a Request in Concur.pdf?csf=1&web=1&e=0s2Shv)
-
-- do this ~1-2wks before you need your hotels and airfare to be booked
-
-Quick notes: 
-
-## Travel Reimbursement Requests
-
-**Click ‘Start a Report’**
-
-- Fill out your expenses, including receipts and information
-    - List of what documentation info / receipt types to include for non-per-diem reimbursements: [https://rutgers.box.com/s/nqen2xfewdlaydms0c3npirnemcftnra](https://rutgers.box.com/s/nqen2xfewdlaydms0c3npirnemcftnra)
-- Fill in [Holmes Lab purchasing codes](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a): [https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a](https://rutgers.box.com/s/xqh4sogcvlhviyped6mshplyqwrmxy5a)
-- If you have a pre-approved request in Oracle, and your final expense report that you submit is within 10% of your approved expenses, it will be auto-approved!
-
-### Video Tutorials:
 
 - [Creating a Travel Request](https://rutgersconnect.sharepoint.com/:v:/r/sites/UPSCOE-JobAids2/Shared Documents/Job Aids/Expense MGMT Aids/Expense Training Material/Training Videos/VIDEO - Creating a Travel Request (Pre-Trip Authorization).mp4?csf=1&web=1&e=nUiipC)
 - [Creating a Travel Request (pre-recorded online training session)](https://rutgersconnect.sharepoint.com/:v:/s/TravelExpenseBPR/EaV_3plCVSxMs7FvSxDjc0cBJONj04WpI-42oLcR6pl0Fw?e=jxTPpC)
