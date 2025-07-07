@@ -3,7 +3,7 @@ layout: minimal
 parent: Travel
 title: Cash Advances (Archive)
 nav_enabled: true
-nav_order: 8
+nav_order: 15
 ---
 
 # Cash Advances* ARCHIVED -- Currently not available from the department of Psychiatry
