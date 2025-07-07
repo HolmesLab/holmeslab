@@ -1,12 +1,12 @@
 ---
 layout: minimal
 parent: Travel
-title: Cash Advances
+title: Cash Advances (Archive)
 nav_enabled: true
 nav_order: 8
 ---
 
-# Cash Advances
+# Cash Advances* ARCHIVED -- Currently not available from the department of Psychiatry
 Cash advances are direct deposits into your linked bank account/reimbursement location in [Concur](my.rutgers.edu). These are requested for a particular approved trip. It is often used to request the per-diem amount for the city you're travelling to. Then, you can get that money deposited into your account without having to pay out of pocket and wait for reimbursement. Any cash advance over $100/day needs special approval. 
 
 To access Concur and submit your request
