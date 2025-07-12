@@ -127,10 +127,10 @@ Time this takes: I would give 2 business days minimum for this, including gettin
     1. Exchange-- this is your [netid@rwjms.rutgers.edu](mailto:netid@rwjms.rutgers.edu) email, your [last@rutgers.edu](mailto:first.last@rutgers.edu) email, and any other email name you want to set up for [____@rutgers.edu](mailto:____@rutgers.edu)
     2. Gmail—this is your [netid@scarletmail.rutgers.edu](mailto:netid@scarletmail.rutgers.edu), which you activate on RU Tools
 7. Learn how to access the Rutgers VPN: [Connecting to Rutgers VPN](https://rutgers.box.com/s/khcapgqy8po59iibiizrpzuhzfq1rr70)
-8. Start setting up access to compute cluster, Amarel: [Amarel Compute Cluster Setup Instructions](https://rutgers.box.com/s/yq0flxz364tb9vnyriemgbbt160fimjg)
+8. Start setting up access to compute cluster, Amarel: [Amarel Compute Cluster Setup Instructions](https://kaleyjoss.notion.site/Setup-Amarel-Compute-Cluster-389796280b1844f2b30516d476d14317)
 9. Make sure you have access to:
     1. BOX Folder of Rutgers Materials: [Rutgers Wiki on Box](https://rutgers.box.com/s/y27w3g4wfbjads691ewq7o83830rs082)
-    2. Lab Wiki on PBWorks [https://holmeslab.rutgers.edu/](https://holmeslab.rutgers.edu/) > “Lab Wiki” > Username and Password
+10. Have Lab Manager add you to lab github organization: https://github.com/HolmesLab/holmeslab 
 
 ![image.png](Hiring and Onboarding Timeline 1e6cf00eb93680019c92f9cbcfb5e49c/image.png)
 

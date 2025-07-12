@@ -18,7 +18,7 @@ Updated: Jun 30, 2025
     1. Change, verbal metal scan, get into scanner
 4. [MRI Protocol](https://rutgers.box.com/s/9cgfscxixyd7ja5gah5t9tmdu8ib8gzt)
 5. Post scan: [Movie Rater Task](https://rutgers.box.com/s/v3n80mn5xuigav4g9r0cy903k2autn48) 
-6. Send [post-session email [template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh)]
+6. Send post-session email [template](https://rutgers.box.com/s/5y7wsd6m2ch9stcpwoq2yupgwuy02jzh)
 7. If subject consented to MindLAMP: Go through [MindLAMP Instructions for Setup](https://rutgers.box.com/s/nl4emov6zjv5089vakdbib2l0nw5ras2) 
 8. Explain payment setup and schedule
 
@@ -39,51 +39,28 @@ Updated: Jun 30, 2025
     - Open up [PCRID Linking sheet](https://rutgers.box.com/s/habtubduu0w3am4bb09npgxttliyl6wc) at Rutgers 
     - Open [Subject_tracker_PCR](https://rutgers.box.com/s/i5jaa225v6fz6czlj1bbakar79xtrvng)
         - FOR BOTH: Filter to only their row so you can check information with them without showing any other participants
+- Create post-it note with PCRID + information for scan registration (sex, weight, height, birthday)
 - On scanning computer
     - Open up [the fixation cross image](https://rutgers.box.com/s/bq3vkqlc7ff1iv3psm0eifldz8hcitet)
-    - Make sure the computer settings is set to not sleep
+    - Make sure the computer settings is set to not sleep if on charger
     - Open up Flanker task in PsychoPy
     - Open up [language.py](https://rutgers.box.com/s/928zafyoy6zr2czooyzvizlw3ir6bnqq) task in PsychoPy
 - On testing computer
-    - Open up [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG) on Qualtrics
-    - Open MRI Session [Self-report battery survey](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU) on Qualtrics
-    - Open the [flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x)
-    - Open the [language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32) in powerpoint
+    - Open up [PCR consent form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_8vK8CJMuW2iNcmG), [fMRI self-report battery](https://rutgers.ca1.qualtrics.com/jfe/form/SV_0UqGfGjgsl2nklU), [flanker task training powerpoint](https://rutgers.box.com/s/fxwl23n2mdwpp7l784946we6cmu7po1x),[language task training powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)
 
 ---
 # Consent
 ## **SECTION 1: Consent**
 
-Welcome to imaging session of our study!
+*Welcome to imaging session of our study!*
 
-Before we start, I want to ask, did you drive yourself today? If so, did you have to pay any tolls or parking fees? [Record amounts of any fees, +$5 offset for gas costs, into subject log]
+- Ask about driving, log cost of transit or $5 offset
 
-Just to let you know, today I’ll be reading to you from a script, so we can make sure that all our participants are getting the same exact instructions. The first thing that we’ll do today is complete some paperwork. I’ll walk you through the consent form, which explains what the study is about and what you can expect. Feel free to ask questions at any point. If everything sounds good, then I’ll ask you to sign the form, and we’ll proceed with the experiment.
-
-You are invited to participate in a research study on individual differences in how the brain functions. We hope that this data will allow us to better understand the bigger questions of how people vary in their behavior, and how those variations come about.
-
- I'll give you a brief overview of our procedures, and then you can read more specifics in the consent form. 
-
-### **Protocol Overview**
-
-First, we're going to give you a collection of surveys, which will take about an hour, asking you about your mood, emotions, history, those types of things.
-
-*After that, I'll take you through some of the tasks that we're going to be doing just on my computer here, so that you know what to expect when we get into the MRI room.*
-
-*After that, we're going to walk down to the MRI room. I'm going to have you change into a scrub top, but you can keep your pants - anything from the waist down. You'll also take off your shoes before going into the scanner.* 
-
-*During today’s study, we’ll run a few different scans -- during these scans, we’ll ask you to lie as still as possible. You will also play do some simple tasks that we’ll go over in just a second. You'll also watch some short films, and a planet earth episode. 
-*
-*After the scan we're going to have a few more questionnaires which will take about 20 minutes.*
-
-*We anticipate that today’s session will take no more than 4 hours. After you’re all done today, you’ll be compensated with $60.*
-
-*If you want to stop at any time, just let me know.*
+*Just to let you know, today I’ll be reading to you from a script, so we can make sure that all our participants are getting the same exact instructions.*
 
 ## Sign PCX Consent Form (2nd time, have already signed before interview session)
 
-
-*Now we'll have you sign the same consent form again, as you signed before.* 
+*Now we'll have you sign the same consent form again, as you signed before for the Interview session.* 
 
 *For these sessions, you'll be paid in e-gift cards, which you can use with venmo, as a debit card on your phone (by adding it to your wallet), or as a debit card for any online purchse. You cannot transfer directly to your bank.*
 
@@ -111,7 +88,7 @@ First, we're going to give you a collection of surveys, which will take about an
 
 *The other part of the app is daily surveys where it will ask you about 10 questions every day. It'll pop up at 6pm but we can change that specific time. Then you'll answer questions about your mood and what you've been doing during the day.*
 
-*The reason that we are interested in this is because it can give us an insight into how people's behavior affects their mood and how different people with different brain profiles may have different activity patterns or mood relationships that we can investigate with this long-term data.*
+*The reason that we are interested in this is because it can give us an insight into how people's behavior affects their mood and how different people with different brain profiles may have different activity patterns or mood relationships that we can investigate with this long-term data*
 
 **[Have them read the second page and sign]**
 
@@ -129,9 +106,22 @@ First, we're going to give you a collection of surveys, which will take about an
 
 # Non-MRI Tasks (Can be done in any order, based on time)
 
+## Overview
+*First, I'll take you through some of the tasks that we're going to be doing in the scanner.*
+
+*After that, we're going to walk down to the MRI room. I'm going to have you change into a scrub top, but you can keep your pants - anything from the waist down. You'll also take off your shoes before going into the scanner.* 
+
+*During today’s study, we’ll run a few different scans -- during these scans, we’ll ask you to lie as still as possible. You will also play do some simple tasks that we’ll go over in just a second. You'll also watch some short films.*
+
+*After the scan we're going to have a few more questionnaires which will take about 20 minutes.*
+
+*We anticipate that today’s session will take 3 hours. After you’re all done today, you’ll be compensated with $60.*
+
+*If you want to stop at any time, just let me know.*
 
 
-## **SECTION 2: Self-Report Surveys
+
+## Self-Report Surveys
 
 *Now we're going to go to the first selection of surveys, which will take about 30 minutes. I'm going to set you up on this computer here, and then I'll leave the room. You can fill out the surveys, and I'll be right next door, so let me know if you have any questions or if you want any clarification on any of the questions.* 
 
@@ -141,7 +131,7 @@ First, I'll help with this first page. I'm going to tell you your de-identified 
 
 **[Leave room and go into room next door while they complete the survey]**
 
-## **SECTION 3: Tasks Instructions
+## Tasks Instructions
 
 *Now, I'm going to go over with you the tasks that we're going to do in the fMRI scanner so that you're familiar with them before we actually get into the scanner. Then, I'm also going to go over what exactly the MRI process will look like.*
 
@@ -156,7 +146,7 @@ Open up the language task in psychopy and have them try out doing the task.
 Training powerpoint if needed: [Language Task Training Powerpoint](https://rutgers.box.com/s/fmifnrlyfphs74nlsc2hdf6gdpmb3e32)
 
 
-## **SECTION 4: MRI Prep and Explanation**
+## MRI Prep and Explanation**
 
  *I'm going to explain what we're going to do when we head over to the MRI room, so that you can ask any questions now and not be caught off guard!*
 
@@ -198,70 +188,7 @@ If NO:
 ## **Researcher setting up Control Room**
 
 [While participant changes, go into scanner control room and set everything up]
-
-### In Scan Room:
-- Attach correct button box 
-- Turn on MONITOR/computer in back of the room, make sure it's in line with scanner
-- VOLUME:
-    Computer Volume at **Middle Level**
-    Scanner Laptop **Output Volume at Middle Level**
-    Speaker Volume at **¾ level** -- adjust to preference
-    Scanner Earphones (from the scanner computer menu– NOT the ‘earphones’ dial) at **FULL volume**
-    ***Any of these 4 places will affect overall output***
-
-
-### Glasses:
-- if the participant needs glasses, take the glasses box out of the cabinet and take out the eye test sheet.
-
-### Button box - control room:
-![Screenshot 2025-02-27 at 11.03.17 AM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_11.03.17_AM.png)
-
-- On silver control box mounted in the computer rack, press button and go through mode options to set the configuration:
-    - click dial -> change mode? Yes, Autoconfig, USB, HID Key **12345**
-    - if it’s stuck on something and wont change, go to the back and pull out the power cord, wait a second, and plug back in
-- Make sure console reads the following:
-    - USB 001 [NOT FLASHING]
-    - HHSC-1x4 - L
-    - HID KEY 12345”
-- ‘USB’ will be flashing on the screen if it’s not registering (will flash if computer is turned off or goes to sleep)
-
-### Setup Computer system:
-- Plug in scan laptop to the MRI-room computer cables
-    - **BOTH USB-C AND AUDIO JACK**
-- Click “LAP”
-![Screenshot 2025-02-27 at 2.55.54 PM.png](Scanning Session Script Rutgers 1a7cf00eb9368039b2e1fdbb181e277b/Screenshot_2025-02-27_at_2.55.54_PM.png)
-
-### On Scanning Computer
-**For details on the explanation, overview and setup of tasks, and running fMRI tasks for the first time, see this tutorial: [SOP Running fMRI Tasks](https://rutgers.box.com/s/m8wlwxw0vnl45fs0o3k6jb3my5dc91my)**
-
-- OPEN ALL PsychoPy Scripts in Coder view
-    Filepath: [Box-Box/Holmes_Lab_Wiki/PCX_Round2/MRI/In_scanner_tasks](https://rutgers.box.com/s/qkqr45kfk22q1a3s32qxj8r15022n7ig)/<task_name>
-    - [sound_check.py](https://rutgers.box.com/s/7vb8o2k0jbopamg3zukksjcxy1aiqktk)
-    - [flanker_task_TCP_250407.py](https://rutgers.box.com/s/cpomqh7ehr7zcbdtiwutdqqgp2j6a56l)
-    - [language.py](https://rutgers.box.com/s/928zafyoy6zr2czooyzvizlw3ir6bnqq)
-    - [PlayTheElevator.py](https://rutgers.box.com/s/comr04gp5quujiudreoef8ci35qke96d)
-    - [PlayMomentous.py](https://rutgers.box.com/s/comr04gp5quujiudreoef8ci35qke96d)
-    
-- Cancel any other processes or apps running on the scanning laptop
-- Make sure it’s set to no-sleep
-- Have it on charger
-
-- OPEN [fixation cross image](https://rutgers.box.com/s/jbkipzmw6pusy9b8421t77s30pgb9l3h) in full screen on the monitor
-
-
-
-
-### **Once the participant arrives to control room:**
-
-Verbally scan participant:
-- You have no implants, other than [list any approved ones from the screener sheet]? No medical patches? No insulin patches or medicine pumps? 
-- You've taken out any hearing aids, removable dental things, dentures, hair extensions? 
-- You don't have anything in your pockets?
-
-If they need glasses: 
-- Have them try differetn prescriptions from the glasses box
-- Test them on the eye test sheet. 
-
+ 
 
 ## **SECTION 6: Situating the participant in the scanner**
 
@@ -269,12 +196,7 @@ If they need glasses:
 
 
 ### Before starting scan:
-Explain the emergency ball
-Explain we want to make them comfortable, cushions
-Explain the speaker– it’s like a radio, I can’t hear you when I talk
-Explain the scanner – it’s like an old camera
-Explain the head coil – it’s like a football helmet
-Explain MOVING FEET = HEAD MOVES 
+
 
 Example script:
 *As a reminder, we’re using the scanner to take pictures of your brain, it is super important that you remain as still as possible while the scans are in progress; if you move too much, the images will be blurry and unusable. And of course, regular breathing and swallowing is totally fine.*

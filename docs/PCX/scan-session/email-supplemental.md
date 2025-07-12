@@ -5,7 +5,7 @@ nav_enabled: true
 ---
 Dear   ,
 
-Here is the link to the supplemental battery of self-report questions we discussed at the session: https://rutgers.ca1.qualtrics.com/jfe/form/SV_08nF8tsZ4NU0rWe?SUBJECT_ID=`enter subject ID`
+Here is the link to the supplemental battery of self-report questions we discussed at the session: https://rutgers.ca1.qualtrics.com/jfe/form/SV_08nF8tsZ4NU0rWe?SUBJECT_ID=`enter subject PCXID`
 
 Subject ID: `paste qualID`
 

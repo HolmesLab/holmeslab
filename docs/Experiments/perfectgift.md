@@ -5,7 +5,9 @@ title: Subject Payments
 
 # Tutorial: Buying Gift Cards from PerfectGift
 
-💡 Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8pyb4a68mnbbk5086btj)
+Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8pyb4a68mnbbk5086btj)
+
+</aside>
 
 Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
 
@@ -18,29 +20,42 @@ Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers
 3. Payment method: ACH
 4. If buying physical cards, for free shipping: use promotional code “RUTGERS”
 5. Submit the order (that will automatically generate a PDF invoice.)
-    ![invoice.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/invoice.png)
-
-6. Download the invoice and save it to box folder [Perfect Gift](https://rutgers.box.com/s/jx2fmd1xgtbz4e0q7pu33jcgzv21mrby) (in Lab_admin > Purchasing and Reimbursement)
-![view_invoice.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/view_invoice.png)
-
-7. Go to Marketplace and create a Check Request  Attach Invoice (from step 5) to Check Request as required backup.
+    
+    ![Screenshot 2025-05-06 at 12.44.27 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.27_PM.png)
+    
+    1. Order number = invoice number
+    2. View invoice
+        
+        ![Screenshot 2025-05-06 at 12.44.32 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.32_PM.png)
+        
+    3. Download the invoice and save it to box folder [Perfect Gift](https://rutgers.box.com/s/jx2fmd1xgtbz4e0q7pu33jcgzv21mrby) (in Lab_admin > Purchasing and Reimbursement)
+6. Make a folder in /Purchases Tracking/PerfectGift/ named the DATE of this submission. Add the invoice PDF
+7. Make a copy of [Questionnaire for the Management of Funds Form](https://rutgers.box.com/s/c6zrpzdx2h9kp0hgjjyn5md8vvnp69hw), fill in DATE and AMOUNT, add it to the folder 
+8. Go to Marketplace and create a Check Request  Attach Invoice (from step 5) to Check Request as required backup.
     1. Supplier: Perfect Gift LLC
     2. Commodity Code: Gift Cards
     3. Type of Payment: Invoice
-    4. Justification: This is for subject payments for MRI and survey sessions for subjects in the PCX and Conte studies 
-    5. Invoice #/Payment Identifier: Order # from [PerfectGift.com](http://PerfectGift.com) / Invoice Number from invoice  (same number)
-    ![check_request](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/check_request.png)
+    4. Invoice #/Payment Identifier: Order # from [PerfectGift.com](http://PerfectGift.com) / Invoice Number from invoice  (same number)
+    5. ATTACH:
+        1. invoice-funds-<number>.pdf
+        2. [Questionnaire for the Management of Funds Form](https://rutgers.box.com/s/c6zrpzdx2h9kp0hgjjyn5md8vvnp69hw).xlsx
     
-7. Department and Accounts Payable Check Request team must approve the Check Request. Once approved by all parties, Payment will be releasedto the provider on the next Payment Run (Tuesday & Thursday every week).
-8. Once RU sends the money, PerfectGift will process immediately or next-day
-9. On your perfectgift account, you can see your in progress/submitted orders whether the cards have been shipped
-10. Once provider receives payment, the order is fulfilled.
+    Image reference:
+    
+    ![check-request.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/check-request.png)
+    
+9. Press ‘add and go to cart’ 
+10. Accounting codes (normal, except):
+    1. Expenditure type: **54160** (Services Human Subjects)
+11. Department and Accounts Payable Check Request team must approve the Check Request. Once approved by all parties, Payment will be released to the provider on the next Payment Run (Tuesday & Thursday every week).
+12. Once RU sends the money, PerfectGift will process immediately or next-day
+    1. On your perfectgift account, you can see your in progress/submitted orders whether the cards have been shipped
+13. Once provider receives payment, the order is fulfilled— you will get an email, and you can download the excel sheet which has this information:
 
-
-
-
-
---- 
+| Product description | Amount | Date Processed | Delivery Link | Secret Code | Card Number | PIN | Expiration Date |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+1. Move this downloaded sheet into: /Box-Box/(Restricted)_PCR/PCR_Holmes/PerfectGift/PerfectGift Downloads
+2. Copy the links and codes into: Box-Box/(Restricted)_PCR/PCR_Holmes/Payment_tracking.xlsx
 
 ### Perfect Gift Info
 
