@@ -3,27 +3,46 @@ title: Email - Payment Instructions
 parent: Script - MRI Session
 nav_enabled: true 
 ---
-Dear   ,
+
+Dear  ENTER NAME ,
+**ENTER PAYMENT LINK
+**ENTER CODE
 
 Thank you so much for attending the MRI session at the Holmes Lab! We really appreciate your time.  
 
-Here are the payment details from your scan and self-report battery today ($60). We’ll send you another $30 once you finish the supplemental survey. Additionally, we’ll send payments based on how many surveys you complete each month. These will come the second week of the month for the previous month. 
-
-The payments are Visa gift cards, which means they can be used just like a debit card. They can be added to your apple wallet/google wallet to be used with tap-to-pay, and can also be used for any payment online. 
+Here are the payment details from your scan and self-report battery today ($60).
 
 
-INSTRUCTIONS: 
+## Instructions: 
 Steps to Access Your $60 Visa eCard:
-
 1. Click on the link below and enter in the 4-digit code:
 Code: 
 Card link: 
-
 2. You’ll see a card number, CVC and an expiration date. Use those numbers to follow the below instructions and add the card to your wallet. For example:
+![card](pergectgift_card.png)
+This card value will update with the current value, so you can check how much is left on your card. 
 
-🧑‍💻 You can use this card number to purchase anything online, just as you would with any debit or credit card! 
+## Payment Information:
+- The payments are Visa gift cards, which means they can be used just like a debit card. They can be added to your apple wallet/google wallet to be used with tap-to-pay, and can also be used for any payment online. 
+- Important: “Name on Card” and “Billing Address” are non-specific- you can put anything for ’name on card’, and you can put any valid US address for Billing Address.
 
-📲 You can also add this card to your Apple or Google wallet, and use it with tap-to-pay:
+
+
+### **How to use our e-Gift cards**:
+-> 📲 Follow steps below to add the card to your Google or Apple wallet. Then you can use it with Tap-To-Pay (select “Credit” when using Tap-To-Pay)
+-> 🧑‍💻 You can also use this card number directly to purchase anything online, just as you would with any debit or credit card 
+-> You can also press “Get a Plastic Card” and follow the prompts to have a plastic card sent to an address ($5 fee)
+
+### **How to use multiple e-Gift cards to combine for a single payment**:
+- Load any balance into an Amazon gift card. (By adding your PerfectGift card number to Amazon, and purchasing an amazon gift card with the amount of the card selecting the PerfectGift cards as the payment method) This can then be used on any purchase to decrease the cost by the amount of gift card balance you have. 
+
+- For in-store purchases, tell the cashier you’d like to split across multiple cards
+in many in-store settings, you can split a payment across multiple cards, especially if you notify the cashier beforehand. Retailers like CVS, Macy's, and Walmart are known to allow this, though online purchases are less likely to support split payments between multiple credit cards directly, often requiring alternative solutions like gift cards or third-party payment services. 
+
+### **How to split payments in-store:**
+1. Inform the cashier: Let the cashier know you'd like to split the payment across multiple cards before they start processing the transaction. 
+2. Provide cards sequentially: You can typically present the first card to cover part of the total, then the second card for the remaining balance.
+
 
 
  Steps to Add Your Card to Apple Wallet Manually
