@@ -9,9 +9,9 @@ Dear ENTER NAME,
 **change uber/driving
 ** add address
 
-Thank you for booking an MRI session! Your session has been confirmed  for ENTER DATE. In this email you will find more information about your upcoming MRI visit.
+Thank you for booking an MRI session! Your session has been confirmed  for ENTER DATE. In this email you will find more information about your upcoming MRI visit.  
 
-This email will also be sent 2 days prior to your visit, for confirmation.
+This email will also be sent 2 days prior to your visit, for confirmation.  
 
 Reminders for this visit: 
 The visit begins at ENTER DATE with check-in at the Center for Advanced Human Brain Imaging Rutgers University in Piscataway, NJ. We will go over the consent form and  you will fill out some questionnaires for about 30mins. The MRI will last approximately 1.5 hours, followed by a short computer task. This visit will be approximately 3h 15mins.
