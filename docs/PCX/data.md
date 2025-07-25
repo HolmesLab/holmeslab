@@ -2,7 +2,8 @@
 title: Data Pipeline
 parent: Psychiatric Connectomics
 nav_enabled: true
-nav_order: 1
+nav_order: 4
+
 ---
 
 # Data Pipeline

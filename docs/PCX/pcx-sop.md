@@ -1,7 +1,7 @@
 ---
 title: Full Procedure
 parent: Psychiatric Connectomics
-nav_order: 1
+nav_order: 2
 ---
 # Full PCX Statement of Procedure
 Last Updated: Apr 28, 2025  

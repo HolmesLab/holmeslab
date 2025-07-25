@@ -2,7 +2,7 @@
 title: IRB Structure
 parent: Psychiatric Connectomics
 has_toc: true
-nav_order: 3
+nav_order: 6
 ---
 
 ---

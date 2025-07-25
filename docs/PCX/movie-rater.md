@@ -2,6 +2,7 @@
 title: Movie Rater Website
 parent: Psychiatric Connectomics
 nav_enabled: true 
+nav_order: 50
 ---
 
 # Movie Rater Application

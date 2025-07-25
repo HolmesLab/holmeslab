@@ -2,6 +2,7 @@
 title: Download MRI Data from Flywheel
 parent: Psychiatric Connectomics
 nav_enabled: true
+nav_order: 9
 ---
 # Downloading PCX MRI Data from Flywheel 
 

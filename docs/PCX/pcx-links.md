@@ -2,7 +2,7 @@
 title: Quick Links
 parent: Psychiatric Connectomics
 has_toc: true
-nav_order: 4
+nav_order: 1
 ---
 
 # PCX Links
