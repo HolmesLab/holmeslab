@@ -67,12 +67,13 @@ Updated: Jun 30, 2025
 *You'll be paid $60 for the 2.5 hours of MRI and surveys at the MRI session, and will receive a link to do an additional 1hr of surveys at home, for an additional $30*
 
 *There is also an optional smartphone tracking component, where you would be paid based on the number of DAILY surveys you complete:*
-        - $5 for 5-9 survey days completed 
-        - $10 for 10-14 survey days completed
-        - $15 for 15-19 survey days completed
-        - $30 for 20-24 survey days completed
-        - $35 for 25+ survey days completed
-*This would last for up to 6 months ($210 total for the smartphone component). However, you can uninstall the app at any time if you would like to leave the study.*
+- $5 for 5-9 survey days completed 
+- $10 for 10-14 survey days completed
+- $15 for 15-19 survey days completed
+- $30 for 20-24 survey days completed
+- $35 for 25+ survey days completed
+
+*This would last for up to 6 months ($210 total for the smartphone component). You can uninstall the app at any time if you would like to leave the study.*
 
 
 **Signature Boxes:**
@@ -88,11 +89,11 @@ Updated: Jun 30, 2025
 
 *The other part of the app is daily surveys where it will ask you about 10 questions every day. It'll pop up at 6pm but we can change that specific time. Then you'll answer questions about your mood and what you've been doing during the day.*
 
-*The reason that we are interested in this is because it can give us an insight into how people's behavior affects their mood and how different people with different brain profiles may have different activity patterns or mood relationships that we can investigate with this long-term data*
-
 **[Have them read the second page and sign]**
 
 *Then the form discusses risks and benefits. Then the third signature is the main part of the study. It involves the surveys today, the supplemental survey, and the MRI scan. It also involves allowing us to share your private health information, including identifiable information such as your name, with only the groups listed.*
+
+*You won't get any further contact from our group about your scan unless there was an anomaly found, which is super rare. In that case we'd only contact if a clinical radiologist determines there is a concern.*
 
 **[Have them read the third page and sign]**
 
@@ -100,6 +101,8 @@ Updated: Jun 30, 2025
 ### **Data Privacy**
 
 *All of the data we collect in this study will be de-identified and stored securely in our lab, to protect your privacy. So instead of your name, all your data will be associated with a numerical ID, and the link to your name is stored on a protected, HIPAA-compliant document. So even when sharing with collaborators or other researchers, we'll never disclose your personal information.  The only people who could see things like your name, your birthday, your email, would be people who are directly staffed in this lab.* 
+
+
 
 
 ---

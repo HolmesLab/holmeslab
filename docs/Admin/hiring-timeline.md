@@ -109,9 +109,9 @@ Date: May 1, 2025 1:27 PM
 3. Look over benefits information before orientation, so you can ask any questions then
     1. [Benefits for Full-Time Employees](https://uhr.rutgers.edu/benefits/enrolling-benefits-full-time-employees)
 4. New employees should complete section I of the I-9 by the end of their first day of employment. A list of acceptable documents needed for the I-9 can be found [here](https://uhr.rutgers.edu/docs/acceptable-documents).
-5. Within a few days, you should also receive a link in your email to activate your NetID.
-    1. Then activate your [Rutgers NetID](http://netid.rutgers.edu/)
+5. You should also receive a link in your email to activate your NetID. If you don't you can still try to activate your netID on this link:  [Rutgers NetID](http://netid.rutgers.edu/)
         1. Make sure your password is secure but also memorizable- you have to enter it a LOT
+        2. Send your netID to the lab manager
 
 Time this takes: I would give 2 business days minimum for this, including getting and activating NetID and getting parking pass from Holmes Lab.
 
