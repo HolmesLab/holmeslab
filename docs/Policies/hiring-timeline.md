@@ -1,6 +1,6 @@
 ---
 layout: minimal
-parent: Rutgers Admin
+parent: Lab Policies
 title: Hiring and Onboarding Timeline
 nav_enabled: true
 ---
@@ -16,7 +16,6 @@ Date: May 1, 2025 1:27 PM
 
 
 ***Important notes:***
-
 - Healthcare coverage doesn’t start until 2 months after your start date
 - Background check process can take up to 15 business days (3 weeks)
 - After background check, 1-2 health visits are necessary to do a physical and TB exposure testing, usually in person in New Brunswick (see below)
@@ -117,8 +116,12 @@ Time this takes: I would give 2 business days minimum for this, including gettin
 
 
 ## Admin Tasks: First Week of Work
-1. Attend orientation process, receive ID
-2. Register for parking permit if you want to, though many Holmes Lab members park in a nearby residential area as parking is not free or reimbursed by Rutgers. See parking details in this doc: [Transit and Transportation on Rutgers NB Campus](https://rutgers.box.com/s/oubs9ulm23qwxuy85ahbe2yvcz7fn46c)
+1. Attend NEO orientation process at [ASB II Community Rm, Cook Campus](https://maps.rutgers.edu/#/?lat=40.47905763686789&lng=-74.42473878480922&selected=7599), receive physical ID
+- If you weren't able to upload a photo before your New Employee Orientation, you won't be able to pick up your physical ID at NEO. But once you submit a photo, you'll be told when your ID will be ready. You'll go pick it up at the same building where NEO was ([ASB II Community Rm, Cook Campus](https://maps.rutgers.edu/#/?lat=40.47905763686789&lng=-74.42473878480922&selected=7599))
+- For any questions about orientation, contact [neo@hr.rutgers.edu](mailto:neo@hr.rutgers.edu)
+2. Reach out to CAHBIR support (cahbir-support#rutgers.edu)[mailto:cahbir-support@rutgers.edu], providing your name and NetID, and request to get card access to CAHBIR. 
+- CC Avram and lab manager
+2. Register for parking permit if you want to (though many Holmes Lab members park in a nearby residential area as parking is not free or reimbursed by Rutgers). See parking details in this doc: [Transit and Transportation on Rutgers NB Campus](https://rutgers.box.com/s/oubs9ulm23qwxuy85ahbe2yvcz7fn46c)
 3. Set up direct deposit to your bank in [My Rutgers Portal](https://my.rutgers.edu/portal/render.userLayoutRootNode.uP?uP_root=root&uP_sparam=activeTab&activeTab=2) on your profile
 4. Check out apps and information in [My Rutgers Portal](https://my.rutgers.edu/portal/render.userLayoutRootNode.uP?uP_root=root&uP_sparam=activeTab&activeTab=2)
 5. Activate tools in RU Tools [https://tools.rutgers.edu/manage/services](https://tools.rutgers.edu/manage/services)
