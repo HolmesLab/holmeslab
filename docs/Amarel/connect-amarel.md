@@ -4,8 +4,16 @@ parent: Amarel Computing
 nav_enabled: true 
 nav_order: 1
 ---
+## Set up Amarel
+1. Request Amarel account (linked to your netID) by filling out this form: https://oarc.rutgers.edu/amarel-cluster-access-request/
+- PI name = Avram Holmes
+- Campus = Piscataway
+- Department = Center for Advanced Human Brain Imaging Research
+2. Request access to our lab partition on Amarel "/projects/f_ah1491_1" and "/scratch/f_ah1491_1" by emailing help@oarc.rutgers.edu and CC'ing Avram and lab manager 
+3. Set up VPN if not on Rutgers wifi -- [VPN Setup Tutorial](https://holmeslab.github.io/holmeslab/docs/Amarel/rutgers-vpn/)
 
-# Connecting to Amarel in Terminal
+## Connect to Amarel 
+### Connecting to Amarel in Terminal
 1. **Connect to VPN on Cisco Anyconnect App** [Tutorial](https://holmeslab.github.io/holmeslab/docs/Amarel/rutgers-vpn/)
 
     1. fill in on Cisco Anyconnect app:
@@ -26,12 +34,16 @@ conda activate /projects/community/holmesenv
 ```
 
 
-# Connecting to Amarel on your Browser
+### Connecting to Amarel on your Browser
 1. **Connect to VPN on Cisco Anyconnect App** [Tutorial](https://holmeslab.github.io/holmeslab/docs/Amarel/rutgers-vpn/)
 2. Go to [https://ondemand.hpc.rutgers.edu](https://ondemand.hpc.rutgers.edu/)
 3. Select 'Files' > 'Home Directory' to browse, edit, download, upload and view files on Amarel from your browser
 ![files](ondemand/files.png)
 
+## Use Amarel
+### Slurm Jobs
+To run computing jobs from the terminal using Amarel resources, the process uses slurm. [Here is a tutorial on how to create and submit slurm jobs.](https://holmeslab.github.io/holmeslab/docs/Amarel/slurm-jobs-tutorial/)
+ 
 ### Edit and Run Jupyter Notebooks in Amarel
 1. Follow steps 1-2 of **Connecting to Amarel on your Browser**
 2. In the toolbar, select 'Interactive Sessions' > 'Personal Jupyter'
