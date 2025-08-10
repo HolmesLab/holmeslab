@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Lab Policies
-nav_order: 1
+nav_order: 2
 ---
 
 
