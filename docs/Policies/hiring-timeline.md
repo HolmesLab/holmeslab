@@ -97,43 +97,42 @@ Date: May 1, 2025 1:27 PM
     2. Should be a few days to a week from the date you send the email requesting the start date, so you have time to do the pre-Orientation tasks and get your NetID
 14. They will respond with whether that start date is accepted (they have to check with the department of Psychiatry, but it shouldn't take more than a day)
     1. Time this takes: 1 business day
-15. Once it is confirmed, you will receive information in your email:
-
-
+15. Once it is confirmed, **you will receive an email like this** in your inbox:
 <details markdown="block">
 <summary>Email you'll receive (click me!)</summary>
-Hi [name],
- 
-I received confirmation that your start date will be [START DATE].  Attached, please find your final offer letter for review and signature.  Please scan/e-mail back to me as soon as possible (all pages in PDF document/attachment).  Additionally, I’ve attached a Getting Started memo which provides you with some information for your first day/week.  Once your new hire paperwork has been processed into our HR system, you will receive an e-mail sent to your personal e-mail address to activate your NetID.  You will first need to activate your NetID in order to do anything else, such as, obtain an employee ID card, sign up for parking, and access your employee portal to complete your W-4 forms and sign up for direct deposit.  Please note, your employee portal will not be available to access until on or after your start date.  Please see attached for more detail on all of this information.  
- 
-I am going to sign you up to attend HR orientation for [DATE], at the Administrative Services Building II – 57 Route 1, New Brunswick, NJ from 9 am-12 pm.  
-**Please see the attached instructions for the I9. You do not need to use a notary if not easily acceptable. You can use a co-worker, family member, etc.**. 
- You are required to complete an I-9/E-Verify process before your start date. Due to the current circumstances regarding COVID-19, we are no longer conducting in-person meetings for the I-9 process. At this time we are allowing a remote hire, which allows a new employee to remotely complete Section I of their I-9 and have a local outside agent complete Section II on Rutgers’ behalf with the employee in person. I attached to this email, the appropriate legal documents to use for this process.  
-The employee could use their current employer’s local HR Department, Notary Public, or Attorney.  They must be trustworthy, as they will be representing the University in the I-9 process. *Under the circumstances raised by COVID-19, if no other option is available, DHS (Department of Homeland Security) will consider a family or household member to act as a remote agent. You are liable for any violations in connection with the form or the verification process, including any violation of the employer sanctions laws committed by the person designated to act your behalf. If no agent can be found, contact UHR.*. 
-Once you have found a remote agent to assist you, I will need you to provide the following:  
-Remote Agent’s
-- Full Name
-- Work Address [physical address, do not use a P.O. Box]
-- Job Title / Department (you can specify if it is a family member.)
-- Telephone Number
-- E-mail 
- 
-Next Steps:
-UHR will use provided information to send out a Guardian System e-mail to the new employee to complete Section I electronically and to the Remote Agent to complete Section II electronically with the employee in person with their original documents.
-New Employee completes Section I of I-9 Form electronically using their remote e-mail link. Review the List of Acceptable documents.
-New Employee goes to Remote Agent in person with original documents and agent completes Section II using their remote e-mail link. If you are using a US Passport or any item from column A, the system may alert you to scan and attach the document after completing section II (If you do not own a scanner, I suggest using documents from column B and C).
-New Employee alerts their Department I-9 Preparer/Hiring Manager to complete the rest of the I-9 process.
-Thanks,
-Mindy
+    Hi [name],
+    
+    I received confirmation that your start date will be [START DATE].  Attached, please find your final offer letter for review and signature.  Please scan/e-mail back to me as soon as possible (all pages in PDF document/attachment).  Additionally, I’ve attached a Getting Started memo which provides you with some information for your first day/week.  Once your new hire paperwork has been processed into our HR system, you will receive an e-mail sent to your personal e-mail address to activate your NetID.  You will first need to activate your NetID in order to do anything else, such as, obtain an employee ID card, sign up for parking, and access your employee portal to complete your W-4 forms and sign up for direct deposit.  Please note, your employee portal will not be available to access until on or after your start date.  Please see attached for more detail on all of this information.  
+    
+    I am going to sign you up to attend HR orientation for [DATE], at the Administrative Services Building II – 57 Route 1, New Brunswick, NJ from 9 am-12 pm.  
+    **Please see the attached instructions for the I9. You do not need to use a notary if not easily acceptable. You can use a co-worker, family member, etc.**. 
+    You are required to complete an I-9/E-Verify process before your start date. Due to the current circumstances regarding COVID-19, we are no longer conducting in-person meetings for the I-9 process. At this time we are allowing a remote hire, which allows a new employee to remotely complete Section I of their I-9 and have a local outside agent complete Section II on Rutgers’ behalf with the employee in person. I attached to this email, the appropriate legal documents to use for this process.  
+    The employee could use their current employer’s local HR Department, Notary Public, or Attorney.  They must be trustworthy, as they will be representing the University in the I-9 process. *Under the circumstances raised by COVID-19, if no other option is available, DHS (Department of Homeland Security) will consider a family or household member to act as a remote agent. You are liable for any violations in connection with the form or the verification process, including any violation of the employer sanctions laws committed by the person designated to act your behalf. If no agent can be found, contact UHR.*. 
+    Once you have found a remote agent to assist you, I will need you to provide the following:  
+    Remote Agent’s
+    - Full Name
+    - Work Address [physical address, do not use a P.O. Box]
+    - Job Title / Department (you can specify if it is a family member.)
+    - Telephone Number
+    - E-mail 
+    
+    Next Steps:
+    UHR will use provided information to send out a Guardian System e-mail to the new employee to complete Section I electronically and to the Remote Agent to complete Section II electronically with the employee in person with their original documents.
+    New Employee completes Section I of I-9 Form electronically using their remote e-mail link. Review the List of Acceptable documents.
+    New Employee goes to Remote Agent in person with original documents and agent completes Section II using their remote e-mail link. If you are using a US Passport or any item from column A, the system may alert you to scan and attach the document after completing section II (If you do not own a scanner, I suggest using documents from column B and C).
+    New Employee alerts their Department I-9 Preparer/Hiring Manager to complete the rest of the I-9 process.
+    Thanks,
+    Mindy
 </details>
 
-    1. Final Offer Letter (to review, sign and send back)
-    2. I-9/E-Verify process
-    - You'll have to respond with the name and contact information of someone who can verify your filling out of the I9 as a 'remote agent' (friend/family member, anyone who can be physically in person with you)
-    - You and the remote agent will both get emails
-    - You'll both sign and submit the I9 information
+1. Final Offer Letter (to review, sign and send back)
+2. I-9/E-Verify process
+- You'll have to respond with the name and contact information of someone who can verify your filling out of the I9 as a 'remote agent' (friend/family member, anyone who can be physically in person with you)
+- You and the remote agent will both get emails
+- You'll both sign and submit the I9 information
 
-    2. Your scheduled New Employee Orientation (New Employee Orientation sessions will be held each Monday at 8:30 a.m.- Noon in the University Human Resources Community Room, ASB II on the G.H. Cook Campus.)
+2. Your scheduled New Employee Orientation (New Employee Orientation sessions will be held each Monday at 8:30 a.m.- Noon in the University Human Resources Community Room, ASB II on the G.H. Cook Campus.)
+
 16. You'll receive another email about the date of your New Employee Orientation (NEO), with all the relevant New Hire materials and information.
     1. This will be on the closest MONDAY to your start date
 
