@@ -12,6 +12,7 @@ Last updated: Aug 2025
 
 ## Technical onboarding
 - Join Holmes slack and possibly CAHBIR slack
+- Download box drive and request to be added to lab box (or, if you're an undergrad, ask your advisor for what folders to be added to)
 - Broadly overview our lab wiki https://holmeslab.github.io/holmeslab/
 - Get swipe access for CAHBIR building -- have the lab manager email `cahbir-support#rutgers.edu` 
 - Request Amarel account (linked to your netID) by filling out this form: https://oarc.rutgers.edu/amarel-cluster-access-request/
