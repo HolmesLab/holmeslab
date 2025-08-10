@@ -3,7 +3,7 @@ layout: minimal
 title: Lab Policies Manual
 parent: Lab Policies
 nav_enabled: true
-nav_order: 3
+nav_order: 1
 ---
 
 # Policies and Advising Manual
