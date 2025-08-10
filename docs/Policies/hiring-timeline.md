@@ -100,8 +100,8 @@ Date: May 1, 2025 1:27 PM
 15. Once it is confirmed, you will receive information in your email:
 
 
-| `<details markdown="block">
-<summary>EMAIL YOU'LL RECEIVE (click me!)</summary>
+`<Email: markdown="block">
+<summary>(click me!)</summary>
 Hi Kaley,
  
 I received confirmation that your start date will be [START DATE].  Attached, please find your final offer letter for review and signature.  Please scan/e-mail back to me as soon as possible (all pages in PDF document/attachment).  Additionally, I’ve attached a Getting Started memo which provides you with some information for your first day/week.  Once your new hire paperwork has been processed into our HR system, you will receive an e-mail sent to your personal e-mail address to activate your NetID.  You will first need to activate your NetID in order to do anything else, such as, obtain an employee ID card, sign up for parking, and access your employee portal to complete your W-4 forms and sign up for direct deposit.  Please note, your employee portal will not be available to access until on or after your start date.  Please see attached for more detail on all of this information.  
@@ -125,7 +125,7 @@ New Employee goes to Remote Agent in person with original documents and agent co
 New Employee alerts their Department I-9 Preparer/Hiring Manager to complete the rest of the I-9 process.
 Thanks,
 Mindy
-</details>`
+</Email:>
 
     1. Final Offer Letter (to review, sign and send back)
     2. I-9/E-Verify process
