@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Books
+title: Neuroscience Books
 parent: Resources
 nav_enabled: true
 ---

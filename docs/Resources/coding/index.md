@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Coding
+title: Neuroscience + Research Coding
 parent: Resources
 nav_enabled: true
 ---
