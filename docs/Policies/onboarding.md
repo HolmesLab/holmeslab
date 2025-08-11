@@ -31,12 +31,11 @@ Last updated: Aug 2025
 - Sign up for relevant listservs (see Email lists section below the shared calendars section from link above)
 - Set up a reference/citation/paper manager if you don’t have one already. Free (or covered by RU) options = EndNote, Zotero. Other = Paperpile. All will have browser extensions.
 
-Training
+## Lab Training
+- If full-time: Set up a meeting with each of the graduate students and postdocs in the lab to hear about their research!
 - Go through Amarel Computing section on lab wiki in detail 
 - Go through Lab Policies section on lab wiki in detail 
-- Set up time for L1 training for fMRI scanner 
-- See [CAHBIR MRI Suite section](https://holmeslab.github.io/holmeslab/docs/Experiments/mri/) under Running Experiments in lab wiki ([Sign up here](https://sites.rutgers.edu/cahbir/level-1-training-signups-open/))
-- Go through Open Source Data section on lab wiki in detail, with special focus on NDA section 
+- Set up time for L1 training for fMRI scanner (See [CAHBIR MRI Suite section](https://holmeslab.github.io/holmeslab/docs/Experiments/mri/) under Running Experiments in lab wiki & [sign up here](https://sites.rutgers.edu/cahbir/level-1-training-signups-open/))
 - See lab wiki Resources section for materials on coding, grant writing, etc.; decide what’s relevant for you
 - Go through initial literature review papers recommended below
     - Note from Carrisa: recommend reading each paper 1-3 times and taking notes, including questions to talk with me about. If a particular concept/method is either confusing or otherwise interesting to you, I recommend going to the reference(s) cited in the paper you’re reading, and add that paper to your TBR list as well. These “secondary” reads can be less extensive of course (e.g., maybe just reading abstract or results), or fully read through with notes etc. as well - totally tailored to you given your level of interest, gaps in understanding you may have, etc. 
