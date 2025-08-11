@@ -4,15 +4,15 @@ parent: Other Resources
 nav_enabled: true 
 ---
 
-# Neuroscience Books, Podcasts, TED Talks & Movies
+# [Books folder of textbooks in Holmes Lab Box](https://rutgers.box.com/s/5coxkl2ejtu1l01yefe1yhydzsrmz01l)
 
+# Pop Culture Neuroscience Books, Podcasts, TED Talks & Movies
 Recommendations by neuroscientists: general interest books, movies and other media about various topics in neuroscience.
 
-Adapted from [Aizenmann lab Google Doc](https://docs.google.com/document/d/1O5TLxTwemkVsYcV_yUZp9kZEN9NCVK9M9ldjMz16Id4/edit) & various other threads
+(Adapted by Kaley from [Aizenmann lab Google Doc](https://docs.google.com/document/d/1O5TLxTwemkVsYcV_yUZp9kZEN9NCVK9M9ldjMz16Id4/edit) & various other threads)
 
 ## Magazines and Publications
 - [The Transmitter](https://www.thetransmitter.org)
-
 
 ## Books
 
