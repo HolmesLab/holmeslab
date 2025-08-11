@@ -1,5 +1,5 @@
 ---
-title: Packages for fMRI Analysis
+title: Tools/Packages for fMRI Analysis
 parent: Coding
 nav_enabled: true 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Courses Online
+title: Pure Coding Courses Online
 parent: Coding
 nav_enabled: true 
 ---

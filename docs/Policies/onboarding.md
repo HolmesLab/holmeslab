@@ -40,7 +40,23 @@ Last updated: Aug 2025
 - Go through initial literature review papers recommended below
     - Note from Carrisa: recommend reading each paper 1-3 times and taking notes, including questions to talk with me about. If a particular concept/method is either confusing or otherwise interesting to you, I recommend going to the reference(s) cited in the paper you’re reading, and add that paper to your TBR list as well. These “secondary” reads can be less extensive of course (e.g., maybe just reading abstract or results), or fully read through with notes etc. as well - totally tailored to you given your level of interest, gaps in understanding you may have, etc. 
 
-## Literature review  
+## Literature review 
+- The TCP data collection paper (which we’re collecting ‘part 2’ of right now) just got published:
+    - The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry. Scientific Data, 12(1), 923. https://doi.org/10.1038/s41597-025-04895-z 
+- These 2 papers are good examples of the basic connection between ‘functional connectivity’ and various clinical/developmental factors which people analyze in the lab.
+    - Orchard ER Protective role of parenthood on age-related brain function in mid- to late-life.  [pdf]
+    - Qu Y, Distinct brain network features predict internalizing and externalizing traits in children, adolescents, and adults.  [pdf]
+- This paper combines a bunch of different methods used in the lab. 
+    - The human cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychosis. 
+    - Similar to Carrisa’s current work, and much of Avram’s interest. Looking at individuals with Psychosis, network and network reconfigurations and states using various methods.
+
+
+
+Big papers in the field:
+
+
+
+
 - Cocuzza, C. V., Chopra, S., Segal, A., Labache, L., Chin, R., Joss, K., & Holmes, A. J. (2025). Brain network dynamics reflect psychiatric illness status and transdiagnostic symptom profiles across health and disease. In bioRxiv (p. 2025.05.23.655864). https://doi.org/10.1101/2025.05.23.655864 
 - Chopra, S., Cocuzza, C. V., Lawhead, C., Ricard, J. A., Labache, L., Patrick, L. M., Kumar, P., Rubenstein, A., Moses, J., Chen, L., Blankenbaker, C., Gillis, B., Germine, L. T., Harpaz-Rotem, I., Yeo, B. T. T., Baker, J. T., & Holmes, A. J. (2025). The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry. Scientific Data, 12(1), 923. https://doi.org/10.1038/s41597-025-04895-z 
 - Reinen, J. M., Chén, O. Y., Hutchison, R. M., Yeo, B. T. T., Anderson, K. M., Sabuncu, M. R., Öngür, D., Roffman, J. L., Smoller, J. W., Baker, J. T., & Holmes, A. J. (2018). The human cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychosis. Nature Communications, 9(1), 1157. https://doi.org/10.1038/s41467-018-03462-y 
