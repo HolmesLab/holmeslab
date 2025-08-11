@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Learning Resources - Courses and Pages
+title: Learning
 nav_enabled: true
 ---
 
