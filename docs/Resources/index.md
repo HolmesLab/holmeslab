@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Learning
+title: Resources
 nav_enabled: true
 ---
 
