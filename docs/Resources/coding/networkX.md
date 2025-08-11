@@ -1,6 +1,6 @@
 ---
 title: NetworkX and PyTorch Basics
-parent: Coding
+parent: Neuroscience + Research Coding
 nav_enabled: true 
 ---
 

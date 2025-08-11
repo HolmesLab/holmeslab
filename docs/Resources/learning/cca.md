@@ -1,6 +1,6 @@
 ---
 title: Canonical Correlation Analysis
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 

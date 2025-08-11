@@ -1,6 +1,6 @@
 ---
 title: Dynamic Time Warping (DTW)
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 

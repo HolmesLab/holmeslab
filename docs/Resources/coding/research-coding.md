@@ -1,6 +1,6 @@
 ---
 title: Coding for Research
-parent: Coding
+parent: Neuroscience + Research Coding
 nav_enabled: true 
 ---
 

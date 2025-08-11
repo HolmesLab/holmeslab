@@ -1,6 +1,6 @@
 ---
 title: FreeSurfer Overview
-parent: Coding
+parent: Neuroscience + Research Coding
 nav_enabled: true 
 ---
 

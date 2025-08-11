@@ -1,6 +1,6 @@
 ---
 title: General Linear Model
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 

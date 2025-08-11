@@ -1,6 +1,6 @@
 ---
 title: File Types - Neuroimaging
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 

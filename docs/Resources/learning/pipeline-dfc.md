@@ -1,6 +1,6 @@
 ---
 title: Pipeline Outline for dFC Research
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 nav_order: 2
 ---

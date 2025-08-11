@@ -1,9 +1,9 @@
 ---
 layout: minimal
-title: Neuroscience Learning Resources
+title: Other Resources
 parent: Resources
 nav_enabled: true
 ---
 
-# Learning Resources
+# Miscellaneous Other Resources
 [Return to main website]({{site.baseurl}}/).

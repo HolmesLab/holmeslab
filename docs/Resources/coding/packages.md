@@ -1,6 +1,6 @@
 ---
 title: Tools/Packages for fMRI Analysis
-parent: Coding
+parent: Neuroscience + Research Coding
 nav_enabled: true 
 ---
 

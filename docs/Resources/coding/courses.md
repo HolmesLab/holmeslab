@@ -1,6 +1,6 @@
 ---
 title: Pure Coding Courses Online
-parent: Coding
+parent: Neuroscience + Research Coding
 nav_enabled: true 
 ---
 # Courses Online: Coding and ML

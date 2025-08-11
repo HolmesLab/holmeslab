@@ -1,6 +1,6 @@
 ---
 title: Shell Scripting Primer
-parent: Coding
+parent: Neuroscience + Research Coding
 nav_enabled: true 
 ---
 

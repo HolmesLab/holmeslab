@@ -1,10 +1,10 @@
 ---
 title: Books & Movies - Neuroscience
-parent: Learning
+parent: Other Resources
 nav_enabled: true 
 ---
 
-# Neuroscience Books & Movies
+# Neuroscience Books, Podcasts, TED Talks & Movies
 
 Date: May 29, 2024 2:27 PM
 

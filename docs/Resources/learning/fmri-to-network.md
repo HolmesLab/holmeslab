@@ -1,6 +1,6 @@
 ---
 title: fMRI → Network
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 

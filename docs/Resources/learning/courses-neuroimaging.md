@@ -1,6 +1,6 @@
 ---
 title: External Courses / Workshops
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pre-Processing fMRI Data
-parent: Learning
+parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 
