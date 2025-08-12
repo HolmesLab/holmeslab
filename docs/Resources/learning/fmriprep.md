@@ -6,11 +6,6 @@ nav_enabled: true
 
 # fMRIPrep Overview
 
-Parent item: Personal Work Notebook (https://www.notion.so/Personal-Work-Notebook-ec03daaf2ac048be88c6f12c933a3b16?pvs=21)
-Done: Done
-Doc Type: SOP/Doc
-Important Doc: No
-
 Documentation Webpage: 
 
 [https://fmriprep.org/en/stable/outputs.html 1](https://fmriprep.org/en/stable/outputs.html)

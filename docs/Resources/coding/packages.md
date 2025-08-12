@@ -14,8 +14,6 @@ Date: December 8, 2023 11:50 AM
 
 [Table of Tools for fMRI Analysis](https://sidchop.shinyapps.io/braincode_selector/) (by Sid Chopra, 2023)
 
-Table by Kaley:
-
 ## **Preprocessing:**
 
 - Reasons for distortion

@@ -14,7 +14,7 @@ Date: February 26, 2024 4:27 PM
 
 # Volume-based data
 
-## Nifti
+## Nifti (.nii, .nii.gz)
 
 - What does it store?
     - a rectangular matrix of image intensities from data that is organized in voxels
@@ -44,7 +44,7 @@ Date: February 26, 2024 4:27 PM
         - matlab: Niftiread
         - Python: nibabel Nifti module
 
-## Dicom
+## Dicom (.dcm)
 
 - What does it store?
     - Raw brain scan data that comes directly from the MRI scanner
@@ -67,8 +67,7 @@ Date: February 26, 2024 4:27 PM
         - MATLAB: dicomread
         - Python (limited support): pydicom, which is used as back-end for reading DICOMs in nibabel
 
-## mgh
-
+## .mgh
 - What does it store?
     - see above for Nifti
 - Acronym:
@@ -87,7 +86,7 @@ Date: February 26, 2024 4:27 PM
         - MATLAB: MRIread
         - Python: nibabel, freesurfer.io
 
-## minc
+## .minc
 
 - What does it store?
     - see above for Nifti
@@ -110,7 +109,7 @@ Date: February 26, 2024 4:27 PM
 
 # Suface-based data
 
-## Gifti
+## Gifti (.gii, .gii.gz)
 
 - What does it store?
     - surface-based data that is organized by vertices
@@ -143,7 +142,7 @@ Date: February 26, 2024 4:27 PM
         - Matlab: Gifti library
         - Python: nibabel Gifti module
 
-## Cifti
+## Cifti (.nii)
 
 - What does it store?
     - data organized in ‘brainordinates’

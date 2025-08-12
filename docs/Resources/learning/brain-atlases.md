@@ -61,35 +61,32 @@ So the voxels aren’t a network, the voxels get assigned to regions, and then n
 
 Common Atlases
 
-- Yeo atlas = Yeo regions = 400 yeo/shafer regions
-- Glasser atlas = mmp = multi-modal parcellation
-- 5 total popular partitions
-- using another researcher’s found partition is called “using a hard partition”
+- Yeo, 2011 atlas (aka 'Yeo regions' aka '400 yeo/shafer regions')
+- Glasser, 2013 atlas (aka MMP aka 'multi-modal parcellation')
+    - Using another researcher’s found partition is called “using a hard partition”
 
 What is the scale of this data?
 
-vertex
-
+Vertex
 - 160,000 vertices across a brain = the mesh
 - ‘vectorized topology’
 - taken down to 91,000 number of usable vertices
     - cortex/cortical vertices: 60,000
     - subcortical: 31,000
 
-functional connectivity matrices
-
+Functional Connectivity Matrices
 - usually at the region level
     - region-level analysis
 - since using 60,0000x60,0000 fc matrix would take forever to do a whole dataset
     - or you can choose specific regions or other ways to reduce the # of vertices
 - MVPA or RSA still use voxel- or vertex-level analysis
     - what pattern of activation is most related to some function/task
-- there’s also first- and second-level analyses aka task contrast
-    - this is for quality control
-    - to relate a specific region with a task
-    - that will use voxel- or vertex-level analysis
-        - statistical significance testing
-        - multiple comparison testing
+- There’s also first- and second-level analyses aka task contrast
+    - This is for quality control
+    - To relate a specific region with a task
+    - That will use voxel- or vertex-level analysis
+        - Statistical significance testing
+        - Multiple comparison testing
 
 - Parcellation: Brain Region Level
     - 100-500 regions
@@ -99,25 +96,7 @@ functional connectivity matrices
 - Brain networks
     - they take regions and connect them into networks
     - 5-20 networks
-    - people may say ‘partition’ for network
+    - People may say ‘partition’ for network
     - or may say ‘parcellation’ for network
     - or ‘atlas’
     
-    Coding 
-    
-    Nilearn:
-    
-
-- self code
-    - figure out how to access the access the 4D data
-    - figure out how to resample the atlas to the data
-    - create a dictionary nested datastructure for a single TR
-    - loop for all 1200 TR
-    - extract averages
-    - pearson’s correlation
-- nilearn:
-    - use Nilearn atlas to do datastructure
-    - extract averages
-    - pearson’s
-    
-    compare self-code to nilearn package

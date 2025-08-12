@@ -12,14 +12,6 @@ Course: [The Missing Semester of Your CS Education](https://missing.csail.mit.ed
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-📅  Courses
-
-- [x]  [Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
-- [x]  [Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
-
-[Github Primer](https://www.notion.so/Github-Primer-d3686c7bfac9415a9318b17f8bd82439?pvs=21)
-
-</aside>
 
 ### [Lecture 1: The Shell](https://missing.csail.mit.edu/2020/course-shell/)
 
@@ -204,5 +196,3 @@ echo "Result: $result"`
 Remember that the context in which the dollar sign is used determines its meaning, so its function can vary based on the situation in your Bash script.
 
 </aside>
-
-###

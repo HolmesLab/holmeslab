@@ -4,19 +4,13 @@ parent: Neuroscience Learning Resources
 nav_enabled: true 
 ---
 
-# Pre-Processing fMRI Data
+# Using HCP Pre-Processing Pipeline for fMRI Data
 
-Date: January 22, 2024 10:11 AM
+Sources: Glasser/HCP Preprocessing
+[A multi-modal parcellation of human cerebral cortex](https://www.nature.com/articles/nature18933)
+[The Minimal Preprocessing Pipelines for the Human Connectome Project](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720813/)
 
-Sources: Glasser/HCP Preprocessing** 
-
-[**A multi-modal parcellation of human cerebral cortex](https://www.nature.com/articles/nature18933) (2016)**
-
-[**The Minimal Preprocessing Pipelines for the Human Connectome Project](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720813/) (2014)**
-
-**other common pre-processing pipeline is “fMRI Prep”
-
-# Processing Pipeline: HCP fMRI Data
+**other common pre-processing pipeline is fMRI Prep
 
 ### Function of the Preprocessing Pipeline
 
@@ -49,10 +43,6 @@ Goals:
 - intersubject alignmnet that doesn’t require smoothing
 
 ## **METHODS**
-
-### Hardware specs
-
-(in paper)
 
 ### Data:
 
@@ -234,54 +224,3 @@ Output:
 - **Visualization and Further Analysis:**
     - Visualization of diffusion data with structural space surfaces and images in Connectome Workbench.
     - Potential use of structural space diffusion data for fiber orientation estimation with FSL’s multi-shell spherical deconvolution toolbox.
-
-### Terms or Themes (keywords and definitions)
-
-- Connectivity Informatics Technology Initiative (CIFTI) File Format
-    
-    file format to support [connectome-specific data representations](http://www.nitrc.org/plugins/mwiki/index.php/cifti:ConnectivityMatrixFileFormats)
-    
-    - data modeled on surface & grey matter data in volumetric parcels
-        - cortical surface vertices
-        - subcortical voxels
-    - + spatial dimension = “grayordinates”
-        - more precise than volumetrically aligned data
-        - same across subjects
-            - by using registration methods suited to aligning each domain
-    - created to be more compect representation of high spatial and temporal resolution MRI data
-    - combines left and right hemispheres, as well as cortical and subcortical parcels, into a single file for analysis
-    - datasets from different subjects have the same spatial dimensions
-    
-    includes: many 2D matrices
-    
-    - CIFTI Header: describing the structure/part of the brain that each row and column of the matrix correspond to
-    - grayordinates x time series (dense timeseries)
-    - grayordinates x grayordinates (dense Connectome)
-    - grayordinates x parcellation labels (dense Label file)
-
-- Grayordinates
-    
-    Modelling of grey matter data which saves space because it models surface and volume together (so there are less parcels for fully connected matrices) 
-    
-- White matter
-    
-    neural glia (non neuron)
-    
-    structural 
-    
-- gray matter
-    
-    where functinoal connectivity takes place
-    
-- cytoarchitecture
-    
-    cellular properties of that portion of cortex tends to be the same —defining a region based on a history of doing anatomy studies
-    
-- Dense Connectome
-    
-    Connectivity matrix describing connectivity between each of the available voxels to each other, fully connected matrix
-    
-
-### Linking to Me
-
-*For Research (how is this research relevant to your work?)*
