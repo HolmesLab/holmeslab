@@ -14,43 +14,33 @@ Sources: Glasser/HCP Preprocessing
 
 ### Function of the Preprocessing Pipeline
 
-1) to remove spatial artifacts and distortions
+1) To remove spatial artifacts and distortions
 
-2) to generate cortical surfaces, segmentations, and myelin maps
+2) To generate cortical surfaces, segmentations, and myelin maps
 
-3) to make the data easily viewable in the Connectome Workbench visualization software (Marcus et al, THIS ISSUE)
+3) To make the data easily viewable in the Connectome Workbench visualization software
 
-4) to generate precise within-subject cross-modal registrations
+4) To generate precise within-subject cross-modal registrations
 
-5) to handle surface and volume cross-subject registrations to standard volume and surface spaces
+5) To handle surface and volume cross-subject registrations to standard volume and surface spaces
 
-6) to make the data available in the CIFTI format in a standard “grayordinates” space (see below)
+6) To make the data available in the CIFTI format in a standard “grayordinates” space (see below)
 
 ### Benefits of the Preprocessing Pipeline
 
 - Combines information from architecture, function, connectivity and topography to parcellate
     - complementary and confirmatory information
 - Allows greater computational efficiency from 100,000 voxels to 50-200 ROIs, to enable large-scale research projects with fMRI data
-- combines literature-documented areas/ROIs and automated algorithmic approaches
-- aligned cortical data using myelin content and rs networks, instead of cortical folding alignment, which are ‘more closely tied to cortical areas’
-
-HCP Style
-
-Goals: 
-
-- making it functional for connectivity processes (aka making it a 2D mesh to represent the 3D brain)
-- generate a repository of large high-quality multi-modal data
-- intersubject alignmnet that doesn’t require smoothing
-
-## **METHODS**
+- Combines literature-documented areas/ROIs and automated algorithmic approaches
+- Aligned cortical data using myelin content and rs networks, instead of cortical folding alignment, which are ‘more closely tied to cortical areas’
 
 ### Data:
 
 Three surface spaces in HCP data:
 
-1. the native surface mesh for each individual (~136k vertices/voxels, most accurate for volume to surface mapping)
-2. the high resolution Conte69 registered standard mesh (~164k vertices, appropriate for cross-subject analysis of high resolution data like myelin maps) 
-3. low resolution Conte69 registered standard mesh (~32k vertices, appropriate for cross-subject analysis of low resolution data like fMRI or diffusion).
+1. The native surface mesh for each individual (~136k vertices/voxels, most accurate for volume to surface mapping)
+2. The high resolution Conte69 registered standard mesh (~164k vertices, appropriate for cross-subject analysis of high resolution data like myelin maps) 
+3. Low resolution Conte69 registered standard mesh (~32k vertices, appropriate for cross-subject analysis of low resolution data like fMRI or diffusion).
 
 ![Untitled](Pre-Processing fMRI Data cd24a0ec0f6140728bd5cb290934031d/Untitled.png)
 
@@ -61,51 +51,50 @@ standard subcortical segmentation in 2mm MNI space (from the Conte69 subjects) a
 
 ![Untitled](Pre-Processing fMRI Data cd24a0ec0f6140728bd5cb290934031d/Untitled 1.png)
 
-**Structural Pipeline**
+---
+
+## **Structural Pipeline**
 
 ### PreFreeSurfer Pipeline
 
 ***produce an undistorted “native” structural volume space for each subject (used for tractography, most accurate to physical brain)***
 
-1. correct for gradient nonlinearity distortion using a customized version of the `gradient_nonlin_unwarp` package available in FreeSurfer
+1. Correct for gradient nonlinearity distortion using a customized version of the `gradient_nonlin_unwarp` package available in FreeSurfer
 2. calculates an FSL-format warpfield that represents the spatial distortion of the image by using a proprietary Siemens gradient coefficient file (available on the scanner used to acquire the images) and the mm coordinate space of the image (including the rotation between image matrix space and scanner axes – that is, the oblique portion of the sform, where the sform is the matrix that relates the voxel coordinates to the mm coordinate space of the scanner, as defined by the NIFTI standard).
-3. aligned with a 6 degrees of freedom (DOF) rigid body transformation using FSL’s `FLIRT`
+3. Align with a 6 degrees of freedom (DOF) rigid body transformation using FSL’s `FLIRT`
 4. For greater robustness, the images are internally cropped to a smaller FOV to remove the neck (150mm in z in humans,) using FSL’s automated `robustfov` tool, and aligned with a 12 DOF (affine) `FLIRT` registration to the MNI space templates
 
 ***align the T1w and T2w images***
 
-1. “acpc alignment step”: 
-    1. align to the MNI space template (with 0.7mm resolution for the HCP data) using a rigid 6 DOF transform (aligns the AC, the AC-PC line and the inter-hemispheric plane)
+1. "ACPC alignment step”: 
+    1. Align to the MNI space template (with 0.7mm resolution for the HCP data) using a rigid 6 DOF transform (aligns the AC, the AC-PC line and the inter-hemispheric plane)
 2. `robustfov` used to make sure reg is robust and transform is applied with spline interpolation
-3. robust initial brain extraction is performed using an initial linear (`FLIRT`) and non-linear (`FNIRT`) registration of the image to the MNI template
+3. Robust initial brain extraction is performed using an initial linear (`FLIRT`) and non-linear (`FNIRT`) registration of the image to the MNI template
 4. This warp is then inverted and the template brain mask is brought back into the acpc-alignment space
-5. removing readout distortion:(corrected by the same means as EPI distortion)”
+5. Removing readout distortion:(corrected by the same means as EPI distortion)”
     1. For fieldmap preprocessing, a standard gradient echo fieldmap, having two magnitude images (at two different TEs) and a phase difference image, is converted into fieldmap (in units of radians per second) using the `fsl_prepare_fieldmap` script. 
     2. Then the mean magnitude and fieldmap images are corrected for gradient nonlinearity distortion (just as for the T1w and T2w images). 
     3. The fieldmap magnitude image is warped according to the readout distortion and registered, separately, to the T1w and T2w images using `6 DOF FLIRT`.
     4.  The fieldmap is then transformed according to these registrations and used to unwarp the T1w and T2w images, removing the differential readout distortion present in them.
     
-    *→ subject’s undistorted native volume space*
+    *→ This outputs the subject’s "undistorted native volume space"*
     
 
-***perform a B1 (bias field) correction***
+***Perform a B1 (bias field) correction***
 
-(bias field *F* is estimated from the square root of the product of the T1w and T2w images after thresholding out non-brain tissues)
+(Bias field *F* is estimated from the square root of the product of the T1w and T2w images after thresholding out non-brain tissues)
 
-1. dilating the thresholded bias-field estimate (*F*) to fill the FOV
-2. bias field smoothed with a sigma of 5mm
+1. Dilating the thresholded bias-field estimate (*F*) to fill the FOV
+2. Bias field smoothed with a sigma of 5mm
 
-***register the subject’s native structural volume space to MNI space** (*useful for comparison across subjects)
+***Register the subject’s native structural volume space to MNI space** (*useful for comparison across subjects)
 
-1. registered to MNI space with a FLIRT 12 DOF affine and then a FNIRT nonlinear registration
+1. Registered to MNI space with a FLIRT 12 DOF affine and then a FNIRT nonlinear registration
+→ Producing the final nonlinear volume transformation from the subject’s native volume space to MNI space
 
-→ producing the final nonlinear volume transformation from the subject’s native volume space to MNI space
-
-→ Output
-
-→ T1w folder: native volume space images
-
-→ MNINonLinear folder: MNI space images
+- Output
+    - T1w folder: native volume space images    
+    - MNINonLinear folder: MNI space images
 
 ![Untitled](Pre-Processing fMRI Data cd24a0ec0f6140728bd5cb290934031d/Untitled 2.png)
 
@@ -117,34 +106,36 @@ Run FreeSurfer `recon-all`
 
 Output:
 
-1. to segment the volume into predefined structures (including the subcortical parcels used in CIFTI)
-2. reconstruct white and pial cortical surfaces
-3. perform FreeSurfer’s standard folding-based surface registration to their surface atlas (fsaverage)
+1. To segment the volume into predefined structures (including the subcortical parcels used in CIFTI)
+2. Reconstruct white and pial cortical surfaces
+3. Perform FreeSurfer’s standard folding-based surface registration to their surface atlas (fsaverage)
 
 ### *PostFreeSurfer* Pipeline
 
-1. take the outputs of FreeSurfer that are in FreeSurfer proprietary formats and convert them to standard NIFTI and GIFTI formats
+1. Take the outputs of FreeSurfer that are in FreeSurfer proprietary formats and convert them to standard NIFTI and GIFTI formats
+
+    **NIFTI**
+    1. The three full subcortical volume parcellations are converted to NIFTI label files
     
-    NIFTI
-    
-    1. the three full subcortical volume parcellations are converted to NIFTI label files
-    
-    GIFTI
-    
+    **GIFTI**
     1. The white, pial, spherical, and registered spherical surfaces are all converted to GIFTI surface files
-    2. thickness, curvature, and sulc are all converted to GIFTI shape files
+    2. Thickness, curvature, and sulc are all converted to GIFTI shape files
     3. The three FreeSurfer cortical parcellations are converted to GIFTI label files 
     4. One of these volume parcellations, the wmparc, is binarized, dilated three times and eroded twice to produce an accurate subject-specific brain mask of grey and white matter, which serves as the final brain mask that is used in any subsequent functional or diffusion processing.
 2. Return data to the native volume space from the FreeSurfer 1mm RAS space
 
-→ produces all of the NIFTI volume and GIFTI surface files necessary for viewing the data in Connectome Workbench,
+→ These steps produce all of the NIFTI volume and GIFTI surface files necessary for viewing the data in Connectome Workbench,
 
-1. applying the surface registration (to the Conte69 surface template ([Van Essen et al., 2012b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720813/#R61)))
-2. downsampling registered surfaces for connectivity analysis
-3. creating the final brain mask
-4. creating myelin maps.
 
-**Functional Pipelines**
+**Anatomical Masks**
+1. Applying the surface registration (to the Conte69 surface template ([Van Essen et al., 2012b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720813/#R61)))
+2. Downsampling registered surfaces for connectivity analysis
+3. Creating the final brain mask
+4. Creating myelin maps.
+
+---
+
+## **Functional Pipelines**
 
 ### fMRIVolume Pipeline
 
