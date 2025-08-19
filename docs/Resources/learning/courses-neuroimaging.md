@@ -110,9 +110,3 @@ Selected tutorials below. ***More available on INCF Website***
     - [COMP4620/8620: Advanced Topics in Artificial Intelligence](http://hutter1.net/rsise/comp4620.htm)
     - [COMP3620/6320: Introduction to Artificial Intelligence](http://studyat.anu.edu.au/courses/COMP3620;details.html)
     - [COMP3630/6363: Theory of Computation](https://web.archive.org/web/20190420081439/https://cs.anu.edu.au/courses/comp3630/)
-- [Machine Learning Mastery](https://machinelearningmastery.com/) Blog
-- Topic: [Data Preparation](https://machinelearningmastery.com/category/data-preparation/) 
-- Topic: [Data Science](https://machinelearningmastery.com/category/data-science/)
-- Topic: [Sci-Kit Learn (Python)](https://machinelearningmastery.com/category/python-machine-learning/)
-- Topic [Python for Machine Learning](https://machinelearningmastery.com/category/python-for-machine-learning/)
-- Topic: [Predictive Modeling in R](https://machinelearningmastery.com/products/)
