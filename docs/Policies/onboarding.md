@@ -14,7 +14,7 @@ Last updated: Aug 2025
 - Join Holmes slack and possibly CAHBIR slack
 - Download box drive and request to be added to lab box (or, if you're an undergrad, ask your advisor for what folders to be added to)
 - Broadly overview our lab wiki https://holmeslab.github.io/holmeslab/
-- Get swipe access for CAHBIR building -- have the lab manager email `cahbir-support#rutgers.edu` 
+- Get card access for CAHBIR building -- email `cahbir-support#rutgers.edu` and ask for access, cc lab manager & Avram (and mention your role in the lab, e.g., RA, PhD student, etc.)
 - Request Amarel account (linked to your netID) by filling out this form: https://oarc.rutgers.edu/amarel-cluster-access-request/
     - PI name = Avram Holmes
     - Campus = Piscataway
@@ -28,7 +28,7 @@ Last updated: Aug 2025
     - If you're an undergrad -- ask your advisor which open source data you should be added to. Then ask lab manager to add you to those.
     - If you're a full-time RA, PhD student or Postdoc, ask lab manager to add you to all the open-source data agreements.
 - Add relevant lab calendars to your google calendar ([see here](https://holmeslab.github.io/holmeslab/docs/Policies/software-we-use/#shared-calendars-google-calendar))
-- Sign up for relevant listservs (see Email lists section below the shared calendars section from link above)
+- Sign up for relevant listservs / Email lists ([see here](https://holmeslab.github.io/holmeslab/docs/Policies/software-we-use/#shared-calendars-google-calendar))
 - Set up a reference/citation/paper manager if you don’t have one already. Free (or covered by RU) options = EndNote, Zotero. Other = Paperpile. All will have browser extensions.
 
 ## Lab Training

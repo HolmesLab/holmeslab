@@ -158,7 +158,7 @@ Time this takes: I would give 2 business days minimum for this, including gettin
 - CC Avram and lab manager
 2. Register for parking permit if you want to (though many Holmes Lab members park in a nearby residential area as parking is not free or reimbursed by Rutgers). See parking details in this doc: [Transit and Transportation on Rutgers NB Campus](https://rutgers.box.com/s/oubs9ulm23qwxuy85ahbe2yvcz7fn46c)
 3. Set up direct deposit to your bank in [My Rutgers Portal](https://my.rutgers.edu/portal/render.userLayoutRootNode.uP?uP_root=root&uP_sparam=activeTab&activeTab=2) on your profile
-4. Check out apps and information in [My Rutgers Portal](https://my.rutgers.edu/portal/render.userLayoutRootNode.uP?uP_root=root&uP_sparam=activeTab&activeTab=2)
+4. Check out apps and information in My Rutgers Portal [my.rutgers.edu](my.rutgers.edu)
 5. Activate tools in RU Tools [https://tools.rutgers.edu/manage/services](https://tools.rutgers.edu/manage/services)
     1. This includes Zoom, Box, Gmail, VPN
 6. Set up email forwarding for 2 email domains:
