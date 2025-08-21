@@ -5,19 +5,11 @@ nav_enabled: true
 ---
 
 # Amarel Compute Cluster - General
-- ### [Holmes Lab File Structure and Norms](https://holmeslab.github.io/holmeslab/docs/Policies/filesystem-amarel/) 
-- ### [How to connect to and use Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/connect-amarel/) 
-- ### [Slurm Jobs Overview and Tutorials](https://holmeslab.github.io/holmeslab/docs/Amarel/slurm-jobs-tutorial/) 
-- ### [Holmes Lab Conda environment instructions](https://holmeslab.github.io/holmeslab/docs/Amarel/holmes-conda/) 
-- ### [Transferring Files to Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/sending-files/) 
-
-
-
----
-**Table of Contents**
-1. TOC
-{:toc}
----
+- [Holmes Lab File Structure and Norms](https://holmeslab.github.io/holmeslab/docs/Policies/filesystem-amarel/) 
+- [How to connect to and use Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/connect-amarel/) 
+- [Slurm Jobs Overview and Tutorials](https://holmeslab.github.io/holmeslab/docs/Amarel/slurm-jobs-tutorial/) 
+- [Holmes Lab Conda environment instructions](https://holmeslab.github.io/holmeslab/docs/Amarel/holmes-conda/) 
+- [Transferring Files to Amarel](https://holmeslab.github.io/holmeslab/docs/Amarel/sending-files/) 
 
 
 Notes:

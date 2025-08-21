@@ -30,6 +30,11 @@ Last updated: Aug 2025
 - Add relevant lab calendars to your google calendar ([see here](https://holmeslab.github.io/holmeslab/docs/Policies/software-we-use/#shared-calendars-google-calendar))
 - Sign up for relevant listservs / Email lists ([see here](https://holmeslab.github.io/holmeslab/docs/Policies/software-we-use/#shared-calendars-google-calendar))
 - Set up a reference/citation/paper manager if you don’t have one already. Free (or covered by RU) options = EndNote, Zotero. Other = Paperpile. All will have browser extensions.
+- If you're a lab manager:
+    - Email RWJMS IT ([rwjnbhelp@rwjms.rutgers.edu](mailto:rwjnbhelp@rwjms.rutgers.edu)) cc'ing Avram and Kaley to be added to the lab's outlook email 'holmeslab@rwjms.rutgers.edu'
+    - Download outlook
+    - Add the lab email to your outlook (Select File > Open > Shared Mailbox > type in 'holmeslab@rwjms.rutgers.edu')
+
 
 ## Lab Training
 - If full-time: Set up a meeting with each of the graduate students and postdocs in the lab to hear about their research!

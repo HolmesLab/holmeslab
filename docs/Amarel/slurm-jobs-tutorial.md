@@ -6,25 +6,16 @@ parent: Amarel Computing
 ---
 
 # Slurm Jobs Tutorial - Rutgers
-Date: March 27, 2024 2:55 PM
----
-**Table of Contents**
-1. TOC
-{:toc}
----
+Job scheduler (batch system)
 
-## Quick Copy:
+The job scheduler used on OARC-managed clusters is SchedMD's SLURM Workload Manager.
 
-```bash
-sbatch <filename>.sh #send job
-sacct #see your current jobs
-sacct -e #see all the variables you can specify to see about your jobs
-acct --format=JobId,JobName%50,Partition%15,State,Elapsed,ExitCode,Start,End --starttime=2025-04-01T22:43:21 #example of vars
-watch -n 1 squeue -u <netID> #watch your live currently running jobs
-     # control + C to exit 'watch'
-```
+Any memory-intensive or compute-intensive process should be run using scheduled resources and not simply run on one of our shared login nodes. In short, do not run applications on the login nodes.
 
-1. export my script as a NAME.sh file (make sure to add #!/bin/bash  at top)
+
+## Basic Slurm Job Example:
+
+1. Create a script named <NAME>.sh (make sure to add #!/bin/bash  at top)
 2. Fill in this with your specs
 
 ```bash
