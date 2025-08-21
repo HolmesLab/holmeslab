@@ -67,3 +67,10 @@ To run computing jobs from the terminal using Amarel resources, the process uses
     - To open an existing notebook (.ipynb) file, just navigate to it in the filsystem and click on it to open
 
     
+
+### Resources from OARC:
+- [Command-line access via SSH](https://sites.google.com/view/cluster-user-guide#h.z2yzkhdnjk82)
+
+- [Using the Open OnDemand interface](https://sites.google.com/view/cluster-user-guide#h.z6biscu53ldl)
+
+- [Using the FastX interface](https://sites.google.com/view/cluster-user-guide#h.jsnqsekyy1u6)

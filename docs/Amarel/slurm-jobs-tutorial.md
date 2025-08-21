@@ -111,85 +111,23 @@ TIPS
     - —state=failed, running, pending, completed
 - try it with one subject, see time, multiply by subjects = time estimate
 
-### NDA download In-Depth Tutorial
 
-1. Open text editor (BBEdit, Textedit, VSCode, etc.) and paste the code you want to run via terminal
-    
-    (downloadcmd is a command from the package nda-tools)
-    
-    ```bash
-    
-    downloadcmd -dp 1225580 -d /projects/f_ah1491_1/Open_Data/NAPLS3 -wt 5
-    
-    ```
-    
-    - -wt = the number of files you download in parallel. You should use max 10.
-    - change 1225580 to YOUR PACKAGE ID
-    - change /projects/f_ah1491_1 to the FOLDER YOU WANT TO DOWNLOAD TO
-2. Save this file as a NAME.sh file, and have NAME be relevant to the package you’re downloading
-3. Create shell script
-    1. Open a new file in text editor (BBEdit, Textedit, VSCode, etc.)
-    2. paste this code:
-    
-    ```bash
-    #! /bin/bash
-    #SBATCH --partition=p_dz268_1 # CAHBIR partition
-    #SBATCH --job-name=any-name # change to what you want the name to be 
-    #SBATCH --nodes=1 # change depending on computational needs
-    #SBATCH --ntasks=1 # change if parallelizing
-    #SBATCH --cpus-per-task=1 # change depending on computational needs
-    #SBATCH --mem=2000 # change depending on computational needs
-    #SBATCH --time=48:00:00 # change depending on computational needs
-    #SBATCH --output=slurm_%x.out # see below
-    #SBATCH --error=slurm_%x.err # see below
-    cd /download/folder  # where the file will be run from
-    module purge
-    
-    # Activate the holmesenv virtual environment to use installed packages
-    # If you want to use a different conda, create a different script like activate.sh which activates your desired conda
-    /projects/f_ah1491_1/analysis_tools/holmesenv_conda/activate.sh 
-    source ~/.bashrc
+### OARC Tutorials
+- [Job partitions (job submission queues)](https://sites.google.com/view/cluster-user-guide#h.oeejy9yf80e4)
+- [Job scheduler (batch system)](https://sites.google.com/view/cluster-user-guide#h.p4379j6lgjuh)
+- [Current configuration](https://sites.google.com/view/cluster-user-guide#h.uf94ou58xx4)
+- [Serial job example](https://sites.google.com/view/cluster-user-guide#h.dbi0w5juf4x)
+- [Parallel (multicore MPI) job example](https://sites.google.com/view/cluster-user-guide#h.sb7j0wpf9irf)
+- [Interactive job example](https://sites.google.com/view/cluster-user-guide#h.26x9sbburvsg)
+- [Parallel interactive job example](https://sites.google.com/view/cluster-user-guide#h.8m11azm33quv)
+- [Job array example](https://sites.google.com/view/cluster-user-guide#h.ge8wh4qyffca)
+- [Some helpful tips](https://sites.google.com/view/cluster-user-guide#h.571s1axqevdj)
+- [Monitoring job status](https://sites.google.com/view/cluster-user-guide#h.4bsndqufii8p)
+- [Actively running jobs](https://sites.google.com/view/cluster-user-guide#h.q2jwsgupcfav)
+- [Completed or terminated jobs](https://sites.google.com/view/cluster-user-guide#h.w7jwa95gq7yy)
+- [Cancelling jobs](https://sites.google.com/view/cluster-user-guide#h.5weq73pbxbk0)
 
-    srun /script/path/script.sh  # for bash script
-    python3 /script/path/script.py # for python  
-    ```
-    
-    - Change `slurm_%j.out` & `slurm_%j.err` to whatever you want your error/outfiles to be named. 
-        - You can add filepaths before filenames so that the err and out files are saved to folders (ie batch_jobs/file.err or err/file.err, etc) but you must have any referenced folders CREATED before running the script
-        - Renaming to `%x.out` will mean each time you run this job the slurm.out/slurm.err files will be replaced with the job-name, and will replace the current existing file, so the file would always the most recent run
-            - This is recommended unless you're running jobs in parallel and want to save out each specific job instance log separately
-            - Change job-name to change what will also autopopulate into the output/err folders, replacing `%x`
-        - More % Options:
-            - %x = Job name.
-            - %j = jobid of the running job.
-            - %N = short hostname. This will create a separate IO file per node.
-            - %n = Node identifier relative to current job (e.g. "0" is the first node of the running job) This will create a separate IO file per node.
-            - %s = stepid of the running job.
-            - %t = task identifier (rank) relative to current job. This will create a separate IO file per task.
-            - %u = User name.
-    NOTE:
-    - Change time=48:00:00 to however much time you think you’ll need. Max to request is 2 weeks, but the more time you request the longer your slurm job will sit in the queue before running.
-        - To estimate timing, try downloading 1 subject file and time how long the download takes, then multiply that by number of subjects
 
-    IMMEDIATE FAIL?
-    - Check if your err and out files have any paths/folders-- if so, make sure those folders exist and you have rwx permissions to them
-    - Make sure any files called have execute (x) permissions-- if not, run chmod (eg `chmod +x file.py`) for the relevant file, and then try running the slurm script again
-
-14. Save this file as a SHELLNAME.sh file, naming it something relevant to the package + shell
-
-1. Make sure both .sh files are in the SAME folder in your home directory, or *somewhere in amarel*, not on your local computer
-    
-    ![Screen Shot 2024-03-21 at 10.38.41 AM.png](Slurm Jobs Tutorial - Rutgers f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.38.41_AM.png)
-    
-2. open terminal
-    1. run `cd /home/kj537/nda_downloads` ← replace with wherever your .sh files are saved
-    2. run `sbatch SHELLNAME.sh`
-3. It should prompt you here for your username and password from NDA. Make sure these are the credentials that link to the account where you created the data package!
-4. Once the job starts running, you can check it’s running and its progress by entering `sacct`
-    1. Your job should be listed in this table like this
-        
-        ![Screen Shot 2024-03-21 at 10.42.55 AM.png](Slurm Jobs Tutorial - Rutgers f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.42.55_AM.png)
-        
 
 Troubleshooting:
 
