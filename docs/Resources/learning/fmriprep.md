@@ -2,6 +2,7 @@
 title: fMRIPrep Overview
 parent: Neuroscience Learning Resources
 nav_enabled: true 
+nav_order: 3
 ---
 
 # fMRIPrep Overview

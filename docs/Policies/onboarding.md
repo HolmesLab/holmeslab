@@ -19,8 +19,9 @@ Last updated: Aug 2025
     - PI name = Avram Holmes
     - Campus = Piscataway
     - Department = Center for Advanced Human Brain Imaging Research
-- Request access to our lab partition on Amarel “/projects/f_ah1491_1” and “/scratch/f_ah1491_1” by emailing [help@oarc.rutgers.edu](mailto:help@oarc.rutgers.edu) and CC’ing Avram and lab manager
-    - Copy Avram, Carrisa, and Kaley on any emails to OARC
+    After you have an Amarel account...
+    - Request access to our lab partition on Amarel `/projects/f_ah1491_1` and `/scratch/f_ah1491_1` by emailing [help@oarc.rutgers.edu](mailto:help@oarc.rutgers.edu) and CC’ing Avram and lab manager -- ask Avram to 'confirm' your access as the owner of the resources
+    - Request access to the CAHBIR partition (`p_dz268_1`) by emailing [help@oarc.rutgers.edu](mailto:help@oarc.rutgers.edu) and CC’ing Avram, David Zald and the lab manager -- ask David Zald to 'confirm' your access as the owner of the resources
 - Set up VPN if not on Rutgers wifi – [VPN Setup Tutorial](https://holmeslab.github.io/holmeslab/docs/Amarel/rutgers-vpn/)
 - Do CITI certificates -- information here [CITI Courses for Rutgers](https://holmeslab.github.io/holmeslab/docs/Admin/citi/) 
     - Send CITI certifications to lab manager

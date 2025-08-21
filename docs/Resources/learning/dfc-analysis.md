@@ -2,11 +2,10 @@
 title: Dynamic FC Patterns
 parent: Neuroscience Learning Resources
 nav_enabled: true 
+nav_order: 9
 ---
 
-# Dynamic FC Patterns Analysis Methods
-
-Date: January 31, 2024 10:04 AM
+# Dynamic Functional Connectivity Patterns Analysis Methods
 
 1. **Sliding Window Correlation Analysis**:
     - One of the most common approaches, where the time series data is segmented into overlapping or non-overlapping windows.

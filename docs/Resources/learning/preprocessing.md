@@ -2,6 +2,7 @@
 title: Pre-Processing fMRI Data
 parent: Neuroscience Learning Resources
 nav_enabled: true 
+nav_order: 2
 ---
 
 # Using HCP Pre-Processing Pipeline for fMRI Data

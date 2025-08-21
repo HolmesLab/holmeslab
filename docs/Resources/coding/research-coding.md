@@ -14,7 +14,6 @@ nav_enabled: true
 ### Coding for Research - Tutorials/Pages
 - ICNF
     - [Jupyter Notebooks](https://training.incf.org/course/jupyter-notebooks) by [EuroPython Conference](https://training.incf.org/taxonomy/term/141)
-    - [Programming for Neuroimaging](https://training.incf.org/course/programming) - Python, R, MATLAB
     - [Notebooks](https://training.incf.org/course/notebooks) - Jupyter Notebooks and others
 
 -  [Stanford Online](https://www.youtube.com/@stanfordonline): Coding for Research/Analysis Courses

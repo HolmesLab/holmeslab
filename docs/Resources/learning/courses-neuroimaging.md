@@ -2,6 +2,7 @@
 title: External Courses / Workshops
 parent: Neuroscience Learning Resources
 nav_enabled: true 
+nav_order: 10
 ---
 
 # Courses: Neuroimaging Online Courses / Workshops

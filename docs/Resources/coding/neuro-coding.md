@@ -9,6 +9,7 @@ nav_enabled: true
 
 ### fMRI Viewing, Quality Check, Manipulating
 - [MRI analysis in Python using Nipype, Nilearn](https://peerherholz.github.io/workshop_weizmann/index.html)
+    
 
 ### [**Stanford Center for Reproducible Neuroscience](https://reproducibility.stanford.edu/) - BIDS**
 - [Getting Started with BIDS: Tutorial Series](https://reproducibility.stanford.edu/bids-tutorial-series-part-1a/)
@@ -30,11 +31,26 @@ nav_enabled: true
 - **Nilearn/Nistats pipelines for task-based functional connectivity analysis** [https://github.com/kfinc/nilearn-task-networks](https://github.com/kfinc/nilearn-task-networks) 
     
 
+### Python/Programming for Neuroimaging from INCF
+Selected tutorials below. ***More available on INCF Website***
+- [Jupyter Notebooks](https://training.incf.org/course/jupyter-notebooks) by [EuroPython Conference](https://training.incf.org/taxonomy/term/141)
+- [Programming for Neuroimaging](https://training.incf.org/course/programming) - Python, R, MATLAB
+- [Notebooks](https://training.incf.org/course/notebooks) - Jupyter Notebooks and others
+
+### [MIT Center for Brains, Minds + Machines](https://cbmm.mit.edu/learning-hub/topic-modules) - Learning Hub
+- Machine Learning for Neuroscience Courses
+    - [Machine Learning](https://cbmm.mit.edu/learning-hub/topic-modules#4019)
+    - [Bayesian Methods](https://cbmm.mit.edu/learning-hub/topic-modules#4020)
+    - [Deep Learning](https://cbmm.mit.edu/learning-hub/topic-modules#4021)
+fmriprep-tutorial-running-the-docker-image/)
+
+### MeTrics Lab
+- [Various computational neuroscience Tutorials](https://www.youtube.com/playlist?list=PLc95HdN2_wt9UEjeDDFF1bdRHDKzcsW4b)
+- [Machine Learning for Biomedical Applications (MLBA) course](https://www.youtube.com/@emmarobinson8262/playlists)
+
+
 ### [Brain and Cognitive Sciences Computational Tutorial Series](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/)
-
 By: MIT Open CourseWare
-
-- [Cell-Type Specific Transcriptomics](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/cell-type-specific-transcriptomics/) *Sebastian Pineda, MIT (November 21, 2022)*
 - [Continuous-Time Deconvolutional Regression: A Method for Studying Continuous Dynamics in Naturalistic Data](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/continuous-time-deconvolutional-regression-a-method-for-studying-continuous-dynamics-in-naturalistic-data/) *Cory Shain, MIT (February 28, 2022)*
 - [Recurrent Neural Networks for Cognitive Neuroscience](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/recurrent-neural-networks-for-cognitive-neuroscience/) *Guangyu Robert Yang, CBMM (August 30, 2021)*
 - [Neural Decoding of Spike Trains and Local Field Potentials with Machine Learning in Python](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/neural-decoding-of-spike-trains-and-local-field-potentials-with-machine-learning-in-python/) *Omar Costilla Reyes, MIT (April 2, 2019)*
@@ -52,21 +68,5 @@ By: MIT Open CourseWare
 - [Learning in Deep Neural Networks](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/4-learning-in-deep-neural-networks/) *Phillip Isola, MIT (June 17, 2015)*
 - [Learning in Recurrent Neural Networks](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/5-learning-in-recurrent-neural-networks/) *Larry Abbott, Columbia (June 10, 2015)*
 - [Bayesian Methods: Brain and Cognitive Perspectives](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/1-bayesian-methods-brain-cognitive-perspectives/) *Mehrdad Jazayeri and Josh Tenenbaum, MIT (June 9, 2015)*
-
-### Python/Programming for Neuroimaging from INCF
-Selected tutorials below. ***More available on INCF Website***
-- [Jupyter Notebooks](https://training.incf.org/course/jupyter-notebooks) by [EuroPython Conference](https://training.incf.org/taxonomy/term/141)
-- [Programming for Neuroimaging](https://training.incf.org/course/programming) - Python, R, MATLAB
-- [Notebooks](https://training.incf.org/course/notebooks) - Jupyter Notebooks and others
-
-### [MIT Center for Brains, Minds + Machines](https://cbmm.mit.edu/learning-hub/topic-modules) - Learning Hub
-- Machine Learning for Neuroscience Courses
-    - [Machine Learning](https://cbmm.mit.edu/learning-hub/topic-modules#4019)
-    - [Bayesian Methods](https://cbmm.mit.edu/learning-hub/topic-modules#4020)
-    - [Deep Learning](https://cbmm.mit.edu/learning-hub/topic-modules#4021)
-fmriprep-tutorial-running-the-docker-image/)
-
-### MeTrics Lab
-- [Various computational neuroscience Tutorials](https://www.youtube.com/playlist?list=PLc95HdN2_wt9UEjeDDFF1bdRHDKzcsW4b)
-- [Machine Learning for Biomedical Applications (MLBA) course](https://www.youtube.com/@emmarobinson8262/playlists)
+- [Cell-Type Specific Transcriptomics](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/cell-type-specific-transcriptomics/) *Sebastian Pineda, MIT (November 21, 2022)*
 

@@ -2,19 +2,17 @@
 title: Pipeline Outline for dFC Research
 parent: Neuroscience Learning Resources
 nav_enabled: true 
-nav_order: 2
+nav_order: 8
 ---
 
-# Pipeline Outline for dFC Research
-
-Date: January 31, 2024 10:05 AM
+# Pipeline Outline for Dynamic Functional Connectivity (dFC) Research
 
 How to take a Pearson's correlated data set of brain regions, and investigate across-state network dynmics:
 
 1. **Data Acquisition and Preprocessing**:
     - Obtain a dataset containing brain imaging data, typically functional magnetic resonance imaging (fMRI) or electroencephalography (EEG) data.
     - Preprocess the data to remove noise, artifacts, and ensure data quality. This may involve steps such as motion correction, spatial normalization, and temporal filtering.
-    - See [Preprocessing Pipeline](https://www.notion.so/Pre-Processing-fMRI-Data-cd24a0ec0f6140728bd5cb290934031d?pvs=21) doc
+    - See [Preprocessing Pipeline](https://holmeslab.github.io/holmeslab/docs/Resources/learning/preprocessing/) doc
 2. **Defining Brain Regions of Interest (ROIs)**:
     - Define a set of brain regions based on anatomical or functional parcellation schemes. These regions can be defined using atlases like AAL (Automated Anatomical Labeling) or the Harvard-Oxford atlas for structural MRI, or functional networks obtained from resting-state fMRI data using techniques like independent component analysis (ICA) or clustering algorithms.
     - Extract time series data from each ROI.
