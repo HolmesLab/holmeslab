@@ -15,11 +15,16 @@ nav_order: 4
 
 ### Helpdesk Links
 - [Helpdesk Tickets Rutgers - Across All Departments](https://rutgers.service-now.com/sp?id=rutgers_my_requests)  
-- [University Procurement Services —](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6) Helpdesk  
-- [Rutgers IT Help —](https://rutgers.service-now.com/sp?id=sc_category) Helpdesk  
-- [Rutgers HR —](https://rutgers.service-now.com/hrportal?id=hrj_sc_cat_item&sys_id=27c78de49f331200d9011977677fcfb3) Helpdesk  
-- [Compute cluster office](mailto:help@oarc.rutgers.edu) - Helpdesk email   
+- Rutgers Office of Information Technology phone: (848)-445-HELP or (732)-235-3300, email: [help@oit.rutgers.edu](mailto:help@oit.rutgers.edu), [Rutgers OIT HelpDesk](https://rutgers.service-now.com/sp?id=sc_category) 
+    - Can help with tech support, Wifi, email issues, software issues (Zoom, Qualtrics, Teams), compute cluster issues, etc.
+- Rutgers Office of Information Technology 
 - [RWJ IT Helpdesk](https://rutgers.service-now.com/sp?id=sc_cat_item&sys_id=3c2100e41b672490217ca9bfbd4bcb86)  
+- RWJ Office of Information Technology email: [rwjnbhelp@rwjms.rutgers.edu](mailto:rwjnbhelp@rwjms.rutgers.edu)
+    - RWJ OIT can help with RWJ-specific tech issues, such as access to RWJ-only software, email account issues, VPN issues, or computer issues on RWJ computers.
+- [University Procurement Services —](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6) Helpdesk  
+- [Rutgers HR Helpdesk](https://rutgers.service-now.com/hrportal?id=hrj_sc_cat_item&sys_id=27c78de49f331200d9011977677fcfb3) 
+    - Can help with payroll, benefits, tax forms, and other HR-related issues.
+- Compute cluster offic [help@oarc.rutgers.edu](mailto:help@oarc.rutgers.edu) - Helpdesk email   
 - [Compute Cluster Updates/Maintenance](https://oarc.rutgers.edu/amarel-system-status/)  
 
 ### Other Quick Links
