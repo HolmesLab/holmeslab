@@ -2,7 +2,7 @@
 title: Brain Network Analysis (using Atlases)
 parent: Neuroscience Learning Resources
 nav_enabled: true 
-nav_order: 6
+nav_order: 5
 ---
 
 # Brain Network Analysis (using Atlases) Primer

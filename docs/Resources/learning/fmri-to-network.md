@@ -2,7 +2,7 @@
 title: fMRI → Network
 parent: Neuroscience Learning Resources
 nav_enabled: true 
-nav_order: 4
+nav_order: 3
 ---
 
 # fMRI → Network: Theoretical and Technical outline

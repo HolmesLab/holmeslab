@@ -2,7 +2,7 @@
 title: Neuroimaging Resource Sites
 parent: Neuroscience Learning Resources
 nav_enabled: true 
-nav_order: 1
+nav_order: 8
 ---
 
 # Neuroimaging Resource Sites

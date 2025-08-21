@@ -1,8 +1,8 @@
 ---
-title: fMRIPrep Overview
+title: Pre-Processing fMRI Data using fMRIPrep
 parent: Neuroscience Learning Resources
 nav_enabled: true 
-nav_order: 3
+nav_order: 1
 ---
 
 # fMRIPrep Overview

@@ -1,5 +1,5 @@
 ---
-title: Pre-Processing fMRI Data
+title: Pre-Processing fMRI Data using HCP
 parent: Neuroscience Learning Resources
 nav_enabled: true 
 nav_order: 2
