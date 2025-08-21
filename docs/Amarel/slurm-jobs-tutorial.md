@@ -13,12 +13,7 @@ Date: March 27, 2024 2:55 PM
 {:toc}
 ---
 
-📌 In-depth Information in:
-- [Rutgers AMAREL Cluster User Guide](https://sites.google.com/view/cluster-user-guide)
-- [Rutgers Slurm Job / Batch User Guide](https://sites.google.com/view/cluster-user-guide#h.p4379j6lgjuh)
-
-
-## Quick Tutorial:
+## Quick Copy:
 
 ```bash
 sbatch <filename>.sh #send job
@@ -73,39 +68,88 @@ python3 /path/to/your/file/<filename>.py
 sbatch run_NAME.sh
 ```
 
-### Downloads (in login nodes)
+### Slurm Jobs Tutorial - In Depth
+Slurm jobs (sending jobs to be run in the compute cluster) should be used for everything EXCEPT downloads from the internet. Downloads from the internet should be run in login nodes (see below). Non-download jobs should all be packaged and run via slurm in the compute nodes
 
-Run all internet downloads on the login node
+1. Save your script as a scriptname.sh file (or if it’s a python script, scriptname.py)
+2. Create shell script
+    1. Open a new file in text editor (BBEdit, Textedit, VSCode, etc.)
+    2. paste this code:
+    
+    ```bash
+    #!/bin/bash
+    
+    #SBATCH --partition=p_dz268_1
+    #SBATCH --job-name=name.sh 
+    #SBATCH --cpus-per-task=9
+    #SBATCH --mem=1G
+    #SBATCH --time=2-00:00:00
+    #SBATCH --output=/path/batch_jobs/out/name_%A.out
+    #SBATCH --error=/path/batch_jobs/err/name_%A.err
+    
+    module purge
+    
+    # Activate the holmesenv virtual environment to use installed packages
+    eval "$(conda shell.bash hook)"  # Properly initialize Conda
+    conda activate /projects/community/holmesenv #change to whatever conda env you need
+    
+    # Run the Python script (or bash)
+    python3 /projects/f_ah1491_1/analysis_tools/script.py
+    ```
+    
+    - Change time=48:00:00 to however much time you think you’ll need. Max to request is 2 weeks, but the more time you request the longer your slurm job will sit in the queue before running.
+        - To estimate timing, try downloading 1 subject file and time how long the download takes, then multiply that by number of subjects
+    - Change `python3 /projects/f_ah1491_1/analysis_tools/script.py` to whatever the script you want to run is
+    - change `/projects/community/holmesenv` to whatever conda you need, or keep this as default
+    - change #SBATCH --output and —err paths
+        - if you have a name like ‘name.out’, that is not changing based on job, it will override each time you run this job, so the err and out file will only be from the most recent run
+        - if you want to save the err and out file from each run, have the name like name_%A.out
+            - %A = job ID
+                - IMPORTANT if running a job array
+        - other ways to name:
+            - %N = node
+            - %j = job allocation number
+            - %a = array index
+- change #SBATCH --job-name=[name.sh](http://name.sh/) to a name you want to see on the ‘Running jobs’ when you call sacct
+    - make it short— sacct or watch only allows you to see the first 8 characters of this name
+    - Doesn’t need to be consistent with anything else
+    - can also have the % options listed above,
+        - IMPORTANT if running a job array
 
-- 5-7 simultaneous downloads on the login node
-- has faster internet connection
-- slurm has small internet bandwidth, login has more, but also slurm bandwidth will stop everyone else
-- add an ampersand at the end of the download line so that it runs in the background
-- and also configure your computer so that it stays active
-    - To do this, follow this tutorial: [NoHup Avoid Broken Pipe Error](https://www.baeldung.com/linux/nohup-avoid-input-output-message)
+3. Save this file as a run_scriptname.sh file, naming it something relevant to the package + shell
 
-Code Template:
+1. Make sure both .sh files are in the SAME folder in your home directory, or *somewhere in amarel*, not on your local computer
+    
+![Screen Shot 2024-03-21 at 10.38.41 AM.png](Slurm Jobs Tutorial - Rutgers f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.38.41_AM.png)
+    
+2. open terminal ($ indicates terminal entry)
+    1. $ `cd /home/netID/folder...` ← replace with wherever your run_scriptname.sh files are saved
+    2. $ `chmod ugo+rwx filename.ext`    `chmod ugo+rwx run_filename.ext` 
+    3. $ `chmod ugo+rwx dirname`
+    4. $ `sbatch run_filename.sh`
+3. check in terminal using `sacct` to see if your job worked
+    1. Make sure state says “Running”
+    2. *2 days a month is maintenance, so jobs will say “failed” during those times. Maintenance calendar:* [https://oarc.rutgers.edu/amarel-system-status/](https://oarc.rutgers.edu/amarel-system-status/) 
 
-Just out file
+Helpful commands
+- if anything weird comes up can do `scancel <your netID>`
+- `sacct -e` shows all the variables you could pull up for existing/past jobs
+- `sacct —state`=failed, running, pending, completed
 
-```bash
-/path/to/my_script.sh 1>/path/to/my_script.out &
-```
+From Cluster User Guide: 
+![Screen Shot 2024-02-28 at 3.08.55 PM.png](Slurm Jobs Tutorial - Rutgers f8f32e7fadf34f62a258fdd5c1080ed7/Screen_Shot_2024-03-21_at_10.42.55_AM.png)
 
-Out file and error file
+**Troubleshooting:**
+- open error files via:
+    ```bash
+    cd /dir/where error file is/
+    vi slurm.most.recent.err
+    ```
+    the top line will be the reasoning
+- check permissions
+- check everything is in the right folders
 
-```bash
-/path/to/my_script.sh 1>/path/to/my_script.out 2>/path/to/my_script.err &
-
-python /projects/f_ah1491_1/open_data/NAPLS3/docs/scripts/bidsconverter/batchscripts/napls_bidsconverter_bysubj_jun11_copy3.py 1>/projects/f_ah1491_1/open_data/NAPLS3/docs/scripts/bidsconverter/batchscripts/out/terminalpytest3.out 2>/projects/f_ah1491_1/open_data/NAPLS3/docs/scripts/bidsconverter/batchscripts/err/terminalpytest3.out &
-```
-
-This will run your script in the background (&) and save out the terminal outputs into a file with the same name but a different extension (.out) and the error files into that name but (.err)
-
-projects/f_ah1491_1/Open_Data/HCP_EP/code/ndaDownload/[ep_long.sh](https://ondemand.hpc.rutgers.edu/node/slepner088.amarel.rutgers.edu/36553/edit/_f_ah1491_1/Open_Data/HCP_EP/code/ndaDownload/ep_long.sh) 1> slurm.out 2> slurm.err &
-
-TIPS
-
+**Tips:**
 - if anything weird comes up can do `scancel <job number>`
 - `sacct -e` shows all the variables you could pull up for existing/past jobs
     - —state=failed, running, pending, completed
@@ -126,85 +170,6 @@ TIPS
 - [Actively running jobs](https://sites.google.com/view/cluster-user-guide#h.q2jwsgupcfav)
 - [Completed or terminated jobs](https://sites.google.com/view/cluster-user-guide#h.w7jwa95gq7yy)
 - [Cancelling jobs](https://sites.google.com/view/cluster-user-guide#h.5weq73pbxbk0)
+- [Rutgers Slurm Job / Batch User Guide](https://sites.google.com/view/cluster-user-guide#h.p4379j6lgjuh)
 
 
-
-Troubleshooting:
-
-- open error files via:
-    
-    ```bash
-    cd /dir/where error file is/
-    vi slurm.most.recent.err
-    ```
-    
-    the top line will be the reasoning
-    
-- check permissions
-- check everything is in the right folders
-
-Common Shell Commands
-`./` = current directory
-
-`..` = parent directory
-
-**`pwd`=** print working dir
-
-**`cd /'dir'` =** change wd to specified dir
-
-**`cd ..`** = change wd to parent directory
-
-**`cd -`** = will go back to the directory you were last in 
-
-**`ls`** = prints all the files in current dir
-
-**`echo`** = returns whatever is after echo (or in quotes for stuff w spaces in it)
-
-**`cat`** = display contents of files, concatenate (if multiple listed)
-
-**`vim`** or `vi` = displays contents, like cat, but with additional features (scrolling, etc.)
-
-`:q` gets you out of the vim viewer
-
-**`cat ‘file’` =** prints the contents of a file
-
-**`xdg-open** ‘file’` = 
-
-**`~`** = home directory
-
-**`<fn> -l`** = will give you more info on that function
-
-**`ls -l`** = returns the permissions you have on the working directory
-**`chmod +x <script.sh`>** = gives execute permissions to script.sh 
-
-**`chmod ugo+rwx <script.sh`>** = change your permissions in a folder to read-write-execute 
-
-**`mv /dir` =** moves a file
-
-**`mkdir`** = make a new directory
-
-**`rm`** = remove file (theres no undo)
-
-**`cp`** 
-`rsync [options] <source_file> <destination_directory>` = copy files; [options]: These are optional flags that modify the behavior of `rsync`. Some common options include `-a` (archive mode, preserves permissions and other attributes), `-v` (verbose output), `-r` (recursively copy directories), and `-u` (update only, skip files that are newer in the destination).
-
-- rsync is recommended for larger files
-
-**`>`** = specifies where you want the output of that command to be saved/to go
-
-**`x | y`** = makes the *output* of x the *input* of 
-
-**`sudo`** = runs the next command as the Root / Super User (can’t run multiple commands w/o shell) 
-
-- `sudo su` = run root as shell
-- dangerous
-
-**`tee`** = takes its input, and writes it to a (specific?) file, and prints it out
-
-**`tail`** = print __ of the last output
-
-**`tail -n1`** = print the last 1 line of the last output
-
-**`./script.sh`** = will run script.sh in current directory
-
-**`python script.py`** = run script.py in python
