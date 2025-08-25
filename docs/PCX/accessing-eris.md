@@ -43,7 +43,7 @@ Connected!
         Principal Investigator's Mass General Brigham ID: jtbaker
         Grant or Project ID?: Blank
         Access Methods: Linux command line using SSH
-        Briefcase Group (PAS): sbdp
+        Briefcase Group (PAS): sbdp, MCL-ITP_ERIS1-G, mcl-sbdp-eris1-g
         Data Classification: de-identified human subjects data
         Lab or storage group: None
         Purpose: Research

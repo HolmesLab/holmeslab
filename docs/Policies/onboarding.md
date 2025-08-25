@@ -36,6 +36,9 @@ Last updated: Aug 2025
     - Download outlook
     - Add the lab email to your outlook (Select File > Open > Shared Mailbox > type in 'holmeslab@rwjms.rutgers.edu')
 
+    - Ask lab manager if you should be added to Eris (McLean Hospital's filesystem). If so, follow the instructions here: [Accessing Eris (MGB Server)](https://holmeslab.github.io/holmeslab/docs/PCX/accessing-eris/)
+    - Ask lab manager if you should be added to Princeton cluster with a guest ID. 
+
 
 ## Lab Training
 - If full-time: Set up a meeting with each of the graduate students and postdocs in the lab to hear about their research!
@@ -43,15 +46,21 @@ Last updated: Aug 2025
 - Go through Lab Policies section on lab wiki in detail 
 - Set up time for L1 training for fMRI scanner (See [CAHBIR MRI Suite section](https://holmeslab.github.io/holmeslab/docs/Experiments/mri/) under Running Experiments in lab wiki & [sign up here](https://sites.rutgers.edu/cahbir/level-1-training-signups-open/))
 - See lab wiki Resources section for materials on coding, grant writing, etc.; decide what’s relevant for you
-- Go through initial literature review papers recommended below
-    - Note from Carrisa: recommend reading each paper 1-3 times and taking notes, including questions to talk with me about. If a particular concept/method is either confusing or otherwise interesting to you, I recommend going to the reference(s) cited in the paper you’re reading, and add that paper to your TBR list as well. These “secondary” reads can be less extensive of course (e.g., maybe just reading abstract or results), or fully read through with notes etc. as well - totally tailored to you given your level of interest, gaps in understanding you may have, etc. 
+- You may be asked by your advisor to go through some initial literature review papers, such as those recommended below. This will depend on your role in the lab and your advisor.
+    - If you're an undergrad starting out, or don't have much neuroscience background, the following format may be requested. Talk to your advisor about what how in-depth they're expecting your read-throughs to be! A more in-depth literature review may involve reading each paper 1-3 times and taking notes, including questions to talk with your advisor about. A more surface-level review may involve skimming the abstract, intro and discussion and taking notes on the main points.
 
-## Literature review 
+    Example schedule for reading papers, if you're new to neuroscience/ the lab:
+        - Pick 1-2 papers from the list below to read each week
+        - For each paper, write a brief summary (1-2 paragraphs) of the main points, methods, results and implications
+        - Write down any questions you have about the paper or concepts you don't understand
+        - Discuss the paper and your questions with your advisor during your next meeting
+
+## Literature review: Recommended Readings (talk with your advisor about which are relevant for you)
 - The TCP data collection paper (which we’re collecting ‘part 2’ of right now) just got published:
     - The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry. Scientific Data, 12(1), 923. https://doi.org/10.1038/s41597-025-04895-z 
 - These 2 papers are good examples of the basic connection between ‘functional connectivity’ and various clinical/developmental factors which people analyze in the lab.
-    - Orchard ER Protective role of parenthood on age-related brain function in mid- to late-life.  [pdf]
-    - Qu Y, Distinct brain network features predict internalizing and externalizing traits in children, adolescents, and adults.  [pdf]
+    - Orchard ER Protective role of parenthood on age-related brain function in mid- to late-life.  [pdf]()
+    - Qu Y, "Distinct brain network features predict internalizing and externalizing traits in children, adolescents, and adults." *Nature Mental Health.*  [pdf](https://holmeslab.rutgers.edu/wp-content/uploads/2025/04/Qu2025_NatNeuro.pdf)
 - This paper combines a bunch of different methods used in the lab. 
     - The human cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychosis. 
     - Similar to Carrisa’s current work, and much of Avram’s interest. Looking at individuals with Psychosis, network and network reconfigurations and states using various methods.

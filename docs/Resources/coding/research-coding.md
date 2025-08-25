@@ -5,8 +5,16 @@ nav_enabled: true
 ---
 
 ### **Coding for Research Books**
+- [Scientific Computing with Python](https://caam37830.github.io/book/introduction.html) by Brad Nelson
+    - Tutorial based book about basics of using Python for scientific computing, including overviews and implementation of Python functions and common algorithms.
+    - Good for beginners new to Python and coding for research.
 - [The Good Research Code Handbook](https://goodresearch.dev/)
+    - This handbook is for grad students, postdocs and PIs who do a lot of programming as part of their research. It teaches you how to organize your code so that it is easy to understand and works reliably.
+    - Good for people who have some coding experience but want to improve their coding practices.
 - [Better Code, Better Science by Russ Poldrack](https://poldrack.github.io/BetterCodeBetterScience)
+    - Brief summaries of best practices for research coding in research, including version control, testing, and documentation.
+    - Less implementation focused, more about theory and big ideas from software engineering that can and should be applied for research.
+    - Good for people who have intermediate coding experience and want to apply software engineering principles.
 
 ### **Coding for Research Courses**
 - [Better Science Code](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/pages/18-better-science-code/) *Eric Denovellis, BU (May 10, 2017)* 
