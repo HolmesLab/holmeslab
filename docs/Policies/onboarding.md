@@ -39,6 +39,8 @@ Last updated: Aug 2025
     - Ask lab manager if you should be added to Eris (McLean Hospital's filesystem). If so, follow the instructions here: [Accessing Eris (MGB Server)](https://holmeslab.github.io/holmeslab/docs/PCX/accessing-eris/)
     - Ask lab manager if you should be added to Princeton cluster with a guest ID. 
 
+    - Ask lab manager to be added to flywheel- lab manager messages Wil (Software engineer) or another CAHBIR admin, asking to add you (specifying project, or group-- 022 is Holmes Lab), and incuding your netID.
+
 
 ## Lab Training
 - If full-time: Set up a meeting with each of the graduate students and postdocs in the lab to hear about their research!

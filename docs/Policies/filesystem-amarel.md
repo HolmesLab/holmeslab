@@ -14,16 +14,21 @@ This is a tutorial for norms of Holmes Lab’s file-space on Amarel
 
 There are 3 main priorities: security, organization and functionality.  If you have any suggestions for amendments to this structure, please contact Avram or the lab manager. 
 
-<aside>
-⚙
 
-Notes:
-
+### Notes:
 - Versioning should be done by adding “_YYMMDD” to filenames
 - Naming restrictions: Study folders should contain only letters, numbers, and underscores [A-Za-z0-9_]
-</aside>
+- To access the Holmes Lab files from Jupyter Notebook in Amarel, you must create symlinks to the project and scratch directories. 
+	- The formula for creating a symlink is: `ln -s /path/to/original /path/to/symlink`. For example: 
+	```bash
+	ln -s /projects/f_ah1491_1 ~/projects_f_ah1491_
+	```
+	- This will create a folder in your home directory called `projects_f_ah1491_1` that links to the Holmes Lab project directory. **You can call the link any name**. You can do the same for the scratch directory:
+	```bash
+	ln -s /scratch/f_ah1491_1 ~/scratch_f_ah1491_
+	```
+	- (Again, you can name it 'scratch_f_ah1491_' or any name you want.)
 
-**Jump to section:**
 
 # Security
 
