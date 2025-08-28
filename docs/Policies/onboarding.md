@@ -25,9 +25,13 @@ Last updated: Aug 2025
 - Set up VPN if not on Rutgers wifi – [VPN Setup Tutorial](https://holmeslab.github.io/holmeslab/docs/Amarel/rutgers-vpn/)
 - Do CITI certificates -- information here [CITI Courses for Rutgers](https://holmeslab.github.io/holmeslab/docs/Admin/citi/) 
     - Send CITI certifications to lab manager
+    - After this, lab manager can add you to our IRBs
 - Get access to NDA and other open source data 
-    - If you're an undergrad -- ask your advisor which open source data you should be added to. Then ask lab manager to add you to those.
-    - If you're a full-time RA, PhD student or Postdoc, ask lab manager to add you to all the open-source data agreements.
+    1. First, update your eRA Commons account. Log into [https://public.era.nih.gov/commons/](https://public.era.nih.gov/commons/) and click on "Personal Profile" and select "Employment". Go to "Edit" > "Employment" > "Add a New Job". Add your job, including your job title and your start date. NOTE: Make sure to use the affiliation "RUTGERS BIOMEDICAL AND HEALTH SCIENCES" -- there are many RBHS/Rutgers organizations listed, it's important that this spelling matches exactly.
+    ![eRA](eRA-affiliation.png)
+    - If you do not have an eRA account, ask the lab manager to email the signing official (currenlty [Gregory Werhner](mailto:gw266@research.rutgers.edu) as of 2025) and request that he make you an eRA account, with the affiliation "RUTGERS BIOMEDICAL AND HEALTH SCIENCES".
+    2. If you're an undergrad -- ask your advisor which open source data you should be added to. Then ask lab manager to add you to those. 
+    3. If you're a full-time RA, PhD student or Postdoc, ask lab manager to add you to all the open-source data agreements.
 - Add relevant lab calendars to your google calendar ([see here](https://holmeslab.github.io/holmeslab/docs/Policies/software-we-use/#shared-calendars-google-calendar))
 - Sign up for relevant listservs / Email lists ([see here](https://holmeslab.github.io/holmeslab/docs/Policies/software-we-use/#shared-calendars-google-calendar))
 - Set up a reference/citation/paper manager if you don’t have one already. Free (or covered by RU) options = EndNote, Zotero. Other = Paperpile. All will have browser extensions.
