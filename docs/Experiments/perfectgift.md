@@ -20,6 +20,11 @@ After every MindLAMP payment send (monthly), replenish all cards you need. You s
     2. Choose 36-month Expiration
     3. Download all digital eGifts in one spreadsheet file
     4. Add cards manually
+4. Add cards:
+    - Quantity to replenish what has been used already
+    - Add quantity for each card amount, add to cart, then continue shopping to add other card amounts
+    - First and last name doesn't matter, I just put "Thank" "You", but it doesn't show up anywhere
+    - No email message
 3. Payment method: ACH
 4. If buying physical cards, for free shipping: use promotional code “RUTGERS”
 5. Submit the order (that will automatically generate a PDF invoice.)
