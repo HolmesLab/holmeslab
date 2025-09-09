@@ -15,17 +15,21 @@ Helpdesk Contact: [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov)
 # DARs
 ## 1) Have an eRA Profile
 
-1. Make sure you have an eRA account. If you don’t have one, email the RBHS signing official, Gregory Werhner ([gw266@research.rutgers.edu](mailto:gw266@research.rutgers.edu)) to have one created for you
-2. Ask your PI what institution they’re assigned to as a PI in NDA. Then put in your employment, making sure to select the same institution as they have. 
-    1. For example, there are 2 versions of RBHS. “Rutgers Biomedical and Health Sciences”, and “Rutgers Biomedical/Health Sciences - RBHS”. There’s also “Rutgers, the State University of NJ” and others. Make sure to select the one that matches your PI
-3. Change your contact email to your Rutgers email 
+Get access to NDA and other open source data:
+- Log into [https://public.era.nih.gov/commons/](https://public.era.nih.gov/commons/) and click on "Personal Profile" and select "Employment". Go to "Edit" > "Employment" > "Add a New Job". Add your job, including your job title and your start date. NOTE: Make sure to use the affiliation "RUTGERS BIOMEDICAL AND HEALTH SCIENCES" -- there are many RBHS/Rutgers organizations listed, it's important that this spelling matches exactly.
+![eRA](eRA-affiliation.png)
+- If you do not have an eRA account, ask the lab manager to email the signing official (currenlty [Gregory Werhner](mailto:gw266@research.rutgers.edu) as of 2025) and request that he make you an eRA account, with the affiliation "RUTGERS BIOMEDICAL AND HEALTH SCIENCES".
+    
+
+
 
 ## 2) Get Access to NDA
 
 1. [Create an NDA account](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account) ([nda tutorial](https://nda.nih.gov/nda/tutorials/first_steps_of_data_submission?chapter=your-nda-account)): Go to the NDA website: [https://nda.nih.gov/](https://nda.nih.gov/). To create an account, click the “log in” button in the top right which will prompt a few “create account” options. Make sure to link to your eRA or [login.gov](http://login.gov) which is listed with your institutional email  
-2. After/if you already have an account, go to “Profile” and make sure your institutional affiliation is the same as listed on your eRA account / your PI’s institutional affiliation.  
+2. After/if you already have an account, go to “Profile” and *make sure your institutional affiliation is the same as listed on your eRA account / your PI’s institutional affiliation*.  
     1. If it’s not, email the helpdesk [ndahelp@mail.nih.gov](mailto:ndahelp@mail.nih.gov) and ask it to be changed   
     NOTE: It takes 48 hours for eRA institution changes to populate to NDA, so if you've just changed your eRA, wait to see if it populates to NDA.   
+    2. 
 
 ## 3) Create a Data Access Request (DAR)
 

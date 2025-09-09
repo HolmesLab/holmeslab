@@ -6,9 +6,19 @@ nav_order: 50
 ---
 
 # Movie Rater Application
-Created by Kaley Joss, Feb 2025
 
 This is a web app to be used for the Psychiatric Connectomics project. It can also be used for other projects by adding additional movies. 
+
+## Run Movie Rater:
+1. Open terminal
+2. Run command in terminal (replace the path with the path to the movie_rater_task folder, if different)
+```bash
+cd ~/Library/CloudStorage/Box-Box/Holmes_Lab_Wiki/PCX_Round2/Procedures/movie_rater_task
+```
+3. Run command 
+```bash
+python3 movie_rater.py
+```
 
 
 ## Overview
