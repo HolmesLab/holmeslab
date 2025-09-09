@@ -65,6 +65,10 @@ Last updated: Sep 2025
 
 - Complete Procurement 200 and procurement 400 in RULearning ([https://rulearning.rutgers.edu](https://rulearning.rutgers.edu/))
     - Then have Avram email Wiwik Sie ([ws263@rwjms.rutgers.edu](mailto:ws263@rwjms.rutgers.edu)), Business Manager for RWJMS Psychiatry, and request to be added as a requestor  to RU Marketplace. (Last updated 2025, if Wiwik is not the right person, ask someone from RWJMS Psychiatry for the correct contact)
+    - Example email: 
+    - "I am the PI for the Holmes Lab, a new lab in the department of psychiatry. I’m writing to ask if you can assign our lab manager [NAME] (cc’d) as a ‘Procurer’ for our group on RU marketplace? We are setting up our procurement process, and heard from a neighboring lab that we should request this, since they will be handling purchasing for the lab. Their netID is [  ] and their email is  [ ]."
+
+They’ve finished Procurement 200 and 400 modules on RU learning. Let me know if there is anything else they need to complete before being added. 
 
 - Email [help@canvas.rutgers.edu](mailto:help@canvas.rutgers.edu) and request access to the following courses in Canvas
     - Expense Management Course Pathway
