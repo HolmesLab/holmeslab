@@ -12,11 +12,14 @@ Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8py
 Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
 
 ### Buying cards from Perfect Gift
+After every MindLAMP payment send (monthly), replenish all cards you need. You should try to always have 10 of each MindLAMP amount, 20 $5 for gas, 20 $25 cards and 20 $60 cards digitally. Also 10 $60 physical cards.
 
 1. Go to [corp.perfectgift.com](http://corp.perfectgift.com) and login
 2. Select Place Order and then select Visa as the vendor
     1. Choose Digital (Email Delivery)
     2. Choose 36-month Expiration
+    3. Download all digital eGifts in one spreadsheet file
+    4. Add cards manually
 3. Payment method: ACH
 4. If buying physical cards, for free shipping: use promotional code “RUTGERS”
 5. Submit the order (that will automatically generate a PDF invoice.)
