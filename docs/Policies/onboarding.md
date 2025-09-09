@@ -26,6 +26,7 @@ Last updated: Aug 2025
 - Do CITI certificates -- information here [CITI Courses for Rutgers](https://holmeslab.github.io/holmeslab/docs/Admin/citi/) 
     - Send CITI certifications to lab manager
     - After this, lab manager can add you to our IRBs
+- Complete any necessary trainings in RU Learning ([https://rulearning.rutgers.edu](https://rulearning.rutgers.edu/))
 - Get access to NDA and other open source data 
     1. First, update your eRA Commons account. Log into [https://public.era.nih.gov/commons/](https://public.era.nih.gov/commons/) and click on "Personal Profile" and select "Employment". Go to "Edit" > "Employment" > "Add a New Job". Add your job, including your job title and your start date. NOTE: Make sure to use the affiliation "RUTGERS BIOMEDICAL AND HEALTH SCIENCES" -- there are many RBHS/Rutgers organizations listed, it's important that this spelling matches exactly.
     ![eRA](eRA-affiliation.png)
@@ -37,13 +38,29 @@ Last updated: Aug 2025
 - Set up a reference/citation/paper manager if you don’t have one already. Free (or covered by RU) options = EndNote, Zotero. Other = Paperpile. All will have browser extensions.
 - If you're a lab manager:
     - Email RWJMS IT ([rwjnbhelp@rwjms.rutgers.edu](mailto:rwjnbhelp@rwjms.rutgers.edu)) cc'ing Avram and Kaley to be added to the lab's outlook email 'holmeslab@rwjms.rutgers.edu'
-    - Download outlook
-    - Add the lab email to your outlook (Select File > Open > Shared Mailbox > type in 'holmeslab@rwjms.rutgers.edu')
+        - Download outlook & add the lab email to your outlook (Select File > Open > Shared Mailbox > type in 'holmeslab@rwjms.rutgers.edu')
 
     - Ask lab manager if you should be added to Eris (McLean Hospital's filesystem). If so, follow the instructions here: [Accessing Eris (MGB Server)](https://holmeslab.github.io/holmeslab/docs/PCX/accessing-eris/)
     - Ask lab manager if you should be added to Princeton cluster with a guest ID. 
 
     - Ask lab manager to be added to flywheel- lab manager messages Wil (Software engineer) or another CAHBIR admin, asking to add you (specifying project, or group-- 022 is Holmes Lab), and incuding your netID.
+
+    - Email [cahbir-support@rwjms.rutgers.edu](mailto:cahbir-support@rwjms.rutgers.edu) and ask to be added to the Holmes Lab iLab account
+
+    - Sign into Qualtrics ([rutgers.yul1.qualtrics.com](rutgers.yul1.qualtrics.com)) with your Rutgers NetID and password. Then email [cahbir-support@rwjms.rutgers.edu](mailto:cahbir-support@rwjms.rutgers.edu) with your full name, Rutgers NetID, name of your PI (Avram Holmes) and ask to be added to the "Holmes Lab Screening Form"
+
+    - Message Wil Rohlill or [cahbir-support@rwjms.rutgers.edu](mailto:cahbir-support@rwjms.rutgers.edu) and ask to be added to be to Flywheel (with your netID in the message)
+
+    - Complete Procurement 200 and procurement 400 in RULearning ([https://rulearning.rutgers.edu](https://rulearning.rutgers.edu/))
+        - Then have Avram email Wiwik Sie ([ws263@rwjms.rutgers.edu](mailto:ws263@rwjms.rutgers.edu)), Business Manager for RWJMS Psychiatry, and request to be added as a requestor  to RU Marketplace. (Last updated 2025, if Wiwik is not the right person, ask someone from RWJMS Psychiatry for the correct contact)
+
+    - Email [help@canvas.rutgers.edu](mailto:help@canvas.rutgers.edu) and request access to the following courses in Canvas
+        - Expense Management Course Pathway
+        - PaymentWorks Supplier Onboarding
+        - Procurement Course Pathway
+
+
+
 
 
 ## Lab Training
