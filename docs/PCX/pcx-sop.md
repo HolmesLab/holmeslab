@@ -11,14 +11,9 @@ Last Updated: Apr 28, 2025
 {:toc}
 ---
 
-Legend: 
-📟 = add this event to the subject_logs tracker for that subject  
-
-## Study Structure
-
 *If you’re looking for an overview of the study grant and aims, please go to [PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)*
 
-## Overview
+## Overview - Recruitment and CCNP Sesssion
 ![recruitment-ccnp.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/recruitment-ccnp.png)
 
 ## Recruit for Clinical Interview Session
