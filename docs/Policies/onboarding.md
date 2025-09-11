@@ -64,7 +64,7 @@ Last updated: Sep 2025
 - Message Wil Rohlill or [cahbir-support@rwjms.rutgers.edu](mailto:cahbir-support@rwjms.rutgers.edu) and ask to be added to be to Flywheel (with your netID in the message)
 
 - Complete Procurement 200 and procurement 400 in RULearning ([https://rulearning.rutgers.edu](https://rulearning.rutgers.edu/))
-    - Then have Avram email Wiwik Sie ([ws263@rwjms.rutgers.edu](mailto:ws263@rwjms.rutgers.edu)), Business Manager for RWJMS Psychiatry, and request to be added as a requestor  to RU Marketplace. (Last updated 2025, if Wiwik is not the right person, ask someone from RWJMS Psychiatry for the correct contact)
+    - Then have Avram email Cherry Lee ([cherry.lee@rutgers.edu](mailto:cherry.lee@rutgers.edu)), or anyone current in the Research Financial Operations for RWJMS Psychiatry, and request to be added as a requestor  to RU Marketplace. (Last updated 2025)
     - Example email: 
     - "I am the PI for the Holmes Lab, a new lab in the department of psychiatry. I’m writing to ask if you can assign our lab manager [NAME] (cc’d) as a ‘Procurer’ for our group on RU marketplace? We are setting up our procurement process, and heard from a neighboring lab that we should request this, since they will be handling purchasing for the lab. Their netID is [  ] and their email is  [ ]."
 

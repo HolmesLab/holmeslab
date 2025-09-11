@@ -18,18 +18,16 @@ Legend:
 
 *If you’re looking for an overview of the study grant and aims, please go to [PCX Study Overview](https://www.notion.so/PCX-Study-Overview-18fcf00eb936804e9d49dbfab844e3da?pvs=21)*
 
+## Overview
+![recruitment-ccnp.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/recruitment-ccnp.png)
 
 ## Recruit for Clinical Interview Session
 
 Recruitment flyers and example posts are in [/PCX_Round2/Procedures/Recruitment Flyers](https://rutgers.box.com/s/c6v6x63oa6az0bcjvkau879zql6klwtf)
 
 
-Participants get do SCID, refresher SCID or no SCID based on this flow chart:
-
-![Screenshot 2025-04-18 at 4.00.42 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.42_PM.png)
-
-
 ## Clinical Interview Session
+Participants get do SCID, refresher SCID or no SCID based on most recent SCID date.
 
 Follow this script for the session (includes links and instructions):
 [Script for Clinical Interview Session](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/)
@@ -46,9 +44,6 @@ General Overview + Links:
 7. Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
 8. Once they've submitted, send them their payment.
 
-Here is a visual overview: 
-
-![Screenshot 2025-04-18 at 4.00.25 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.00.25_PM.png)
 
 **LINKS**
 
@@ -61,9 +56,10 @@ Here is a visual overview:
 
 ## MRI Session Scheduling
 
-![Screenshot 2025-04-18 at 4.05.44 PM.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/Screenshot_2025-04-18_at_4.05.44_PM.png)
+![scan-session.png](Full PCX SOP 1bacf00eb936805babafe10e6aceeaf2/scan-session.png)
 
-1. Check the file in /Box/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx (restricted access- must be invited to the sheet to view) for any new participants
+1. Check the file in /Box/(Restricted)_PCR/PCR_Shared_with_CCNP/
+PCR_Linking_ID_CCNP.xlsx (restricted access- must be invited to the sheet to view) for any new participants
 2. Copy over new participants to  /Box/(Restricted)_PCR/PCR_Holmes/PCR_Linking_ID_Holmes.xlsx  (restricted access- must be invited to the sheet to view)
 4. Look in iLabs for 3-5 upcoming MRI slots available on different days 
     
