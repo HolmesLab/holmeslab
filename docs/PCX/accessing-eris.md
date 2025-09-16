@@ -18,41 +18,50 @@ Connected!
 
 ## Tutorial to Get Access to Eris: 
 
-1. If you don’t have “Windows App” setup follow this tutorial: →  [How To: Intune - Enroll Your Personal Mac](https://partnershealthcare.service-now.com/kb_view.do?sysparm_article=KB0041620)
-2. Open Cisco AnyConnect
-    1. enter domain: **pvc.partners.org/saml**
-    2. enter MGB ID and password
+1. If you don't have an MGB NetID, first ask Justin/Avram if you need one. You will need one if you need to access Eris. If so, fill out the forms from this Box folder and send them to Justin. 
+- The start of your employment is the start of your employment with Rutgers, not with MGB
+- The "Institutional Official Signature" is for someone at Rutgers, David Zald (director of CAHBIR) signed it for Kaley in 2025. 
+- **Make sure to fill in your own name on the second page of the POI Form 2024** 
+
+
+2. If you don’t have an account on Eris, apply for an account by signing in with your MGB login and filling out the form here: [registration link](https://rc.partners.org/node/3687) — [https://rc.partners.org/scic-cluster-account-request](https://rc.partners.org/scic-cluster-account-request) 
+    - **Form field answers:**
+        
+    - ERISOne Linux Cluster Account Request Form
+    - Submitted by user: <netID>
+    - MGB Username: <netID>
+    - Full Name: <Your name>
+    - Position: Research Collaborator EW
+    - Department: RSCH Imaging Center-Baker
+    - Institution: The McLean Hospital Corporation
+    - Email: <netID>@mgb.org
+    - Phone: <enter your phone number>
+    - Office Location: REMOTE
+    - Principal Investigator: Justin Baker
+    - Principal Investigator's Email: <justin's email>
+    - Principal Investigator's Mass General Brigham ID: jtbaker
+    - Grant or Project ID?: Blank
+    - Access Methods: Linux command line using SSH
+    - Briefcase Group (PAS): sbdp, MCL-ITP_ERIS1-G, mcl-sbdp-eris1-g
+    - Data Classification: de-identified human subjects data
+    - Lab or storage group: None
+    - Purpose: Research
+    - Storage Required: Up to 50GB
+    - Area of Study: Other (describe in comments section)
+    - Applications: python3, pandas, numpy, rclone
+    - Comment: 
+    - "Please add to group sbdp. Area of study: Digital phenotyping. I am the research assistant for Dr Avram Holmes at Rutgers University, and we're collaborating with Dr Justin Baker at McLean. We are doing a joint data collection, and I will be using the Eris servers to rclone the de-identified and some identifiable data from Dr Baker's data collection into the Rutgers servers to compile the full dataset of the joint data collection. Dr Baker's lab members will be putting data for me in a specific folder and I'll be syncing that specific folder to the Rutgers cluster. My access to this data and the joint sharing of PHI data is all approved in a McLean IRB and Rutgers IRB."
+3. If you don’t have “Windows App” setup follow this tutorial: →  [How To: Intune - Enroll Your Personal Mac](https://partnershealthcare.service-now.com/kb_view.do?sysparm_article=KB0041620)
 
 → following this tutorial: [HOWTO: Configure and Connect to VPN on a Mac](https://partnershealthcare.service-now.com/isservicehub?id=kb_article_view&sysparm_article=KB0033989&sys_kb_id=83f8cb2edb3e8b48dcc93a90ad96197f&spa=1)  
 
-1. If you don’t have an account on Eris, apply for an account by signing in with your MGB login and filling out the form here: [registration link](https://rc.partners.org/node/3687) — [https://rc.partners.org/scic-cluster-account-request](https://rc.partners.org/scic-cluster-account-request) 
-    - **Form field answers:**
-        
-        ERISOne Linux Cluster Account Request Form
-        Submitted by user: <netID>
-        MGB Username: <netID>
-        Full Name: <Your name>
-        Position: Research Collaborator EW
-        Department: RSCH Imaging Center-Baker
-        Institution: The McLean Hospital Corporation
-        Email: <netID>@mgb.org
-        Phone: <enter your phone number>
-        Office Location: REMOTE
-        Principal Investigator: Justin Baker
-        Principal Investigator's Email: <justin's email>
-        Principal Investigator's Mass General Brigham ID: jtbaker
-        Grant or Project ID?: Blank
-        Access Methods: Linux command line using SSH
-        Briefcase Group (PAS): sbdp, MCL-ITP_ERIS1-G, mcl-sbdp-eris1-g
-        Data Classification: de-identified human subjects data
-        Lab or storage group: None
-        Purpose: Research
-        Storage Required: Up to 50GB
-        Area of Study: Other (describe in comments section)
-        Applications: python3, pandas, numpy, rclone
-        Comment: 
-        "Please add to group sbdp. Area of study: Digital phenotyping.
-         I am the research assistant for Dr Avram Holmes at Rutgers University, and we're collaborating with Dr Justin Baker at McLean. We are doing a joint data collection, and I will be using the Eris servers to rclone the de-identified and some identifiable data from Dr Baker's data collection into the Rutgers servers to compile the full dataset of the joint data collection. Dr Baker's lab members will be putting data for me in a specific folder and I'll be syncing that specific folder to the Rutgers cluster. My access to this data and the joint sharing of PHI data is all approved in a McLean IRB and Rutgers IRB."
+
+
+4. Access the MGB VPN by opening Cisco AnyConnect
+    1. enter domain: **pvc.partners.org/saml**
+    2. enter MGB ID and password
+
+5. Follow instructions in "Sign into Eris each time"
 
 ---
 
