@@ -6,8 +6,9 @@ nav_order: 99
 ---
 ## MindLAMP Protocol
 
+Instructions for Researchers / Admin: [Link to Box PDF](https://rutgers.box.com/s/02c2rqj7gym6vfkzhxrca3i15be8gbbh)
 
-
+Instructions for Participants / Users: [Open PDF](https://holmeslab.github.io/holmeslab/docs/PCX/scan-session/User_Instructions_MindLAMP.pdf)
 
 
 **Passive Data Collection**
