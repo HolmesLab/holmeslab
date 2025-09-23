@@ -8,6 +8,7 @@ nav_order: 9
 
 # Downloading BIDS Data
 1. Log into Amarel
+Note-- to do this you must have flywheel setup in your command line. Follow these instructions to setup the legacy command line: [https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-cli/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-cli/)
 2. In terminal or the Amarel OnDemand GUI, navigate to this file: 
 `/projects/f_ah1491_1/analysis_tools/flywheel/bids_download/download_bids_PCX_Joss.ipynb`
 3. Modify parameters to specify which subjects you would like to download from
