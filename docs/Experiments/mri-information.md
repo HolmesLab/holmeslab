@@ -7,6 +7,12 @@ nav_enabled: true
 # What is an MRI?
 MRI are ways to scan your head and take pictures of your brain using magnetic fields. This is NOT radiation (not like an X-ray), and there is no known harm associated with MRI scanning. However, there are some people who we don’t scan due to potential risks. For example, we don’t scan people who are pregnant, or people who have certain types of metal implants in their body. You will be thoroughly screened for these criteria through a survey you will complete before MRI scheduling and on the day of the scan. 
 
+This is what an MRI looks like:
+![mri](mri1.PNG)
+
+You'll have a camera on your head like this: 
+![headcage](headcage.PNG)
+
 ## What will happen before the MRI?
 - You will be asked to remove jewelry, eyeglasses, hearing aids, hairpins, removable dental work or other objects that may interfere with the procedure.
 - You will put all your items into a locked locker during the MRI 

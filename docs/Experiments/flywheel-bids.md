@@ -12,6 +12,54 @@ FLYWHEEL LINK: [https://cahbir-flywheel.rutgers.edu/#/projects](https://cahbir-f
 {:toc}
 ---
 
+
+## BIDS process
+1. click on the project you want to look at (ie ConteCenter, PCX)
+2. click on ”Sessions” tab
+3. Make sure you’re on “Acquisitions” tab
+4. Click 'Run Gear'
+5. Select 'Analysis Gear'
+6. Select 'BIDS Curation'
+7. Click on the project name
+8. ‘Inputs’ tab: 
+    1. click on “template”
+    2. click on ConteCenter or your project name (in the folder path)
+    3. select the [nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9)
+    - locates and assigns the echoes their proper echo name
+    - ignores single band reference images and phase images for fieldmaps
+    - If it's not already there, upload it to the project files by clicking on: 
+        - Project Name (in side navigation bar)
+        - Information tab
+        - Attachments box
+        - 'Upload' button
+9. ‘Configuration’ tab:
+    1. First: you need to specify the regexes in pairs, each element separated by a space.
+        1. To attach all fmap to their relevant BOLD images: `fmap-.* .*bold.nii.gz`
+            You have to match the fmap container to the functional images containers. 
+            Our containers for Conte/PCX are (both AP and PA):
+            - `fmap-epi_dir-AP_BOLD_NORDIC_run-01`
+            - `fmap-fieldmap_acq-B0`
+            - `fmap-phasediff_dir-AP` 
+
+            Our functional images are
+            - func-epi_task-<taskName>_BOLD_NORDIC_run-01
+            
+            So to map (fill intendedFor field) every fmap to the functional images, use `fmap-.* .*bold.nii.gz`
+            EX: To just map epi fmaps to the functional images, use `fmap-epi_.* .*bold.nii.gz`
+            
+
+    2. **Reset: YES**
+    3. Ignore Config File: YES
+    4. Save idecar as Metadata: NO
+        - the JSON sidecars of the data to fill in the configuration, but you can add additional stuff in the tab that isn’t in the sidecars
+10. Go to jobs log tab to track usage or errors
+    1. Select subject/job
+    2. Select ‘log’ tab
+    - Refresh to see current— not in real time
+
+[Getting BIDS to work on Flywheel](https://www.notion.so/Getting-BIDS-to-work-on-Flywheel-1abcf00eb93680318dfbc02655ee27d5?pvs=21)
+
+
 ## How to change file names (if necessary):
 
 Tutorial by flywheel devs: [https://docs.flywheel.io/Developer_Guides/dev_bids_curation_2_precuration/](https://docs.flywheel.io/Developer_Guides/dev_bids_curation_2_precuration/) 
@@ -110,49 +158,3 @@ for example, this skips any files which start with “fmap_” or “fmap-” an
             }
         },
 ```
-
-## BIDS process
-1. click on the project you want to look at (ie ConteCenter, PCX)
-2. click on ”Sessions” tab
-3. Make sure you’re on “Acquisitions” tab
-4. Click 'Run Gear'
-5. Select 'Analysis Gear'
-6. Select 'BIDS Curation'
-7. Click on the project name
-8. ‘Inputs’ tab: 
-    1. click on “template”
-    2. click on ConteCenter or your project name (in the folder path)
-    3. select the [nordic_extension_template.json](https://rutgers.box.com/s/2m3tgn5iwi3listic0ftbq7c6esojuj9)
-    - locates and assigns the echoes their proper echo name
-    - ignores single band reference images and phase images for fieldmaps
-    - If it's not already there, upload it to the project files by clicking on: 
-        - Project Name (in side navigation bar)
-        - Information tab
-        - Attachments box
-        - 'Upload' button
-9. ‘Configuration’ tab:
-    1. First: you need to specify the regexes in pairs, each element separated by a space.
-        1. To attach all fmap to their relevant BOLD images: `fmap-.* .*bold.nii.gz`
-            You have to match the fmap container to the functional images containers. 
-            Our containers for Conte/PCX are (both AP and PA):
-            - `fmap-epi_dir-AP_BOLD_NORDIC_run-01`
-            - `fmap-fieldmap_acq-B0`
-            - `fmap-phasediff_dir-AP` 
-
-            Our functional images are
-            - func-epi_task-<taskName>_BOLD_NORDIC_run-01
-            
-            So to map (fill intendedFor field) every fmap to the functional images, use `fmap-.* .*bold.nii.gz`
-            EX: To just map epi fmaps to the functional images, use `fmap-epi_.* .*bold.nii.gz`
-            
-
-    2. **Reset: YES**
-    3. Ignore Config File: YES
-    4. Save idecar as Metadata: NO
-        - the JSON sidecars of the data to fill in the configuration, but you can add additional stuff in the tab that isn’t in the sidecars
-10. Go to jobs log tab to track usage or errors
-    1. Select subject/job
-    2. Select ‘log’ tab
-    - Refresh to see current— not in real time
-
-[Getting BIDS to work on Flywheel](https://www.notion.so/Getting-BIDS-to-work-on-Flywheel-1abcf00eb93680318dfbc02655ee27d5?pvs=21)

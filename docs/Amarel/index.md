@@ -17,8 +17,38 @@ Notes:
     - To see who the group owner is, run $`ls -l`. The file/folder will be listed as `rwxrwxrwx author group ...` 
 - 1-2 days a month Amarel does maintenance- you can’t connect to the compute nodes, see or edit your files, and any running jobs will be paused (though they won’t be stopped). You can see when maintenance days are scheduled here: [https://oarc.rutgers.edu/amarel-system-status](https://oarc.rutgers.edu/amarel-system-status/)
 
+## Add THIS to your .bashrc to use Holmes Lab Conda for slurm scripts
+1. Log into Amarel
+2. Make sure your profile is set up to automatically activate the Holmes Lab Conda environment. 
+  - Go to your terminal, and run:
+```bash
+$ nano ~/.bashrc
+```
+  - Add the following lines to your bashrc-- this will mean that every time you sign into Amarel, your account will automatically activate the Holmes Lab Conda. Thus, any slurm scripts will also use the Holmes Lab Conda
+  
+```bash
+# Set up for conda
+. /projects/community/py-data-science-stack/5.1.0/kp807/etc/profile.d/conda.sh
+
+# Activate conda
+source /projects/community/py-machine-learning/intel18/cuda12/pgarias/etc/profile.d/conda.sh
+conda activate /projects/community/holmesenv
+```
+
 
 ### Permissions
+
+For new files and folders (using umask)
+The umask command determines the default permissions for new files and directories. 
+
+    Set the umask to 000:
+        Open your shell configuration file (e.g., ~/.bashrc or ~/.profile).
+        Add the line umask 000 and save the file.
+        Restart your shell or run source ~/.bashrc for the change to take effect. 
+
+This sets the default permissions such that new files will be created with rw-rw-rw- (666) and new directories with rwxrwxrwx (777). 
+
+
 Example: Using `getfacl` to view the current permissions for ‘examplescript’. 
 Using `setfacl` to provide user ‘netID’ read, write, and execute (`rwx`) permissions to ‘examplescript’.
 

@@ -25,7 +25,7 @@ $ nano ~/.bashrc
 . /projects/community/py-data-science-stack/5.1.0/kp807/etc/profile.d/conda.sh
 
 # Activate conda
-source /projects/community/py-machine-learning/intel18/cuda12/pgarias/etc/profi$
+source /projects/community/py-machine-learning/intel18/cuda12/pgarias/etc/profile.d/conda.sh
 conda activate /projects/community/holmesenv
 ```
 3. In terminal or the Amarel OnDemand GUI ()

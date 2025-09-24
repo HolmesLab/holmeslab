@@ -7,7 +7,7 @@ nav_order: 5
 
 # Overview of Data Pipeline
 
-![data/data-pipeline.png](Overview%20of%20Data%20Pipeline%2025ecf00eb93680c09f1ac3f54ed16e75/data-pipeline.png)
+![data-pipeline.png](data/data-pipeline.png)
 
 ### Locations/Processes
 **Not in a specific order, the numbers are just references, these steps can be done mostly independently

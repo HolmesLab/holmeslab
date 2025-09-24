@@ -98,10 +98,10 @@ Available commands:
 
 1. Log into Amarel on the terminal with ssh
 2. enter `nano ~/.bash_aliases`
-3. enter `alias fwlogin='/path/to/fw login cahbir-flywheel.rutgers.edu:<your_API_key>'`
-  For example, if using the Holmes Lab fw instance: `alias fwlogin='/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw login cahbir-flywheel.rutgers.edu:<your_API_key>`
+3. enter `alias fwlogin='/path/to/fw login cahbir-flywheel.rutgers.edu:<unique alphanumeric string>'`
+  For example, if using the Holmes Lab fw instance: `alias fwlogin='/projects/f_ah1491_1/analysis_tools/flywheel/linux_amd64/fw login cahbir-flywheel.rutgers.edu:<unique alphanumeric string>`
 4. press control+X → ‘Y’ → ‘Enter’ to save and exit 
-5. enter `source ~/.bashrc`` to update
+5. enter  `source ~/.bash_aliases` and then `source ~/.bashrc` to update
 
 🚨 Note: when your API key expires, make a new one and update it in your bash_aliases through this process
 
