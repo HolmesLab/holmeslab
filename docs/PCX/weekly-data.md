@@ -44,10 +44,13 @@ rsync -avz '/Users/demo/Library/CloudStorage/Box-Box/(Restricted)_PCR/PCX/mindla
 
 ## MRI Data
 
-1. Log into flywheel using this tutorial: [https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-tutorial/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-tutorial/) 
-2. Process data from Raw to BIDS using this tutorial:[https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-bids/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-bids/) 
-3. Process BIDS data to fMRIPrep using this tutorial: [https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-fmriprep/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-bids/) 
-4. Download BIDS and fMRIPrep data using this tutorial: [https://holmeslab.github.io/holmeslab/docs/PCX/download-mri/](https://holmeslab.github.io/holmeslab/docs/PCX/download-mri/) 
+1. Log into flywheel using this tutorial: [https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-tutorial/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-tutorial/)
+2. Check each recent person has 
+    - All relevant scans
+    - Echos are in the appropriate scan container if the scan was repeated
+3. Process data from Raw to BIDS using this tutorial:[https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-bids/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-bids/) 
+4. Process BIDS data to fMRIPrep using this tutorial: [https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-fmriprep/](https://holmeslab.github.io/holmeslab/docs/Experiments/flywheel-bids/) 
+5. Download BIDS and fMRIPrep data using this tutorial: [https://holmeslab.github.io/holmeslab/docs/PCX/download-mri/](https://holmeslab.github.io/holmeslab/docs/PCX/download-mri/) 
     
 
 ---
