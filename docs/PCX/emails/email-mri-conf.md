@@ -1,6 +1,6 @@
 ---
 title: Email - MRI Confirmation
-parent: Script - MRI Session
+parent: Email and Text Templates
 nav_enabled: true 
 ---
 

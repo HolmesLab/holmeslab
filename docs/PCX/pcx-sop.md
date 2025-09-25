@@ -33,11 +33,9 @@ General Overview + Links:
 3. Enter this subject into the sheet in Box located at `/(Restricted)_PCR/PCR_Shared_with_CCNP/PCR_Linking_ID_CCNP.xlsx`, assigning them a PCRID and a qualtrics ID.
 4. Administer the clinical ratings survey [PCX_ClinicalVisit_ClinicianRatings](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6tBSwRN0CukilQG) 
     - Filling in their qualtrics ID
-5. Fill out [this email](https://holmeslab.github.io/holmeslab/docs/Projects/PCX/interview-session/email1/) and send an email to the address they provided. It has the link to the self-report battery and NJ mental health resources link. 
-    - Add their qualtrics ID
-6. Ask them to open the Self-Report Survey link from their email, and to share their screen if on Zoom 
-7. Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. 
-8. Once they've submitted, send them their payment.
+5. Send them the [Clinical Visit Self-Report Surveys](https://rutgers.ca1.qualtrics.com/jfe/form/SV_78QRYTSOnegCSjQ) link and tell them their PCRID to fill in as "Subject ID"
+6. Have them fill out the self-report survey while their screen is shared, so you can see that they're filling it out. You can be off camera and muted, but be there to answer any questions they may have. If needed, they can do this offline. 
+7. Once they've submitted, send them their payment.
 
 
 **LINKS**

@@ -1,6 +1,6 @@
 ---
 title: Email - Book MRI
-parent: Script - MRI Session
+parent: Email and Text Templates
 nav_enabled: true 
 ---
 

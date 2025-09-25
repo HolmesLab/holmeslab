@@ -1,6 +1,6 @@
 ---
 title: Email - Payment Instructions
-parent: Script - MRI Session
+parent: Email and Text Templates
 nav_enabled: true 
 ---
 
