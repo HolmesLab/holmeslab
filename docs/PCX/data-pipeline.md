@@ -27,7 +27,6 @@ nav_order: 5
     `rsync -avz kj110@eristwo.partners.org:'/data/sbdp/PHOENIX/GENERAL/PCX/PC*' '/Users/demo/Library/CloudStorage/Box-Box/(Restricted)_PCR/PCX/mindlamp_mri_data/data'`
     
 6. On CAHBIR scan computer, download mindlamp_mri_data McLean subjects from Box and Jeff's script will push them to Flywheel. (Not yet working) 
-2. Script to import data from HIPAA-box to Flywheel
 7. 
     1. Connect to Rutgers VPN (to access HPC Amarel)
     2.  Run `rsync -avz '/Users/demo/Library/CloudStorage/Box-Box/(Restricted)_PCR/PCX/mindlamp_mri_data/data/**/phone' kj537@amarel.rutgers.edu:'/scratch/f_ah1491_1/internal_data/PCX'`
