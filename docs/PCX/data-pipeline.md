@@ -13,11 +13,10 @@ nav_order: 5
 **Not in a specific order, the numbers are just references, these steps can be done mostly independently
 
 1. Manually download from qualtrics
-2. **Qualtrics Data**
-Download qualtrics data to amarel using the Qualtrics API
-1. Log into amarel
-2. Navigate to `~/Library/CloudStorage/Box-Box/Holmes_Lab_Wiki/PCX_Round2/Data_processing/download_qualtrics.ipynb`
-3. Run the notebook
+2. Download qualtrics data to amarel using the Qualtrics API
+    1. Log into amarel
+    2. Navigate to `~/Library/CloudStorage/Box-Box/Holmes_Lab_Wiki/PCX_Round2/Data_processing/download_qualtrics.ipynb`
+    3. Run the notebook
 3. TBD - do we need this? Brien would have to maybe upload to PCX Box?
 4. Lochness (run every 12 hours on MGB server. Maintained by Habib)
 5. **MindLAMP Data**
