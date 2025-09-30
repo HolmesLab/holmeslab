@@ -5,11 +5,10 @@ nav_enabled: true
 ---
 
 # Purchasing Tutorial
+Questions? Submit a ticket to the [University Procurement Services Helpdesk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
 
 ## Overview:
 This is an overview of the general purchasing tutorial for non-punchout items. This includes items purchased using a quick order, goods request, service request or check request.
- 
-♻️
 1. Get invoice
 2. Upload to quick order (or check request if in Non-PO transaction matrix)
 3. Once approved by Rutgers and PO number is created, email invoice to  [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu) with the PO number in the subject line, and in the email body, with the invoice attached (also add Rutgers PO number to invoice).
@@ -18,15 +17,13 @@ This is an overview of the general purchasing tutorial for non-punchout items. T
 
 # Detailed Process
 ## 1. Check for Supplier Contract
-
 1. See if the supplier is in RU Marketplace
     1. Go to [my.rutgers.com](http://my.rutgers.com) → RU Marketplace (Jaegger) → Suppliers → Search Suppliers
-    2. If they don’t, follow this doc:
-    
-    [Check Request to New Supplier](https://www.notion.so/Check-Request-to-New-Supplier-1b1cf00eb936815eb0bcc140ad6965a5?pvs=21)
-    
+    2. If they don’t, go to section below on "Add a supplier to RU Marketplace through PaymentWorks"
 
-## 2. If the supplier has a Rutgers Contract, get invoice
+## 2. Go through Supplier 
+
+## 2. If the supplier has a Rutgers Contract, get invoice or quote (something with the price and item on it)
 
 1. Get an invoice from the supplier
 2. Get the necessary additional documents from the supplier
@@ -121,7 +118,7 @@ The PO will be placed and confirmed.
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
         
 
-## If the supplier does not have a contract:
+## Add a supplier to RU Marketplace through PaymentWorks
 
 1. Find a contact person + email for the supplier company
     1. You’ll have to work with them to get them set up in the Rutgers system as a supplier in PaymentWorks
@@ -145,5 +142,8 @@ The PO will be placed and confirmed.
     
     ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Check Request Goods Request Quick Order Tutorial e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
     
-    1.  Look up which commodity code you’ll need in this form: [Commodity Codes - Which Forms Are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) (downloaded from Canvas link [List: Commodity Codes)](https://rutgers.instructure.com/courses/561/pages/list-commodity-codes-with-corresponding-forms?module_item_id=6208614) and make sure to use whichever form it says is allowable (ie Goods Request, Service Request or Quick Order)
+    1.  Look up which commodity code you’ll need in this form: 
+    [Commodity Codes - Which Forms Are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) 
+    downloaded from Canvas link [List: Commodity Codes)](https://rutgers.instructure.com/courses/561/pages/list-commodity-codes-with-corresponding-forms?module_item_id=6208614) 
+    and make sure to use whichever form it says is allowable (ie Goods Request, Service Request or Quick Order)
     
