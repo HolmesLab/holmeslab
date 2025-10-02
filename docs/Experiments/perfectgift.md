@@ -18,8 +18,9 @@ After every MindLAMP payment send (monthly), replenish all cards you need. You s
 2. Select Place Order and then select Visa as the vendor
     1. Choose Digital (Email Delivery)
     2. Choose 36-month Expiration
-    3. Download all digital eGifts in one spreadsheet file
-    4. Add cards manually
+    3. Redemption code for all cards (4 digit code in password file)
+    4. Download all digital eGifts in one spreadsheet file
+    5. Add cards manually
 4. Add cards:
     - Quantity to replenish what has been used already
     - Add quantity for each card amount, add to cart, then continue shopping to add other card amounts
