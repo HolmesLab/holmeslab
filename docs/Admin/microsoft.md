@@ -53,6 +53,6 @@ For assistance with Microsoft Office, visit the [Office 365 Training Center.](ht
 
 Additionally, training resources and video tutorials for Microsoft Office are available on [LinkedIn Learning](https://learning.rutgers.edu/), which is free for Rutgers students. [Learn more and sign up for LinkedIn Learning](https://it.rutgers.edu/linkedin-learning)
 
-![Screenshot 2025-09-22 at 11.43.00 AM.png](Download%20Microsoft%20Apps%20276cf00eb93680b69914e81113c4f5fe/Screenshot_2025-09-22_at_11.43.00_AM.png)
+![Screenshot 2025-09-22 at 11.43.00 AM.png](Download Microsoft Apps 276cf00eb93680b69914e81113c4f5fe/Screenshot_2025-09-22_at_11.43.00_AM.png)
 
-![Screenshot 2025-09-22 at 11.43.06 AM.png](Download%20Microsoft%20Apps%20276cf00eb93680b69914e81113c4f5fe/Screenshot_2025-09-22_at_11.43.06_AM.png)
+![Screenshot 2025-09-22 at 11.43.06 AM.png](Download Microsoft Apps 276cf00eb93680b69914e81113c4f5fe/Screenshot_2025-09-22_at_11.43.06_AM.png)
