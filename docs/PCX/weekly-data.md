@@ -61,6 +61,12 @@ When you run tasks from files in Box (through Psychopy), the data saves to the s
 
 `~/Library/CloudStorage/Box-Box/Holmes_Lab_Wiki/PCX_Round2/Data_processing/create_bids_files.ipynb`
 
+[Overview of Data Pipeline](https://www.notion.so/Overview-of-Data-Pipeline-25ecf00eb93680c09f1ac3f54ed16e75?pvs=21)
 ---
 
-[Overview of Data Pipeline](https://www.notion.so/Overview-of-Data-Pipeline-25ecf00eb93680c09f1ac3f54ed16e75?pvs=21)
+# Bi-weekly Data Processing
+
+- Check mindlamp 
+- Check scans pulled from McLean are all there
+- Check over fmriprep outputs
+- Check task data
