@@ -7,8 +7,6 @@ title: Subject Payments
 
 Holmes Lab account in [passwords file](https://rutgers.box.com/s/fbjhcw44tter8pyb4a68mnbbk5086btj)
 
-</aside>
-
 Contact: [rutgers@perfectgift.com](mailto:rutgers@perfectgift.com)  ||  [Rutgers PerfectGift Info Page](https://procurementservices.rutgers.edu/purchasing/perfect-gift-llc) 
 
 ### Buying cards from Perfect Gift
@@ -27,6 +25,9 @@ After every MindLAMP payment send (monthly), replenish all cards you need. You s
     - No email message
 3. Payment method: ACH
 4. If buying physical cards, for free shipping: use promotional code “RUTGERS”
+    1. Choose activation code for all cards (code in passwords file)
+    2. Choose Ship to a single location + Add cards manually
+    3. Choose Trifold
 5. Submit the order (that will automatically generate a PDF invoice.)
     
     ![Screenshot 2025-05-06 at 12.44.27 PM.png](Tutorial Buying Gift Cards from PerfectGift 1c2cf00eb93680c0b6d6fa7ed18985df/Screenshot_2025-05-06_at_12.44.27_PM.png)

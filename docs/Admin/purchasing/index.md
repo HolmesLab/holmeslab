@@ -17,9 +17,7 @@ Created time: April 8, 2024 10:17 AM
 
 ## Overview:
 
-<aside>
 ♻️
-
 1. Get invoice
 2. Upload to quick order (or check request if in Non-PO transaction matrix)
 3. Once approved by Rutgers and PO number is created, email invoice to  [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu) with the PO number in the subject line, with the invoice attached (also add Rutgers PO number to invoice on the PDF).
@@ -126,7 +124,29 @@ EXTERNAL CORRESPONDENCE need to be attached once to an external link within the 
 → then see which forms are allowed
 
 - Most common is quick order
-    - Make sure you’re not ordering a restricted item (software, computer hardware, standing orders) for quick orders
+    - Make sure you’re not ordering a restricted item (software, computer hardware, standing orders) for quick ordersf
+
+    Among the restricted items:
+    Animals
+    Biological agents
+    Branded Promotional Merchandise
+    Controlled substances
+    Equipment that requires a utilities hook-up
+    Furniture, carpeting and window treatments
+    Hazardous waste disposal
+    Imported equipment that requires customs clearance
+    Plaques to be affixed on buildings or University-owned property and monuments
+    Radioactive materials
+    Select agents and toxins
+    Services
+        Business
+        Information Technology
+        Leases
+        Legal
+        Lobbying
+        Professional
+    Software Licenses including all Cloud-Based Purchases and Web Applications
+
 - Only goods request if it’s over $50k
 
 ## 4. Figure out which Account Code (aka Expenditure Type) to use
