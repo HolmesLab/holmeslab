@@ -7,10 +7,33 @@ nav_order: 1
 
 # How to update this wiki
 
-Date Updated: April 15, 2025 8:50 PM
+Date Updated: Oct 2025
 
-The lab wiki is hosted on the lab’s Github page. These steps will take you through how to update docs and the website:
+The lab wiki is hosted on the lab’s Github page. These steps will take you through how to update docs and the website.
 
+There are 2 ways to update the website: 
+1. Editing on the github.com website
+2. Editing via a local copy on your computer and pushing the changes to github.com
+    - Notion Option: Editing a page on Notion, exporting to markdown, adding that to your local copy, pushing changes (to be added)
+
+## Editing on Github.com
+1. Have a Github account
+2. Get added to the lab’s github (the lab is an organization with different members)
+3. Go to the page you want to edit on the wiki ([https://holmeslab.github.io/holmeslab](https://holmeslab.github.io/holmeslab))
+4. Scroll to the bottom and select "Edit this page on Github"
+![edit](edit-page.png)
+5. On the page, select the pencil 'Edit' button
+![file](edit-file.png)
+6. Edit the file by adding text and markdown style. [Find out more about markdown here](https://holmeslab.github.io/holmeslab/docs/wiki/markdown/).
+7. Save your changes by pressing "Commit" button
+![commit](commit.png)
+8. Add a commit message which describes the changes you made. Commit to MAIN -- don't select 'create a new branch'
+![message](message.png)
+
+Your changes should populate to the site within 10 minutes. Usually about 2 minutes. 
+
+
+## Editing a local copy 
 1. Have a Github account
 2. Get added to the lab’s github (the lab is an organization with different members)
 3. Make sure you have git installed and your git authentication enabled
