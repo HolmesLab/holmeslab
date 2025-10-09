@@ -2,6 +2,7 @@
 title: Purchasing Tutorial
 parent: Rutgers Admin
 nav_enabled: true 
+nav_order: 1
 ---
 
 # Goods/Check Request/Quick Order
