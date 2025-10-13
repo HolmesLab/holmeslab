@@ -11,15 +11,12 @@ PaymentWorks is the process Rutgers uses to manage and contact suppliers. If you
 
 PaymentWorks is basically the place Rutgers has the contact info for suppliers. It also points the suppliers to Bottomline to put in bank account info, if doing electronic payment. But payment doesn’t go through PaymentWorks. The only thing PaymentWorks does is allow you to have that supplier on the Rutgers requisition, and emails them the Purchase Order (which you can do directly).  
 
-### Note: What to do if the supplier is in PaymentWorks but the contact info is out of date / they can’t access the portal / they don’t have the password information
+Note: What to do if the supplier is in PaymentWorks but the contact info is out of date / they can’t access the portal / they don’t have the password information:
+- If the contact information is out of date, you can change the email in PaymentWorks, but it’s an annoying process, and the sales rep/person you’re working with will have to enter a phone number do do 2-factor authentication. This basically ensures that once a new sales person comes into the role, they will not have access to the PaymentWorks account. This is fine, unless the bank account for the supplier is wrong, or unless you need to change the account to use ACH/Physical Check (if the wrong one was selected). If you need to do it, follow these instructions:
+- [**How To Delete a Supplier Profile**](https://help.paymentworks.com/knowledge-base/how-to-delete-a-supplier-profile)
+- [In Depth - **PaymentWorks Payment Methods**](https://www.notion.so/In-Depth-PaymentWorks-Payment-Methods-286cf00eb93680bba50bea7921db38d2?pvs=21)
 
-If the contact information is out of date, you can change the email in PaymentWorks, but it’s an annoying process, and the sales rep/person you’re working with will have to enter a phone number do do 2-factor authentication. This basically ensures that once a new sales person comes into the role, they will not have access to the PaymentWorks account. This is fine, unless the bank account for the supplier is wrong, or unless you need to change the account to use ACH/Physical Check (if the wrong one was selected). If you need to do it, follow these instructions:
-
-[**How To Delete a Supplier Profile**](https://help.paymentworks.com/knowledge-base/how-to-delete-a-supplier-profile)
-
-[In Depth - **PaymentWorks Payment Methods**](https://www.notion.so/In-Depth-PaymentWorks-Payment-Methods-286cf00eb93680bba50bea7921db38d2?pvs=21)
-
-## Ask the supplier if they’re willing to onboard to PaymentWorks
+## 1. Ask the supplier if they’re willing to onboard to PaymentWorks
 
 Send them the below email (template), with the information you think they need to make the decision.
 
@@ -47,7 +44,7 @@ Send them the below email (template), with the information you think they need t
     [Screenshot 2025-05-12 at 10.18.40 AM.png](cid:C708FC84-6EAB-4106-A11E-915A12CA0E2E)
     
 
-## Invite them to PaymentWorks
+## 2. Invite them to PaymentWorks
 
 1. Go to [my.rutgers.edu](http://my.rutgers.edu) > Apps > Supplier Portal > Vendor Master Updates
 2. Select “Send Invite”
@@ -62,7 +59,7 @@ Send them the below email (template), with the information you think they need t
         
         ![Screenshot 2025-10-08 at 4.31.41 PM.png](Invite a New Supplier to PaymentWorks- US Canada S 286cf00eb936809791f4dd79719d7f66/Screenshot_2025-10-08_at_4.31.41_PM.png)
         
-4. Email the supplier explaining to them what to expect and what to do when they get the invitation email
+## 3. Email the supplier explaining to them what to expect and what to do when they get the invitation email
     - **Email template- PaymentWorks Invitation/Registration Explanation**
         
         Hi _____,
@@ -98,21 +95,24 @@ Send them the below email (template), with the information you think they need t
         
         [PaymentWorks Info for Suppliers.pdf](Invite a New Supplier to PaymentWorks- US Canada S 286cf00eb936809791f4dd79719d7f66/PaymentWorks_Info_for_Suppliers.pdf)
         
-5. PaymentWorks approves their invitation. Once the invitation is approved, the icon changes to “invitation approved and sent”
+## 4. PaymentWorks approves their invitation. Once the invitation is approved, the icon changes to “invitation approved and sent”
     - **Image reference**
         
         ![Screenshot 2025-10-08 at 4.32.10 PM.png](Invite a New Supplier to PaymentWorks- US Canada S 286cf00eb936809791f4dd79719d7f66/Screenshot_2025-10-08_at_4.32.10_PM.png)
         
-6. They then fill out information for PaymentWorks
+## 5. They then fill out information for PaymentWorks
     
     (You can see if they’ve opened the email, started registration, etc based on the PaymentWorks timeline)
     
     1. They create an account with that email, and a password, and a phone number to link it to
     2. They have to upload a W9 
     3. If doing ACH, they are directed to [Bottomline](https://www.bottomline.com/us), a platform which allows them to enter in bank information in a secure way and have Rutgers send an e-payment.
-7. Their registration is approved by PaymentWorks and Onboarding gets completed
+## 6. Their registration is approved by PaymentWorks and Onboarding gets completed
     - **Image reference**
         
         ![Screenshot 2025-10-08 at 4.30.37 PM.png](Invite a New Supplier to PaymentWorks- US Canada S 286cf00eb936809791f4dd79719d7f66/Screenshot_2025-10-08_at_4.30.37_PM.png)
         
         ![Screenshot 2025-10-08 at 4.35.32 PM.png](Invite a New Supplier to PaymentWorks- US Canada S 286cf00eb936809791f4dd79719d7f66/Screenshot_2025-10-08_at_4.35.32_PM.png)
+
+
+## 7. Now you can pay them in RU Marketplace, they should come up as a supplier!

@@ -6,44 +6,34 @@ nav_order: 1
 ---
 
 # Goods/Check Request/Quick Order
+### Table of Contents
+1. TOC
+{:toc}
 
 **Common Items**
-
 [Paying a Publication Fee](https://www.notion.so/Paying-a-Publication-Fee-1b5cf00eb93680069570cad5b72a0ca0?pvs=21)
-
 [Paying a Conference Reg Fee](https://www.notion.so/Paying-a-Conference-Reg-Fee-1b5cf00eb936807e8facd772b964d44f?pvs=21)
 
 ## Overview:
-
-♻️
-
 1. Get supplier on PaymentWorks (if not already)
 2. Get invoice
 3. Upload to quick order (or check request if in Non-PO transaction matrix, or if in [Restricted Items](https://procurementservices.rutgers.edu/purchasing/types-of-purchases))
 4. Once approved by Rutgers and PO number is created, email invoice to  [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu) with the PO number in the subject line, with the invoice attached (also add Rutgers PO number to invoice on the PDF).
 5. Check back periodically to make sure the invoice is paid on time 
-</aside>
+
 
 ## Important Notes/Links:
-
-University Procurement Services:
-
-### [**Procedures Manual**](https://procurementservices.rutgers.edu/resources/procedures-manual)
-
-[Purchasing FAQs](https://procurementservices.rutgers.edu/resources/frequently-asked-questions#purchasing-faq)
-
-[Travel and Expense FAQs](https://procurementservices.rutgers.edu/resources/frequently-asked-questions#travel-faq)
-
-[Concur (travel and reimbursement) job aids](https://procurementservices.rutgers.edu/travel-and-expense/concur-travel-and-expense)
+- [**Rutgers Procurement Procedures Manual**](https://procurementservices.rutgers.edu/resources/procedures-manual)
+- [Purchasing FAQs](https://procurementservices.rutgers.edu/resources/frequently-asked-questions#purchasing-faq)
+- [Travel and Expense FAQs](https://procurementservices.rutgers.edu/resources/frequently-asked-questions#travel-faq)
+- [Concur (travel and reimbursement) job aids](https://procurementservices.rutgers.edu/travel-and-expense/concur-travel-and-expense)
 
 **Common Procurement FAQs for Holmes Lab:**
 
 - **What do I do if a supplier gives me an agreement/contract to sign?**
-    
     Do not sign any agreement. Units do not have authority to sign supplier agreements on behalf of the University.  Agreements requiring signature must be forwarded to University Procurement Services for signature; the corresponding requisition number should also be included.
     
 - **A supplier contacted my unit saying they have not received my purchase order. What to do?**
-    
     First, if the supplier doesn’t need your purchase order to issue an invoice, and you already have an invoice, you can just email that invoice to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu). 
     
     The process for a supplier getting a purchase order is that Rutgers will automatically send the PO to the email that supplier listed in PaymentWorks. You can look at history of the purchase order in RU Marketplace to ensure that Rutgers has sent the purchase order. It will have a field of “Email (HTML Attachment)” listing what email the PO was sent to, and “Distribution Date/Time”
@@ -55,7 +45,6 @@ University Procurement Services:
     However, that email may be out of service or no longer accessible. If that’s the case, download the PO by going to the PO, clicking the 3 dots “. . .” button > “Print Fax Version” > Save to PDF. (Don’t use the printer icon, that will print out a version which doesn’t have all the information). Then email this to your supplier. 
     
 - **Can I book/pay for a hotel/airbnb outside of Concur and be reimbursed?**
-    
     Yes, just submit for reimbursement. Include the estimated cost (doesn’t have to be exact) of the lodging payment when you make your pre-travel request.
     
 
@@ -75,14 +64,11 @@ University Procurement Services:
 
 1. Try to find your item in the [Non-PO Transaction Matrix sheet](https://rutgers.box.com/s/od35jddjazp5fik32lzs9kt800tp8jjt) → this tells you what form + additional documents to use
 2. Try to find it in [Commodity Codes - Which Forms are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) → this tells you what form to use
-    
     → from both these lists choose the best category
-    
     → then see which purchase forms are allowed
     
 
 Matrix for figuring out what form to use:
-
 - Is it an item?
     - Is it under $50k?
         - Is it a restricted item? (see below for list)
@@ -112,72 +98,42 @@ Matrix for figuring out what form to use:
     - Software Licenses including all Cloud-Based Purchases and Web Applications
 
 ### About Types of Purchase Forms
-
-- Quick order is for all non-restricted, under 50k items
-- Check requests needed for some items or other forms in ‘restricted items’ OR if it’s in the  [Non-PO Transaction Matrix sheet](https://rutgers.box.com/s/od35jddjazp5fik32lzs9kt800tp8jjt) (ie *human subjects payments, conference registration*, etc) and says ‘check request’
+- **Quick order**: is for all non-restricted, under 50k items, which allows 'quick order' in [Commodity Codes - Which Forms are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf)
+- **Service request**: Needed for any professional service or independent contractor
+- **Check request**: Needed for some items in ‘restricted items’ OR if it’s in the  [Non-PO Transaction Matrix sheet](https://rutgers.box.com/s/od35jddjazp5fik32lzs9kt800tp8jjt) (ie *human subjects payments, conference registration*, etc) and says ‘check request’
+    - We receive and approve the request and process payment to the supplier. For more information, see the [check request process](https://procurementservices.rutgers.edu/resources/how-to/pay/initiate-check-request).
+    - Be sure to:
+        - Refer to the check request matrix to determine if the request is a purchase order or a check request
+        - Use the proper account code
+        - Electronically submit required supporting documents with the check request
+    - For Foreign Addresses, an International Wire Transfer Form will need to be completed as well as the Check Request by the submitting department. The department must note on the Check Request that they will be requesting a Wire for this payment, otherwise a Paper Check will be printed, and the department will have to have the payment canceled and restart the process.
+- **Non-PO Uploads**
+    - Non-PO Uploads make it simple to submit a payment request for multiple individuals at once and allow you to track the status of the request. The process also ensures that the payments meet University requirements, as well as the IRS rules that govern the taxation of payments to individuals.
+    - This process can be used to pay individuals for:
+        - Human subject payments/direct disbursements (to Principal Investigator)
+        - Non-employee refunds
+        - Non-qualifying scholarships (formerly stipends)
+        - Travel and Business Expense Reimbursement for Non-Rutgers/Visitor
+        - Petty Cash **(pending Accounting approval*)**
+        - Patient refunds
+        - Royalties (print royalties are processed via the [Candex punchout](https://solutions.sciquest.com/apps/Router/Home?tmstmp=1753083966110))
+        - Legal Payments (OGC USE ONLY)
+    - **Please note -** if the type of request falls under Non-PO Upload, but it is for a non-US resident, then the individual will need to be setup thru PaymentWorks as a Supplier. The department will need to submit a Check Request and International Wire Transfer for payment.
+    - In order to submit non-PO uploads for payment, you must complete the Non-PO Upload Request Form in [RU Marketplace](https://solutions.sciquest.com/apps/Router/SAMLAuth/Rutgers), using the [Instructions for Non-PO Upload Requests](https://rutgers.instructure.com/courses/561/modules/items/6237375) for guidance.
+    - End-users must use the Commodity Code "Wires, Prepayment, Uploads" on the Shopping Cart page for Non-PO Uploads.
     
-    <aside>
-    ✅
-    
-    **Check Requests in [RU Marketplace](https://solutions.sciquest.com/apps/Router/SAMLAuth/Rutgers)**
-    We receive and approve the request and process payment to the supplier. 
-    For more information, see the [check request process](https://procurementservices.rutgers.edu/resources/how-to/pay/initiate-check-request).
-    
-    Be sure to:
-    
-    - Refer to the check request matrix to determine if the request is a purchase order or a check request
-    - Use the proper account code
-    - Electronically submit required supporting documents with the check request
-    
-    For Foreign Addresses, an International Wire Transfer Form will 
-    need to be completed as well as the Check Request by the submitting 
-    department. The department must note on the Check Request that they will
-     be requesting a Wire for this payment, otherwise a Paper Check will be 
-    printed, and the department will have to have the payment canceled and 
-    restart the process.
-    
-    </aside>
-    
-- Some items in Non-PO transaction matrix need Non-PO Upload
-    
-> 
-    🔑
-    
-    **Non-PO Uploads in RU Marketplace**
-    Non-PO Uploads make it simple to submit a payment request for 
-    multiple individuals at once and allow you to track the status of the 
-    request. The process also ensures that the payments meet University 
-    requirements, as well as the IRS rules that govern the taxation of 
-    payments to individuals.
-    
-    This process can be used to pay individuals for:
-    
-    - Human subject payments/direct disbursements (to Principal Investigator)
-    - Non-employee refunds
-    - Non-qualifying scholarships (formerly stipends)
-    - Travel and Business Expense Reimbursement for Non-Rutgers/Visitor
-    - Petty Cash **(pending Accounting approval*)**
-    - Patient refunds
-    - Royalties (print royalties are processed via the [Candex punchout](https://solutions.sciquest.com/apps/Router/Home?tmstmp=1753083966110))
-    - Legal Payments (OGC USE ONLY)
-    
-    **Please note -** if the type of request falls under Non-PO Upload, but it is for a non-US resident, then the individual will need to be setup thru PaymentWorks as a Supplier. The department will need to submit a Check Request and International Wire Transfer for payment.
-    
-    In order to submit non-PO uploads for payment, you must complete the Non-PO Upload Request Form in [RU Marketplace](https://solutions.sciquest.com/apps/Router/SAMLAuth/Rutgers), using the [Instructions for Non-PO Upload Requests](https://rutgers.instructure.com/courses/561/modules/items/6237375) for guidance.
-    
-    End-users must use the Commodity Code "Wires, Prepayment, Uploads" on the Shopping Cart page for Non-PO Uploads.
-    
-    
-- Service request needed for any professional service or independent contractor
 
 ## 3. Fill out additional documents based on type of purchase form needed to submit:
-
-- **Quick order**: just invoice/quote
-- **Check request**: just invoice/quote
-- **Service Request:** invoice/quote, Statement of Work and ICED form
-- **Check request**: invoice/quote, variable
-
-*Restricted items may have additional needed forms, such as [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)  for software
+#### Invoice/Quote
+- Quote or invoice needed to create Purchase Order, Invoice needed for payment
+- Invoice must have remittance address, invoice number, price, addressee
+- This is *all* that's needed for most **Quick Orders** / **Check Requests**, and is generally needed for all forms.
+#### [ICED form](ICED-form.pdf) 
+- Needed for **Service Request** if an independent contractor
+#### [Statement of Work](Statement_of_Work_Form-1.pdf)
+- Needed for **Service Request** if an independent contractor
+#### [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)
+- Often needed for software or other restricted items
 
 Also check if the supplier has a specific Rutgers Contract, to see if there are specific additional documents—
 
@@ -188,7 +144,7 @@ Also check if the supplier has a specific Rutgers Contract, to see if there are 
                 - Attaching a “detailed” quote
             - Submitting + attaching a [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)
             
-- Attaching these additional documents to requisitions
+- Where to attach documents?
     - INTERNAL CORRESPONDENCE should be attached once to an internal link within the requisition.
         - Internal emails
         - Quotes other than Winning Quote
@@ -197,6 +153,7 @@ Also check if the supplier has a specific Rutgers Contract, to see if there are 
         - [Waiver of Bid Request Form](https://procurementservices.rutgers.edu/files/waiver-of-bid-request-form1pdf)
         - [Informal Bid Intake Form](https://procurementservices.rutgers.edu/files/informal-bid-intake-form0pdf)
         - ICED Form
+        - Statement of Work
     - EXTERNAL CORRESPONDENCE need to be attached once to an external link within the requisition.
         - Winning Supplier Quote
         - Proposals/Estimates/Invoices
@@ -257,7 +214,6 @@ Go to RU Marketplace → View Forms → [select relevant form]
     - Email MUST contain PO NUMBER
 3. After you send the email, you’ll get an email from [noreply.jaggaer_AP@trustflowds.com](mailto:noreply.jaggaer_AP@trustflowds.com) with whether it was successful.
     - **Example of successful invoice email**
-        
         Thank you for submitting your invoice. This notice confirms that we received your email to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu). All invoices must reference a VALID purchase order number. If there is no valid purchase order number, you will receive a separate rejection notice and the invoice will not be processed.
         
         The status of the email attachments is shown below:
@@ -298,7 +254,6 @@ Go to RU Marketplace → View Forms → [select relevant form]
     1. Before payment, in the box **Payment Information**, **Payment Date** and **Payment Number** will be blank. Once the payment has been mailed/wired, those fields will be filled in. 
     2. **Pay Status** will also list when it has been paid. 
     - **Example of a fully paid invoice:**
-        
         ![Screenshot 2025-03-31 at 9.40.37 AM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
         
 
@@ -308,7 +263,6 @@ Go to RU Marketplace → View Forms → [select relevant form]
 2. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
     - **Example of a Oracle payment page**
-        
         ![Inv-OL-206638_payment.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
         
 
