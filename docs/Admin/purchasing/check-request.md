@@ -9,7 +9,6 @@ nav_enabled: true
 Date: March 28, 2024 3:12 PM
 
 ### Check for Supplier Contract
-
 1. See if the supplier has a contract
     1. Go to [my.rutgers.com](http://my.rutgers.com) → RU Marketplace (Jaegger) → Suppliers → Search Suppliers
     

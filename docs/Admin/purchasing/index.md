@@ -11,8 +11,8 @@ nav_order: 1
 {:toc}
 
 **Common Items**
-[Paying a Publication Fee](https://www.notion.so/Paying-a-Publication-Fee-1b5cf00eb93680069570cad5b72a0ca0?pvs=21)
-[Paying a Conference Reg Fee](https://www.notion.so/Paying-a-Conference-Reg-Fee-1b5cf00eb936807e8facd772b964d44f?pvs=21)
+- [Paying a Publication Fee](pub.md)
+- [Paying a Conference Reg Fee](conference.md)
 
 ## Overview:
 1. Get supplier on PaymentWorks (if not already)
