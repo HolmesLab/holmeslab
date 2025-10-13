@@ -128,9 +128,9 @@ Matrix for figuring out what form to use:
 - Quote or invoice needed to create Purchase Order, Invoice needed for payment
 - Invoice must have remittance address, invoice number, price, addressee
 - This is *all* that's needed for most **Quick Orders** / **Check Requests**, and is generally needed for all forms.
-#### [ICED form](ICED-form.pdf) 
+#### [ICED form](/forms/ICED-form.pdf) 
 - Needed for **Service Request** if an independent contractor
-#### [Statement of Work](Statement_of_Work_Form-1.pdf)
+#### [Statement of Work](/forms/Statement_of_Work_Form-1.pdf)
 - Needed for **Service Request** if an independent contractor
 #### [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)
 - Often needed for software or other restricted items
