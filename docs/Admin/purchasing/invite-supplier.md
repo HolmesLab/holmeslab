@@ -1,5 +1,5 @@
 ---
-title: Paying Publication Fee
+title: Onboarding Supplier to PaymentWorks
 parent: Purchasing
 nav_enabled: true 
 ---
