@@ -6,9 +6,15 @@ nav_order: 1
 ---
 
 # Goods/Check Request/Quick Order
+
+
 ### Table of Contents
 1. TOC
 {:toc}
+
+### HelpDesks:
+- [University Procurement Help Desk - Ask about anything procurement related!](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
+- UPS Phone: 848-932-4375
 
 **Common Items**
 - [Paying a Publication Fee](pub.md)
@@ -207,39 +213,21 @@ Go to RU Marketplace → View Forms → [select relevant form]
     - The supplier may do this and if so the invoice will be in RU marketplace
     - Email MUST contain PO NUMBER
 3. After you send the email, you’ll get an email from [noreply.jaggaer_AP@trustflowds.com](mailto:noreply.jaggaer_AP@trustflowds.com) with whether it was successful.
-    - **Example of successful invoice email**
-        Thank you for submitting your invoice. This notice confirms that we received your email to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu). All invoices must reference a VALID purchase order number. If there is no valid purchase order number, you will receive a separate rejection notice and the invoice will not be processed.
-        
-        The status of the email attachments is shown below:
-        
-        Valid Attachments:
-        
-        1457125461.pdf Attachment Size - 34.632KB
-        
-        Rejected Attachments:
-        
-        If there are rejected attachments listed above, and those attachments are invoices that require payment, please resend the attachment in the correct format. Valid attachment types are PDF, TIF, Microsoft Word (doc, docx) and JPG.
-        
-        Please note, this is an unmonitored email. ANY FORM OF Inquiries should be directed to Help Desk Intake Form (
-        
-        [https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
-        
-        -=). For information on invoice and payment status, please contact:
-        
-        Email: Help Desk Intake Form (
-        
-        [https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
-        
-        )
-        
-        Phone: 848-932-4375
-        
-        Thank you,
-        
-        EDM Americas
-        
-        On behalf of Rutgers University
-        
+**Example of successful invoice email**:
+---
+Thank you for submitting your invoice. This notice confirms that we received your email to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu). All invoices must reference a VALID purchase order number. If there is no valid purchase order number, you will receive a separate rejection notice and the invoice will not be processed.
+
+The status of the email attachments is shown below:
+
+Valid Attachments:
+1457125461.pdf Attachment Size - 34.632KB
+
+Rejected Attachments:
+
+If there are rejected attachments listed above, and those attachments are invoices that require payment, please resend the attachment in the correct format. Valid attachment types are PDF, TIF, Microsoft Word (doc, docx) and JPG.
+
+On behalf of Rutgers University
+---
 
 ## 7. Invoice is created and processed, payment is sent
 1. Now on your PO/Requisition, Rutgers will create an Invoice under “related documents”, with a Rutgers-unique invoice number (it will not match the supplier’s documentation of that invoice number)
@@ -260,25 +248,7 @@ Go to RU Marketplace → View Forms → [select relevant form]
 
 ## If the supplier does not have a contract:
 1. Find a contact person + email for the supplier company
-    1. You’ll have to work with them to get them set up in the Rutgers system as a supplier in PaymentWorks
-    2. Notify them that an invitation will be coming their way / ask them if they will accept it
-2. Follow this Job Aid: [Supplier Onboarding Course Pathway in Canvas](https://rutgers.instructure.com/courses/31949/pages/job-aid-inviting-a-new-supplier-and-checking-onboarding-status?module_item_id=6484653) 
-    1. Choose ‘PO’, then ‘ACH’ (unless they request a physical check mailed, then select ‘Check’), and select ‘Web Email PDF’
-    2. After you [submit your invitation on PaymentWorks](https://www.paymentworks.com/app), you’ll be able to see the progress on there, as well as get emails
-3. This is the email you’ll get when your PaymentWorks invitation has been approved and sent to your supplier
-    
-    ![Screen Shot 2024-04-01 at 4.51.32 PM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.51.32_PM.png)
-    
-4. This is the email they’ll get from PaymentWorks
-    
-    ![Screen Shot 2024-04-01 at 4.42.09 PM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.42.09_PM.png)
-    
-    5. This is the email you’ll get when they open/ start registration in PaymentWorks
-    
-    ![Screen Shot 2024-04-01 at 4.43.08 PM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.43.08_PM.png)
-    
-    6. Once the supplier finishes their PaymentWorks portal, this is what PaymentWorks will look like
-    
-    ![Screen Shot 2024-04-01 at 4.55.11 PM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screen_Shot_2024-04-01_at_4.55.11_PM.png)
-    
-    1.  Look up which commodity code you’ll need in this form: [Commodity Codes - Which Forms Are Allowed](https://rutgers.box.com/s/4hdapczpt2l3wklkauijaultrvw9q9zf) (downloaded from Canvas link [List: Commodity Codes)](https://rutgers.instructure.com/courses/561/pages/list-commodity-codes-with-corresponding-forms?module_item_id=6208614) and make sure to use whichever form it says is allowable (ie Goods Request, Service Request or Quick Order)
+2. Follow this tutorial: [Onboard a New Supplier to PaymentWorks Tutorial - Holmes Lab](invite-supplier.md)
+
+Additional Resources: 
+- Job Aid from Rutgers: [Supplier Onboarding Course Pathway in Canvas](https://rutgers.instructure.com/courses/31949/pages/job-aid-inviting-a-new-supplier-and-checking-onboarding-status?module_item_id=6484653) 
