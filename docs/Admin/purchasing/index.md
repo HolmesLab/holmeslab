@@ -1,5 +1,5 @@
 ---
-title: Purchasing Tutorial
+title: Purchasing
 parent: Rutgers Admin
 nav_enabled: true 
 nav_order: 1
@@ -135,8 +135,7 @@ Matrix for figuring out what form to use:
 #### [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)
 - Often needed for software or other restricted items
 
-Also check if the supplier has a specific Rutgers Contract, to see if there are specific additional documents—
-
+**You can also check if the supplier has a specific Rutgers Contract, to see if there are specific additional documents...**
 1. If they’re in RU marketplace, look up their (supplier contract) name in [https://procurementservices.rutgers.edu/purchasing/find-products-and-services?category=All](https://procurementservices.rutgers.edu/purchasing/find-products-and-services?category=All) to see any additional docuemnts needed
     1. Scroll to ‘Procurement Procedures’ section, it will list the necessary steps / forms
         1. Ex: for Dropbox [https://procurementservices.rutgers.edu/purchasing/dropbox-inc](https://procurementservices.rutgers.edu/purchasing/dropbox-inc) the procurement procedures section says purchasing requires:
@@ -144,48 +143,47 @@ Also check if the supplier has a specific Rutgers Contract, to see if there are 
                 - Attaching a “detailed” quote
             - Submitting + attaching a [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)
             
-- Where to attach documents?
-    - INTERNAL CORRESPONDENCE should be attached once to an internal link within the requisition.
-        - Internal emails
-        - Quotes other than Winning Quote
-        - Spending request approvals
-        - Business purpose forms
-        - [Waiver of Bid Request Form](https://procurementservices.rutgers.edu/files/waiver-of-bid-request-form1pdf)
-        - [Informal Bid Intake Form](https://procurementservices.rutgers.edu/files/informal-bid-intake-form0pdf)
-        - ICED Form
-        - Statement of Work
-    - EXTERNAL CORRESPONDENCE need to be attached once to an external link within the requisition.
-        - Winning Supplier Quote
-        - Proposals/Estimates/Invoices
-        - Agreements
-        - UPS Statement of Work (SOW) (when required)
-        - UPS Supplemental Statement of Work (SSOW) (when required)
-
+#### Where to attach documents?
 *Attaching documents to the correct requisition link helps speed up the requisition review and approval process.*
+- INTERNAL CORRESPONDENCE should be attached once to an internal link within the requisition.
+    - Internal emails
+    - Quotes other than Winning Quote
+    - Spending request approvals
+    - Business purpose forms
+    - [Waiver of Bid Request Form](https://procurementservices.rutgers.edu/files/waiver-of-bid-request-form1pdf)
+    - [Informal Bid Intake Form](https://procurementservices.rutgers.edu/files/informal-bid-intake-form0pdf)
+    - ICED Form
+    - Statement of Work
+- EXTERNAL CORRESPONDENCE need to be attached once to an external link within the requisition.
+    - Winning Supplier Quote
+    - Proposals/Estimates/Invoices
+    - Agreements
+    - UPS Statement of Work (SOW) (when required)
+    - UPS Supplemental Statement of Work (SSOW) (when required)
+
 
 ## 4. Figure out which Account Code (aka Expenditure Type) to use
-
-1. If your item is a Non-PO transaction, it may have a ‘recommended account code’ in the column
+1. If your item is a [Non-PO Transaction](https://rutgers.box.com/s/od35jddjazp5fik32lzs9kt800tp8jjt), it may have a ‘recommended account code’ in the column in that spreadsheeet
 2. Common account codes:
-    1. 56060 - travel + conference registration fees
-    - 55250 -  Publication fees
-    - 56100 - travel meals per diem
-    - 56090 - travel lodging, foreign
-    - 56080 - travel lodging, domestic
+    - 56060 - Travel + conference registration fees
+    - 55250 - Publication fees
+    - 56100 - Travel meals per diem
+    - 56090 - Travel lodging, foreign
+    - 56080 - Travel lodging, domestic
     - 52950 - Office supplies general
     - 52930 - Office supplies computer
     - 58030 - Computer Software Licenses & Fees
-    - 74108 - anything (mac etc) from kite+key
+    - 74108 - Anything (Mac etc) from kite+key
     - 74105 - Parking pass permits
+    - 54160 - Services Human Subjects (for subject payments)
 3. Look in [SAS Recommended Account Codes](https://rutgers.box.com/s/mrnx5wg8w5rhbiixzs9i9mjoternm231) - this is for school of arts and sciences which we are not, but still an applicable reference, more readable than the whole spreadsheet
-4. Look in this [**master spreadsheet of account codes](https://rutgers.box.com/s/lujk9fm9n5jwju52cfvkoqkp8q0o32pn), pages 104-166**
+4. Look in this [master spreadsheet of account codes](https://rutgers.box.com/s/lujk9fm9n5jwju52cfvkoqkp8q0o32pn), pages 104-166
 5. If you don’t know still, ask UPS Helpdesk or Cynthia Duncan Robinson [robinsce@rwjms.rutgers.edu](mailto:robinsce@rwjms.rutgers.edu) (Program Assistant, RWJMS Dept. of Psychiatry Research)
 
 ## 5. Fill out and Submit Quick Order (/ other form)…
 
 Go to RU Marketplace → View Forms → [select relevant form]
-
-- Fill out all starred boxes, but don’t worry about any boxes that aren’t starred
+- Fill out all starred boxes, but *don’t worry about any boxes that aren’t starred*
 - Attach invoice as internal attachment and external attachment, just to be safe
 - If sending a physical check (the supplier would have chosen this in paymentworks), you can add special handling to the check in the “Special Handling” box
     - Can ask to send the check to a certain department
@@ -193,21 +191,17 @@ Go to RU Marketplace → View Forms → [select relevant form]
     - If you want a specific person noted on the envelope
     - If this payment is an international wire transfer
     
-    The PO will be placed and confirmed. 
-    
+- The PO will be placed and confirmed. 
     1. PO created
     2. PO approved, ‘sent to supplier’ (sent as an HTML attachment to the email listed in paymentworks)
         1. Payment would still be subject to their net terms. Most suppliers are net45.
     - the PO will be sent to the email address listed in PaymentWorks
         - If that email is wrong, and you want the supplier to get the PO directly, it needs to be changed in PaymentWorks, but it’s an annoying process.
-            
-            
     - You can just send the PO directly to the supplier via email, by going to the PO, and pressing “print” and saving the printed version as a PDF, and sending that to supplier
     
 
 ## 6. Email invoice to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu)
-
-1. Add the PO number to the invoice
+**!!NOTE!!: Add the PO number to the invoice on the PDF somewhere!**
 2. Send an email [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu) with the **PO number in the subject line**, and in the email body, with the **invoice attached**. 
     - It’s typically the supplier’s job to do this, but you do NOT have to wait for the supplier. If you have the invoice from the beginning, as soon as the PO number is generated and approved (is ‘sent to supplier’), you can add that PO number to the invoice and email it to [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu)
     - The supplier may do this and if so the invoice will be in RU marketplace
@@ -248,7 +242,6 @@ Go to RU Marketplace → View Forms → [select relevant form]
         
 
 ## 7. Invoice is created and processed, payment is sent
-
 1. Now on your PO/Requisition, Rutgers will create an Invoice under “related documents”, with a Rutgers-unique invoice number (it will not match the supplier’s documentation of that invoice number)
 2. The invoice page will list all relevant payment information- and when / whether it’s been paid
     1. Before payment, in the box **Payment Information**, **Payment Date** and **Payment Number** will be blank. Once the payment has been mailed/wired, those fields will be filled in. 
@@ -256,18 +249,16 @@ Go to RU Marketplace → View Forms → [select relevant form]
     - **Example of a fully paid invoice:**
         ![Screenshot 2025-03-31 at 9.40.37 AM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
         
-
-1. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
+3. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
     1. if the supplier has indicated physical check, it goes via regular postal mail. The guidance we give is that it could take up to 10 days to arrive.
     2. This choice is done in paymentworks BY YOU WHEN YOU INVITE THE SUPPLIER
-2. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
+4. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
     - **Example of a Oracle payment page**
         ![Inv-OL-206638_payment.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
         
 
 ## If the supplier does not have a contract:
-
 1. Find a contact person + email for the supplier company
     1. You’ll have to work with them to get them set up in the Rutgers system as a supplier in PaymentWorks
     2. Notify them that an invitation will be coming their way / ask them if they will accept it
