@@ -2,6 +2,7 @@
 title: Onboarding Supplier to PaymentWorks
 parent: Purchasing
 nav_enabled: true 
+nav_order: 1
 ---
 # Invite a New Supplier to PaymentWorks- US/Canada Suppliers
 

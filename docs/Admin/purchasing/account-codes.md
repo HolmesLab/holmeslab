@@ -2,6 +2,7 @@
 title: Account Codes
 parent: Purchasing
 nav_enabled: true 
+nav_order: 2
 ---
 # Accounting Codes
 - [Holmes Lab purchasing codes - for our funds](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) (Password is same as general lab password)

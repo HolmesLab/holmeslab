@@ -5,8 +5,7 @@ nav_enabled: true
 nav_order: 1
 ---
 
-# Goods/Check Request/Quick Order
-
+# Tutorial on Purchasing
 
 ### Table of Contents
 1. TOC
@@ -182,8 +181,10 @@ Matrix for figuring out what form to use:
     - 74108 - Anything (Mac etc) from kite+key
     - 74105 - Parking pass permits
     - 54160 - Services Human Subjects (for subject payments)
-3. Look in [SAS Recommended Account Codes](https://rutgers.box.com/s/mrnx5wg8w5rhbiixzs9i9mjoternm231) - this is for school of arts and sciences which we are not, but still an applicable reference, more readable than the whole spreadsheet
-4. Look in this [master spreadsheet of account codes](https://rutgers.box.com/s/lujk9fm9n5jwju52cfvkoqkp8q0o32pn), pages 104-166
+    - 66510 - Dues Professional Memberships (conference/organization memberships)
+    - 55180 - Professional Service Freelancers
+3. If not listed above, look in [SAS Recommended Account Codes](https://rutgers.box.com/s/mrnx5wg8w5rhbiixzs9i9mjoternm231) - this is for school of arts and sciences which we are not, but still an applicable reference, more readable than the whole spreadsheet
+4. If you can't find it in the above, you can go through the [master spreadsheet of account codes](https://rutgers.box.com/s/lujk9fm9n5jwju52cfvkoqkp8q0o32pn), pages 104-166
 5. If you don’t know still, ask UPS Helpdesk or Cynthia Duncan Robinson [robinsce@rwjms.rutgers.edu](mailto:robinsce@rwjms.rutgers.edu) (Program Assistant, RWJMS Dept. of Psychiatry Research)
 
 ## 5. Fill out and Submit Quick Order (/ other form)…

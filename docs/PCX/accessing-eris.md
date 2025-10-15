@@ -18,7 +18,12 @@ Connected!
 
 ## Tutorial to Get Access to Eris: 
 
-1. If you don't have an MGB NetID, first ask Justin/Avram if you need one. You will need one if you need to access Eris. If so, fill out the forms from this Box folder and send them to Justin. 
+1. If you don't have an MGB NetID, first ask Justin/Avram if you need one. You will need one if you need to access Eris. If so, fill out these forms from and send them to Justin. 
+Forms:
+- [Attestation of Outside Employment McLean](mclean-id-forms/attestation.pdf)
+- [POI Form 2024.pdf](mclean-id-forms/poi.pdf)
+- [McLean Intellectual Property Acknowledgment](mclean-id-forms/ip.pdf)
+
 - The start of your employment is the start of your employment with Rutgers, not with MGB
 - The "Institutional Official Signature" is for someone at Rutgers, David Zald (director of CAHBIR) signed it for Kaley in 2025. 
 - **Make sure to fill in your own name on the second page of the POI Form 2024** 
