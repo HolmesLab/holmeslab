@@ -11,27 +11,35 @@ nav_order: 1
 1. TOC
 {:toc}
 
+
+## Important Notes/Links:
 ### HelpDesks:
 - [University Procurement Help Desk - Ask about anything procurement related!](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
 - UPS Phone: 848-932-4375
+- See your recent tickets / UPS questions: [My Tickets](https://rutgers.service-now.com/sp?id=rutgers_my_requests)
 
-**Common Items**
-- [Paying a Publication Fee](pub.md)
-- [Paying a Conference Reg Fee](conference.md)
-
-## Overview:
-1. Get supplier on PaymentWorks (if not already)
-2. Get invoice
-3. Upload to quick order (or check request if in Non-PO transaction matrix, or if in [Restricted Items](https://procurementservices.rutgers.edu/purchasing/types-of-purchases))
-4. Once approved by Rutgers and PO number is created, email invoice to  [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu) with the PO number in the subject line, with the invoice attached (also add Rutgers PO number to invoice on the PDF).
-5. Check back periodically to make sure the invoice is paid on time 
-
-
-## Important Notes/Links:
 - [**Rutgers Procurement Procedures Manual**](https://procurementservices.rutgers.edu/resources/procedures-manual)
 - [Purchasing FAQs](https://procurementservices.rutgers.edu/resources/frequently-asked-questions#purchasing-faq)
 - [Travel and Expense FAQs](https://procurementservices.rutgers.edu/resources/frequently-asked-questions#travel-faq)
 - [Concur (travel and reimbursement) job aids](https://procurementservices.rutgers.edu/travel-and-expense/concur-travel-and-expense)
+
+
+**Common Items**
+- [Paying a Publication Fee](pub.md)
+- [Paying a Conference Reg Fee](conference.md)
+- Snacks and office supplies - use punchout suppliers (Amazon, Staples, etc)
+    - If punchout, select your items, click "proceed to checkout", and then start from step 4
+
+
+## Overview:
+1. Look for your item on RU Marketplace Punchout suppliers (type into search field)
+    - If punchout, select your items, click "proceed to checkout", and then start from step 4
+2. If not on punchout, get supplier on PaymentWorks (if not already)
+3. Get invoice
+4. Upload to quick order (or check request if in Non-PO transaction matrix, or if in [Restricted Items](https://procurementservices.rutgers.edu/purchasing/types-of-purchases))
+5. Once approved by Rutgers and PO number is created, email invoice to  [accountspayable@finance.rutgers.edu](mailto:accountspayable@finance.rutgers.edu) with the PO number in the subject line, with the invoice attached (also add Rutgers PO number to invoice on the PDF).
+6. Check back periodically to make sure the invoice is paid on time 
+
 
 **Common Procurement FAQs for Holmes Lab:**
 
@@ -157,8 +165,10 @@ Matrix for figuring out what form to use:
     - Business purpose forms
     - [Waiver of Bid Request Form](https://procurementservices.rutgers.edu/files/waiver-of-bid-request-form1pdf)
     - [Informal Bid Intake Form](https://procurementservices.rutgers.edu/files/informal-bid-intake-form0pdf)
-    - ICED Form
-    - Statement of Work
+    - [ICED form](/forms/ICED-form.pdf) 
+    - [Statement of Work](/forms/Statement_of_Work_Form-1.pdf)
+    - [Third Party Risk Assessment](https://rusecure.rutgers.edu/third-party-security-review-process)
+
 - EXTERNAL CORRESPONDENCE need to be attached once to an external link within the requisition.
     - Winning Supplier Quote
     - Proposals/Estimates/Invoices
@@ -170,12 +180,12 @@ Matrix for figuring out what form to use:
 ## 4. Figure out which Account Code (aka Expenditure Type) to use
 1. If your item is a [Non-PO Transaction](https://rutgers.box.com/s/od35jddjazp5fik32lzs9kt800tp8jjt), it may have a ‘recommended account code’ in the column in that spreadsheeet
 2. Common account codes:
+    - 52950 - Office supplies general (snacks also go here)
     - 56060 - Travel + conference registration fees
     - 55250 - Publication fees
     - 56100 - Travel meals per diem
     - 56090 - Travel lodging, foreign
     - 56080 - Travel lodging, domestic
-    - 52950 - Office supplies general
     - 52930 - Office supplies computer
     - 58030 - Computer Software Licenses & Fees
     - 74108 - Anything (Mac etc) from kite+key
