@@ -44,13 +44,12 @@ Date: April 28, 2025 1:55 PM
 When adding attachments, add things that will help justify your expenses to your business manager. There are no required documents/attachments, but things like conference agendas, meeting plans, screenshots of flight costs and hotel costs, etc. may help the finance office approve your travel request quicker / without sending it back to you for more information.
 
 ### 6. **Adding Per Diem**
-    1. Click ‘Manage travel allowance’ > ‘Add Travel Allowance’
-    2. Add in your city or cities in your trip, and your start and end locations/times
-    3. It will automatically calculate your per-diem amounts based on the city you chose and which days are travel days (travel days are only 75%)
-        1. If there are days where you’re doing personal travel, exclude those days/meals by checking the box
+1. Click ‘Manage travel allowance’ > ‘Add Travel Allowance’
+2. Add in your city or cities in your trip, and your start and end locations/times
+3. It will automatically calculate your per-diem amounts based on the city you chose and which days are travel days (travel days are only 75%)
+    1. If there are days where you’re doing personal travel, exclude those days/meals by checking the box
 
 Per diem notes (automatic):
-
 - When the trip includes more than one location and the cities involved have different per diem rates, the rate for each day (beginning at 12:01 am) is the rate for the location where the traveler obtained lodging that night
 - The per diem must be reduced to prorate for provided meal(s) included with a hotel rate or at a meeting or conference
 - The per diem rate must be prorated for the date of departure and date of return at 75% of the per diem rate.

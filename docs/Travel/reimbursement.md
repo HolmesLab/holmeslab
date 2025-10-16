@@ -12,7 +12,7 @@ nav_enabled: true
 ---
 Date: April 28, 2025 1:12 PM
 
-Notes: Warning
+
 
 ## 1. Fill in trip information
 
