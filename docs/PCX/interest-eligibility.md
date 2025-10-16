@@ -5,9 +5,16 @@ has_toc: true
 nav_order: 5
 ---
 
-*Script below*
+
 ---
-INSTRUCTIONS: After the SCID or on a cold call, ask the participant the below MRI Eligibility questions before scheduling them for Clinical Interview Session. When sending the confirmation for Clinical Interview Session, you can also send the [MRI screener form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k). *They do NOT have to have completed it, and it is NOT CCNP’s responsibility to confirm they are MRI eligible or have completed the form*. The below questions will cover 99% of people and are all you need to ask. Holmes Lab will monitor the MRI screener form and let you know if there’s anyone with a red flag, but if they haven’t completed it before session 1, once they do session one and get added to the linking sheet, Holmes Lab will contact them to fill it out. 
+INSTRUCTIONS: <font color="blue">After the SCID or on a cold call, ask the participant the below MRI Eligibility questions before scheduling them for Clinical Interview Session.</font>
+
+When sending the confirmation for Clinical Interview Session, you can also send the [MRI screener form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_6M462seOVvuYD5k). 
+
+*They do NOT have to have completed it, and it is NOT CCNP’s responsibility to confirm they have completed the form/are eligible based on the form. Only responsible for asking the below questions, which will exclude 99% of ineligible people*. 
+
+Holmes Lab will monitor the MRI screener form and let you know if there’s anyone with a red flag, but if they haven’t completed it before session 1, once they do session one and get added to the linking sheet, Holmes Lab will contact them to fill it out. 
+
 ---
 
 ## SCRIPT: 
