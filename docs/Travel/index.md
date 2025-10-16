@@ -13,8 +13,8 @@ Updated: Jul 7, 2025 4:21 PM
 ---
 
 ## TIMELINE:
-> ***4+ Weeks before registration deadline, >2 months before travel:*** contact RA to do conference registration payment  
-***24hrs before booking, >2 weeks before travel*:** [Create pre-travel request](https://holmeslab.github.io/holmeslab/docs/Travel/pre-travel/)  
+> If conference: ***>2 months before travel, 4+ Weeks before conference registration deadline:*** contact RA to do conference registration payment  
+*** >2 weeks before travel, 24hrs before booking*:** [Create pre-travel request](https://holmeslab.github.io/holmeslab/docs/Travel/pre-travel/)  
 [***Book travel***](https://holmeslab.github.io/holmeslab/docs/Travel/concur-tutorials/)  
 ***Return from travel***  
 ***Within 60 days from last travel day:*** Submit Expense Report  
