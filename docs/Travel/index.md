@@ -23,15 +23,10 @@ Updated: Jul 7, 2025 4:21 PM
 
 # Conference Registration Payment Process
 
-To pay for conference registration via check request:
-- The conference organization must first be added as a supplier in PaymentWorks if they are not already in the Rutgers system
-    - Ask the lab manager to check if they’re in PaymentWorks or add them
-- Once supplier status is confirmed, obtain an invoice/quote from the conference showing registration fees
-- Have the lab manager submit a check request through RU Marketplace with the invoice attached
+To pay for conference registration via check request, see this tutorial: [Paying for Conference Registration Fee](https://holmeslab.github.io/holmeslab/docs/Admin/purchasing/conference/)
 - Timeline: Allow 3-4 weeks for the entire process (supplier setup + check request processing)
 
 ---
-
 # Travel and Accommodations
 
 🚨 IMPORTANT: Is your travel being sponsored by/charged to a federal R01 grant? If so, check over these documents, as your restrictions/procedures may differ from general policy:
