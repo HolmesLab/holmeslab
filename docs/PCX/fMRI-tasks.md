@@ -6,21 +6,38 @@ nav_order: 4
 ---
 
 # Tasks Overview
+**Table of Contents**
+1. TOC
+{:toc}
+---
 ## Tasks Explanation: 
--	Sound_check: a script which will play short beeps to check how the participant’s audio levels are for subsequent tasks
--	Flanker task: a task where participants see 4 arrows facing the same direction (called ‘flanker’ arrow), with a blank spot in the middle, and then a 5th arrow (called ‘target’ arrow) appears in the middle of the other 4. The target arrow may be facing the same direction as the initial 4 flankers (congruent) or facing the opposite direction (incongruent). Participants respond on the button box based on which direction the target arrow faces. 
+### Sound_check
+- A script which will play short beeps to check how the participant’s audio levels are for subsequent tasks
+### Flanker task: cognitive control task
+- Summary: Participants see 4 arrows facing the same direction (called ‘flanker’ arrow), with a blank spot in the middle, and then a 5th arrow (called ‘target’ arrow) appears in the middle of the other 4. 
+- The target arrow may be facing the same direction as the initial 4 flankers (congruent) or facing the opposite direction (incongruent). 
+- Participants respond on the button box based on which direction the target arrow faces. 
     - Goal of this task: Instigate cognitive control networks in the brain
     - Sound Output: If the participant gets the arrow direction correct, you’ll hear a ‘click’ on your laptop. If the participant gets the arrow wrong, you’ll hear a ‘beep’ on your laptop. If the participant doesn’t respond in time, you’ll hear a ‘buzz’ on your laptop. Listen to the sounds in the /sounds folder.
     - Data output: in /data folder
 
--	Listening Language Task: participants see a quick image (1s), and then the screen is a black fixation cross (+). They then hear either a sentence related to that image, or a unrelated list of common words. When participants hear the audio stop, they press the button box. The fixation cross (+) will turn into a star (*) upon button press. Then they wait another second or two, and the star (*) will turn into a square (■). When they see that happen, they respond by pressing the button box again. 
+### Listening Language Task: language regions task
+- Summary: Participants see a quick image (1s), and then the screen is a black fixation cross (+). They then hear either a sentence related to that image, or a unrelated list of common words. When participants hear the audio stop, they press the button box. The fixation cross (+) will turn into a star (⛤) upon button press. Then they wait another second or two, and the star (⛤) will turn into a square (■). When they see that happen, they respond by pressing the button box again. 
     - Goal: Map the areas of the brain active when hearing and understanding sentences in context. Uses the lists of common words to regress out the impact of hearing words, and familiar words. Uses the second button press to regress out the motion effects of pressing the button.
     - Sound Output: If the participant responds to the star and the square, you’ll hear a ‘click’ on your laptop. If the participant doesn’t respond in time to one or both, you’ll hear a ‘buzz’ on your laptop. Listen to the sounds in the /sounds folder.
     - Data output: in /data folder
+
+### Movie Tasks
 - The Elevator: short film, just start the task and let it play
     - Data output: in /data folder
 -	Momentous: short film, just start the task and let it play
     - Data output: in /data folder
+
+### Tasks - Paper References
+- Original flanker paper 1974: Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143–149. [https://doi.org/10.3758/bf03203267](https://doi.org/10.3758/bf03203267)
+- A general info page on flanker with a demo: https://www.psytoolkit.org/experiment-library/flanker.html
+- A more recent paper on flanker/cognitive control: Gratton, G., Cooper, P., Fabiani, M., Carter, C. S., & Karayanidis, F. (2018). Dynamics of cognitive control: Theoretical bases, paradigms, and a view for the future. Psychophysiology, 55(3). [https://doi.org/10.1111/psyp.13016](https://doi.org/10.1111/psyp.13016)
+- Another more recent paper on flanker/cognitive control (with a more critical view): Lee, H.J., Smith, D.M., Hauenstein, C.E. et al. Precise individual measures of inhibitory control. Nat Hum Behav 9, 1613–1630 (2025). [https://doi.org/10.1038/s41562-025-02198-2](https://doi.org/10.1038/s41562-025-02198-2)
 
 ## Psychopy Scripts:
 Filepath: Box-Box/Holmes_Lab_Wiki/PCX_Round2/MRI/In_scanner_tasks/<task_name>
