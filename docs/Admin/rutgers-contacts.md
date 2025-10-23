@@ -5,16 +5,9 @@ parent: Rutgers Admin
 nav_enabled: true
 ---
 # Contacts at Rutgers
+Last updated: Oct 23, 2025
 
 People/emails to contact for various problems and questions relating to the Holmes Lab at Rutgers University
-
-Created by: Kaley Joss, Jan 19 2024
-
----
-**Table of Contents**
-1. TOC
-{:toc}
----
 
 {: .new-title }
 > Common Help-Desk Emails:
@@ -23,7 +16,11 @@ Created by: Kaley Joss, Jan 19 2024
 - For HR-related things, submit [HR Help Request Form](https://rutgers.service-now.com/hrportal?id=hrj_sc_cat_item&sys_id=27c78de49f331200d9011977677fcfb3)
 - For purchasing/reimbursement related things, submit to [UPS Help Desk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
 
-
+---
+**Table of Contents**
+1. TOC
+{:toc}
+---
 
 # Procurement Services – Reimbursement, Purchasing, Etc
 Link to all YOUR tickets submitted to ANY RU helpdesk: [ALL TICKETS Rutgers](https://rutgers.service-now.com/sp?id=rutgers_my_requests)
