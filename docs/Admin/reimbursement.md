@@ -13,7 +13,7 @@ First:
 - This card / bank account will be where the money is reimbursed to 
 
 
-## 1.Create Report
+## 1. Create Report
 ### 1. Create report  
 ![start_report](concur/start_report.png)
 ### 2. Select "Rutgers Non-Travel Expense Report"
