@@ -27,8 +27,8 @@ First:
 *For ‘what is reimbursable’, go to section 4.5*
 ![add_expense.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/add_expense.png)
 
-### Fill in all fields
-For specific item examples, go to that section (hotel/lodging, mileage, airfare)
+### -> Upload Receipt and it will auto-fill fields. Fill in the rest.
+![new.png](concur/new_report.png)
     
 #### Documentation & Receipt
 - A final original receipt/proof of payment must be provided for each expense
@@ -37,8 +37,3 @@ For specific item examples, go to that section (hotel/lodging, mileage, airfare)
 - For lodging, the hotel folio (received upon checkout) with itemized charges and $0 balance must be provided
 - A [Lost Receipt Certification Form](https://procurementservices.rutgers.edu/travel_policies_and_forms) must be completed for any missing receipts
 - If a receipt indicates another individual’s name, the employee requesting reimbursement must obtain a memo from the person named on the receipt authorizing reimbursement to the employee
-### Note: Payment Type = "Out of Pocket"
-![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 3.png)
-
-![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image 4.png)
-
