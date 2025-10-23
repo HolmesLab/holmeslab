@@ -199,6 +199,8 @@ Matrix for figuring out what form to use:
 
 ## 5. Fill out and Submit Quick Order (/ other form)…
 
+If a punchout...
+
 Go to RU Marketplace → View Forms → [select relevant form]
 - Fill out all starred boxes, but *don’t worry about any boxes that aren’t starred*
 - Attach invoice as internal attachment and external attachment, just to be safe
@@ -207,7 +209,7 @@ Go to RU Marketplace → View Forms → [select relevant form]
     - Include here if any backup documentation is required with the check
     - If you want a specific person noted on the envelope
     - If this payment is an international wire transfer
-    
+
 - The PO will be placed and confirmed. 
     1. PO created
     2. PO approved, ‘sent to supplier’ (sent as an HTML attachment to the email listed in paymentworks)
@@ -246,7 +248,7 @@ On behalf of Rutgers University
     1. Before payment, in the box **Payment Information**, **Payment Date** and **Payment Number** will be blank. Once the payment has been mailed/wired, those fields will be filled in. 
     2. **Pay Status** will also list when it has been paid. 
     - **Example of a fully paid invoice:**
-        ![Screenshot 2025-03-31 at 9.40.37 AM.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
+        ![Screenshot 2025-03-31 at 9.40.37 AM.png](Goods Check Request Quick Order e99908d36de24a76974180433918ec08/Screenshot_2025-03-31_at_9.40.37_AM.png)
         
 3. Once payment is sent, if the supplier has indicated electronic payment (ACH), the payment is filed through that method. 
     1. if the supplier has indicated physical check, it goes via regular postal mail. The guidance we give is that it could take up to 10 days to arrive.
@@ -254,7 +256,7 @@ On behalf of Rutgers University
 4. If the supplier doesn’t get the payment, or if you have questions, you can ask UPS (via a ticket) for a screenshot of the payment processing page in Oracle. They’ll be able to send you information about where exactly the supplier’s payment was sent, to what bank, etc. 
     1. Here you can check if there’s any difference between the remittance information indicated on the supplier’s invoice, and the information in the payment details
     - **Example of a Oracle payment page**
-        ![Inv-OL-206638_payment.png](Goods%20Check%20Request%20Quick%20Order%20e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
+        ![Inv-OL-206638_payment.png](Goods Check Request Quick Order e99908d36de24a76974180433918ec08/Inv-OL-206638_payment.png)
         
 
 ## If the supplier does not have a contract:
