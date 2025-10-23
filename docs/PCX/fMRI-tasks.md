@@ -13,6 +13,7 @@ nav_order: 4
 ## Tasks Explanation: 
 ### Sound_check
 - A script which will play short beeps to check how the participant’s audio levels are for subsequent tasks
+
 ### Flanker task: cognitive control task
 - Summary: Participants see 4 arrows facing the same direction (called ‘flanker’ arrow), with a blank spot in the middle, and then a 5th arrow (called ‘target’ arrow) appears in the middle of the other 4. 
 - The target arrow may be facing the same direction as the initial 4 flankers (congruent) or facing the opposite direction (incongruent). 
@@ -33,7 +34,7 @@ nav_order: 4
 -	Momentous: short film, just start the task and let it play
     - Data output: in /data folder
 
-### Tasks - Paper References
+## Tasks - Paper References
 - Original flanker paper 1974: Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16(1), 143–149. [https://doi.org/10.3758/bf03203267](https://doi.org/10.3758/bf03203267)
 - A general info page on flanker with a demo: https://www.psytoolkit.org/experiment-library/flanker.html
 - A more recent paper on flanker/cognitive control: Gratton, G., Cooper, P., Fabiani, M., Carter, C. S., & Karayanidis, F. (2018). Dynamics of cognitive control: Theoretical bases, paradigms, and a view for the future. Psychophysiology, 55(3). [https://doi.org/10.1111/psyp.13016](https://doi.org/10.1111/psyp.13016)
