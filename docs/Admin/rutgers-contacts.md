@@ -18,10 +18,10 @@ Created by: Kaley Joss, Jan 19 2024
 
 {: .new-title }
 > Common Help-Desk Emails:
-> For CAHBIR-related things, email **cahbir-support@rutgers.edu**
-> For IT-related things, submit to [IT Helpdesk Request Form](https://rutgers.service-now.com/sp?id=sc_cat_item&sys_id=3c2100e41b672490217ca9bfbd4bcb86&referrer=recent_items) or call 833-OIT-HELP (833-648-4357)
-> For HR-related things, submit [HR Help Request Form](https://rutgers.service-now.com/hrportal?id=hrj_sc_cat_item&sys_id=27c78de49f331200d9011977677fcfb3)
-> For purchasing/reimbursement related things, submit to [UPS Help Desk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
+- For CAHBIR-related things, email **cahbir-support@rutgers.edu**
+- For IT-related things, submit to [IT Helpdesk Request Form](https://rutgers.service-now.com/sp?id=sc_cat_item&sys_id=3c2100e41b672490217ca9bfbd4bcb86&referrer=recent_items) or call 833-OIT-HELP (833-648-4357)
+- For HR-related things, submit [HR Help Request Form](https://rutgers.service-now.com/hrportal?id=hrj_sc_cat_item&sys_id=27c78de49f331200d9011977677fcfb3)
+- For purchasing/reimbursement related things, submit to [UPS Help Desk](https://rutgers.ca1.qualtrics.com/jfe/form/SV_4MfeqH34iMABCo6)
 
 
 
