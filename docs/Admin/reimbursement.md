@@ -15,24 +15,35 @@ First:
 
 ## 1.Create Report
 ### 1. Create report  
-![start_report.png](concur/start_report.png)
+![start_report](concur/start_report.png)
 ### 2. Select "Rutgers Non-Travel Expense Report"
-![report_type.png](concur/report_type.png)
+![report_type](concur/report_type.png)
 ### 3. Enter in information, including a comment of all relevant information (for example, whether it was for a study, how it was related to work, etc)
-### 4. Fill in purchasing codes (use 'Start Up' codes unless otherwise directed): [Purchasing codes folder at this link](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) 
-(Password to this file is the Holmes Lab general password, ask RA if you don't know it)
-![image.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/image.png)
+### 4. Fill in purchasing codes like below, look in [purchasing codes folder](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) for Project.Task
+*(Password to this file is the Holmes Lab general password, ask RA if you don't know it)*
+
+Copy & Paste:
+Location: 2635 (Busch Staged Research Building, Piscataway)
+Activity: 0000 (None)
+RU Initiative: 000000 (None)
+Project End Date: N/A or it will automatically input 06/30/2099
+
+![report_codes](concur/report_codes.png)
+
+
 
 ## 5. Add expenses
 *For ‘what is reimbursable’, go to section 4.5*
-![add_expense.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/add_expense.png)
+![add_expense](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/add_expense.png)
 
 ### -> Upload Receipt and it will auto-fill fields. Fill in the rest.
-{: .warning }
-> Note:
-> Payment Type = "Out of Pocket"
 
-![new.png](concur/new_report.png)
+{: .warning } 
+> Note:
+Payment Type = "Out of Pocket"
+
+
+![new](concur/new_report.png)
     
 #### Documentation & Receipt
 - A final original receipt/proof of payment must be provided for each expense
