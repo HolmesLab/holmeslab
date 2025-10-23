@@ -2,7 +2,7 @@
 title: IRBs
 parent: Rutgers Admin
 nav_enabled: true 
-nav_order: 2
+nav_order: 3
 ---
 
 # IRB Submission

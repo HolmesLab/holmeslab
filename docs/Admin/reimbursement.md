@@ -7,17 +7,23 @@ nav_order: 2
 
 # Submitting Travel Reimbursements in Concur
 
-First:
-🚨 Make sure you have your personal cards set up in Concur (if not, follow this tutorial: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur))
+{: .warning } 
+> Note:
+Make sure you have your personal cards set up in Concur (if not, follow this tutorial: [Adding Your Card to Concur](https://holmeslab.github.io/holmeslab/docs/Admin/add-card-to-concur))
 - You need the card on the receipt/credit card statement to be the same card as one that exists in your account
 - This card / bank account will be where the money is reimbursed to 
 
+{: .new-title } 
+> If doing for Avram or other person, click here for "How to submit expense reports for another person"
 
-## 1. Create Report
+
+# 1. Create Report
 ### 1. Create report  
 ![start_report](concur/start_report.png)
+
 ### 2. Select "Rutgers Non-Travel Expense Report"
 ![report_type](concur/report_type.png)
+
 ### 3. Enter in information, including a comment of all relevant information (for example, whether it was for a study, how it was related to work, etc)
 ### 4. Fill in purchasing codes like below, look in [purchasing codes folder](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) for Project.Task
 *(Password to this file is the Holmes Lab general password, ask RA if you don't know it)*
