@@ -41,7 +41,7 @@ nav_order: 4
 - Another more recent paper on flanker/cognitive control (with a more critical view): Lee, H.J., Smith, D.M., Hauenstein, C.E. et al. Precise individual measures of inhibitory control. Nat Hum Behav 9, 1613–1630 (2025). [https://doi.org/10.1038/s41562-025-02198-2](https://doi.org/10.1038/s41562-025-02198-2)
 
 ## Psychopy Scripts:
-Filepath: Box-Box/Holmes_Lab_Wiki/PCX_Round2/MRI/In_scanner_tasks/<task_name>
+Filepath: ~/Library/CloudStorage/Box-Box/Holmes_Lab_Wiki/PCX_Round2/Procedures/fMRI_tasks/<task_name>
 - sound_check.py
 - flanker_task_TCP_250407.py
 - language_task.py
@@ -141,7 +141,7 @@ Open the folder of the task you want to run
 
 # Data Output from Tasks
 Data output from tasks are saved in a subfolder from the folder where the script is, called /data, and a folder for each participant
-- So for example, Flanker task data is stored in Box-Box/Holmes_Lab_Wiki/PCX_Round2/MRI/In_scanner_tasks/Flanker_task/data
+- So for example, Flanker task data is stored in ~/Library/CloudStorage/Box-Box/Holmes_Lab_Wiki/PCX_Round2/Procedures/fMRI_tasks/Flanker_task/data
 - Within /data you'll see a folder for each participant
     - /PCR200, /PCM201, ...
 - Within each /PC*** folder, you'll have 3 files per each run (more if you run multiple times)
