@@ -13,8 +13,8 @@ Make sure you have your personal cards set up in Concur (if not, follow this tut
 - You need the card on the receipt/credit card statement to be the same card as one that exists in your account
 - This card / bank account will be where the money is reimbursed to 
 
-{: .new-title } 
-> If doing for Avram or other person, click here for ["How to submit expense reports for another person"](https://holmeslab.github.io/holmeslab/docs/Admin/submit-for-another/)
+
+NOTE: If doing for Avram or other person, click here for ["How to submit expense reports for another person"](https://holmeslab.github.io/holmeslab/docs/Admin/submit-for-another/)
 
 
 # 1. Create Report
