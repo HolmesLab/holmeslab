@@ -1,3 +1,10 @@
+---
+title: fMRI Tasks
+parent: Psychiatric Connectomics
+has_toc: true
+nav_order: 4
+---
+
 # Tasks Overview
 ## Tasks Explanation: 
 -	Sound_check: a script which will play short beeps to check how the participant’s audio levels are for subsequent tasks
