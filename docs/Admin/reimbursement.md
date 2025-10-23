@@ -28,6 +28,10 @@ First:
 ![add_expense.png](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/add_expense.png)
 
 ### -> Upload Receipt and it will auto-fill fields. Fill in the rest.
+{: .warning }
+> Note:
+> Payment Type = "Out of Pocket"
+
 ![new.png](concur/new_report.png)
     
 #### Documentation & Receipt
