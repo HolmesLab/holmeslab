@@ -6,10 +6,10 @@ nav_order: 4
 ---
 
 # Quick links:
-- [holmeslab.bhi#gmail.com](holmeslab.bhi@gmail.com) - Lab manager / research assistants email
-- [holmeslab-bhi#googlegroups.com](holmeslab-bhi@googlegroups.com) - Email all active members of Holmes Lab
-- [holmesparkes#googlegroups.com](holmesparkes@googlegroups.com) - Email all active members of Holmes Lab + Parkes Lab
-- [my.rutgers.edu](my.rutgers.edu) - Where all your reimbursement, payment, HR, insurance, etc. information is.
+- [holmeslab.bhi#gmail.com](mailto:holmeslab.bhi@gmail.com) - Lab manager / research assistants email
+- [holmeslab-bhi#googlegroups.com](mailto:holmeslab-bhi@googlegroups.com) - Email all active members of Holmes Lab
+- [holmesparkes#googlegroups.com](mailto:holmesparkes@googlegroups.com) - Email all active members of Holmes Lab + Parkes Lab
+- [my.rutgers.edu](https://my.rutgers.edu/uxp/) - Where all your reimbursement, payment, HR, insurance, etc. information is.
 - [Purchasing](https://holmeslab.github.io/holmeslab/docs/Admin/purchasing/) - information and tutorials for purchasing
 - [Rutgers Contacts](https://holmeslab.github.io/holmeslab/docs/Admin/rutgers-contacts/) - People/emails to contact for various problems and questions relating to the Holmes Lab at Rutgers University
 
