@@ -14,7 +14,7 @@ Make sure you have your personal cards set up in Concur (if not, follow this tut
 - This card / bank account will be where the money is reimbursed to 
 
 {: .new-title } 
-> If doing for Avram or other person, click here for "How to submit expense reports for another person"
+> If doing for Avram or other person, click here for ["How to submit expense reports for another person"](https://holmeslab.github.io/holmeslab/docs/Admin/submit-for-another/)
 
 
 # 1. Create Report
@@ -24,21 +24,20 @@ Make sure you have your personal cards set up in Concur (if not, follow this tut
 ### 2. Select "Rutgers Non-Travel Expense Report"
 ![report_type](concur/report_type.png)
 
-### 3. Enter in information, including a comment of all relevant information (for example, whether it was for a study, how it was related to work, etc)
-### 4. Fill in purchasing codes like below, look in [purchasing codes folder](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) for Project.Task
+### 3. Fill in purchasing codes like below, look in [purchasing codes folder](https://rutgers.box.com/s/8ly56weil3wey89dd6n6hw3eoaid06x9) for Project.Task
 *(Password to this file is the Holmes Lab general password, ask RA if you don't know it)*
+Note: use comments to explain what the report is for
 
 Copy & Paste:
-Location: 2635 (Busch Staged Research Building, Piscataway)
-Activity: 0000 (None)
-RU Initiative: 000000 (None)
-Project End Date: N/A or it will automatically input 06/30/2099
+- Location: 2635 (Busch Staged Research Building, Piscataway)
+- Activity: 0000 (None)
+- RU Initiative: 000000 (None)
+- Project End Date: N/A or it will automatically input 06/30/2099
 
 ![report_codes](concur/report_codes.png)
 
 
-
-## 5. Add expenses
+## 4. Add expenses
 *For ‘what is reimbursable’, go to section 4.5*
 ![add_expense](Submitting Travel Reimbursements in Concur 1e3cf00eb936803ebe3dcefc13913cb6/add_expense.png)
 
@@ -51,6 +50,7 @@ Payment Type = "Out of Pocket"
 
 ![new](concur/new_report.png)
     
+---
 #### Documentation & Receipt
 - A final original receipt/proof of payment must be provided for each expense
 - The supporting documents must indicate the date, individual’s name, amount paid, payment method, and last 4-digits of credit card (if paid by card)
