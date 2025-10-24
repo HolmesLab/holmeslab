@@ -9,11 +9,11 @@ nav_enabled: true
 Created by: Kaley Joss
 Updated: 16 Jan 2024
 
-One (1) CITI course is required by Rutgers for researchers. Taking any one of the following courses is sufficient ([source](https://research.rutgers.edu/researcher-support/research-compliance/research-integrity/collaborative-institutional-training)):
+These CITI courses are required by Rutgers for researchers ([source](https://research.rutgers.edu/researcher-support/research-compliance/research-integrity/collaborative-institutional-training)):
 
 - Biomedical / Clinical Research Investigators **Basic/Refresher**
 - Social & Behavioral Research **Basic/Refresher**
-- Biomedical Research **Basic/Refresher**
+- GCP - Social and Behavioral Research Best Practices for Clinical Research
 
 **Follow the steps below to see what action you need to take.**
 
@@ -22,7 +22,7 @@ One (1) CITI course is required by Rutgers for researchers. Taking any one of th
 1. Have you completed any CITI course before?
     1. YES – go to Step 2
     2. NO – go to Step 4
-2. Is it one of these courses?
+2. Is it these courses?
 
 Biomedical / Clinical Research Investigators **Basic**
 

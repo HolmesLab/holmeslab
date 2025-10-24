@@ -18,6 +18,21 @@ nav_order: 3
 1. TOC
 {:toc}
 ---
+    
+## Documents Needed for IRBs
+- Protocol
+    - May be within the application/questions or may be attached as word doc based on structure (new/old) of IRB
+- Recruitment
+    - ALL flyers/recruitment ads
+- Consent forms
+    - Consent forms with the exact language used on Qualtrics/online instruments
+- Scales
+    - ALL scales with the specific questions and mirroring what is seen on Qualtrics/online instruments
+- Attachments
+    - CITI courses for each person
+    - Any relevant data use agreement, approvals, resource information, etc. 
+    - Sometimes the grant pdf
+    - If necessary: Scientific Review Board approval
 
 ## Resources
 - IRB Submission Help: [IRBOffice@research.rutgers.edu](mailto:IRBOffice@research.rutgers.edu)
@@ -128,8 +143,6 @@ If anyone listed on the IRB needs to submit an eCOI, Institutional Affiliation o
 
 
 ## File structure
-
-**MGB**
 
 - Files located at `/Box-Box/Holmes_Lab_Wiki/Active_IRBs`
 - Files should be tracked using this structure:
