@@ -36,3 +36,6 @@ Date: April 8, 2024 10:17 AM
 [Brain Imaging Data Structure](https://bids.neuroimaging.io/)
 
 - Hosts the industry-standard file-organizing structure for neuroimaging data
+
+[fMRI For Beginners](https://samrosenberg425.github.io/fmri-for-beginners/)
+- Sam Rosenberg's fmri-for-beginners, a resource for learning fMRI essentials, preprocessing neuroimaging data, and more. 
