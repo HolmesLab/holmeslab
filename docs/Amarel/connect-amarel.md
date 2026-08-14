@@ -61,7 +61,7 @@ Again, you can name it 'scratch_f_ah1491_' or any name you want.
 ### Slurm Jobs
 To run computing jobs from the terminal using Amarel resources, the process uses slurm. [Here is a tutorial on how to create and submit slurm jobs.](https://holmeslab.github.io/holmeslab/docs/Amarel/slurm-jobs-tutorial/)
  
-### Edit and Run Jupyter Notebooks in Amarel
+### Edit and Run Jupyter Notebooks in Amarel through browser
 1. Follow steps 1-2 of **Connecting to Amarel on your Browser**
 2. In the toolbar, select 'Interactive Sessions' > 'Personal Jupyter'
 3. Fill out these fields for your session:
@@ -83,7 +83,53 @@ To run computing jobs from the terminal using Amarel resources, the process uses
         - The notebook file (.ipynb) will be created wherever you were in the filesystem when you pressed "New"
     - To open an existing notebook (.ipynb) file, just navigate to it in the filsystem and click on it to open
 
-    
+### Accessing Jupyter through terminal to run in browser
+>*If you are unable to start up a notebook through OnDemand in browser, this is the alternative route*
+
+1. On the terminal, first ssh into Amarel
+```bash
+ssh <your netid>@amarel-new.hpc.rutgers.edu
+```
+    *Be sure to verify which amarel version to use or is most up to date*
+
+2. Navigate to where you would like to run your jupyter notebook from, as needed
+
+3. Start and interactive session
+
+Template:
+```bash
+srun -p <partition> -c <number of cores> --mem=<number of total memory>GB --time=<time reserved up to 14 days dd:hh:mm:ss> --pty bash
+```
+Example     
+```bash
+srun -p main-redhat -c 16 --mem=32GB --time=03:00:00 --pty bash
+```
+4. Once resources have been allocated and session has started, within the session enter:
+```bash
+jupyter notebook --no-browser --ip=0.0.0.0 --port=8889
+```
+>This assumes you have Jupyter notebook installed within your environment.  
+
+>Make note of the node your job lands on.
+5. In a separate terminal from the one you have your Jupyter session running on, enter the following:
+```bash
+ssh -L 9000:<node_name>:8889 <your netid>@amarel-new.hpc.rutgers.edu
+```
+>*Node name is the node your Jupyter notebook is running on, and can be found in the other terminal*
+
+>*It will require you to input your password*
+
+6. Once logged in on this terminal, open a **browser** and enter in webpage search: **localhost:9000**
+```bash
+In browser: localhost:9000
+```
+
+7. You'll be directed to a page with your home filesystem (/home/netID)
+    - To create a new Jupyter Notebook, click 'New' >  Python 3 (ipykernel)
+    ![new-nb](ondemand/new-nb.png)
+        - The notebook file (.ipynb) will be created wherever you were in the filesystem when you pressed "New"
+    - To open an existing notebook (.ipynb) file, just navigate to it in the filsystem and click on it to open
+
 
 ### Resources from OARC:
 - [Command-line access via SSH](https://sites.google.com/view/cluster-user-guide#h.z2yzkhdnjk82)
