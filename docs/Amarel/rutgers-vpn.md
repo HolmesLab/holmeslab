@@ -6,7 +6,7 @@ nav_order: 3
 
 # Connecting to Rutgers VPN
 
-Date: April 20, 2025 10:12 PM
+Date: August 17th, 3:58PM
 
 - *If you’re connecting for the first time, scroll down to “Downloading VPN” section on page 3
 
@@ -17,18 +17,21 @@ Date: April 20, 2025 10:12 PM
 
 ![image.png](Connecting to Rutgers VPN 1dccf00eb93680928a33d534355efaf8/image.png)
 
-1. Enter
+3. Enter
     1. Username: enter your NetID
     2. Password: enter your NetID password
-    3. Second password: enter the next password from the 10 duo passwords you were sent
+    3. Duo Action / Second Password: Type "push" to send a push to your phone or device connected to Duo Mobile; enter the next password from the 10 duo passwords you were sent
         1. If you’re out of Duo passcodes, go to step 5
     4. Press “OK”
-2. If it connects, you’ll see a message like this in the top right corner of your screen:
+
+*The easiest Duo Action/Second Password method is "push" but it requires you to have a device with Duo Mobile installed and a Rutgers Account attached*
+
+If it connects, you’ll see a message like this in the top right corner of your screen:
 
 ![image.png](Connecting to Rutgers VPN 1dccf00eb93680928a33d534355efaf8/image 1.png)
 
-1. If it doesn’t work, try using the next Duo passcode.
-2. How to get new Duo Passcodes:
+4. If you chose passcode and it doesn’t work, try using the next Duo passcode.
+5. How to get new Duo Passcodes:
     1. Enter your NetID & NetID password like usual into the Cisco AnyConnect Secure Mobility Client app, but where it says ‘Duo Action’, type “sms” (no quotation marks)
     2. You’ll get a text like this:
     3. Copy these codes to a safe place to save
@@ -40,18 +43,18 @@ Date: April 20, 2025 10:12 PM
 
 ![image.png](Connecting to Rutgers VPN 1dccf00eb93680928a33d534355efaf8/image 2.png)
 
-1. Go to [https://software.rutgers.edu/product/3605](https://software.rutgers.edu/product/3605) and download the appropriate software for your computer
+2. Go to [https://software.rutgers.edu/product/3605](https://software.rutgers.edu/product/3605) and download the appropriate software for your computer
 2. On this page, press “Enter a Passcode” button
 
 ![image.png](Connecting to Rutgers VPN 1dccf00eb93680928a33d534355efaf8/image 3.png)
 
-1. Press “Text me new codes”
+4. Press “Text me new codes”
 
 ![image.png](Connecting to Rutgers VPN 1dccf00eb93680928a33d534355efaf8/image 4.png)
 
 And enter your phone number
 
-1. You’ll get a text like this:
+5. You’ll get a text like this:
 
 ![image.png](Connecting to Rutgers VPN 1dccf00eb93680928a33d534355efaf8/image 5.png)
 
