@@ -25,6 +25,9 @@ sacct #see all the jobs you're running
 sacct --format=JobId,JobName%50,Partition%15,State,Elapsed,ExitCode,Start,End --starttime=2024-06-08T22:43:21
 watch -n 1 squeue -u netID # View in real time all the jobs you're running
 			#ctrl+C to exit
+squeue -u <netid> # Another way to view jobs running under your user
+squeue -j <number> # To view a specific job name
+scancel <number> # To cancel a specific job under your user
 
 ```
 
