@@ -47,7 +47,7 @@ After every MindLAMP payment send (monthly), replenish all cards you need. You s
     4. Invoice #/Payment Identifier: Order # from [PerfectGift.com](http://PerfectGift.com) / Invoice Number from invoice  (same number)
     5. ATTACH:
         1. invoice-funds-<number>.pdf
-        2. [Questionnaire for the Management of Funds Form](https://rutgers.box.com/s/c6zrpzdx2h9kp0hgjjyn5md8vvnp69hw).xlsx
+        2. [Principal Investigator Human Subject Payment Form](https://rutgers.box.com/s/lqcfaxmd88w17lj8ur1thja9d3suut2g).pdf
     
     Image reference:
     
